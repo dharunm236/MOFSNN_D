@@ -2,7 +2,7 @@
 Author: zhangshd
 Date: 2024-08-19 15:59:37
 LastEditors: zhangshd
-LastEditTime: 2024-09-13 22:20:10
+LastEditTime: 2024-09-13 23:55:46
 '''
 import os
 import sys
@@ -255,5 +255,6 @@ if __name__ == "__main__":
     results = inference(cif_list, model_dir, saved_dir=result_dir, uncertainty_trees_file=uncertainty_trees_file, clean=clean)
     
     df_res = pd.DataFrame({k:v for k,v in results.items() if k.endswith("_pred") or "uncertainty" in k}, index=results["cif_ids"])
+    df_res.index.name = "MofName"
     print(df_res)
     df_res.to_csv(Path(result_dir)/f"infer_results_{model_name}.csv", float_format='%.4f')
