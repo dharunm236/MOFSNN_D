@@ -273,7 +273,7 @@ if __name__ == "__main__":
     parser.add_argument("--out_dir", type=str, default=None)
     parser.add_argument("--radius", type=int, default=8)
     parser.add_argument("--max_num_nbr", type=int, default=10)
-    parser.add_argument("--n_cpus", type=int, default=32)
+    parser.add_argument("--n_cpus", type=int, default=1)
 
     args = parser.parse_args()
     main(**vars(args))

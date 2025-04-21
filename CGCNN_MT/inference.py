@@ -243,18 +243,36 @@ if __name__ == "__main__":
     #     "LIJXEI_clean.cif",
     #     "NOPJUZ_clean.cif",
     # ]
-    clean = False
-    cif_dir = Path(__file__).parent/"data/CoREMOF2019/clean_cifs"
-    # cif_list = [cif_dir/cif for cif in cif_list]
-    cif_list = sorted(cif_dir.glob("*.cif"))
-    notes = cif_dir.parent.name
+
+    # clean = False
+    # cif_dir = Path(__file__).parent/"data/CoREMOF2019/clean_cifs"
+    # # cif_list = [cif_dir/cif for cif in cif_list]
+    # notes = cif_dir.parent.name
+    # saved_dir = Path(os.getcwd())/f"inference/{notes}"
+
+    import argparse
+    parser = ArgumentParser()
+    parser.add_argument("--cif_dir", type=str)
+    parser.add_argument("--saved_dir", type=str, default="inference")
+    parser.add_argument("--clean", action="store_true", default=False)
+
+
+    args = parser.parse_args()
+    cif_dir = Path(args.cif_dir)
+    saved_dir = Path(args.saved_dir)
+    clean = args.clean
+    saved_dir.mkdir(exist_ok=True, parents=True)
+
+    
     model_dir = Path(__file__).parent/"logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_43"
     uncertainty_trees_file = Path(__file__).parent/"evaluation/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn@version_43/uncertainty_trees.pkl"
-    result_dir = Path(os.getcwd())/f"inference/{notes}"
     model_name = os.path.basename(model_dir)
-    results = inference(cif_list, model_dir, saved_dir=result_dir, uncertainty_trees_file=uncertainty_trees_file, clean=clean)
+
+    cif_list = sorted(cif_dir.glob("*.cif"))
+    
+    results = inference(cif_list, model_dir, saved_dir=saved_dir, uncertainty_trees_file=uncertainty_trees_file, clean=clean)
     
     df_res = pd.DataFrame({k:v for k,v in results.items() if k.endswith("_pred") or "uncertainty" in k}, index=results["cif_ids"])
     df_res.index.name = "MofName"
     print(df_res)
-    df_res.to_csv(Path(result_dir)/f"infer_results_{model_name}.csv", float_format='%.4f')
+    df_res.to_csv(Path(saved_dir)/f"infer_results_{model_name}.csv", float_format='%.4f')
