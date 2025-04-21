@@ -1,4 +1,6 @@
 */__pycache__/
+*.vscode
+*.cli*
 *.pyc
 *.pyo
 *.pyd
