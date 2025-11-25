@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ZAGHAT_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ZAGHAT_clean'
 _cell_length_a  8.15840
 _cell_length_b  8.15840
 _cell_length_c 12.13990
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Sc         0.0  0.41648  0.33333    Sc
+Sc         0.0  0.41648 0.33333333    Sc
 H       0.0562    0.646  0.92643     H
 H       0.1393   0.5285  0.98653     H
 O       0.1621   0.4942  0.47464     O
@@ -36,7 +36,7 @@ H        0.354   0.4102   0.5931     H
 H       0.3892   0.8607  0.31987     H
 C       0.4053   0.6674  0.21975     C
 H       0.4102    0.354   0.4069     H
-Sc     0.41648      0.0  0.66667    Sc
+Sc     0.41648      0.0 0.66666667    Sc
 H       0.4608   0.2635   0.3046     H
 O       0.4681   0.7066  0.90184     O
 H       0.4715   0.6108   0.6532     H

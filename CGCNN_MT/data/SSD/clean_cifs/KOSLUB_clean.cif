@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/KOSLUB_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\KOSLUB_clean'
 _cell_length_a  6.72920
 _cell_length_b 15.06190
 _cell_length_c 15.06190
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -24,7 +24,7 @@ C       0.0411   0.5361   0.9018     C
 O       0.0522    0.499   0.3284     O
 O       0.0522   0.6716    0.501     O
 C      0.08685      0.0  0.50145     C
-C      0.08685  0.49855     -0.0     C
+C      0.08685  0.49855      0.0     C
 H       0.1062   0.5718   0.4282     H
 Ni      0.1163   0.2958   0.2813    Ni
 Ni      0.1163   0.7187   0.7042    Ni
@@ -36,7 +36,7 @@ C       0.2442   0.5583   0.4417     C
 O       0.2517   0.3853   0.3422     O
 O       0.2517   0.6578   0.6147     O
 H       0.2595      0.0   0.4815     H
-H       0.2595   0.5185     -0.0     H
+H       0.2595   0.5185      0.0     H
 C       0.3176   0.4949   0.4131     C
 C       0.3176   0.5869   0.5051     C
 O       0.3806   0.3284   0.1726     O
@@ -45,8 +45,8 @@ Ni      0.3976   0.2813   0.4229    Ni
 Ni      0.3976   0.5771   0.7187    Ni
 C        0.505   0.4639   0.4379     C
 C        0.505   0.5621   0.5361     C
-H       0.5344     -0.0   0.5718     H
-H       0.5344   0.4282     -0.0     H
+H       0.5344      0.0   0.5718     H
+H       0.5344   0.4282      0.0     H
 O       0.5532   0.1726    0.499     O
 O       0.5532    0.501   0.8274     O
 C       0.5569   0.3549   0.1862     C

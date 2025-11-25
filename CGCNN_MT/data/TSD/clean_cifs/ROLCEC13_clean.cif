@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ROLCEC13_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ROLCEC13_clean'
 _cell_length_a  7.31920
 _cell_length_b  7.31920
 _cell_length_c 24.38100
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,9 +20,9 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 H          0.0   0.4003  0.83333     H
-C          0.0   0.4727  0.33333     C
+C          0.0   0.4727 0.33333333     C
 C          0.0   0.5273  0.83333     C
-H          0.0   0.5997  0.33333     H
+H          0.0   0.5997 0.33333333     H
 H       0.0296   0.4724  0.16887     H
 H       0.0296   0.5572   0.9978     H
 C       0.0314   0.4311    0.999     C
@@ -47,7 +47,7 @@ O       0.3767   0.2979   0.5356     O
 C       0.3997   0.4311    0.501     C
 C       0.3997   0.9686  0.66567     C
 H       0.4003      0.0      0.5     H
-H       0.4003   0.4003  0.66667     H
+H       0.4003   0.4003 0.66666667     H
 O       0.4195   0.1409   0.2991     O
 O       0.4195   0.2786  0.86756     O
 C       0.4311   0.0314  0.33433     C
@@ -61,7 +61,7 @@ H       0.4724   0.4428   0.0022     H
 C       0.4727      0.0      0.0     C
 C       0.4727   0.4727  0.16667     C
 C       0.5273      0.0      0.5     C
-C       0.5273   0.5273  0.66667     C
+C       0.5273   0.5273 0.66666667     C
 H       0.5276   0.5572   0.5022     H
 H       0.5276   0.9704  0.66447     H
 O       0.5486   0.6619  0.70087     O

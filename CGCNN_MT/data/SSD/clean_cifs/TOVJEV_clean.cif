@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/TOVJEV_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\TOVJEV_clean'
 _cell_length_a 27.00500
 _cell_length_b 18.56400
 _cell_length_c 36.38900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -116,7 +116,7 @@ C      0.20993  0.32976  0.57124     C
 C      0.21189  0.12048  0.00862     C
 C      0.21189  0.37952  0.50862     C
 O      0.21802  0.16665  0.23601     O
-O      0.21802  0.33335  0.73601     O
+O      0.21802 0.33333333  0.73601     O
 O      0.23657  0.19258  0.64484     O
 O      0.23657  0.30742  0.14484     O
 Fe     0.23886  0.09177   0.2015    Fe
@@ -337,7 +337,7 @@ Fe     0.76114  0.59177   0.2985    Fe
 Fe     0.76114  0.90823   0.7985    Fe
 O      0.76343  0.69258  0.85516     O
 O      0.76343  0.80742  0.35516     O
-O      0.78198  0.66665  0.26399     O
+O      0.78198 0.66666667  0.26399     O
 O      0.78198  0.83335  0.76399     O
 C      0.78811  0.62048  0.49138     C
 C      0.78811  0.87952  0.99138     C

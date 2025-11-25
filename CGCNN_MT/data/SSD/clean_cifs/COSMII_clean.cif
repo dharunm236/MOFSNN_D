@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/COSMII_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\COSMII_clean'
 _cell_length_a 14.12270
 _cell_length_b 18.73910
 _cell_length_c 18.73910
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -124,7 +124,7 @@ C       0.6873   0.2455   0.6011     C
 H       0.7104   0.9089   0.7919     H
 N      0.73153  0.18425  0.51786     N
 C       0.7328    0.763    0.426     C
-C       0.7381     -0.0    0.631     C
+C       0.7381      0.0    0.631     C
 C       0.7381    0.369      0.0     C
 O      0.74034  0.41813  0.02981     O
 N      0.74939  0.70211  0.48214     N

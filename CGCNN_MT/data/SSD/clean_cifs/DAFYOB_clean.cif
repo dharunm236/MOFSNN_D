@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/DAFYOB_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\DAFYOB_clean'
 _cell_length_a 16.21220
 _cell_length_b 16.21220
 _cell_length_c 16.06420
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -49,7 +49,7 @@ O       0.3201   0.3834   0.0583     O
 O       0.3201   0.3834   0.4417     O
 O       0.3201   0.9367   0.0583     O
 O       0.3201   0.9367   0.4417     O
-O      0.33333  0.66667     0.25     O
+O     0.33333333 0.66666667     0.25     O
 O      0.34659   0.5159  0.15827     O
 O      0.34659   0.5159  0.34173     O
 O      0.34659  0.83069  0.15827     O
@@ -116,7 +116,7 @@ O      0.65341  0.16931  0.65827     O
 O      0.65341  0.16931  0.84173     O
 O      0.65341   0.4841  0.65827     O
 O      0.65341   0.4841  0.84173     O
-O      0.66667  0.33333     0.75     O
+O     0.66666667 0.33333333     0.75     O
 O       0.6799   0.0633   0.5583     O
 O       0.6799   0.0633   0.9417     O
 O       0.6799   0.6166   0.5583     O

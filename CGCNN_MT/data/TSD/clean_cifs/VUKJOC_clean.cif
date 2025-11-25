@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VUKJOC_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VUKJOC_clean'
 _cell_length_a 15.94510
 _cell_length_b 28.14800
 _cell_length_c 23.41600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -529,7 +529,7 @@ H       0.7482   0.9714   0.9439     H
 H       0.7518   0.4714   0.5561     H
 C       0.7528   0.8278     0.64     C
 C       0.7529   0.3765   0.0995     C
-C       0.7577  0.27123   0.6666     C
+C       0.7577  0.27123 0.66666667     C
 H       0.7578   0.3591   0.1341     H
 C        0.758   0.2086   0.2148     C
 C       0.7601   0.5587   0.8387     C

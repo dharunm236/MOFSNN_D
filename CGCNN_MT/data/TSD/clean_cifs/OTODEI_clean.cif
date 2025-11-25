@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/OTODEI_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\OTODEI_clean'
 _cell_length_a 12.28200
 _cell_length_b 22.79000
 _cell_length_c 13.58000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,6 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Ag         0.0  0.04883     0.75    Ag
 Ag         0.0  0.95117     0.25    Ag
 C       0.0055  0.03396   0.0848     C
 C       0.0055  0.96604   0.5848     C
@@ -307,3 +306,4 @@ H       0.9907   0.0573   0.3573     H
 H       0.9907   0.9427   0.8573     H
 C       0.9945  0.03396   0.4152     C
 C       0.9945  0.96604   0.9152     C
+Ag         1.0  0.04883     0.75    Ag

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/HEFFAB_charged'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\HEFFAB_charged'
 _cell_length_a 19.83400
 _cell_length_b 20.22400
 _cell_length_c 20.28400
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -105,7 +105,7 @@ C       0.1452   0.2535   0.2654     C
 O       0.1477   0.8748    0.796     O
 H       0.1517   0.2964   0.1058     H
 C       0.1519   0.3848   0.8714     C
-H       0.1583   0.5409   0.6667     H
+H       0.1583   0.5409 0.66666667     H
 C       0.1588   0.2991    0.149     C
 H        0.161   0.8406   0.3865     H
 C       0.1657   0.1746   0.3549     C
@@ -169,7 +169,7 @@ H       0.3807   0.3789    0.114     H
 C       0.3836   0.4094   0.2321     C
 C       0.3847   0.5807   0.0867     C
 C       0.3909   0.4247   0.2954     C
-C       0.3993   0.6666    0.162     C
+C       0.3993 0.66666667    0.162     C
 H       0.4006   0.7825   0.8033     H
 O       0.4087   0.5479   0.0297     O
 C       0.4123   0.7568   0.2341     C
@@ -330,7 +330,7 @@ H        0.833   0.4288   0.2287     H
 C       0.8343   0.8254   0.6451     C
 H        0.839   0.1594   0.6135     H
 C       0.8412   0.7009    0.851     C
-H       0.8417   0.4591   0.3333     H
+H       0.8417   0.4591 0.33333333     H
 C       0.8481   0.6152   0.1286     C
 H       0.8483   0.7036   0.8942     H
 O       0.8523   0.1252    0.204     O

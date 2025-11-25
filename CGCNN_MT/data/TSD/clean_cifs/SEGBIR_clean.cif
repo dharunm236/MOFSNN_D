@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/SEGBIR_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\SEGBIR_clean'
 _cell_length_a  4.80130
 _cell_length_b 19.49510
 _cell_length_c 19.49510
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,7 +20,7 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Cu         0.0      0.0      0.5    Cu
-Cu         0.0      0.5     -0.0    Cu
+Cu         0.0      0.5      0.0    Cu
 C      0.01077  0.44715  0.89914     C
 C      0.02821  0.55931  0.17328     C
 H       0.0405   0.1869   0.4425     H

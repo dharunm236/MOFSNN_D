@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/FALQEQ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\FALQEQ_clean'
 _cell_length_a  7.49350
 _cell_length_b 13.62240
 _cell_length_c 13.62240
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,7 +20,7 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Cu         0.0      0.0      0.5    Cu
-Cu         0.0      0.5     -0.0    Cu
+Cu         0.0      0.5      0.0    Cu
 H        0.019   0.2121    0.202     H
 H        0.019    0.798   0.0101     H
 H        0.019   0.9899   0.7879     H
@@ -66,7 +66,7 @@ C       0.2678   0.8944   0.3296     C
 C       0.3129   0.5502  0.12036     C
 C       0.3129  0.57016   0.4498     C
 C       0.3129  0.87964  0.42984     C
-La     0.34102  0.33333  0.66666    La
+La     0.34102 0.33333333 0.66666667    La
 H       0.3586   0.2781   0.0655     H
 H       0.3586   0.7874   0.7219     H
 H       0.3586   0.9345   0.2126     H
@@ -97,7 +97,7 @@ C       0.5901    0.653   0.9288     C
 H       0.6414   0.0655   0.7874     H
 H       0.6414   0.2126   0.2781     H
 H       0.6414   0.7219   0.9345     H
-La     0.65898  0.66667  0.33334    La
+La     0.65898 0.66666667 0.33333333    La
 C       0.6871  0.12036  0.57016     C
 C       0.6871  0.42984   0.5502     C
 C       0.6871   0.4498  0.87964     C

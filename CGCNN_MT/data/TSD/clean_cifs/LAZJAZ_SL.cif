@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/LAZJAZ_SL'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\LAZJAZ_SL'
 _cell_length_a  9.00560
 _cell_length_b 10.72630
 _cell_length_c 12.98990
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -58,7 +58,7 @@ H       0.3026   0.1784   0.9703     H
 H       0.3026   0.8216   0.0297     H
 H       0.3115   0.2957   0.7557     H
 H       0.3115   0.7043   0.2443     H
-C        0.341     -0.0     -0.0     C
+C        0.341      0.0      0.0     C
 H       0.3773   0.1081   0.1534     H
 H       0.3773   0.8919   0.8466     H
 C       0.4217   0.4765   0.1433     C
@@ -77,7 +77,7 @@ C       0.5963   0.0253   0.7904     C
 C       0.5963   0.9747   0.2096     C
 H       0.6028     0.17   0.2563     H
 H       0.6028     0.83   0.7437     H
-Zn     0.61926      0.5      1.0    Zn
+Zn     0.61926      0.5      0.0    Zn
 H       0.6195   0.2125   0.7987     H
 H       0.6195   0.7875   0.2013     H
 C       0.6408   0.0949   0.2698     C
@@ -108,7 +108,7 @@ H       0.9003   0.1912   0.1561     H
 H       0.9003   0.8088   0.8439     H
 C       0.9011   0.2304   0.0996     C
 C       0.9011   0.7696   0.9004     C
-Zn     0.93446     -0.0      0.5    Zn
+Zn     0.93446      0.0      0.5    Zn
 H      0.96771  0.39052   0.4273     H
 H       0.9924    0.407   0.5831     H
 H       0.9924    0.593   0.4169     H

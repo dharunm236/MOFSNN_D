@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/CEFLEF_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\CEFLEF_clean'
 _cell_length_a 15.27700
 _cell_length_b 15.27700
 _cell_length_c 15.77600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -81,8 +81,8 @@ C       0.3233  0.10847  0.19424     C
 C       0.3233  0.10847  0.80576     C
 C       0.3233  0.21483  0.30576     C
 C       0.3233  0.21483  0.69424     C
-Dy     0.33333  0.66666     0.25    Dy
-Dy     0.33333  0.66666     0.75    Dy
+Dy    0.33333333 0.66666667     0.25    Dy
+Dy    0.33333333 0.66666667     0.75    Dy
 C      0.35668  0.49423  0.14103     C
 C      0.35668  0.49423  0.85897     C
 C      0.35668  0.86245  0.35897     C
@@ -147,8 +147,8 @@ C      0.64332  0.13755  0.35897     C
 C      0.64332  0.13755  0.64103     C
 C      0.64332  0.50577  0.14103     C
 C      0.64332  0.50577  0.85897     C
-Dy     0.66667  0.33334     0.25    Dy
-Dy     0.66667  0.33334     0.75    Dy
+Dy    0.66666667 0.33333333     0.25    Dy
+Dy    0.66666667 0.33333333     0.75    Dy
 C       0.6767  0.78517  0.30576     C
 C       0.6767  0.78517  0.69424     C
 C       0.6767  0.89153  0.19424     C

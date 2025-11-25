@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/YUZRAO_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\YUZRAO_clean'
 _cell_length_a 11.57910
 _cell_length_b 15.26230
 _cell_length_c 19.24830
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -163,7 +163,7 @@ O       0.6423  0.40722  0.47553     O
 O       0.6441  0.57773  0.49367     O
 H       0.6506    0.793   0.1329     H
 H       0.6604   0.0858   0.0421     H
-O       0.6666  0.26234  0.96114     O
+O     0.66666667  0.26234  0.96114     O
 C       0.6676    0.323   0.5162     C
 C       0.6687   0.5704  0.61574     C
 H       0.6693   0.7154   0.9093     H

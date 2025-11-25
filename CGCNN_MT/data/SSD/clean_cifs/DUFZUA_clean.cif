@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/DUFZUA_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\DUFZUA_clean'
 _cell_length_a 15.29100
 _cell_length_b 15.29100
 _cell_length_c 15.57300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -81,8 +81,8 @@ C       0.3215   0.1073   0.1952     C
 C       0.3215   0.1073   0.8048     C
 C       0.3215   0.2142   0.3048     C
 C       0.3215   0.2142   0.6952     C
-Gd     0.33333  0.66666     0.25    Gd
-Gd     0.33333  0.66666     0.75    Gd
+Gd    0.33333333 0.66666667     0.25    Gd
+Gd    0.33333333 0.66666667     0.75    Gd
 C       0.3527   0.4916   0.1385     C
 C       0.3527   0.4916   0.8615     C
 C       0.3527   0.8611   0.3615     C
@@ -147,8 +147,8 @@ C       0.6473   0.1389   0.3615     C
 C       0.6473   0.1389   0.6385     C
 C       0.6473   0.5084   0.1385     C
 C       0.6473   0.5084   0.8615     C
-Gd     0.66667  0.33334     0.25    Gd
-Gd     0.66667  0.33334     0.75    Gd
+Gd    0.66666667 0.33333333     0.25    Gd
+Gd    0.66666667 0.33333333     0.75    Gd
 C       0.6785   0.7858   0.3048     C
 C       0.6785   0.7858   0.6952     C
 C       0.6785   0.8927   0.1952     C

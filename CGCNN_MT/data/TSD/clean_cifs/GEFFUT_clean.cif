@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/GEFFUT_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\GEFFUT_clean'
 _cell_length_a 15.28610
 _cell_length_b 17.50960
 _cell_length_c 19.00330
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -45,7 +45,7 @@ O       0.0639   0.6076   0.2104     O
 C       0.0741   0.1617   0.2854     C
 C       0.0758   0.2254    0.306     C
 C       0.0793   0.4526   0.0818     C
-C        0.081   0.6667   0.8322     C
+C        0.081 0.66666667   0.8322     C
 C       0.0827   0.7411   0.7538     C
 C       0.0849   0.6367   0.4706     C
 H       0.0877   0.4223   0.1364     H

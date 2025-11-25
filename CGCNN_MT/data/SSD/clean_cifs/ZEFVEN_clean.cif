@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ZEFVEN_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ZEFVEN_clean'
 _cell_length_a  7.59390
 _cell_length_b 10.44600
 _cell_length_c 30.51300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Co         0.0      0.0      0.5    Co
+Co         0.0      1.0      0.5    Co
 C       0.0003   0.2636  0.26723     C
 N       0.0037   0.9959  0.93953     N
 C       0.0072   0.9591  0.18447     C

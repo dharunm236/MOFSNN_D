@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/WIDWOX_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\WIDWOX_clean'
 _cell_length_a 24.36870
 _cell_length_b 24.36870
 _cell_length_c 47.32200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -1176,7 +1176,7 @@ C       0.6658    0.818  0.18396     C
 C       0.6662   0.0286   0.0364     C
 C       0.6665   0.6564   0.2831     C
 H       0.6665   0.8381   0.7396     H
-H       0.6666   0.6848   0.6753     H
+H     0.66666667   0.6848   0.6753     H
 H       0.6674   0.8286   0.6864     H
 O       0.6684   0.0863   0.0855     O
 H       0.6686   0.0944   0.4111     H
@@ -1209,7 +1209,7 @@ C       0.6832   0.7617  0.17211     C
 H       0.6838   0.0504   0.3527     H
 H       0.6844   0.2516   0.0506     H
 Ni     0.68444  0.52693  0.90471    Ni
-H       0.6848   0.6666   0.3247     H
+H       0.6848 0.66666667   0.3247     H
 H       0.6857   0.3945   0.8222     H
 C       0.6857   0.6806  0.05705     C
 H       0.6873   0.8982   0.1816     H

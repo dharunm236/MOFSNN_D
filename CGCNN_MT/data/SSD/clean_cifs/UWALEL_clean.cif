@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/UWALEL_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\UWALEL_clean'
 _cell_length_a 22.42580
 _cell_length_b 22.42580
 _cell_length_c 10.91900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,8 +19,8 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Cu         0.0  0.33696  0.66667    Cu
-Cu         0.0  0.66321  0.66667    Cu
+Cu         0.0  0.33696 0.66666667    Cu
+Cu         0.0  0.66321 0.66666667    Cu
 O       0.0507   0.3659  0.51353     O
 O       0.0535    0.687   0.8168     O
 O       0.0585   0.7867   0.8198     O
@@ -98,7 +98,7 @@ C       0.3321   0.0806  0.51857     C
 C       0.3331   0.2518  0.81607     C
 C       0.3339    0.166  0.66727     C
 Cu     0.33679  0.33679      0.0    Cu
-Cu     0.33696      0.0  0.33333    Cu
+Cu     0.33696      0.0 0.33333333    Cu
 C       0.3371   0.6586  0.22233     C
 C       0.3414   0.6785  0.55567     C
 C       0.3521   0.5806  0.56837     C
@@ -182,7 +182,7 @@ C       0.6479   0.2285  0.76497     C
 C       0.6586   0.3371  0.77767     C
 C       0.6629   0.3215    0.111     C
 Cu     0.66304  0.66304      0.0    Cu
-Cu     0.66321      0.0  0.33333    Cu
+Cu     0.66321      0.0 0.33333333    Cu
 C       0.6661   0.8321  0.66607     C
 C       0.6669   0.9187  0.51727     C
 C       0.6679   0.7485  0.81477     C

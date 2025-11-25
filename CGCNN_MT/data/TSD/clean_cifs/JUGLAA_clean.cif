@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/JUGLAA_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\JUGLAA_clean'
 _cell_length_a 14.15220
 _cell_length_b 21.22730
 _cell_length_c 22.70750
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -143,7 +143,7 @@ C       0.2204   0.2166    0.686     C
 C       0.2204   0.2834    0.186     C
 C       0.2205   0.6558   0.5798     C
 C       0.2205   0.8442   0.0798     C
-H       0.2263   0.6842   0.6666     H
+H       0.2263   0.6842 0.66666667     H
 H       0.2263   0.8158   0.1666     H
 H       0.2359   0.0785    0.335     H
 H       0.2359   0.4215    0.835     H

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/UJOJOU01_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\UJOJOU01_clean'
 _cell_length_a 13.48460
 _cell_length_b 13.48460
 _cell_length_c  8.03200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -56,7 +56,7 @@ N       0.3203   0.8663   0.1037     N
 C       0.3207   0.3548   0.1541     C
 C       0.3225   0.7889   0.0481     C
 H       0.3246   0.0859   0.6472     H
-Mn     0.33333  0.66667   0.9248    Mn
+Mn    0.33333333 0.66666667   0.9248    Mn
 Mn     0.33873  0.03731  0.04463    Mn
 C       0.3452   0.2552   0.1626     C
 N       0.3485   0.2104   0.9993     N
@@ -97,7 +97,7 @@ H       0.6512    0.515   0.7947     H
 N       0.6515   0.7896   0.4993     N
 C       0.6548   0.7448   0.6626     C
 Mn     0.66127  0.96269  0.54463    Mn
-Mn     0.66667  0.33333   0.4248    Mn
+Mn    0.66666667 0.33333333   0.4248    Mn
 H       0.6754   0.9141   0.1472     H
 C       0.6775   0.2111   0.5481     C
 C       0.6793   0.6452   0.6541     C

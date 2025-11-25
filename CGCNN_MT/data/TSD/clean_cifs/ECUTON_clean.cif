@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ECUTON_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ECUTON_clean'
 _cell_length_a  9.41700
 _cell_length_b 13.12800
 _cell_length_c 15.91300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -102,7 +102,7 @@ N       0.4779   0.3042   0.5283     N
 H       0.4843   0.4926   0.5844     H
 C       0.4859   0.3869   0.1226     C
 O       0.4925   0.5727   0.8096     O
-H        0.494   0.6666   0.5927     H
+H        0.494 0.66666667   0.5927     H
 H       0.4957   0.3033   0.9707     H
 C       0.4978    0.943   0.9956     C
 C       0.5022    0.057   0.0044     C

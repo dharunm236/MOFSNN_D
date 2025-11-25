@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/PUGSOB_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\PUGSOB_clean'
 _cell_length_a 10.32700
 _cell_length_b 26.23700
 _cell_length_c 27.75600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -214,7 +214,7 @@ C       0.6418  0.94856  0.27381     C
 C        0.645  0.90036  0.29302     C
 H       0.6491   0.9784   0.7952     H
 H       0.6568   0.8964   0.8243     H
-H       0.6666   0.0297   0.7292     H
+H     0.66666667   0.0297   0.7292     H
 H       0.6676   0.4602   0.1131     H
 C       0.6688   0.7602   0.6176     C
 C       0.6759   0.4894    0.094     C

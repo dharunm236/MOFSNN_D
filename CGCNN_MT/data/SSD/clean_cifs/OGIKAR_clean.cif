@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/OGIKAR_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\OGIKAR_clean'
 _cell_length_a 27.85950
 _cell_length_b 27.85950
 _cell_length_c 27.85950
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -302,7 +302,7 @@ O      0.33094  0.36623  0.15461     O
 C       0.3321   0.9255   0.8284     C
 O      0.33287  0.71955  0.90342     O
 C       0.3329  0.68128  0.12838     C
-C       0.3333  0.47284  0.21314     C
+C     0.33333333  0.47284  0.21314     C
 O      0.33502  0.62281  0.91429     O
 O      0.33597   0.1598  0.46593     O
 H       0.3375   0.2509   0.3334     H
@@ -564,10 +564,10 @@ H       0.6576   0.3468   0.8696     H
 C       0.6582  0.04849  0.86989     C
 C       0.6586   0.6123   0.8793     C
 H       0.6588   0.6649   0.6373     H
-H       0.6625   0.7491   0.6666     H
+H       0.6625   0.7491 0.66666667     H
 O      0.66403   0.8402  0.53407     O
 O      0.66498  0.37719  0.08571     O
-C       0.6667  0.52716  0.78686     C
+C     0.66666667  0.52716  0.78686     C
 C       0.6671  0.31872  0.87162     C
 O      0.66713  0.28045  0.09658     O
 C       0.6679   0.0745   0.1716     C

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/TOVJAR_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\TOVJAR_clean'
 _cell_length_a 36.15500
 _cell_length_b 18.56600
 _cell_length_c 48.72500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -394,7 +394,7 @@ C      0.44222   0.0421  0.82283     C
 C      0.44695    0.264  0.25184     C
 C      0.44725   0.2041  0.26786     C
 H       0.4518   0.7121   0.0774     H
-H       0.4521     0.21   0.6667     H
+H       0.4521     0.21 0.66666667     H
 C      0.45273   0.9964  0.84487     C
 O      0.45369   0.0823  0.27263     O
 O      0.45424  0.08112  0.77853     O
@@ -816,7 +816,7 @@ C      0.94222   0.9579  0.82283     C
 C      0.94695    0.736  0.25184     C
 C      0.94725   0.7959  0.26786     C
 H       0.9518   0.2879   0.0774     H
-H       0.9521     0.79   0.6667     H
+H       0.9521     0.79 0.66666667     H
 C      0.95273   0.0036  0.84487     C
 O      0.95369   0.9177  0.27263     O
 O      0.95424  0.91888  0.77853     O

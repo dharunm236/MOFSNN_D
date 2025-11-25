@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/XICNOO01_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\XICNOO01_clean'
 _cell_length_a 27.59840
 _cell_length_b 27.59840
 _cell_length_c 27.59840
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -21,8 +21,6 @@ _atom_site_fract_z
 _atom_site_type_symbol
 Zr         0.0      0.0  0.41107    Zr
 Zr         0.0      0.0  0.58893    Zr
-Zr         0.0  0.41107      0.0    Zr
-Zr         0.0  0.41107  0.58893    Zr
 Zr         0.0  0.58893      0.0    Zr
 Zr         0.0  0.58893  0.41107    Zr
 H       0.0033   0.3459   0.7815     H
@@ -179,8 +177,8 @@ O      0.40375  0.66459  0.91767     O
 O      0.40375  0.91767  0.01399     O
 O      0.40375  0.91767  0.66459     O
 Zr     0.41107      0.0      0.0    Zr
+Zr     0.41107      0.0  0.58893    Zr
 Zr     0.41107  0.58893      0.0    Zr
-Zr     0.41107      1.0  0.58893    Zr
 O      0.41292   0.0444   0.0444     O
 O      0.41292   0.0444  0.49828     O
 O      0.41292  0.49828   0.0444     O
@@ -261,7 +259,7 @@ O      0.58708   0.9556  0.50172     O
 O      0.58708   0.9556   0.9556     O
 Zr     0.58893      0.0      0.0    Zr
 Zr     0.58893      0.0  0.41107    Zr
-Zr     0.58893  0.41107     -0.0    Zr
+Zr     0.58893  0.41107      0.0    Zr
 O      0.59625  0.08233  0.33541     O
 O      0.59625  0.08233  0.98601     O
 O      0.59625  0.33541  0.08233     O
@@ -415,3 +413,5 @@ H       0.9967   0.2185   0.1307     H
 H       0.9967   0.2185   0.6541     H
 H       0.9967   0.6541   0.1307     H
 H       0.9967   0.6541   0.2185     H
+Zr         1.0  0.41107      0.0    Zr
+Zr         1.0  0.41107  0.58893    Zr

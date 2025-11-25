@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VEJHEZ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VEJHEZ_clean'
 _cell_length_a 37.26510
 _cell_length_b 37.26510
 _cell_length_c 37.26510
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,6 +19,10 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+Zn         0.0      0.5  0.16614    Zn
+Zn         0.0      0.5  0.26202    Zn
+Zn         0.0      0.5  0.73798    Zn
+Zn         0.0      0.5  0.83386    Zn
 O       0.0018    0.449   0.2316     O
 C        0.002   0.1031   0.3397     C
 Zn     0.00226  0.35507  0.01219    Zn
@@ -433,7 +437,7 @@ C        0.329   0.5496   0.7288     C
 C       0.3311   0.3391   0.1718     C
 C       0.3315   0.5131   0.5694     C
 C       0.3327   0.8407   0.6718     C
-Zn     0.33386      0.0     -0.0    Zn
+Zn     0.33386      0.0      0.0    Zn
 C       0.3339   0.6819   0.5094     C
 O        0.334   0.0141   0.0551     O
 C       0.3367   0.2222   0.3437     C
@@ -780,7 +784,7 @@ H       0.6632   0.8801   0.3697     H
 C       0.6633   0.7778   0.6563     C
 O        0.666   0.9859   0.9449     O
 C       0.6661   0.3181   0.4906     C
-Zn     0.66614      0.0     -0.0    Zn
+Zn     0.66614      0.0      0.0    Zn
 C       0.6673   0.1593   0.3282     C
 C       0.6685   0.4869   0.4306     C
 C       0.6689   0.6609   0.8282     C
@@ -1195,7 +1199,3 @@ H        0.997   0.8943   0.6053     H
 Zn     0.99774  0.64493  0.98781    Zn
 C        0.998   0.8969   0.6603     C
 O       0.9982    0.551   0.7684     O
-Zn         1.0      0.5  0.16614    Zn
-Zn         1.0      0.5  0.26202    Zn
-Zn         1.0      0.5  0.73798    Zn
-Zn         1.0      0.5  0.83386    Zn

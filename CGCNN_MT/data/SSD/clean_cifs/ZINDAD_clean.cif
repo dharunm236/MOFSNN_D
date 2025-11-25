@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ZINDAD_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ZINDAD_clean'
 _cell_length_a 26.85500
 _cell_length_b 26.85500
 _cell_length_c 26.90750
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -199,7 +199,7 @@ C      0.43168  0.26523  0.74076     C
 C      0.43178  0.31351  0.81118     C
 H       0.4321   0.3295   0.8348     H
 N      0.43267  0.24547  0.70032     N
-Zn     0.43272  0.10009     -0.0    Zn
+Zn     0.43272  0.10009      0.0    Zn
 O      0.43471  0.24171  0.92568     O
 C      0.43486  0.32615  0.71482     C
 C      0.43515  0.35024   0.7493     C
@@ -303,7 +303,7 @@ C      0.54141  0.85167  0.35096     C
 O       0.5454  0.88045  0.56682     O
 H       0.5478   0.8792   0.4756     H
 O      0.54921  0.93223  0.92596     O
-Zn     0.54965   0.7904      1.0    Zn
+Zn     0.54965   0.7904      0.0    Zn
 O      0.55273   0.5454  0.56682     O
 C      0.55308  0.80225  0.30096     C
 O      0.55386  0.10901  0.33566     O
@@ -459,7 +459,7 @@ C      0.89237  0.20263  0.64904     C
 H       0.8924   0.0706    0.393     H
 N      0.89542  0.16194  0.30856     N
 C      0.89679  0.55308  0.30096     C
-Zn     0.89991  0.43272      1.0    Zn
+Zn     0.89991  0.43272      0.0    Zn
 C      0.90046  0.43515   0.7493     C
 N      0.90111  0.54072  0.25814     N
 N      0.90363  0.15402  0.65046     N

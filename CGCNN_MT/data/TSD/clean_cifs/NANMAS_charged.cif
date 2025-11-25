@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/NANMAS_charged'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\NANMAS_charged'
 _cell_length_a 18.47320
 _cell_length_b 18.47320
 _cell_length_c 18.47320
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,7 +20,9 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Mg         0.0      0.0      0.0    Mg
+Mg         0.0      0.0      0.5    Mg
 Mg         0.0      0.5      0.0    Mg
+Mg         0.0      0.5      0.5    Mg
 H       0.0068   0.2206   0.8458     H
 H       0.0068   0.8458   0.9268     H
 H       0.0068   0.9268   0.2206     H
@@ -345,5 +347,3 @@ H       0.9861   0.6541   0.2923     H
 H       0.9932   0.0732   0.7794     H
 H       0.9932   0.1542   0.0732     H
 H       0.9932   0.7794   0.1542     H
-Mg         1.0      0.0      0.5    Mg
-Mg         1.0      0.5      0.5    Mg

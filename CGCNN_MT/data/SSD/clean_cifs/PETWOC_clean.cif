@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/PETWOC_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\PETWOC_clean'
 _cell_length_a 15.21350
 _cell_length_b 15.21350
 _cell_length_c 15.21350
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -64,7 +64,7 @@ O       0.2729   0.9253   0.0747     O
 O       0.2729   0.9253   0.7271     O
 C       0.3098      0.0      0.0     C
 C       0.3098      0.0   0.6902     C
-C       0.3098   0.6902     -0.0     C
+C       0.3098   0.6902      0.0     C
 C       0.4084      0.0      0.0     C
 C       0.4084   0.5916      0.0     C
 C       0.4084      1.0   0.5916     C

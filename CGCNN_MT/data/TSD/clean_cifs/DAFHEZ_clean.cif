@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/DAFHEZ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\DAFHEZ_clean'
 _cell_length_a 15.41400
 _cell_length_b 11.87700
 _cell_length_c 24.15400
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -195,8 +195,8 @@ H       0.6536   0.0963   0.4533     H
 H       0.6536   0.4037   0.9533     H
 C       0.6649    0.025   0.4674     C
 C       0.6649    0.475   0.9674     C
-O       0.6666   0.2013  0.08675     O
-O       0.6666   0.2987  0.58675     O
+O     0.66666667   0.2013  0.08675     O
+O     0.66666667   0.2987  0.58675     O
 C       0.6688   0.1181   0.0555     C
 C       0.6688   0.3819   0.5555     C
 C       0.6831    0.202   0.8821     C

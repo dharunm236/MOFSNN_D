@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/OTABES_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\OTABES_clean'
 _cell_length_a 33.43170
 _cell_length_b  7.15200
 _cell_length_c 16.71810
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -60,8 +60,8 @@ O      0.28961   0.6627   0.0916     O
 O      0.28961   0.6627   0.9084     O
 C       0.3016      0.5   0.1023     C
 C       0.3016      0.5   0.8977     C
-C      0.33332      0.5   0.1644     C
-C      0.33332      0.5   0.8356     C
+C     0.33333333      0.5   0.1644     C
+C     0.33333333      0.5   0.8356     C
 C      0.34999   0.3437  0.19944     C
 C      0.34999   0.3437  0.80056     C
 C      0.34999   0.6563  0.19944     C
@@ -106,8 +106,8 @@ C      0.65001   0.3437  0.19944     C
 C      0.65001   0.3437  0.80056     C
 C      0.65001   0.6563  0.19944     C
 C      0.65001   0.6563  0.80056     C
-C      0.66668      0.5   0.1644     C
-C      0.66668      0.5   0.8356     C
+C     0.66666667      0.5   0.1644     C
+C     0.66666667      0.5   0.8356     C
 C       0.6984      0.5   0.1023     C
 C       0.6984      0.5   0.8977     C
 O      0.71039   0.3373   0.0916     O

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ZELROZ_manual'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ZELROZ_manual'
 _cell_length_a 17.12270
 _cell_length_b 17.12270
 _cell_length_c 17.12270
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -35,7 +35,7 @@ O       0.3248   0.4538   0.5462     O
 O       0.3248   0.5462   0.4538     O
 H      0.39494  0.07132  0.64617     H
 H      0.39494  0.64617  0.07132     H
-H      0.39911  0.44022  1.01506     H
+H      0.39911  0.44022  0.01506     H
 O       0.4093    0.041   0.5907     O
 O       0.4093   0.4093    0.959     O
 O       0.4093   0.5907    0.041     O

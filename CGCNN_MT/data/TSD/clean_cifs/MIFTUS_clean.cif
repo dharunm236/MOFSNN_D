@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/MIFTUS_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\MIFTUS_clean'
 _cell_length_a 10.78360
 _cell_length_b 32.41560
 _cell_length_c 32.41560
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -280,7 +280,7 @@ Co     0.32847  0.62759  0.96511    Co
 O      0.33056  0.65705  0.59963     O
 C       0.3314   0.5192   0.5964     C
 C       0.3323   0.7995   0.5831     C
-H       0.3333   0.7783   0.8753     H
+H     0.33333333   0.7783   0.8753     H
 C      0.33375  0.00366  0.51224     C
 C      0.33388  0.05377  0.21027     C
 C        0.334   0.6117   0.0909     C
@@ -549,7 +549,7 @@ H       0.6649   0.4621   0.6385     H
 C        0.666   0.3883   0.9091     C
 C      0.66612  0.94623  0.78973     C
 C      0.66625  0.99634  0.48776     C
-H       0.6667   0.2217   0.1247     H
+H     0.66666667   0.2217   0.1247     H
 C       0.6677   0.2005   0.4169     C
 C       0.6686   0.4808   0.4036     C
 O      0.66944  0.34295  0.40037     O

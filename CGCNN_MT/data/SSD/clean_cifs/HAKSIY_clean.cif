@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/HAKSIY_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\HAKSIY_clean'
 _cell_length_a 13.85700
 _cell_length_b 13.85700
 _cell_length_c 17.92500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -62,7 +62,7 @@ C       0.2588   0.1294   0.3061     C
 H       0.2853  0.14265   0.1451     H
 H       0.2853  0.14265   0.3549     H
 N       0.3259  0.16295     0.25     N
-O      0.33333  0.66667     0.75     O
+O     0.33333333 0.66666667     0.75     O
 H       0.3339   0.3812   0.5567     H
 H       0.3339   0.3812   0.9433     H
 H       0.3339   0.9527   0.5567     H
@@ -129,7 +129,7 @@ H       0.6661   0.0473   0.0567     H
 H       0.6661   0.0473   0.4433     H
 H       0.6661   0.6188   0.0567     H
 H       0.6661   0.6188   0.4433     H
-O      0.66667  0.33333     0.25     O
+O     0.66666667 0.33333333     0.25     O
 N       0.6741  0.83705     0.75     N
 H       0.7147  0.85735   0.6451     H
 H       0.7147  0.85735   0.8549     H

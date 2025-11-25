@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HOJLID_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HOJLID_clean'
 _cell_length_a 15.18200
 _cell_length_b 15.18200
 _cell_length_c 48.42000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -221,7 +221,7 @@ H       0.3712   0.1198   0.9967     H
 H        0.376    0.319   0.0265     H
 C       0.3781   0.3175   0.3229     C
 H       0.3801   0.3155   0.0744     H
-H       0.3869   0.2677   0.3333     H
+H       0.3869   0.2677 0.33333333     H
 H       0.3881   0.3037   0.3038     H
 C       0.3944   0.1666   0.9858     C
 O       0.3996    0.236    0.126     O
@@ -371,7 +371,7 @@ H       0.7263   0.4219   0.8098     H
 H       0.7286   0.2634   0.1883     H
 N      0.73076  0.72504  0.78209     N
 H       0.7309   0.3769     0.69     H
-H       0.7323   0.6131   0.6667     H
+H       0.7323   0.6131 0.66666667     H
 O       0.7343   0.5869  0.82771     O
 H       0.7347   0.6381   0.1076     H
 H       0.7366   0.2714   0.8117     H

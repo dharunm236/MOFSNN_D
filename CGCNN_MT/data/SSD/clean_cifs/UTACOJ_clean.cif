@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/UTACOJ_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\UTACOJ_clean'
 _cell_length_a 17.70030
 _cell_length_b 17.70030
 _cell_length_c 13.92080
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -63,7 +63,7 @@ O       0.3196   0.7716   0.1405     O
 C       0.3197   0.8385   0.7361     C
 O       0.3233   0.7738   0.8865     O
 H        0.326    0.487    0.011     H
-Ba     0.33333  0.66667  0.01377    Ba
+Ba    0.33333333 0.66666667  0.01377    Ba
 H        0.335   0.2752    0.817     H
 C        0.335   0.7956   0.6407     C
 H       0.3449   0.1933   0.7872     H
@@ -144,7 +144,7 @@ H       0.6531   0.7414   0.2065     H
 H       0.6551   0.8067   0.2872     H
 C        0.665   0.2044   0.1407     C
 H        0.665   0.7248    0.317     H
-Ba     0.66667  0.33333  0.51377    Ba
+Ba    0.66666667 0.33333333  0.51377    Ba
 H        0.674    0.513    0.511     H
 O       0.6767   0.2262   0.3865     O
 C       0.6803   0.1615   0.2361     C

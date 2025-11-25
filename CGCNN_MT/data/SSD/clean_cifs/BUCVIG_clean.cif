@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/BUCVIG_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\BUCVIG_clean'
 _cell_length_a 40.57500
 _cell_length_b 14.37470
 _cell_length_c 20.15600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -24,7 +24,7 @@ H       0.0037    0.632   0.1094     H
 C      0.00894   0.2379  0.86977     C
 C      0.00894   0.7621  0.36977     C
 C      0.01247   0.3333  0.87708     C
-C      0.01247   0.6667  0.37708     C
+C      0.01247 0.66666667  0.37708     C
 N      0.01856   0.1921  0.61229     N
 N      0.01856   0.8079  0.11229     N
 H       0.0268    0.075   0.6693     H
@@ -870,7 +870,7 @@ H       0.9732    0.925   0.3307     H
 N      0.98144   0.1921  0.88771     N
 N      0.98144   0.8079  0.38771     N
 C      0.98753   0.3333  0.62292     C
-C      0.98753   0.6667  0.12292     C
+C      0.98753 0.66666667  0.12292     C
 C      0.99106   0.2379  0.63023     C
 C      0.99106   0.7621  0.13023     C
 H       0.9963    0.368   0.8906     H

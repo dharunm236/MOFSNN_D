@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/UWUKII_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\UWUKII_clean'
 _cell_length_a 20.89350
 _cell_length_b 16.03320
 _cell_length_c 28.16940
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -159,7 +159,7 @@ N       0.3275   0.0666   0.8111     N
 C       0.3285   0.4737   0.3227     C
 C       0.3303   0.0592   0.5109     C
 C        0.332   0.0846   0.5568     C
-C       0.3333   0.8479   0.2488     C
+C     0.33333333   0.8479   0.2488     C
 C       0.3362   0.8784   0.2961     C
 H       0.3364   0.6395   0.4589     H
 O       0.3372   0.8538     0.94     O
@@ -306,7 +306,7 @@ H       0.6592   0.8219   0.2217     H
 O       0.6628   0.1462     0.44     O
 H       0.6636   0.3605   0.9589     H
 C       0.6638   0.1216   0.7961     C
-C       0.6667   0.1521   0.7488     C
+C     0.66666667   0.1521   0.7488     C
 C        0.668   0.9154   0.0568     C
 C       0.6697   0.9408   0.0109     C
 C       0.6715   0.5263   0.8227     C

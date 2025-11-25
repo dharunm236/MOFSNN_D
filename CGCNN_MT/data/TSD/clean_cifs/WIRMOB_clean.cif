@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/WIRMOB_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\WIRMOB_clean'
 _cell_length_a 18.97800
 _cell_length_b 23.17000
 _cell_length_c 23.47700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -187,7 +187,7 @@ C        0.308   0.9585    0.762     C
 H       0.3086   0.8781   0.4066     H
 H       0.3106   0.1658   0.1039     H
 H       0.3115   0.2255    0.182     H
-H       0.3143   0.6667   0.9903     H
+H       0.3143 0.66666667   0.9903     H
 C        0.321   0.5909   0.2093     C
 H       0.3231   0.8209   0.9035     H
 C       0.3256   0.5919   0.8641     C
@@ -388,7 +388,7 @@ C       0.6723   0.8449   0.2177     C
 C       0.6744   0.4081   0.1359     C
 H       0.6769   0.1791   0.0965     H
 C        0.679   0.4091   0.7907     C
-H       0.6857   0.3333   0.0097     H
+H       0.6857 0.33333333   0.0097     H
 H       0.6885   0.7745    0.818     H
 H       0.6894   0.8342   0.8961     H
 H       0.6914   0.1219   0.5934     H

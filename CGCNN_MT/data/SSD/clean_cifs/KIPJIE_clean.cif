@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/KIPJIE_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\KIPJIE_clean'
 _cell_length_a  7.35240
 _cell_length_b 23.17500
 _cell_length_c 29.16420
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -125,8 +125,8 @@ F       0.3144     0.24  0.41701     F
 F       0.3144     0.74  0.08299     F
 C       0.3174   0.1269   0.6284     C
 C       0.3174   0.6269   0.8716     C
-O       0.3333   0.2998  0.62453     O
-O       0.3333   0.7998  0.87547     O
+O     0.33333333   0.2998  0.62453     O
+O     0.33333333   0.7998  0.87547     O
 O       0.3341  0.23582   0.7121     O
 O       0.3341  0.73582   0.7879     O
 C       0.3386   0.2858   0.9297     C
@@ -239,8 +239,8 @@ C       0.6614   0.2142   0.4297     C
 C       0.6614   0.7142   0.0703     C
 O       0.6659  0.26418   0.2121     O
 O       0.6659  0.76418   0.2879     O
-O       0.6667   0.2002  0.12453     O
-O       0.6667   0.7002  0.37547     O
+O     0.66666667   0.2002  0.12453     O
+O     0.66666667   0.7002  0.37547     O
 C       0.6826   0.3731   0.1284     C
 C       0.6826   0.8731   0.3716     C
 F       0.6856     0.26  0.91701     F

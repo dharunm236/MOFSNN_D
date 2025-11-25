@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/NADKEK_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\NADKEK_clean'
 _cell_length_a 16.18950
 _cell_length_b 16.18950
 _cell_length_c 10.00360
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -51,8 +51,8 @@ C       0.3169   0.0476   0.6926     C
 N       0.3221   0.3835   0.4174     N
 O       0.3247   0.7842     0.56     O
 C       0.3306   0.2946   0.2258     C
-Y      0.33333  0.66667   0.2053     Y
-Y      0.33333  0.66667   0.6919     Y
+Y     0.33333333 0.66666667   0.2053     Y
+Y     0.33333333 0.66666667   0.6919     Y
 O       0.3416   0.5586    0.826     O
 C         0.36    0.885    0.911     C
 O       0.3641   0.5726   0.0627     O
@@ -97,8 +97,8 @@ O       0.6219   0.5518   0.0591     O
 O       0.6359   0.4274   0.9373     O
 C         0.64    0.115    0.089     C
 O       0.6584   0.4414    0.174     O
-Y      0.66667  0.33333   0.3081     Y
-Y      0.66667  0.33333   0.7947     Y
+Y     0.66666667 0.33333333   0.3081     Y
+Y     0.66666667 0.33333333   0.7947     Y
 C       0.6694   0.7054   0.7742     C
 O       0.6753   0.2158     0.44     O
 N       0.6779   0.6165   0.5826     N

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/GAQYIH_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\GAQYIH_clean'
 _cell_length_a 34.60660
 _cell_length_b 34.60660
 _cell_length_c 34.60660
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -23,7 +23,7 @@ Cd         0.0      0.0  0.68964    Cd
 Cd         0.0  0.31036      0.0    Cd
 Cd         0.0  0.31036  0.68964    Cd
 Cd         0.0  0.68964      0.0    Cd
-Cd         0.0      1.0  0.31036    Cd
+Cd         0.0  0.68964  0.31036    Cd
 H       0.0619   0.0769   0.2275     H
 H       0.0619   0.0769   0.6337     H
 H       0.0619   0.2275   0.0769     H
@@ -147,8 +147,8 @@ H       0.1826   0.2002    0.047     H
 H       0.1826   0.2002   0.5702     H
 H       0.1826   0.5702    0.047     H
 H       0.1826   0.5702   0.2002     H
-Cd     0.18964     -0.0  0.31036    Cd
-Cd     0.18964     -0.0      0.5    Cd
+Cd     0.18964      0.0  0.31036    Cd
+Cd     0.18964      0.0      0.5    Cd
 Cd     0.18964  0.31036      0.0    Cd
 Cd     0.18964  0.31036      0.5    Cd
 Cd     0.18964      0.5      0.0    Cd
@@ -641,8 +641,8 @@ H       0.8095   0.8453   0.3551     H
 H       0.8095   0.8453   0.9901     H
 H       0.8095   0.9901   0.3551     H
 H       0.8095   0.9901   0.8453     H
-Cd     0.81036     -0.0      0.5    Cd
-Cd     0.81036     -0.0  0.68964    Cd
+Cd     0.81036      0.0      0.5    Cd
+Cd     0.81036      0.0  0.68964    Cd
 Cd     0.81036      0.5      0.0    Cd
 Cd     0.81036      0.5  0.68964    Cd
 Cd     0.81036  0.68964      0.0    Cd
@@ -770,4 +770,4 @@ H       0.9381   0.7725   0.3663     H
 H       0.9381   0.7725   0.9231     H
 H       0.9381   0.9231   0.3663     H
 H       0.9381   0.9231   0.7725     H
-Cd         1.0  0.68964  0.31036    Cd
+Cd         1.0      0.0  0.31036    Cd

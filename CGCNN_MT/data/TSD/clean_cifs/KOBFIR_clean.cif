@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/KOBFIR_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\KOBFIR_clean'
 _cell_length_a 12.67510
 _cell_length_b 12.67510
 _cell_length_c 32.24300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -81,8 +81,8 @@ H      0.30907  0.33323  0.15163     H
 H      0.30917  0.97573  0.51503     H
 C      0.31937  0.26573  0.15793     C
 H      0.33323  0.02417  0.84837     H
-Cd     0.33333  0.66667  0.16667    Cd
-Cd     0.33333  0.66667  0.66667    Cd
+Cd    0.33333333 0.66666667  0.16667    Cd
+Cd    0.33333333 0.66666667 0.66666667    Cd
 H      0.33343  0.30917  0.48497     H
 C       0.3473   0.0676   0.1754     C
 H       0.3575   0.3576   0.8183     H
@@ -143,8 +143,8 @@ H       0.6424   0.9999   0.8183     H
 H       0.6425   0.6424   0.1817     H
 C       0.6527   0.9324   0.8246     C
 H      0.66657  0.69083  0.51503     H
-Cd     0.66667  0.33333  0.33333    Cd
-Cd     0.66667  0.33333  0.83333    Cd
+Cd    0.66666667 0.33333333 0.33333333    Cd
+Cd    0.66666667 0.33333333  0.83333    Cd
 H      0.66677  0.97583  0.15163     H
 C      0.68063  0.73427  0.84207     C
 H      0.69083  0.02427  0.48497     H

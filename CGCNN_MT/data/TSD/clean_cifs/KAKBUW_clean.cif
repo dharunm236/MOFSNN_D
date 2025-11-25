@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/KAKBUW_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\KAKBUW_clean'
 _cell_length_a 28.28100
 _cell_length_b 20.84900
 _cell_length_c 30.69900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -713,8 +713,8 @@ H        0.666   0.4773   0.6295     H
 H        0.666   0.5227   0.1295     H
 C       0.6662   0.3888   0.1825     C
 C       0.6662   0.6112   0.6825     C
-C       0.6666   0.4489   0.2502     C
-C       0.6666   0.5511   0.7502     C
+C     0.66666667   0.4489   0.2502     C
+C     0.66666667   0.5511   0.7502     C
 H       0.6688   0.1485   0.8975     H
 H       0.6688   0.8515   0.3975     H
 C       0.6702   0.1331   0.1412     C

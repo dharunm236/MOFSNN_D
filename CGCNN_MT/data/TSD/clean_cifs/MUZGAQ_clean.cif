@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/MUZGAQ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\MUZGAQ_clean'
 _cell_length_a 21.10700
 _cell_length_b 21.18500
 _cell_length_c 36.32300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -636,7 +636,7 @@ O       0.6938   0.4935   0.1807     O
 C       0.6945   0.5039   0.4337     C
 C       0.6948   0.7608   0.1706     C
 C       0.6985   0.6509   0.5631     C
-C       0.7017   0.3903   0.6667     C
+C       0.7017   0.3903 0.66666667     C
 H       0.7023   0.9198   0.7451     H
 H       0.7024   0.6355   0.8527     H
 C       0.7026   0.3426   0.1728     C

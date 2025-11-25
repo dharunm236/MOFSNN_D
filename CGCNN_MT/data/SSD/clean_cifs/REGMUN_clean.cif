@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/REGMUN_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\REGMUN_clean'
 _cell_length_a 13.54300
 _cell_length_b 12.33800
 _cell_length_c 40.26700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -146,7 +146,7 @@ C       0.2337   0.3143  0.60278     C
 C        0.234   0.2236  0.98128     C
 C        0.234   0.2764  0.48128     C
 C       0.2359   0.1718  0.16673     C
-C       0.2359   0.3282  0.66673     C
+C       0.2359   0.3282 0.66666667     C
 H       0.2399   0.1068   0.7647     H
 H       0.2399   0.3932   0.2647     H
 H       0.2441   0.5474   0.7733     H

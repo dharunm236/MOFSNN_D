@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/OFEHAK_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\OFEHAK_clean'
 _cell_length_a 15.12300
 _cell_length_b 17.48140
 _cell_length_c 17.48140
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -124,7 +124,7 @@ H       0.4611   0.0116     0.84     H
 C       0.4654   0.1022   0.7494     C
 H       0.4714   0.7378   0.2736     H
 H       0.4727     0.34   0.9884     H
-O       0.4774   0.6666   0.4856     O
+O       0.4774 0.66666667   0.4856     O
 C       0.4826   0.7221   0.2211     C
 C       0.4839   0.3245   0.9359     C
 C       0.5161   0.6755   0.0641     C
@@ -204,7 +204,7 @@ N       0.8239   0.1948    0.563     N
 C        0.844    0.428    0.802     C
 H       0.8478   0.4818   0.7808     H
 O       0.8548   0.9504   0.9218     O
-O        0.856   0.0144   0.6666     O
+O        0.856   0.0144 0.66666667     O
 C         0.86   0.0003   0.7359     C
 C       0.8603   0.2359   0.9997     C
 C       0.8702   0.7261   0.3193     C

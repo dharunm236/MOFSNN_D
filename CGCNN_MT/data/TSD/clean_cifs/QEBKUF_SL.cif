@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/QEBKUF_SL'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\QEBKUF_SL'
 _cell_length_a 31.03680
 _cell_length_b 31.03680
 _cell_length_c 31.03680
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,8 +19,8 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-C          0.0     -0.0      0.0     C
-C         -0.0   0.9796    0.562     C
+C          0.0      0.0      0.0     C
+C          0.0   0.9796    0.562     C
 C      0.00185  0.21386  0.05941     C
 H       0.0036   0.9776    0.592     H
 C      0.00366  0.13379  0.98085     C
@@ -542,7 +542,7 @@ O      0.55767  0.82893    0.603     O
 C       0.5605     0.77   0.9679     C
 O      0.56072  0.81272  0.46672     O
 H       0.5615   0.2212   0.8809     H
-C        0.562      0.0   0.9796     C
+C        0.562      1.0   0.9796     C
 O      0.56272  0.81072  0.96672     O
 H       0.5632   0.9665   0.2235     H
 H        0.564   0.0512    0.952     H

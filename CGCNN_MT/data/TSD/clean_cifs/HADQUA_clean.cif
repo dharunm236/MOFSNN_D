@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HADQUA_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HADQUA_clean'
 _cell_length_a 23.53030
 _cell_length_b 23.53030
 _cell_length_c 23.53030
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -177,7 +177,7 @@ H       0.2679   0.5729    0.781     H
 N      0.26884  0.09335  0.02657     N
 H       0.2702    0.333   0.4592     H
 C       0.2703   0.6515   0.9652     C
-Zn     0.27414     -0.0     -0.0    Zn
+Zn     0.27414      0.0      0.0    Zn
 C       0.2762   0.0541   0.3373     C
 N       0.2772   0.8502   0.1966     N
 C       0.2777   0.6287   0.9074     C
@@ -472,7 +472,7 @@ H       0.7679    0.781   0.5729     H
 N      0.76884  0.02657  0.09335     N
 H       0.7702   0.4592    0.333     H
 C       0.7703   0.9652   0.6515     C
-Zn     0.77414     -0.0      1.0    Zn
+Zn     0.77414      0.0      0.0    Zn
 C       0.7762   0.3373   0.0541     C
 N       0.7772   0.1966   0.8502     N
 C       0.7777   0.9074   0.6287     C

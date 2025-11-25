@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/XEDGIY_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\XEDGIY_clean'
 _cell_length_a 14.30600
 _cell_length_b 19.50900
 _cell_length_c 36.48200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -413,8 +413,8 @@ C       0.6586   0.1632  0.59619     C
 C       0.6586   0.3368  0.09619     C
 O       0.6636   0.6119  0.16116     O
 O       0.6636   0.8881  0.66116     O
-O       0.6667   0.0771  0.33428     O
-O       0.6667   0.4229  0.83428     O
+O     0.66666667   0.0771  0.33428     O
+O     0.66666667   0.4229  0.83428     O
 H       0.6718   0.7293    0.985     H
 H       0.6718   0.7707    0.485     H
 O       0.6744  0.59395  0.84826     O

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/YOYRIP_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\YOYRIP_clean'
 _cell_length_a 17.20300
 _cell_length_b 17.20300
 _cell_length_c 14.04500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -91,8 +91,8 @@ C       0.3291    0.429   0.0382     C
 C       0.3291   0.9001   0.4618     C
 N         0.33   0.5568   0.9888     N
 N         0.33   0.7732   0.5112     N
-Mn     0.33333  0.66667  0.60599    Mn
-Mn     0.33333  0.66667  0.89401    Mn
+Mn    0.33333333 0.66666667  0.60599    Mn
+Mn    0.33333333 0.66666667  0.89401    Mn
 C       0.3377   0.0373   0.9572     C
 C       0.3377   0.3004   0.5428     C
 O      0.35688  0.57346  0.68241     O
@@ -189,8 +189,8 @@ O      0.64312  0.21658  0.18241     O
 O      0.64312  0.42654  0.31759     O
 C       0.6623   0.6996   0.4572     C
 C       0.6623   0.9627   0.0428     C
-Mn     0.66667  0.33333  0.10599    Mn
-Mn     0.66667  0.33333  0.39401    Mn
+Mn    0.66666667 0.33333333  0.10599    Mn
+Mn    0.66666667 0.33333333  0.39401    Mn
 N         0.67   0.2268   0.4888     N
 N         0.67   0.4432   0.0112     N
 C       0.6709   0.0999   0.5382     C

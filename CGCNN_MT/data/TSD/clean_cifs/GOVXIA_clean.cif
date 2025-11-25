@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/GOVXIA_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\GOVXIA_clean'
 _cell_length_a 13.62570
 _cell_length_b 25.26750
 _cell_length_c 16.81850
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -291,8 +291,8 @@ C      0.65371  0.00917  0.62215     C
 C      0.65371  0.49083  0.12215     C
 N      0.66405  0.73303  0.61883     N
 N      0.66405  0.76697  0.11883     N
-O      0.66672  0.71147  0.79831     O
-O      0.66672  0.78853  0.29831     O
+O     0.66666667  0.71147  0.79831     O
+O     0.66666667  0.78853  0.29831     O
 H       0.6706   0.6276   0.9927     H
 H       0.6706   0.8724   0.4927     H
 C      0.67195  0.71878  0.48005     C

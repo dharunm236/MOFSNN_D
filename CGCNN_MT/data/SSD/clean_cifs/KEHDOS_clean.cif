@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/KEHDOS_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\KEHDOS_clean'
 _cell_length_a  6.51920
 _cell_length_b 15.48180
 _cell_length_c 16.99130
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -75,7 +75,7 @@ C       0.2947   0.7969   0.3862     C
 C       0.2997   0.9074    0.278     C
 N       0.3047   0.1097   0.0146     N
 H       0.3218   0.6116   0.8016     H
-H       0.3333   0.3791   0.0505     H
+H     0.33333333   0.3791   0.0505     H
 H        0.345   0.6891   0.5172     H
 H       0.3503   0.4869   0.1546     H
 N       0.3736   0.4228   0.4234     N
@@ -118,7 +118,7 @@ C       0.6083   0.8773   0.3512     C
 N       0.6264   0.5772   0.5766     N
 H       0.6497   0.5131   0.8454     H
 H        0.655   0.3109   0.4828     H
-H       0.6667   0.6209   0.9495     H
+H     0.66666667   0.6209   0.9495     H
 H       0.6782   0.3884   0.1984     H
 N       0.6953   0.8903   0.9854     N
 C       0.7003   0.0926    0.722     C

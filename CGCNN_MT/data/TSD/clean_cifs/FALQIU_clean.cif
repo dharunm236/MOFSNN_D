@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/FALQIU_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\FALQIU_clean'
 _cell_length_a  7.41470
 _cell_length_b 13.66140
 _cell_length_c 13.66140
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -65,7 +65,7 @@ C       0.2691   0.5638   0.6708     C
 C       0.3149  0.12209  0.55144     C
 C       0.3149  0.42935  0.87791     C
 C       0.3149  0.44856  0.57065     C
-Pr     0.34005  0.66667  0.33334    Pr
+Pr     0.34005 0.66666667 0.33333333    Pr
 H       0.3607   0.0674   0.2816     H
 H       0.3607   0.2142   0.9326     H
 H       0.3607   0.7184   0.7858     H
@@ -96,7 +96,7 @@ C       0.5884   0.9269   0.6511     C
 H       0.6393   0.2816   0.2142     H
 H       0.6393   0.7858   0.0674     H
 H       0.6393   0.9326   0.7184     H
-Pr     0.65995  0.33333  0.66666    Pr
+Pr     0.65995 0.33333333 0.66666667    Pr
 C       0.6851  0.55144  0.42935     C
 C       0.6851  0.57065  0.12209     C
 C       0.6851  0.87791  0.44856     C

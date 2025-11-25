@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/GOQTIR_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\GOQTIR_clean'
 _cell_length_a  8.71730
 _cell_length_b 19.42880
 _cell_length_c  9.65580
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -46,7 +46,7 @@ Cd      0.2481  0.76974  0.05894    Cd
 C       0.2754   0.1448   0.4187     C
 C       0.2754   0.3552   0.9187     C
 C       0.3573   0.0992   0.1667     C
-C       0.3573   0.4008   0.6667     C
+C       0.3573   0.4008 0.66666667     C
 O       0.3757   0.7423   0.2753     O
 O       0.3757   0.7577   0.7753     O
 H       0.3831   0.0841   0.0789     H
@@ -75,7 +75,7 @@ H       0.6169   0.5841   0.4211     H
 H       0.6169   0.9159   0.9211     H
 O       0.6243   0.2423   0.2247     O
 O       0.6243   0.2577   0.7247     O
-C       0.6427   0.5992   0.3333     C
+C       0.6427   0.5992 0.33333333     C
 C       0.6427   0.9008   0.8333     C
 C       0.7246   0.6448   0.0813     C
 C       0.7246   0.8552   0.5813     C

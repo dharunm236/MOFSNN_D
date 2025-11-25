@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/YOYZET_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\YOYZET_clean'
 _cell_length_a 26.60400
 _cell_length_b 18.11300
 _cell_length_c 18.92500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -247,7 +247,7 @@ H       0.3616      0.5   0.6716     H
 H       0.3631   0.1217   0.2445     H
 H       0.3635   0.0431   0.0601     H
 H       0.3656   0.1309   0.0708     H
-H       0.3701   0.6667    0.123     H
+H       0.3701 0.66666667    0.123     H
 H       0.3707    0.961   0.4308     H
 C       0.3721   0.0101   0.4533     C
 N       0.3748   0.4135   0.6153     N
@@ -358,7 +358,7 @@ C       0.6247   0.0993   0.4253     C
 N       0.6252   0.4135   0.3847     N
 C       0.6279   0.0101   0.5467     C
 H       0.6293    0.961   0.5692     H
-H       0.6299   0.6667    0.877     H
+H       0.6299 0.66666667    0.877     H
 H       0.6344   0.1309   0.9292     H
 H       0.6365   0.0431   0.9399     H
 H       0.6369   0.1217   0.7555     H

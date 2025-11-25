@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VOCQEJ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VOCQEJ_clean'
 _cell_length_a 14.08210
 _cell_length_b 15.24980
 _cell_length_c 18.60580
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,9 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-H          0.0   0.0137     0.75     H
 O          0.0   0.0486     0.25     O
-O          0.0   0.9514     0.75     O
 H          0.0   0.9863     0.25     H
 C       0.0009   0.2149   0.4398     C
 C       0.0009   0.7851   0.9398     C
@@ -307,3 +305,5 @@ C       0.9893   0.7969   0.8573     C
 H       0.9893   0.8295   0.4055     H
 C       0.9991   0.2149   0.0602     C
 C       0.9991   0.7851   0.5602     C
+H          1.0   0.0137     0.75     H
+O          1.0   0.9514     0.75     O

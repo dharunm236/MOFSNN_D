@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/TOWPEC_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\TOWPEC_clean'
 _cell_length_a 38.14240
 _cell_length_b 38.14240
 _cell_length_c 38.14240
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -393,7 +393,7 @@ C       0.2271   0.7026   0.1557     C
 O        0.228   0.7532   0.6646     O
 O       0.2281   0.9941   0.5828     O
 H       0.2283   0.8692   0.8775     H
-O       0.2308      0.0     -0.0     O
+O       0.2308      0.0      0.0     O
 Fe     0.23089  0.96779   0.0287    Fe
 H       0.2312   0.8777   0.3709     H
 O       0.2324     0.75   0.2514     O
@@ -1310,7 +1310,7 @@ C       0.7666   0.3493   0.8989     C
 O       0.7676     0.25   0.7486     O
 H       0.7688   0.1223   0.6291     H
 Fe     0.76911  0.03221   0.9713    Fe
-O       0.7692     -0.0     -0.0     O
+O       0.7692      0.0      0.0     O
 H       0.7717   0.1308   0.1225     H
 O       0.7719   0.0059   0.4172     O
 O        0.772   0.2468   0.3354     O

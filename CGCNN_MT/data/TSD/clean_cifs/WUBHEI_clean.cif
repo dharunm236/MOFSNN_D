@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/WUBHEI_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\WUBHEI_clean'
 _cell_length_a  6.89530
 _cell_length_b 10.12260
 _cell_length_c 20.24060
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -32,7 +32,7 @@ O      0.06816  0.61232  0.62008     O
 H       0.0766   0.5412   0.9014     H
 N      0.09459  0.63198  0.75135     N
 Sr     0.09488  0.84336   0.6814    Sr
-O       0.0977     -0.0     0.25     O
+O       0.0977      0.0     0.25     O
 C       0.1062   0.6414  0.81764     C
 H       0.1416   0.9612   0.2815     H
 C      0.16293  0.79006  0.84788     C
@@ -55,7 +55,7 @@ N      0.46261  0.36802  0.74865     N
 H       0.4646   0.5412   0.4014     H
 C       0.4648   0.3586  0.68236     C
 C      0.46757  0.49734  0.14768     C
-Sr         0.5      0.5     -0.0    Sr
+Sr         0.5      0.5      0.0    Sr
 C      0.53243  0.50266  0.85232     C
 C       0.5352   0.6414  0.31764     C
 H       0.5354   0.4588   0.5986     H
@@ -78,7 +78,7 @@ O      0.82144  0.19248  0.09021     O
 C      0.83707  0.20994  0.15212     C
 H       0.8584   0.0388   0.7185     H
 C       0.8938   0.3586  0.18236     C
-O       0.9023     -0.0     0.75     O
+O       0.9023      0.0     0.75     O
 Sr     0.90512  0.15664  0.31859    Sr
 N      0.90541  0.36802  0.24865     N
 H       0.9234   0.4588   0.0986     H

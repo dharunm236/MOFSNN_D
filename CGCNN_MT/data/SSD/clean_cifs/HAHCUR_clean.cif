@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/HAHCUR_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\HAHCUR_clean'
 _cell_length_a 19.75000
 _cell_length_b 22.19470
 _cell_length_c 11.63340
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -149,8 +149,8 @@ H       0.4355   0.3103   0.5571     H
 H       0.4355   0.6897   0.5571     H
 H        0.454   0.3649   0.3525     H
 H        0.454   0.6351   0.3525     H
-C       0.4604   0.3333   0.3059     C
-C       0.4604   0.6667   0.3059     C
+C       0.4604 0.33333333   0.3059     C
+C       0.4604 0.66666667   0.3059     C
 C       0.4612   0.2543   0.7095     C
 C       0.4612   0.7457   0.7095     C
 C       0.4726    0.301   0.6395     C
@@ -167,8 +167,8 @@ C       0.5274    0.301   0.3605     C
 C       0.5274    0.699   0.3605     C
 C       0.5388   0.2543   0.2905     C
 C       0.5388   0.7457   0.2905     C
-C       0.5396   0.3333   0.6941     C
-C       0.5396   0.6667   0.6941     C
+C       0.5396 0.33333333   0.6941     C
+C       0.5396 0.66666667   0.6941     C
 H        0.546   0.3649   0.6475     H
 H        0.546   0.6351   0.6475     H
 H       0.5645   0.3103   0.4429     H

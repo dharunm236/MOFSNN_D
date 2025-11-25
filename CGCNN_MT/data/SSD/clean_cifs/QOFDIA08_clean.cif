@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/QOFDIA08_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\QOFDIA08_clean'
 _cell_length_a 21.96600
 _cell_length_b 16.62880
 _cell_length_c 25.53150
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -241,7 +241,7 @@ Ag     0.32195  0.25558  0.86659    Ag
 Ag     0.32195  0.74442  0.36659    Ag
 H       0.3243   0.1842   0.3453     H
 H       0.3243   0.8158   0.8453     H
-H       0.3246   0.1679   0.6667     H
+H       0.3246   0.1679 0.66666667     H
 H       0.3246   0.8321   0.1667     H
 C       0.3252   0.0412   0.4733     C
 C       0.3252   0.9588   0.9733     C
@@ -538,7 +538,7 @@ Ag     0.82195  0.75558  0.86659    Ag
 H       0.8243   0.3158   0.8453     H
 H       0.8243   0.6842   0.3453     H
 H       0.8246   0.3321   0.1667     H
-H       0.8246   0.6679   0.6667     H
+H       0.8246   0.6679 0.66666667     H
 C       0.8252   0.4588   0.9733     C
 C       0.8252   0.5412   0.4733     C
 C       0.8274   0.2908   0.2425     C

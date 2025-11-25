@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/OYERIV_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\OYERIV_clean'
 _cell_length_a 22.04500
 _cell_length_b 22.04500
 _cell_length_c 21.76800
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -115,8 +115,8 @@ H       0.3328   0.3939   0.0108     H
 H       0.3328   0.3939   0.4892     H
 H       0.3328   0.9389   0.5108     H
 H       0.3328   0.9389   0.9892     H
-O      0.33333  0.66667     0.25     O
-O      0.33333  0.66667     0.75     O
+O     0.33333333 0.66666667     0.25     O
+O     0.33333333 0.66666667     0.75     O
 Cr     0.33483  0.58089     0.25    Cr
 Cr     0.33483  0.75394     0.75    Cr
 H       0.3667   0.1399   0.0319     H
@@ -273,8 +273,8 @@ H       0.6333   0.8601   0.5319     H
 H       0.6333   0.8601   0.9681     H
 Cr     0.66517  0.24606     0.25    Cr
 Cr     0.66517  0.41911     0.75    Cr
-O      0.66667  0.33333     0.25     O
-O      0.66667  0.33333     0.75     O
+O     0.66666667 0.33333333     0.25     O
+O     0.66666667 0.33333333     0.75     O
 H       0.6672   0.0611   0.0108     H
 H       0.6672   0.0611   0.4892     H
 H       0.6672   0.6061   0.5108     H

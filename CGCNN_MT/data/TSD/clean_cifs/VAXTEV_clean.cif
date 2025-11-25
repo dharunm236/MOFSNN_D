@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VAXTEV_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VAXTEV_clean'
 _cell_length_a 23.68100
 _cell_length_b  9.69280
 _cell_length_c 35.38900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -199,8 +199,8 @@ H       0.3211   0.2976    0.863     H
 H       0.3211   0.7024    0.363     H
 C       0.3252   0.3917  0.81252     C
 C       0.3252   0.6083  0.31252     C
-C       0.3333   0.2104  0.13849     C
-C       0.3333   0.7896  0.63849     C
+C     0.33333333   0.2104  0.13849     C
+C     0.33333333   0.7896  0.63849     C
 C       0.3346   0.4777  0.25114     C
 C       0.3346   0.5223  0.75114     C
 C       0.3357   0.3739  0.85087     C
@@ -397,8 +397,8 @@ C       0.6643   0.3739  0.64913     C
 C       0.6643   0.6261  0.14913     C
 C       0.6654   0.4777  0.24886     C
 C       0.6654   0.5223  0.74886     C
-C       0.6667   0.2104  0.36151     C
-C       0.6667   0.7896  0.86151     C
+C     0.66666667   0.2104  0.36151     C
+C     0.66666667   0.7896  0.86151     C
 C       0.6748   0.3917  0.68748     C
 C       0.6748   0.6083  0.18748     C
 H       0.6789   0.2976    0.637     H

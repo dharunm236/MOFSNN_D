@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/LOQLIN_SL'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\LOQLIN_SL'
 _cell_length_a 21.18690
 _cell_length_b 21.18690
 _cell_length_c  6.74230
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,10 +19,10 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Ga        -0.0      0.0      0.0    Ga
-Ga        -0.0      0.0      0.5    Ga
-Ga        -0.0      0.5      0.0    Ga
-Ga        -0.0      0.5      0.5    Ga
+Ga         0.0      0.0      0.0    Ga
+Ga         0.0      0.0      0.5    Ga
+Ga         0.0      0.5      0.0    Ga
+Ga         0.0      0.5      0.5    Ga
 O      0.01878  0.90496  0.08944     O
 O      0.01878  0.90496  0.41056     O
 C      0.02013  0.87481     0.25     C

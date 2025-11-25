@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/FEWQOP_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\FEWQOP_clean'
 _cell_length_a  6.99970
 _cell_length_b 16.05970
 _cell_length_c 16.05970
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -38,7 +38,7 @@ C       0.1457   0.2722    0.973     C
 C       0.1626   0.6799   0.9662     C
 N       0.1633   0.4253   0.9662     N
 O       0.1701   0.9548   0.4319     O
-O      0.17533      0.0     -0.0     O
+O      0.17533      0.0      0.0     O
 H        0.176   0.7131   0.4066     H
 Gd     0.21159  0.93372  0.15324    Gd
 O       0.2153   0.6133   0.9548     O
@@ -64,7 +64,7 @@ H       0.4629   0.8803   0.7131     H
 O       0.4699   0.0796    0.822     O
 O       0.4774   0.7011   0.2434     O
 C       0.4827   0.3539   0.6799     C
-O          0.5      0.0     -0.0     O
+O          0.5      0.0      0.0     O
 Cu         0.5      0.5      0.5    Cu
 C       0.5173   0.6461   0.3201     C
 O       0.5226   0.2989   0.7566     O
@@ -91,7 +91,7 @@ O       0.7763   0.0555   0.7011     O
 O       0.7847   0.3867   0.0452     O
 Gd     0.78841  0.06628  0.84676    Gd
 H        0.824   0.2869   0.5934     H
-O      0.82467      0.0     -0.0     O
+O      0.82467      0.0      0.0     O
 O       0.8299   0.0452   0.5681     O
 N       0.8367   0.5747   0.0338     N
 C       0.8374   0.3201   0.0338     C

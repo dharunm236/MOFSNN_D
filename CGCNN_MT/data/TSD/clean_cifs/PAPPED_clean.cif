@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/PAPPED_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\PAPPED_clean'
 _cell_length_a 12.92920
 _cell_length_b 12.92920
 _cell_length_c 20.10390
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Cu         0.0  0.62047  0.66667    Cu
+Cu         0.0  0.62047 0.66666667    Cu
 C       0.0075   0.6084  0.04121     C
 H       0.0119   0.6056   0.3395     H
 C       0.0134   0.5012  0.06958     C
@@ -109,7 +109,7 @@ H       0.3616   0.9691  0.70993     H
 C       0.3756   0.9144  0.36168     C
 H       0.3759   0.2966   0.7889     H
 C       0.3794   0.2888   0.7416     C
-Cu     0.37953  0.37953  0.33333    Cu
+Cu     0.37953  0.37953 0.33333333    Cu
 C       0.3803   0.8967  0.93958     C
 N       0.3832   0.1563  0.55105     N
 N       0.3915   0.9643  0.29491     N
@@ -190,7 +190,7 @@ C       0.6084   0.0075  0.62545     C
 N       0.6085   0.5728  0.03843     N
 N       0.6168   0.7731  0.78228     N
 C       0.6197   0.5164  0.39375     C
-Cu     0.62047      1.0      0.0    Cu
+Cu     0.62047      0.0      0.0    Cu
 C       0.6206   0.9094  0.59173     C
 H       0.6241   0.9207  0.54443     H
 C       0.6244   0.5388  0.97166     C

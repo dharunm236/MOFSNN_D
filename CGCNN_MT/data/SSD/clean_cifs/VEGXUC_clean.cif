@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/VEGXUC_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\VEGXUC_clean'
 _cell_length_a  7.08500
 _cell_length_b 16.40400
 _cell_length_c 31.76600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -211,8 +211,8 @@ H       0.6171   0.0345   0.0927     H
 H       0.6171   0.5345   0.4073     H
 F       0.6495  0.33134  0.19708     F
 F       0.6495  0.83134  0.30292     F
-F       0.6666  0.43203  0.27355     F
-F       0.6666  0.93203  0.22645     F
+F     0.66666667  0.43203  0.27355     F
+F     0.66666667  0.93203  0.22645     F
 H       0.6728   0.3188    0.105     H
 H       0.6728   0.8188    0.395     H
 C       0.6742   0.1648   0.8153     C

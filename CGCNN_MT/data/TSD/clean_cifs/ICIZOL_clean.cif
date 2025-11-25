@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ICIZOL_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ICIZOL_clean'
 _cell_length_a  9.31600
 _cell_length_b 11.91700
 _cell_length_c 25.51500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -59,7 +59,7 @@ H       0.1554   0.4598   0.5597     H
 H       0.1554   0.5402   0.0597     H
 O       0.1617   0.4309   0.7195     O
 O       0.1617   0.5691   0.2195     O
-H       0.1703   0.2766   0.3333     H
+H       0.1703   0.2766 0.33333333     H
 H       0.1703   0.7234   0.8333     H
 C       0.1804   0.0635   0.2515     C
 C       0.1804   0.9365   0.7515     C

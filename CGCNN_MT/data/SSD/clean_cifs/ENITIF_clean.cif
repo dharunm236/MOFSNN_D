@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ENITIF_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ENITIF_clean'
 _cell_length_a 13.70100
 _cell_length_b 14.34410
 _cell_length_c 24.53470
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -127,8 +127,8 @@ H       0.4875   0.9918   0.2628     H
 C      0.49613  0.83104   0.6611     C
 O      0.49789  0.28136  0.97366     O
 C      0.49924  0.72782   0.5939     C
+Zn         0.5      0.0      0.0    Zn
 Zn         0.5      0.5      0.5    Zn
-Zn         0.5      1.0      0.0    Zn
 C      0.50076  0.27218   0.4061     C
 O      0.50211  0.71864  0.02634     O
 C      0.50387  0.16896   0.3389     C

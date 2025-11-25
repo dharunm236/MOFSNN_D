@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/HAKSEU_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\HAKSEU_clean'
 _cell_length_a 13.86180
 _cell_length_b 13.86180
 _cell_length_c 18.50790
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -62,7 +62,7 @@ C       0.2504   0.1252    0.307     C
 H       0.2758   0.1379   0.1455     H
 H       0.2758   0.1379   0.3545     H
 N       0.3176   0.1588     0.25     N
-O      0.33333  0.66667     0.75     O
+O     0.33333333 0.66666667     0.75     O
 H       0.3338   0.3784    0.555     H
 H       0.3338   0.3784    0.945     H
 H       0.3338   0.9554    0.555     H
@@ -129,7 +129,7 @@ H       0.6662   0.0446    0.055     H
 H       0.6662   0.0446    0.445     H
 H       0.6662   0.6216    0.055     H
 H       0.6662   0.6216    0.445     H
-O      0.66667  0.33333     0.25     O
+O     0.66666667 0.33333333     0.25     O
 N       0.6824   0.8412     0.75     N
 H       0.7242   0.8621   0.6455     H
 H       0.7242   0.8621   0.8545     H

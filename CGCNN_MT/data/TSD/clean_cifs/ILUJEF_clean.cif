@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ILUJEF_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ILUJEF_clean'
 _cell_length_a 15.30920
 _cell_length_b 15.30920
 _cell_length_c 15.34600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -81,8 +81,8 @@ C       0.3214   0.1069   0.3061     C
 C       0.3214   0.1069   0.6939     C
 C       0.3214   0.2145   0.1939     C
 C       0.3214   0.2145   0.8061     C
-Sm     0.33333  0.66666     0.25    Sm
-Sm     0.33333  0.66666     0.75    Sm
+Sm    0.33333333 0.66666667     0.25    Sm
+Sm    0.33333333 0.66666667     0.75    Sm
 C       0.3541     0.49   0.3616     C
 C       0.3541     0.49   0.6384     C
 C       0.3541   0.8641   0.1384     C
@@ -113,8 +113,8 @@ C         0.49   0.1359   0.3616     C
 C         0.49   0.1359   0.6384     C
 C         0.49   0.3541   0.1384     C
 C         0.49   0.3541   0.8616     C
-Co         0.5     -0.0      0.0    Co
-Co         0.5     -0.0      0.5    Co
+Co         0.5      0.0      0.0    Co
+Co         0.5      0.0      0.5    Co
 Co         0.5      0.5      0.5    Co
 Co         0.5      0.5      1.0    Co
 C         0.51   0.6459   0.1384     C
@@ -147,8 +147,8 @@ C       0.6459   0.1359   0.1384     C
 C       0.6459   0.1359   0.8616     C
 C       0.6459     0.51   0.3616     C
 C       0.6459     0.51   0.6384     C
-Sm     0.66667  0.33334     0.25    Sm
-Sm     0.66667  0.33334     0.75    Sm
+Sm    0.66666667 0.33333333     0.25    Sm
+Sm    0.66666667 0.33333333     0.75    Sm
 C       0.6786   0.7855   0.1939     C
 C       0.6786   0.7855   0.8061     C
 C       0.6786   0.8931   0.3061     C

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/LOSXIC_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\LOSXIC_clean'
 _cell_length_a 15.68300
 _cell_length_b 15.68300
 _cell_length_c 11.55260
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-In         0.0      0.5  0.66667    In
+In         0.0      0.5 0.66666667    In
 O       0.0655    0.428   0.7757     O
 O       0.0655   0.6375  0.55763     O
 N       0.1024    0.321    0.913     N
@@ -69,7 +69,7 @@ C       0.4931   0.8742  0.84367     C
 C       0.4962    0.688  0.57707     C
 C       0.4962   0.8082  0.75627     C
 In         0.5      0.0      0.0    In
-In         0.5      0.5  0.33333    In
+In         0.5      0.5 0.33333333    In
 C       0.5038   0.1918  0.75627     C
 C       0.5038    0.312  0.57707     C
 C       0.5069   0.1258  0.84367     C

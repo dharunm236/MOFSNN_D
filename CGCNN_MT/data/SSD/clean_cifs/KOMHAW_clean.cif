@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/KOMHAW_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\KOMHAW_clean'
 _cell_length_a  9.04360
 _cell_length_b  9.73080
 _cell_length_c 17.39160
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -93,7 +93,7 @@ H       0.6882    0.018   0.0674     H
 H       0.6983   0.3348    0.282     H
 N      0.69888   0.5841  0.18836     N
 N      0.73287   0.7662  0.68874     N
-C       0.7368     0.75     -0.0     C
+C       0.7368     0.75      0.0     C
 N      0.74713   0.7066  0.75906     N
 N      0.76849   0.5069  0.25058     N
 H       0.7733    0.211   0.6006     H

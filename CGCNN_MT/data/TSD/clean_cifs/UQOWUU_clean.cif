@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/UQOWUU_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\UQOWUU_clean'
 _cell_length_a 13.98760
 _cell_length_b 13.98760
 _cell_length_c 16.30930
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -68,8 +68,8 @@ H       0.2773   0.0896   0.9334     H
 N       0.3088   0.7791   0.5565     N
 N       0.3088   0.7791   0.9435     N
 C       0.3287   0.9287     0.25     C
-Cu     0.33333  0.66667  0.63032    Cu
-Cu     0.33333  0.66667  0.86968    Cu
+Cu    0.33333333 0.66666667  0.63032    Cu
+Cu    0.33333333 0.66666667  0.86968    Cu
 N       0.3473   0.9256   0.0137     N
 N       0.3473   0.9256   0.4863     N
 N       0.3546   0.5545   0.7099     N
@@ -128,8 +128,8 @@ N       0.6454   0.4455   0.2099     N
 N       0.6454   0.4455   0.2901     N
 N       0.6527   0.0744   0.5137     N
 N       0.6527   0.0744   0.9863     N
-Cu     0.66667  0.33333  0.13032    Cu
-Cu     0.66667  0.33333  0.36968    Cu
+Cu    0.66666667 0.33333333  0.13032    Cu
+Cu    0.66666667 0.33333333  0.36968    Cu
 C       0.6713   0.0713     0.75     C
 N       0.6912   0.2209   0.0565     N
 N       0.6912   0.2209   0.4435     N

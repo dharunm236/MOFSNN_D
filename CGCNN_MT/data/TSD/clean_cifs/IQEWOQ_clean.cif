@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/IQEWOQ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\IQEWOQ_clean'
 _cell_length_a 10.24800
 _cell_length_b 11.71500
 _cell_length_c 15.15900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,7 +20,7 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Mn         0.0      0.0      0.0    Mn
-Mn         0.0      0.5     -0.0    Mn
+Mn         0.0      0.5      0.0    Mn
 O       0.0118   0.3724  0.78529     O
 O       0.0144   0.5365  0.86213     O
 C       0.0242   0.4796   0.7941     C
@@ -73,8 +73,8 @@ O       0.4746   0.8125  0.48059     O
 C       0.4758   0.9796   0.2941     C
 O       0.4856   0.0365  0.36213     O
 O       0.4882   0.8724  0.28529     O
-Mn         0.5      0.0      0.5    Mn
 Mn         0.5      0.5      0.5    Mn
+Mn         0.5      1.0      0.5    Mn
 O       0.5118   0.1276  0.71471     O
 O       0.5144   0.9635  0.63787     O
 C       0.5242   0.0204   0.7059     C

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/GAJZUO_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\GAJZUO_clean'
 _cell_length_a  5.52340
 _cell_length_b 13.34900
 _cell_length_c 20.58600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -96,7 +96,7 @@ H       0.7698   0.8071   0.2539     H
 C       0.7843    0.736   0.2453     C
 C       0.7843    0.764   0.7453     C
 C       0.8111   0.0369   0.1666     C
-C       0.8111   0.4631   0.6666     C
+C       0.8111   0.4631 0.66666667     C
 C       0.8558   0.7216   0.1768     C
 C       0.8558   0.7784   0.6768     C
 O       0.8774   0.0496   0.9093     O

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/PODKOK_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\PODKOK_clean'
 _cell_length_a 34.68530
 _cell_length_b 34.68530
 _cell_length_c 35.26960
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -91,7 +91,7 @@ N      0.06418  0.17378  0.53176     N
 C       0.0646   0.3509   0.7524     C
 C      0.06579  0.76496  0.06984     C
 C      0.06631  0.74498  0.78576     C
-Cu     0.06661  0.78327     -0.0    Cu
+Cu     0.06661  0.78327      0.0    Cu
 C       0.0678   0.2522   0.5912     C
 C       0.0679    0.434    0.753     C
 C      0.07256  0.37496  0.11832     C
@@ -272,7 +272,7 @@ C      0.28823  0.20963  0.11916     C
 H        0.289   0.0439    0.635     H
 C       0.2892   0.5842   0.6794     C
 H       0.2899   0.5981   0.7106     H
-Cu     0.29021  0.08862     -0.0    Cu
+Cu     0.29021  0.08862      0.0    Cu
 H       0.2903   0.6678   0.2462     H
 H       0.2904   0.0598   0.1342     H
 N      0.29363  0.04224  0.46248     N

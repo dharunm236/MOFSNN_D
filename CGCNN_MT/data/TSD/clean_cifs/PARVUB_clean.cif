@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/PARVUB_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\PARVUB_clean'
 _cell_length_a 10.52350
 _cell_length_b 19.09000
 _cell_length_c 23.34910
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -26,7 +26,7 @@ C       0.0101   0.8096   0.1106     C
 C      0.01112  0.63037  0.57504     C
 O       0.0153   0.6956   0.8866     O
 C      0.01613  0.90283  0.26606     C
-Co     0.01766     0.75      1.0    Co
+Co     0.01766     0.75      0.0    Co
 H       0.0198   0.1203    0.309     H
 H       0.0246   0.3505    0.393     H
 C      0.02481   0.6224  0.47242     C
@@ -413,7 +413,7 @@ H       0.9736    0.444   0.6614     H
 C      0.97519   0.3776  0.52758     C
 H       0.9754   0.6495    0.607     H
 H       0.9802   0.8797    0.691     H
-Co     0.98234     0.25     -0.0    Co
+Co     0.98234     0.25      0.0    Co
 C      0.98387  0.09717  0.73394     C
 O       0.9847   0.3044   0.1134     O
 C      0.98888  0.36963  0.42496     C

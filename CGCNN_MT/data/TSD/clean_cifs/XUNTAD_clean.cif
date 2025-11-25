@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/XUNTAD_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\XUNTAD_clean'
 _cell_length_a 10.41750
 _cell_length_b  9.59220
 _cell_length_c 15.28770
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -54,7 +54,7 @@ C      0.29002  0.53523  0.95802     C
 C      0.29123    0.733  0.20738     C
 N      0.29318  0.12977  0.58027     N
 H       0.2984   0.1382   0.1998     H
-H       0.3199   0.3333   0.9989     H
+H       0.3199 0.33333333   0.9989     H
 O      0.32559  0.61756  0.51681     O
 O      0.33254  0.92285  0.07269     O
 Li     0.33903   0.0332   0.9639    Li
@@ -95,7 +95,7 @@ Li     0.64899   0.5323  0.56624    Li
 Li     0.66097   0.9668   0.0361    Li
 O      0.66746  0.07715  0.92731     O
 O      0.67441  0.38244  0.48319     O
-H       0.6801   0.6667   0.0011     H
+H       0.6801 0.66666667   0.0011     H
 H       0.7016   0.8618   0.8002     H
 N      0.70682  0.87023  0.41973     N
 C      0.70877    0.267  0.79262     C

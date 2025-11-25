@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HEDBOJ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HEDBOJ_clean'
 _cell_length_a  8.31880
 _cell_length_b 15.85230
 _cell_length_c 21.58840
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -93,7 +93,7 @@ O       0.6014   0.6082   0.1248     O
 C       0.6068   0.4531   0.4358     C
 O       0.6116   0.5991   0.3342     O
 O       0.6178    0.408   0.1254     O
-O       0.6322   0.4069   0.3333     O
+O       0.6322   0.4069 0.33333333     O
 Ce     0.64518  0.34323  0.22753    Ce
 O       0.6577    0.883   0.3939     O
 C       0.6652   0.5953   0.0753     C
@@ -112,7 +112,7 @@ O        0.834   0.6055   0.3905     O
 C       0.8348   0.0953   0.0753     C
 O       0.8423    0.383   0.3939     O
 Ce     0.85482  0.84323  0.22753    Ce
-O       0.8678   0.9069   0.3333     O
+O       0.8678   0.9069 0.33333333     O
 O       0.8822    0.908   0.1254     O
 O       0.8884   0.0991   0.3342     O
 C       0.8932   0.9531   0.4358     C

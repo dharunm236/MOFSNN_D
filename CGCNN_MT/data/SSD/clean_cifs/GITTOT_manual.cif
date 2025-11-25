@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/GITTOT_manual'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\GITTOT_manual'
 _cell_length_a 14.68680
 _cell_length_b 14.68680
 _cell_length_c 14.68680
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,10 +19,6 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-C          0.0   0.3214     0.51     C
-C          0.0     0.37   0.6168     C
-C          0.0     0.51   0.3214     C
-C          0.0   0.6168     0.37     C
 H      0.02356  0.50415  0.25396     H
 H      0.03687  0.26431  0.51028     H
 H      0.05231  0.39141  0.50087     H
@@ -59,12 +55,12 @@ H      0.30435  0.92212  0.43892     H
 C       0.3202   0.5307   0.5855     C
 C       0.3202   0.5855   0.5307     C
 C       0.3214      0.0     0.51     C
-C       0.3214     0.51     -0.0     C
+C       0.3214     0.51      0.0     C
 N       0.3481   0.6216   0.9069     N
 N       0.3481   0.9069   0.6216     N
 H      0.35508  0.47164  0.57397     H
 H      0.35508  0.57397  0.47164     H
-C         0.37     -0.0   0.6168     C
+C         0.37      0.0   0.6168     C
 C         0.37   0.6168      0.0     C
 N       0.3784   0.2853   0.7265     N
 N       0.3784   0.7265   0.2853     N
@@ -94,8 +90,8 @@ Co         0.5     0.25     0.75    Co
 Co         0.5     0.75     0.25    Co
 H      0.50257  0.02021  0.25164     H
 H      0.50876  0.06552  0.38904     H
-C         0.51     -0.0   0.3214     C
-C         0.51   0.3214     -0.0     C
+C         0.51      0.0   0.3214     C
+C         0.51   0.3214      0.0     C
 H      0.51259  0.74757  0.50211     H
 H      0.52002  0.37756  0.08233     H
 H      0.52836  0.10233  0.88344     H
@@ -157,3 +153,7 @@ H      0.91082  0.27132   0.4372     H
 H      0.91333  0.43692  0.28333     H
 C       0.9452   0.4145   0.7347     C
 C       0.9452   0.7347   0.4145     C
+C          1.0   0.3214     0.51     C
+C          1.0     0.37   0.6168     C
+C          1.0     0.51   0.3214     C
+C          1.0   0.6168     0.37     C

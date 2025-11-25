@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/XICNOO02_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\XICNOO02_clean'
 _cell_length_a 27.66200
 _cell_length_b 27.66200
 _cell_length_c 27.66200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -21,7 +21,7 @@ _atom_site_fract_z
 _atom_site_type_symbol
 Zr         0.0      0.0  0.41089    Zr
 Zr         0.0      0.0  0.58911    Zr
-Zr         0.0  0.41089  0.58911    Zr
+Zr         0.0  0.41089      0.0    Zr
 Zr         0.0  0.58911      0.0    Zr
 Zr         0.0  0.58911  0.41089    Zr
 H       0.0079   0.3441   0.7801     H
@@ -177,9 +177,9 @@ O      0.40373  0.66471  0.01427     O
 O      0.40373  0.66471  0.91729     O
 O      0.40373  0.91729  0.01427     O
 O      0.40373  0.91729  0.66471     O
-Zr     0.41089      0.0     -0.0    Zr
+Zr     0.41089      0.0      0.0    Zr
 Zr     0.41089      0.0  0.58911    Zr
-Zr     0.41089  0.58911     -0.0    Zr
+Zr     0.41089  0.58911      0.0    Zr
 O      0.41186   0.0448   0.0448     O
 O      0.41186   0.0448  0.49854     O
 O      0.41186  0.49854   0.0448     O
@@ -258,9 +258,9 @@ C      0.57598   0.9799  0.26642     C
 O      0.58814  0.50146   0.9552     O
 O      0.58814   0.9552  0.50146     O
 O      0.58814   0.9552   0.9552     O
-Zr     0.58911     -0.0      0.0    Zr
-Zr     0.58911     -0.0  0.41089    Zr
-Zr     0.58911  0.41089     -0.0    Zr
+Zr     0.58911      0.0      0.0    Zr
+Zr     0.58911      0.0  0.41089    Zr
+Zr     0.58911  0.41089      0.0    Zr
 O      0.59627  0.08271  0.33529     O
 O      0.59627  0.08271  0.98573     O
 O      0.59627  0.33529  0.08271     O
@@ -414,4 +414,4 @@ H       0.9921   0.2199   0.1321     H
 H       0.9921   0.2199   0.6559     H
 H       0.9921   0.6559   0.1321     H
 H       0.9921   0.6559   0.2199     H
-Zr         1.0  0.41089     -0.0    Zr
+Zr         1.0  0.41089  0.58911    Zr

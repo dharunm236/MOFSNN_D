@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/SIRBIG06_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\SIRBIG06_clean'
 _cell_length_a  8.39570
 _cell_length_b  8.39570
 _cell_length_c 21.73320
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -45,8 +45,8 @@ H       0.2999   0.2186   0.8994     H
 O      0.32193  0.86727  0.61385     O
 C       0.3244   0.1267   0.9115     C
 O        0.325   0.4622  0.11004     O
-Mg     0.33333  0.66667  0.16667    Mg
-Mg     0.33333  0.66667  0.66667    Mg
+Mg    0.33333333 0.66666667  0.16667    Mg
+Mg    0.33333333 0.66666667 0.66666667    Mg
 O      0.34167  0.87113  0.22329     O
 C      0.34227  0.20663  0.42183     C
 O      0.34473  0.46607  0.71949     O
@@ -71,8 +71,8 @@ H      0.63323  0.88527  0.56607     H
 O      0.65527  0.53393  0.28051     O
 C      0.65773  0.79337  0.57817     C
 O      0.65833  0.12887  0.77671     O
-Mg     0.66667  0.33333  0.33333    Mg
-Mg     0.66667  0.33333  0.83333    Mg
+Mg    0.66666667 0.33333333 0.33333333    Mg
+Mg    0.66666667 0.33333333  0.83333    Mg
 O        0.675   0.5378  0.88996     O
 C       0.6756   0.8733   0.0885     C
 O      0.67807  0.13273  0.38615     O

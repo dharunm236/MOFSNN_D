@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/MIBMER_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\MIBMER_clean'
 _cell_length_a 21.80000
 _cell_length_b 21.80000
 _cell_length_c 35.40700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -32,7 +32,7 @@ C       0.0088   0.7246   0.3629     C
 C       0.0092   0.2703   0.3516     C
 C       0.0144   0.6892   0.8792     C
 C       0.0183   0.3559   0.8216     C
-C       0.0202   0.6901   0.3333     C
+C       0.0202   0.6901 0.33333333     C
 H       0.0267   0.7721   0.4305     H
 C       0.0336   0.1854    0.395     C
 C       0.0394   0.2916   0.8841     C
@@ -467,7 +467,7 @@ C       0.6892   0.0144   0.1208     C
 C       0.6896   0.2815   0.2994     C
 O       0.6897    0.942   0.0249     O
 O       0.6899   0.0728   0.0166     O
-C       0.6901   0.0202   0.6667     C
+C       0.6901   0.0202 0.66666667     C
 Fe     0.69267  0.49276  0.27319    Fe
 C       0.6929   0.6375   0.1732     C
 H       0.6932   0.5036    0.158     H

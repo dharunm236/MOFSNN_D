@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/YEDLAV_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\YEDLAV_clean'
 _cell_length_a 10.17510
 _cell_length_b 10.17510
 _cell_length_c 23.77220
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -39,7 +39,7 @@ Fe      0.1639   0.7271     0.75    Fe
 O       0.2727   0.8755   0.6894     O
 O       0.2727   0.8755   0.8106     O
 Fe      0.2729   0.4368     0.75    Fe
-O      0.33333  0.66667     0.75     O
+O     0.33333333 0.66666667     0.75     O
 C        0.366   0.8469    0.549     C
 C        0.366   0.8469    0.951     C
 C       0.3692   0.9348   0.1023     C
@@ -102,7 +102,7 @@ C       0.6308   0.5656   0.6023     C
 C       0.6308   0.5656   0.8977     C
 C        0.634   0.4809    0.049     C
 C        0.634   0.4809    0.451     C
-O      0.66667  0.33333     0.25     O
+O     0.66666667 0.33333333     0.25     O
 Fe      0.7271   0.1639     0.25    Fe
 O       0.7273   0.6028   0.1894     O
 O       0.7273   0.6028   0.3106     O

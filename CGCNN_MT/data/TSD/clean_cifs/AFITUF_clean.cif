@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/AFITUF_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\AFITUF_clean'
 _cell_length_a 14.08280
 _cell_length_b 21.45180
 _cell_length_c 28.25180
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -318,7 +318,7 @@ O       0.6227   0.4485  0.44007     O
 C       0.6614   0.6618   0.7455     C
 C       0.6647   0.6956   0.7882     C
 C       0.6662   0.6319   0.7099     C
-C       0.6666   0.5913   0.6684     C
+C     0.66666667   0.5913   0.6684     C
 C       0.6735   0.7625   0.8752     C
 C       0.6765   0.8001   0.9193     C
 C       0.6798   0.6423   0.2162     C

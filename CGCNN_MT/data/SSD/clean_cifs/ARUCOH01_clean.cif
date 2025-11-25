@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ARUCOH01_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ARUCOH01_clean'
 _cell_length_a 10.06100
 _cell_length_b 25.03400
 _cell_length_c 14.69000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -202,7 +202,7 @@ O       0.6365  0.02744   0.4654     O
 C       0.6408  0.60681   0.3418     C
 H       0.6577   0.7874   0.5817     H
 H       0.6635   0.4428   0.7083     H
-H       0.6666   0.5443   0.1078     H
+H     0.66666667   0.5443   0.1078     H
 H       0.6672    0.878   0.5811     H
 H       0.6744   0.6848   0.3719     H
 O       0.6761  0.69669   0.6017     O

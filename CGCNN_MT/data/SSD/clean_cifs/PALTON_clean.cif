@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/PALTON_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\PALTON_clean'
 _cell_length_a 12.84540
 _cell_length_b 24.99590
 _cell_length_c 24.99590
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -161,7 +161,7 @@ H       0.4489   0.1729   0.6946     H
 H       0.4489   0.3054   0.8271     H
 C       0.4489   0.6942   0.8354     C
 Cu      0.4532      0.0  0.45688    Cu
-Cu      0.4532  0.54311     -0.0    Cu
+Cu      0.4532  0.54311      0.0    Cu
 H       0.4632    0.207   0.3002     H
 H       0.4632   0.6998    0.793     H
 N       0.4644   0.2303   0.6005     N
@@ -182,8 +182,8 @@ N       0.5356   0.6005   0.2303     N
 N       0.5356   0.7697   0.3995     N
 H       0.5368   0.3002    0.207     H
 H       0.5368    0.793   0.6998     H
-Cu      0.5468  0.45688     -0.0    Cu
-Cu      0.5468      1.0  0.54312    Cu
+Cu      0.5468      0.0  0.54312    Cu
+Cu      0.5468  0.45688      0.0    Cu
 C       0.5511   0.3058   0.1646     C
 H       0.5511   0.6946   0.1729     H
 H       0.5511   0.8271   0.3054     H

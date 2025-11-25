@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HIGRIA_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HIGRIA_clean'
 _cell_length_a 17.77710
 _cell_length_b 17.77710
 _cell_length_c 19.11290
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -53,8 +53,8 @@ N        0.261   0.4999     0.64     N
 H      0.28398  0.08329  0.50293     H
 N      0.31534    0.754    0.664     N
 C      0.32817    0.961    0.519     C
-Zn     0.33333  0.66666    0.735    Zn
-Co     0.33333  0.66666   0.9237    Co
+Zn    0.33333333 0.66666667    0.735    Zn
+Co    0.33333333 0.66666667   0.9237    Co
 C      0.33458    0.098    0.478     C
 C        0.345    0.859    0.591     C
 H      0.34783  0.43335   0.0892     H
@@ -137,8 +137,8 @@ H      0.65206  0.86203  0.55963     H
 H      0.65217  0.08552   0.9108     H
 C        0.655    0.514    0.409     C
 C      0.66542  0.76342    0.522     C
-Co     0.66667  0.33334   0.0763    Co
-Zn     0.66667  0.33334    0.265    Zn
+Co    0.66666667 0.33333333   0.0763    Co
+Zn    0.66666667 0.33333333    0.265    Zn
 C      0.67183  0.63283    0.481     C
 N      0.68466  0.43866    0.336     N
 H      0.71602  0.79931  0.49707     H

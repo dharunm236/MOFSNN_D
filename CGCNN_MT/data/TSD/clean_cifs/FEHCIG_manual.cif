@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/FEHCIG_manual'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\FEHCIG_manual'
 _cell_length_a 18.08020
 _cell_length_b 18.08020
 _cell_length_c 18.08020
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -105,7 +105,7 @@ C       0.4016   0.1516     0.25     C
 C       0.4041   0.3346   0.7249     C
 C        0.407   0.3077   0.4537     C
 H       0.4075   0.9487     0.05     H
-C       0.4167   0.6667     0.75     C
+C       0.4167 0.66666667     0.75     C
 H       0.4171   0.4378   0.8877     H
 C       0.4193   0.7669   0.7912     C
 C       0.4262   0.4465   0.8417     C
@@ -148,7 +148,7 @@ H       0.5671   0.6565    0.664     H
 C       0.5738   0.5535   0.1583     C
 C       0.5807   0.2331   0.2088     C
 H       0.5829   0.5622   0.1123     H
-C       0.5833   0.3333     0.25     C
+C       0.5833 0.33333333     0.25     C
 H       0.5925   0.0513     0.95     H
 C        0.593   0.6923   0.5463     C
 C       0.5959   0.6654   0.2751     C

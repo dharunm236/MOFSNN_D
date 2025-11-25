@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ADAXEK_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ADAXEK_clean'
 _cell_length_a  7.16680
 _cell_length_b  9.85240
 _cell_length_c 12.37220
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,6 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+Co         0.0      0.5      0.5    Co
 C       0.0128   0.9471   0.3698     C
 C       0.0241   0.0858   0.3686     C
 O      0.02501     0.67  0.41282     O
@@ -74,4 +75,3 @@ O      0.93674   0.6336  0.61928     O
 O      0.97499     0.33  0.58718     O
 C       0.9759   0.9142   0.6314     C
 C       0.9872   0.0529   0.6302     C
-Co         1.0      0.5      0.5    Co

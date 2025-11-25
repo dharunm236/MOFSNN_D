@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/DOKDEN_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\DOKDEN_clean'
 _cell_length_a  9.86420
 _cell_length_b 24.05880
 _cell_length_c 24.05880
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -221,7 +221,7 @@ Cu     0.91542  0.48473  0.55572    Cu
 O       0.9292   0.5465   0.4047     O
 H       0.9306   0.3451   0.4333     H
 H       0.9367   0.5241   0.0471     H
-H       0.9434   0.4963   0.6666     H
+H       0.9434   0.4963 0.66666667     H
 C       0.9566   0.6517   0.9122     C
 C        0.977   0.5647   0.0088     C
 H       0.9838   0.0471   0.4288     H

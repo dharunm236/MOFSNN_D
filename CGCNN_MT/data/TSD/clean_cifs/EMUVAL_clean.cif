@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/EMUVAL_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\EMUVAL_clean'
 _cell_length_a  9.95240
 _cell_length_b 12.67000
 _cell_length_c 16.21370
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -67,7 +67,7 @@ C       0.4453   0.6064     0.25     C
 C       0.4453   0.8936     0.75     C
 C       0.4584   0.1769   0.2658     C
 C       0.4584   0.3231   0.7658     C
-C       0.4662   0.5514   0.3333     C
+C       0.4662   0.5514 0.33333333     C
 C       0.4662   0.9486   0.8333     C
 C       0.4778   0.2464    0.335     C
 C       0.4778   0.2536    0.835     C
@@ -78,7 +78,7 @@ O       0.5163   0.3769   0.4732     O
 C       0.5222   0.7464    0.165     C
 C       0.5222   0.7536    0.665     C
 C       0.5338   0.0514   0.1667     C
-C       0.5338   0.4486   0.6667     C
+C       0.5338   0.4486 0.66666667     C
 C       0.5416   0.6769   0.2342     C
 C       0.5416   0.8231   0.7342     C
 C       0.5547   0.1064     0.25     C

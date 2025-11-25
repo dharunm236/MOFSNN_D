@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/GAHWIX_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\GAHWIX_clean'
 _cell_length_a 27.03300
 _cell_length_b 36.13000
 _cell_length_c 34.29100
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -913,7 +913,7 @@ C       0.8818   0.9521   0.7998     C
 C       0.8819  0.18717   0.2117     C
 H        0.882   0.0023   0.7826     H
 N       0.8829  0.50766  0.55185     N
-H       0.8831   0.7624   0.6666     H
+H       0.8831   0.7624 0.66666667     H
 C       0.8838   0.4496   0.6208     C
 C        0.885    0.008   0.5938     C
 C       0.8864  0.69491    0.576     C

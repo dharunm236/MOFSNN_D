@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/JAHNEM01_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\JAHNEM01_clean'
 _cell_length_a 13.60130
 _cell_length_b 13.60130
 _cell_length_c  8.14040
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -56,7 +56,7 @@ N       0.3187   0.8702   0.1043     N
 C       0.3189   0.3528   0.1595     C
 C       0.3208   0.7913   0.0556     C
 H       0.3219   0.0845   0.6539     H
-Cr     0.33333  0.66667  0.92642    Cr
+Cr    0.33333333 0.66666667  0.92642    Cr
 Mn     0.33503  0.03887  0.04316    Mn
 C       0.3446   0.2549   0.1651     C
 N       0.3459   0.2098   0.0027     N
@@ -97,7 +97,7 @@ H       0.6521   0.5173   0.7978     H
 N       0.6541   0.7902   0.5027     N
 C       0.6554   0.7451   0.6651     C
 Mn     0.66497  0.96113  0.54316    Mn
-Cr     0.66667  0.33333  0.42642    Cr
+Cr    0.66666667 0.33333333  0.42642    Cr
 H       0.6781   0.9155   0.1539     H
 C       0.6792   0.2087   0.5556     C
 C       0.6811   0.6472   0.6595     C

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/MUHNUA_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\MUHNUA_clean'
 _cell_length_a 19.00300
 _cell_length_b 19.00300
 _cell_length_c 16.91600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -149,7 +149,7 @@ C       0.3151   0.4375   0.0313     C
 C       0.3151   0.4375   0.4687     C
 Cu     0.33068  0.33294     0.25    Cu
 Cu     0.33294  0.00226     0.75    Cu
-Br     0.33333  0.66667     0.25    Br
+Br    0.33333333 0.66666667     0.25    Br
 H       0.3376   0.4735    0.513     H
 H       0.3376   0.4735    0.987     H
 N       0.3428    0.276   0.1526     N
@@ -286,7 +286,7 @@ N       0.6572    0.724   0.6526     N
 N       0.6572    0.724   0.8474     N
 H       0.6624   0.5265    0.013     H
 H       0.6624   0.5265    0.487     H
-Br     0.66667  0.33333     0.75    Br
+Br    0.66666667 0.33333333     0.75    Br
 Cu     0.66706  0.99774     0.25    Cu
 Cu     0.66932  0.66706     0.75    Cu
 C       0.6849   0.5625   0.5313     C

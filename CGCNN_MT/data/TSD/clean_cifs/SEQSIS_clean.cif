@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/SEQSIS_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\SEQSIS_clean'
 _cell_length_a 10.76470
 _cell_length_b 10.76470
 _cell_length_c 26.75780
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,6 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+O          0.0  0.97629  0.16667     O
 H        0.015   0.4672   0.8289     H
 O      0.01674  0.79576  0.08956     O
 H       0.0228   0.7096  0.32757     H
@@ -173,8 +174,7 @@ N      0.89842  0.32052  0.56114     N
 C       0.9188   0.4276  0.53024     C
 O       0.9473  0.63446   0.4608     O
 Ni     0.94892  0.16769  0.53335    Ni
-O      0.97629     -0.0      0.5     O
+O      0.97629      0.0      0.5     O
 H       0.9772   0.6868  0.00577     H
 O      0.98326  0.77902  0.24378     O
 H        0.985   0.4522  0.50443     H
-O          1.0  0.97629  0.16667     O

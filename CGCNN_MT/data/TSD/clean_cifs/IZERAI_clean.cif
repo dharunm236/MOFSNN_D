@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/IZERAI_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\IZERAI_clean'
 _cell_length_a 26.25000
 _cell_length_b 26.25000
 _cell_length_c 11.24360
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -65,7 +65,7 @@ O      0.23215  0.65845   0.1287     O
 O      0.23215  0.65845   0.8713     O
 Ni     0.28992  0.57984      0.0    Ni
 Ni     0.28992  0.71008      0.0    Ni
-O      0.33333  0.66667      0.0     O
+O     0.33333333 0.66666667      0.0     O
 O      0.34155   0.5737   0.1287     O
 O      0.34155   0.5737   0.8713     O
 O      0.34155  0.76785   0.1287     O
@@ -240,7 +240,7 @@ O      0.65845  0.23215   0.1287     O
 O      0.65845  0.23215   0.8713     O
 O      0.65845   0.4263   0.1287     O
 O      0.65845   0.4263   0.8713     O
-O      0.66667  0.33333      0.0     O
+O     0.66666667 0.33333333      0.0     O
 Ni     0.71008  0.28992      0.0    Ni
 Ni     0.71008  0.42016      0.0    Ni
 O      0.76785  0.34155   0.1287     O

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/BIHMUC_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\BIHMUC_clean'
 _cell_length_a 10.04060
 _cell_length_b 11.21420
 _cell_length_c 14.31000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,6 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+Co         0.0      0.5      0.0    Co
 C       0.0142   0.6269   0.2979     C
 O       0.0145   0.8817   0.6471     O
 C       0.0153   0.8386   0.2925     C
@@ -131,4 +132,3 @@ H       0.9514   0.4563   0.7247     H
 C       0.9847   0.1614   0.7075     C
 O       0.9855   0.1183   0.3529     O
 C       0.9858   0.3731   0.7021     C
-Co         1.0      0.5      1.0    Co

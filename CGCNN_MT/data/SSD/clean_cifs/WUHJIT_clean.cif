@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/WUHJIT_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\WUHJIT_clean'
 _cell_length_a 14.87300
 _cell_length_b 18.92930
 _cell_length_c 18.92930
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -107,7 +107,7 @@ H       0.4742   0.1903   0.1907     H
 C      0.47964  0.90152  0.39525     C
 O      0.48333  0.90655   0.7062     O
 O       0.4996  0.07061  0.68221     O
-Mg         0.5     -0.0      0.5    Mg
+Mg         0.5      0.0      0.5    Mg
 Mg         0.5      0.5      0.0    Mg
 O       0.5004  0.92939  0.31779     O
 O      0.51667  0.09345   0.2938     O

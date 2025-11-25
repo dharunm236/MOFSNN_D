@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/UJEFOE01_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\UJEFOE01_clean'
 _cell_length_a  8.34400
 _cell_length_b 12.31940
 _cell_length_c 17.55800
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -122,7 +122,7 @@ H       0.7901   0.2382   0.4567     H
 H       0.8001    0.244   0.0697     H
 O       0.8094   0.1396   0.8515     O
 H       0.8159   0.3086   0.7386     H
-Yb     0.81773     -0.0     0.75    Yb
+Yb     0.81773      0.0     0.75    Yb
 C       0.8186   0.8652   0.1437     C
 O       0.8193     0.08   0.9657     O
 H       0.8263   0.4988   0.7624     H

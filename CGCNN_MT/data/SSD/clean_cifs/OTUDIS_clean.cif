@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/OTUDIS_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\OTUDIS_clean'
 _cell_length_a 20.44890
 _cell_length_b 20.44890
 _cell_length_c 10.39280
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -53,8 +53,8 @@ H       0.2846    0.344    0.014     H
 C      0.28761  0.50719   0.0116     C
 C      0.31414  0.45015   0.0227     C
 H       0.3241   0.4512   0.1152     H
-Na     0.33333  0.66667  0.17752    Na
-K      0.33333  0.66667  0.76643     K
+Na    0.33333333 0.66666667  0.17752    Na
+K     0.33333333 0.66666667  0.76643     K
 O       0.3346  0.57586  0.00266     O
 H        0.344   0.0594    0.514     H
 H       0.3584   0.1379   0.5633     H
@@ -143,8 +143,8 @@ O      0.64123  0.22165   0.7875     O
 H       0.6416   0.8621   0.0633     H
 H        0.656   0.9406    0.014     H
 O       0.6654  0.42414  0.50266     O
-K      0.66667  0.33333  0.26643     K
-Na     0.66667  0.33333  0.67752    Na
+K     0.66666667 0.33333333  0.26643     K
+Na    0.66666667 0.33333333  0.67752    Na
 H       0.6759   0.5488   0.6152     H
 C      0.68586  0.54985   0.5227     C
 C      0.71239  0.49281   0.5116     C

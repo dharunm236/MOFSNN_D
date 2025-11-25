@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VICSIL_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VICSIL_clean'
 _cell_length_a  9.79700
 _cell_length_b 14.14590
 _cell_length_c 15.78200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -139,7 +139,7 @@ H       0.9446   0.6731   0.7925     H
 N       0.9485   0.7553   0.1075     N
 H       0.9517   0.7283   0.9757     H
 C       0.9522   0.3112   0.1936     C
-H       0.9716   0.6666   0.1863     H
+H       0.9716 0.66666667   0.1863     H
 S      0.97812  0.48261  0.70475     S
 C       0.9801    0.311   0.8573     C
 C       0.9895   0.4072   0.9343     C

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/MIFTIG_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\MIFTIG_clean'
 _cell_length_a 11.10610
 _cell_length_b 32.91230
 _cell_length_c 32.91230
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -545,7 +545,7 @@ C       0.6631  0.00363  0.98697     C
 O      0.66449  0.98536  0.12066     O
 C      0.66502  0.41504  0.20232     C
 H       0.6653   0.1249   0.2205     H
-C      0.66673  0.48697  0.99637     C
+C     0.66666667  0.48697  0.99637     C
 H       0.6673   0.3869   0.5029     H
 C      0.66947  0.78821  0.94565     C
 C       0.6717   0.4026    0.479     C

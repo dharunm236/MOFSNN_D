@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/MINVUA01_SL'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\MINVUA01_SL'
 _cell_length_a  6.81200
 _cell_length_b 16.73310
 _cell_length_c 13.03800
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,18 +19,18 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-C         -0.0    0.054    0.461     C
-C         -0.0    0.125    0.388     C
-H         -0.0     0.25   0.1093     H
-O         -0.0     0.25    0.186     O
+C          0.0    0.054    0.461     C
+C          0.0    0.125    0.388     C
+H          0.0     0.25   0.1093     H
+O          0.0     0.25    0.186     O
 C          0.0    0.375    0.388     C
 C          0.0    0.446    0.461     C
 C          0.0    0.554    0.539     C
 C          0.0    0.625    0.612     C
-O         -0.0     0.75    0.814     O
-H         -0.0     0.75   0.8907     H
-C         -0.0    0.875    0.612     C
-C         -0.0    0.946    0.539     C
+O          0.0     0.75    0.814     O
+H          0.0     0.75   0.8907     H
+C          0.0    0.875    0.612     C
+C          0.0    0.946    0.539     C
 O        0.156    0.166    0.343     O
 O        0.156    0.334    0.343     O
 O        0.156    0.666    0.657     O

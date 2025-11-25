@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HOMXIR_manual'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HOMXIR_manual'
 _cell_length_a 17.50910
 _cell_length_b 41.25550
 _cell_length_c 41.25550
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -239,7 +239,7 @@ C      0.39875  0.39679  0.09077     C
 C      0.39896  0.90966  0.30449     C
 C      0.40203  0.10039  0.73303     C
 O      0.40289  0.39322  0.05835     O
-O      0.40307  0.94211  0.33331     O
+O      0.40307  0.94211 0.33333333     O
 C      0.40465  0.63328  0.89943     C
 H         0.42  0.74746  0.58279     H
 H      0.42695  0.83662  0.25122     H

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/TOWNUQ_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\TOWNUQ_clean'
 _cell_length_a 11.87000
 _cell_length_b 31.33800
 _cell_length_c 24.76300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -362,8 +362,8 @@ C       0.6643  0.09344   0.3722     C
 C       0.6643  0.40656   0.3722     C
 C       0.6662   0.6891   0.4623     C
 C       0.6662   0.8109   0.4623     C
-H       0.6666   0.5771   0.2171     H
-H       0.6666   0.9229   0.2171     H
+H     0.66666667   0.5771   0.2171     H
+H     0.66666667   0.9229   0.2171     H
 H       0.6681   0.0149   0.0454     H
 H       0.6681   0.4851   0.0454     H
 C       0.6695  0.58448   0.9267     C

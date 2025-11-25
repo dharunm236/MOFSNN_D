@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/KEWBUL_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\KEWBUL_clean'
 _cell_length_a 13.09430
 _cell_length_b 26.70350
 _cell_length_c 13.13200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -31,7 +31,7 @@ C       0.0243   0.0769   0.8835     C
 C       0.0243   0.4231   0.3835     C
 C       0.0305   0.7037   0.2623     C
 C       0.0305   0.7963   0.7623     C
-C       0.0363   0.6661   0.6667     C
+C       0.0363   0.6661 0.66666667     C
 C       0.0363   0.8339   0.1667     C
 C        0.043   0.1287   0.8505     C
 C        0.043   0.3713   0.3505     C
@@ -294,7 +294,7 @@ O       0.9472  0.95231   0.8871     O
 C        0.957   0.6287   0.6495     C
 C        0.957   0.8713   0.1495     C
 C       0.9637   0.1661   0.8333     C
-C       0.9637   0.3339   0.3333     C
+C       0.9637   0.3339 0.33333333     C
 C       0.9695   0.2037   0.2377     C
 C       0.9695   0.2963   0.7377     C
 C       0.9757   0.5769   0.6165     C

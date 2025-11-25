@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ILUHON_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ILUHON_clean'
 _cell_length_a 15.32900
 _cell_length_b 15.32900
 _cell_length_c 15.40300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,6 +19,8 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+Fe         0.0      0.5      0.0    Fe
+Fe         0.0      0.5      0.5    Fe
 H        0.054   0.2863   0.3445     H
 H        0.054   0.2863   0.6555     H
 H        0.054   0.7677   0.1555     H
@@ -79,8 +81,8 @@ C       0.3204   0.1072   0.1941     C
 C       0.3204   0.1072   0.8059     C
 C       0.3204   0.2132   0.3059     C
 C       0.3204   0.2132   0.6941     C
-Nd     0.33333  0.66666     0.25    Nd
-Nd     0.33333  0.66666     0.75    Nd
+Nd    0.33333333 0.66666667     0.25    Nd
+Nd    0.33333333 0.66666667     0.75    Nd
 C       0.3512   0.4877   0.1387     C
 C       0.3512   0.4877   0.8613     C
 C       0.3512   0.8635   0.3613     C
@@ -145,8 +147,8 @@ C       0.6488   0.1365   0.3613     C
 C       0.6488   0.1365   0.6387     C
 C       0.6488   0.5123   0.1387     C
 C       0.6488   0.5123   0.8613     C
-Nd     0.66667  0.33334     0.25    Nd
-Nd     0.66667  0.33334     0.75    Nd
+Nd    0.66666667 0.33333333     0.25    Nd
+Nd    0.66666667 0.33333333     0.75    Nd
 C       0.6796   0.7868   0.3059     C
 C       0.6796   0.7868   0.6941     C
 C       0.6796   0.8928   0.1941     C
@@ -207,5 +209,3 @@ H        0.946   0.2323   0.1555     H
 H        0.946   0.2323   0.8445     H
 H        0.946   0.7137   0.3445     H
 H        0.946   0.7137   0.6555     H
-Fe         1.0      0.5      0.0    Fe
-Fe         1.0      0.5      0.5    Fe

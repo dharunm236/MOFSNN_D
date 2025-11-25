@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/TOWNAW_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\TOWNAW_clean'
 _cell_length_a 18.69960
 _cell_length_b 18.69960
 _cell_length_c 28.85720
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -195,8 +195,8 @@ H       0.3264   0.4559   0.6866     H
 H       0.3264   0.8705   0.6866     H
 H       0.3274   0.4549   0.9235     H
 H       0.3274   0.8725   0.9235     H
-O      0.33333  0.66666   0.3388     O
-O      0.33333  0.66666   0.8073     O
+O     0.33333333 0.66666667   0.3388     O
+O     0.33333333 0.66666667   0.8073     O
 H       0.3402   0.4628   0.4557     H
 H       0.3402   0.8774   0.4557     H
 O       0.3421   0.5388    0.754     O
@@ -371,8 +371,8 @@ O       0.6579   0.1967    0.254     O
 O       0.6579   0.4612    0.254     O
 H       0.6598   0.1226   0.9557     H
 H       0.6598   0.5372   0.9557     H
-O      0.66667  0.33334   0.3073     O
-O      0.66667  0.33334   0.8388     O
+O     0.66666667 0.33333333   0.3073     O
+O     0.66666667 0.33333333   0.8388     O
 H       0.6726   0.1275   0.4235     H
 H       0.6726   0.5451   0.4235     H
 H       0.6736   0.1295   0.1866     H

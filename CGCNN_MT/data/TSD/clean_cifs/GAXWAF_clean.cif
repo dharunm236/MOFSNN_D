@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/GAXWAF_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\GAXWAF_clean'
 _cell_length_a 10.40640
 _cell_length_b 14.49840
 _cell_length_c 18.53320
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -50,7 +50,7 @@ C       0.2222    0.876   0.7357     C
 O       0.2242   0.6434  0.89956     O
 H       0.2298   0.7534   0.1393     H
 C       0.2332   0.7182   0.5974     C
-C       0.2372     -0.0   0.6502     C
+C       0.2372      0.0   0.6502     C
 C       0.2387   0.7687   0.5338     C
 H       0.2391   0.6665   0.2619     H
 H       0.2609   0.8335   0.7619     H

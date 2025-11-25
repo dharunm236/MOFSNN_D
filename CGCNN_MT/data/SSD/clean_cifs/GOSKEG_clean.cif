@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/GOSKEG_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\GOSKEG_clean'
 _cell_length_a 10.11700
 _cell_length_b 29.53900
 _cell_length_c 29.55600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -30,7 +30,7 @@ O       0.0227   0.5777  0.02382     O
 C       0.0272  0.60809   0.0537     C
 H       0.0285     0.24   0.3393     H
 H       0.0311   0.2828    0.408     H
-H       0.0355   0.6666    0.326     H
+H       0.0355 0.66666667    0.326     H
 H       0.0405   0.1466   0.1409     H
 H       0.0424   0.1869   0.2088     H
 H       0.0511   0.3032    0.241     H

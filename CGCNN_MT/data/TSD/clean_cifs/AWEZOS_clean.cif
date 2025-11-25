@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/AWEZOS_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\AWEZOS_clean'
 _cell_length_a 20.01400
 _cell_length_b 37.95600
 _cell_length_c 25.08500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -549,8 +549,8 @@ C       0.3264  0.60645     0.29     C
 H       0.3264   0.6429    0.542     H
 H       0.3286   0.4081   0.5029     H
 H       0.3286   0.5919   0.0029     H
-H       0.3333   0.1021   0.4778     H
-H       0.3333   0.8979   0.9778     H
+H     0.33333333   0.1021   0.4778     H
+H     0.33333333   0.8979   0.9778     H
 C      0.33383  0.14706  0.31374     C
 C      0.33383  0.85294  0.81374     C
 C      0.33489   0.1987  0.87546     C
@@ -1053,8 +1053,8 @@ C      0.66511   0.1987  0.62454     C
 C      0.66511   0.8013  0.12454     C
 C      0.66617  0.14706  0.18626     C
 C      0.66617  0.85294  0.68626     C
-H       0.6667   0.1021   0.0222     H
-H       0.6667   0.8979   0.5222     H
+H     0.66666667   0.1021   0.0222     H
+H     0.66666667   0.8979   0.5222     H
 H       0.6714   0.4081   0.9971     H
 H       0.6714   0.5919   0.4971     H
 H       0.6736   0.3571    0.458     H

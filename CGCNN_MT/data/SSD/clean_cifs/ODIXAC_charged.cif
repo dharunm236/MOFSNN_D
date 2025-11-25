@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ODIXAC_charged'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ODIXAC_charged'
 _cell_length_a 13.98170
 _cell_length_b 14.18170
 _cell_length_c 14.27000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,6 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Cd         0.0      0.5      0.5    Cd
 O       0.0011   0.6474    0.472     O
 H       0.0074   0.5035   0.2579     H
 H       0.0143    0.343   0.0661     H
@@ -108,7 +107,7 @@ O       0.4833  0.78097   0.9716     O
 O      0.48809   0.3184   0.3042     O
 Cd     0.49511  0.61573  0.81471    Cd
 H       0.4972   0.2586   0.4491     H
-Cd         0.5      0.5     -0.0    Cd
+Cd         0.5      0.5      0.0    Cd
 H       0.5028   0.7414   0.5509     H
 Cd     0.50489  0.38427  0.18529    Cd
 O      0.51191   0.6816   0.6958     O
@@ -197,3 +196,4 @@ C       0.9832   0.1382   0.7978     C
 H       0.9857    0.657   0.9339     H
 H       0.9926   0.4965   0.7421     H
 O       0.9989   0.3526    0.528     O
+Cd         1.0      0.5      0.5    Cd

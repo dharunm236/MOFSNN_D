@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ZEDZAL01_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ZEDZAL01_clean'
 _cell_length_a 16.43930
 _cell_length_b 16.43930
 _cell_length_c 23.77700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,7 +20,7 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Pr         0.0  0.08433  0.83333    Pr
-Pr         0.0  0.91567  0.33333    Pr
+Pr         0.0  0.91567 0.33333333    Pr
 O       0.0063   0.0705   0.4549     O
 O       0.0063   0.9358  0.71177     O
 H       0.0171   0.3419    0.009     H
@@ -42,7 +42,7 @@ C       0.0699   0.7048  0.18077     C
 O       0.0705   0.0063  0.87843     O
 O       0.0705   0.0642  0.28823     O
 Pr     0.08433      0.0      0.5    Pr
-Pr     0.08433  0.08433  0.66667    Pr
+Pr     0.08433  0.08433 0.66666667    Pr
 C       0.0853   0.2594  0.20967     C
 C       0.0853   0.8259    0.957     C
 C       0.0916   0.3033    0.958     C

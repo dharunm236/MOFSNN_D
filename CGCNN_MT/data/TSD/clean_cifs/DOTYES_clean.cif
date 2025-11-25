@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/DOTYES_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\DOTYES_clean'
 _cell_length_a 28.55200
 _cell_length_b 27.84540
 _cell_length_c 27.88700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,6 +20,7 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Ni         0.0   0.4498     0.25    Ni
+Ni         0.0   0.5502     0.75    Ni
 C        0.001   0.4001    0.779     C
 C        0.001   0.5999    0.279     C
 N       0.0039   0.1559   0.0208     N
@@ -1222,4 +1223,3 @@ N       0.9961   0.1559   0.4792     N
 N       0.9961   0.8441   0.9792     N
 C        0.999   0.4001    0.721     C
 C        0.999   0.5999    0.221     C
-Ni         1.0   0.5502     0.75    Ni

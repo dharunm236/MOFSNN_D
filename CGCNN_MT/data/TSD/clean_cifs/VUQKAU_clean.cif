@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VUQKAU_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VUQKAU_clean'
 _cell_length_a 12.35100
 _cell_length_b 13.95800
 _cell_length_c 18.50700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,6 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+Mn         0.0      1.0      0.5    Mn
 H       0.0015   0.7691   0.5519     H
 C       0.0185   0.3792   0.4671     C
 C       0.0278   0.5585    0.496     C
@@ -99,7 +100,7 @@ C       0.4663   0.2711    0.027     C
 C       0.4722   0.4415    0.996     C
 C       0.4815   0.6208   0.9671     C
 H       0.4985   0.2309   0.0519     H
-Mn         0.5     -0.0      0.0    Mn
+Mn         0.5      0.0      0.0    Mn
 H       0.5015   0.7691   0.9481     H
 C       0.5185   0.3792   0.0329     C
 C       0.5278   0.5585    0.004     C
@@ -180,4 +181,3 @@ C       0.9663   0.2711    0.473     C
 C       0.9722   0.4415    0.504     C
 C       0.9815   0.6208   0.5329     C
 H       0.9985   0.2309   0.4481     H
-Mn         1.0      1.0      0.5    Mn

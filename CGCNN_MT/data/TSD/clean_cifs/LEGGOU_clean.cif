@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/LEGGOU_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\LEGGOU_clean'
 _cell_length_a 10.19200
 _cell_length_b 17.76400
 _cell_length_c 24.43700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -146,7 +146,7 @@ C       0.3815    0.438   0.6533     C
 C       0.3816   0.3188  0.08405     C
 C       0.3844   0.2831   0.4225     C
 O       0.3868  0.79596  0.29157     O
-Zn     0.38747  0.93746  0.33331    Zn
+Zn     0.38747  0.93746 0.33333333    Zn
 H       0.3876   0.3105    0.455     H
 C        0.388    0.164  0.37596     C
 Zn     0.38811  0.60263   0.9619    Zn
@@ -215,7 +215,7 @@ C       0.6076   0.7944   0.5759     C
 Zn     0.61189  0.39737   0.0381    Zn
 C        0.612    0.836  0.62404     C
 H       0.6124   0.6895    0.545     H
-Zn     0.61253  0.06254  0.66669    Zn
+Zn     0.61253  0.06254 0.66666667    Zn
 O       0.6132  0.20404  0.70843     O
 C       0.6156   0.7169   0.5775     C
 C       0.6184   0.6812  0.91595     C

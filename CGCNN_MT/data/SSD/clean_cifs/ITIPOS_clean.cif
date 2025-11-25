@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ITIPOS_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ITIPOS_clean'
 _cell_length_a 17.69430
 _cell_length_b 17.69430
 _cell_length_c 13.29210
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -64,7 +64,7 @@ O       0.3215   0.7625   0.6855     O
 C       0.3224   0.8376   0.2729     C
 O       0.3244   0.7633   0.4255     O
 C       0.3323    0.801   0.1711     C
-Ca     0.33333  0.66667   0.5563    Ca
+Ca    0.33333333 0.66666667   0.5563    Ca
 H       0.3336   0.2723   0.3518     H
 H        0.346   0.1907   0.3267     H
 H       0.3496   0.2538   0.2382     H
@@ -143,7 +143,7 @@ O      0.63846  0.46602   0.0575     O
 H       0.6504   0.7462   0.7382     H
 H        0.654   0.8093   0.8267     H
 H       0.6664   0.7277   0.8518     H
-Ca     0.66667  0.33333   0.0563    Ca
+Ca    0.66666667 0.33333333   0.0563    Ca
 C       0.6677    0.199   0.6711     C
 O       0.6756   0.2367   0.9255     O
 C       0.6776   0.1624   0.7729     C

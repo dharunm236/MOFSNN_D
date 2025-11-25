@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/WEVQOD01_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\WEVQOD01_clean'
 _cell_length_a 14.47830
 _cell_length_b 14.47830
 _cell_length_c 15.29300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -61,8 +61,8 @@ H       0.2808   0.3621   0.2312     H
 H       0.2808   0.3621   0.7688     H
 H       0.2808   0.9187   0.2688     H
 H       0.2808   0.9187   0.7312     H
-Gd     0.33333  0.66667     0.25    Gd
-Gd     0.33333  0.66667     0.75    Gd
+Gd    0.33333333 0.66666667     0.25    Gd
+Gd    0.33333333 0.66666667     0.75    Gd
 C       0.3524   0.4835   0.1381     C
 C       0.3524   0.4835   0.8619     C
 C       0.3524   0.8689   0.3619     C
@@ -143,8 +143,8 @@ C       0.6476   0.1311   0.3619     C
 C       0.6476   0.1311   0.6381     C
 C       0.6476   0.5165   0.1381     C
 C       0.6476   0.5165   0.8619     C
-Gd     0.66667  0.33333     0.25    Gd
-Gd     0.66667  0.33333     0.75    Gd
+Gd    0.66666667 0.33333333     0.25    Gd
+Gd    0.66666667 0.33333333     0.75    Gd
 H       0.7192   0.0813   0.2688     H
 H       0.7192   0.0813   0.7312     H
 H       0.7192   0.6379   0.2312     H

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/POWBIO_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\POWBIO_clean'
 _cell_length_a 11.32200
 _cell_length_b 12.13900
 _cell_length_c 23.31100
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -118,7 +118,7 @@ H       0.4681   0.8387   0.4299     H
 O       0.4833   0.5088   0.2642     O
 N       0.4843   0.2898   0.5045     N
 C        0.497    0.226   0.0506     C
-Cu         0.5     -0.0      0.0    Cu
+Cu         0.5      0.0      0.0    Cu
 C        0.503    0.774   0.9494     C
 N       0.5157   0.7102   0.4955     N
 O       0.5167   0.4912   0.7358     O

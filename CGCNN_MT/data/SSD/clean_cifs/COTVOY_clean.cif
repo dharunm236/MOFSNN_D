@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/COTVOY_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\COTVOY_clean'
 _cell_length_a 14.43880
 _cell_length_b 16.41280
 _cell_length_c 19.33100
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -88,7 +88,7 @@ C       0.3133   0.2544   0.0051     C
 Sm     0.32291  0.65653  0.33107    Sm
 C       0.3268    0.288   0.9399     C
 C       0.3307   0.7377   0.0372     C
-O       0.3333   0.8248   0.6017     O
+O     0.33333333   0.8248   0.6017     O
 H       0.3397   0.2798   0.5511     H
 C       0.3473    0.253   0.5107     C
 H       0.3644   0.0038   0.7178     H
@@ -173,7 +173,7 @@ C       0.6327   0.8252   0.6128     C
 H       0.6356   0.9962   0.2822     H
 C       0.6527    0.747   0.4893     C
 H       0.6603   0.7202   0.4489     H
-O       0.6667   0.1752   0.3983     O
+O     0.66666667   0.1752   0.3983     O
 C       0.6693   0.2623   0.9628     C
 C       0.6732    0.712   0.0601     C
 Sm     0.67709  0.34347  0.66893    Sm

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/YARGAB_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\YARGAB_clean'
 _cell_length_a 15.57800
 _cell_length_b 15.57800
 _cell_length_c 16.52100
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -61,7 +61,7 @@ C       0.3221   0.4726   0.3393     C
 C       0.3221   0.8495   0.1607     C
 C        0.333   0.5255  0.47817     C
 C        0.333   0.8075  0.02183     C
-O      0.33333  0.66666     0.75     O
+O     0.33333333 0.66666667     0.75     O
 O      0.33558  0.51865  0.85266     O
 O      0.33558  0.81693  0.64734     O
 O      0.36017  0.50769  0.67465     O
@@ -152,7 +152,7 @@ O      0.63983  0.14752  0.17465     O
 O      0.63983  0.49231  0.32535     O
 O      0.66442  0.18307  0.35266     O
 O      0.66442  0.48135  0.14734     O
-O      0.66667  0.33334     0.25     O
+O     0.66666667 0.33333333     0.25     O
 C        0.667   0.1925  0.97817     C
 C        0.667   0.4745  0.52183     C
 C       0.6779   0.1505   0.8393     C

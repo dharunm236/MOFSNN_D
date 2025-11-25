@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/HAKVAT_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\HAKVAT_clean'
 _cell_length_a 13.80400
 _cell_length_b 13.80400
 _cell_length_c 18.43500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -66,7 +66,7 @@ O       0.3052   0.3497   0.9349     O
 O       0.3052   0.9555   0.5651     O
 O       0.3052   0.9555   0.9349     O
 N       0.3176   0.1588     0.25     N
-O      0.33333  0.66667     0.75     O
+O     0.33333333 0.66666667     0.75     O
 O       0.3497   0.0445   0.0651     O
 O       0.3497   0.0445   0.4349     O
 O       0.3497   0.3052   0.0651     O
@@ -125,7 +125,7 @@ O       0.6503   0.6948   0.5651     O
 O       0.6503   0.6948   0.9349     O
 O       0.6503   0.9555   0.5651     O
 O       0.6503   0.9555   0.9349     O
-O      0.66667  0.33333     0.25     O
+O     0.66666667 0.33333333     0.25     O
 N       0.6824   0.8412     0.75     N
 O       0.6948   0.0445   0.0651     O
 O       0.6948   0.0445   0.4349     O

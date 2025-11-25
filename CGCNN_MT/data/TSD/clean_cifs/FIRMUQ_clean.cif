@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/FIRMUQ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\FIRMUQ_clean'
 _cell_length_a 15.17380
 _cell_length_b 15.17380
 _cell_length_c 18.85900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,8 +20,6 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 N          0.0  0.24089  0.83333     N
-C          0.0  0.41719  0.83333     C
-C          0.0  0.51528  0.83333     C
 N          0.0  0.69702  0.83333     N
 Ni         0.0  0.83518  0.83333    Ni
 H       0.0083   0.9224  0.68803     H
@@ -91,7 +89,7 @@ C       0.3767   0.0238  0.07084     C
 F      0.38856  0.04261  0.14097     F
 N      0.39064   0.0271  0.44021     N
 H       0.3992   0.1025  0.32197     H
-C      0.41719     -0.0      0.5     C
+C      0.41719      0.0      0.5     C
 C      0.42222   0.4556  0.22494     C
 C       0.4379   0.9901  0.96266     C
 H         0.44    0.497   0.2649     H
@@ -103,7 +101,7 @@ F      0.49174  0.46894  0.73716     F
 H        0.497     0.44  0.06843     H
 H        0.503    0.943  0.59823     H
 F      0.50826   0.9772   0.9295     F
-C      0.51528     -0.0      0.5     C
+C      0.51528      0.0      0.5     C
 F      0.53106   0.0228   0.0705     F
 C       0.5444  0.96662  0.55827     C
 C       0.5522   0.5621  0.62933     C
@@ -178,3 +176,5 @@ F       0.9772  0.50826  0.40383     F
 C       0.9878  0.27799  0.37006     C
 C       0.9901   0.4379  0.37067     C
 H       0.9917   0.9141  0.97863     H
+C          1.0  0.41719  0.83333     C
+C          1.0  0.51528  0.83333     C

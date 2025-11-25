@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HEDBID_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HEDBID_clean'
 _cell_length_a 10.89810
 _cell_length_b 11.54520
 _cell_length_c 13.40860
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,6 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+U          0.0      0.5      0.5     U
 C       0.0085   0.3378   0.8459     C
 C       0.0332    0.258   0.7807     C
 C       0.0807   0.7226    0.283     C
@@ -83,4 +84,3 @@ H      0.90335  0.63653  0.04665     H
 C       0.9193   0.2774    0.717     C
 C       0.9668    0.742   0.2193     C
 C       0.9915   0.6622   0.1541     C
-U          1.0      0.5      0.5     U

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/SAQZOB_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\SAQZOB_clean'
 _cell_length_a 15.55000
 _cell_length_b 24.92100
 _cell_length_c 25.28200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -277,8 +277,8 @@ C       0.3287   0.7081    0.418     C
 C       0.3287   0.7919    0.918     C
 C       0.3293    0.578    0.001     C
 C       0.3293    0.922    0.501     C
-H       0.3333   0.2292   0.2093     H
-H       0.3333   0.2708   0.7093     H
+H     0.33333333   0.2292   0.2093     H
+H     0.33333333   0.2708   0.7093     H
 C       0.3374   0.1219   0.1632     C
 C       0.3374   0.3781   0.6632     C
 C       0.3376   0.7238   0.8518     C
@@ -535,8 +535,8 @@ C       0.6624   0.2238   0.6482     C
 C       0.6624   0.2762   0.1482     C
 C       0.6626   0.6219   0.3368     C
 C       0.6626   0.8781   0.8368     C
-H       0.6667   0.7292   0.2907     H
-H       0.6667   0.7708   0.7907     H
+H     0.66666667   0.7292   0.2907     H
+H     0.66666667   0.7708   0.7907     H
 C       0.6707    0.078    0.499     C
 C       0.6707    0.422    0.999     C
 C       0.6713   0.2081    0.082     C

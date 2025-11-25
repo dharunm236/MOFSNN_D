@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/LASMAV_neutral'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\LASMAV_neutral'
 _cell_length_a 16.36930
 _cell_length_b 24.80300
 _cell_length_c 24.80300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -124,7 +124,7 @@ Co        0.25  0.20157  0.08008    Co
 Co        0.25  0.24182   0.6008    Co
 H         0.25   0.2648   0.0305     H
 O         0.25   0.2778   0.0693     O
-O         0.25  0.33333  0.66666     O
+O         0.25 0.33333333 0.66666667     O
 Co        0.25  0.35898  0.75818    Co
 N         0.25   0.3804    0.854     N
 C         0.25   0.3827   0.0283     C
@@ -365,7 +365,7 @@ C         0.75   0.6133   0.0303     C
 C         0.75   0.6173   0.9717     C
 N         0.75   0.6196    0.146     N
 Co        0.75  0.64102  0.24182    Co
-O         0.75  0.66667  0.33334     O
+O         0.75 0.66666667 0.33333333     O
 O         0.75   0.7222   0.9307     O
 H         0.75   0.7352   0.9695     H
 Co        0.75  0.75818   0.3992    Co

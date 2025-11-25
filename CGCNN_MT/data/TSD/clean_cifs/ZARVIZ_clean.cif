@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ZARVIZ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ZARVIZ_clean'
 _cell_length_a 20.03760
 _cell_length_b 20.87400
 _cell_length_c 20.98070
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -158,7 +158,7 @@ O       0.3702   0.2761   0.8212     O
 O       0.3705   0.4834     0.47     O
 O       0.3709  0.65356  0.73771     O
 C       0.3712   0.6357   0.9131     C
-Fe     0.37238  0.58609  0.66673    Fe
+Fe     0.37238  0.58609 0.66666667    Fe
 O       0.3735  0.51412  0.60014     O
 O       0.3737   0.7858   0.7659     O
 Mn     0.37617  0.46888  0.78602    Mn

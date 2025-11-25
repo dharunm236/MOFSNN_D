@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/KARNAU_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\KARNAU_clean'
 _cell_length_a 29.26980
 _cell_length_b 29.26980
 _cell_length_c 29.26980
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -562,4 +562,4 @@ C      0.98857  0.73058  0.89759     C
 C      0.98863   0.6003  0.90289     C
 Ni     0.99186  0.06732  0.72478    Ni
 H       0.9959   0.1297   0.2404     H
-O          1.0     -0.0  0.71176     O
+O          1.0      0.0  0.71176     O

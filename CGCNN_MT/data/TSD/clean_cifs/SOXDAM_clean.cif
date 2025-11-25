@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/SOXDAM_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\SOXDAM_clean'
 _cell_length_a 10.75350
 _cell_length_b 12.51010
 _cell_length_c 12.51010
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -64,10 +64,10 @@ O       0.4413  0.13827  0.95629     O
 O       0.4413  0.95629  0.13827     O
 O       0.4863  0.32511  0.97889     O
 O       0.4863  0.97889  0.32511     O
-Zn         0.5     -0.0     -0.0    Zn
-Zn         0.5     -0.0      0.5    Zn
+Zn         0.5      0.0      0.0    Zn
+Zn         0.5      0.0      0.5    Zn
 Tb         0.5  0.20908  0.79092    Tb
-Zn         0.5      0.5     -0.0    Zn
+Zn         0.5      0.5      0.0    Zn
 Tb         0.5  0.79092  0.20908    Tb
 O       0.5137  0.02111  0.67489     O
 O       0.5137  0.67489  0.02111     O

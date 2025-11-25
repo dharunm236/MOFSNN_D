@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ZIJVAR_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ZIJVAR_clean'
 _cell_length_a 13.27930
 _cell_length_b 15.44140
 _cell_length_c 18.46300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -127,7 +127,7 @@ H       0.3627   0.6228   0.6463     H
 C      0.36998  0.84096   0.6656     C
 N      0.37226  0.17852  0.48606     N
 C      0.38556  0.48872   0.3359     C
-Co     0.38584     -0.0     0.25    Co
+Co     0.38584      0.0     0.25    Co
 C      0.39049  0.32478   0.2824     C
 O      0.39113  0.63686  0.93481     O
 C      0.39547  0.15914   0.2364     C
@@ -188,7 +188,7 @@ O       0.6045    0.432  0.67211     O
 C      0.60453  0.84086   0.7636     C
 O      0.60887  0.36314  0.06519     O
 C      0.60951  0.67522   0.7176     C
-Co     0.61416     -0.0     0.75    Co
+Co     0.61416      0.0     0.75    Co
 C      0.61444  0.51128   0.6641     C
 N      0.62774  0.82148  0.51394     N
 C      0.63002  0.15904   0.3344     C

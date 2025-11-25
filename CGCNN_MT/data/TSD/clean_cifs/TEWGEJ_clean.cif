@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/TEWGEJ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\TEWGEJ_clean'
 _cell_length_a 15.28410
 _cell_length_b 16.72790
 _cell_length_c 17.83740
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -141,7 +141,7 @@ N      0.47813  0.92543  0.55546     N
 H       0.4802   0.7283   0.6782     H
 C       0.4864   0.6832   0.8858     C
 C      0.48644  0.62994  0.79788     C
-Cu         0.5     -0.0      0.5    Cu
+Cu         0.5      0.0      0.5    Cu
 Cu         0.5      0.5      0.5    Cu
 C      0.51356  0.37006  0.20212     C
 C       0.5136   0.3168   0.1142     C

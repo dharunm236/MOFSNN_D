@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/DADLOM_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\DADLOM_clean'
 _cell_length_a 10.15650
 _cell_length_b 37.90510
 _cell_length_c 41.21750
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -277,7 +277,7 @@ O       0.4168   0.6269  0.66788     O
 O       0.4168   0.8731  0.16788     O
 C       0.4182   0.0587   0.1337     C
 C       0.4182   0.4413   0.6337     C
-C       0.4192   0.6667   0.7622     C
+C       0.4192 0.66666667   0.7622     C
 C       0.4192   0.8333   0.2622     C
 C       0.4267   0.6917   0.8188     C
 C       0.4267   0.8083   0.3188     C
@@ -340,7 +340,7 @@ H        0.573   0.4542   0.3132     H
 C       0.5733   0.1917   0.6812     C
 C       0.5733   0.3083   0.1812     C
 C       0.5808   0.1667   0.7378     C
-C       0.5808   0.3333   0.2378     C
+C       0.5808 0.33333333   0.2378     C
 C       0.5818   0.5587   0.3663     C
 C       0.5818   0.9413   0.8663     C
 O       0.5832   0.1269  0.83212     O

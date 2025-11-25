@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/KIKDIT_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\KIKDIT_clean'
 _cell_length_a 19.52200
 _cell_length_b 19.52200
 _cell_length_c 33.79100
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -578,8 +578,8 @@ C       0.5808   0.2388   0.1731     C
 C       0.5808   0.2388   0.8269     C
 H       0.5878   0.7468   0.0857     H
 H       0.5878   0.7468   0.9143     H
-H        0.592   0.6666   0.0791     H
-H        0.592   0.6666   0.9209     H
+H        0.592 0.66666667   0.0791     H
+H        0.592 0.66666667   0.9209     H
 H        0.596   0.0479   0.3177     H
 H        0.596   0.0479   0.6823     H
 H       0.5987   0.4702   0.0655     H
@@ -650,8 +650,8 @@ H       0.6601   0.5673   0.6818     H
 C       0.6647   0.8255      0.0     C
 H       0.6659   0.2501   0.3261     H
 H       0.6659   0.2501   0.6739     H
-H       0.6666    0.408   0.4209     H
-H       0.6666    0.408   0.5791     H
+H     0.66666667    0.408   0.4209     H
+H     0.66666667    0.408   0.5791     H
 N       0.6682   0.5306  0.44911     N
 N       0.6682   0.5306  0.55089     N
 N       0.6691    0.009  0.20616     N

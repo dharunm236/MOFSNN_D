@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/FERVIJ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\FERVIJ_clean'
 _cell_length_a  9.75120
 _cell_length_b 15.85470
 _cell_length_c 15.85470
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -27,8 +27,8 @@ H        0.024   0.1442   0.5838     H
 H        0.024   0.4162   0.8558     H
 H       0.0242   0.7289   0.1489     H
 H       0.0242   0.8511   0.2711     H
-N       0.0402   0.6418     -0.0     N
-N       0.0402      1.0   0.3582     N
+N       0.0402      0.0   0.3582     N
+N       0.0402   0.6418      0.0     N
 C       0.0448   0.7306   0.0882     C
 C       0.0448   0.9118   0.2694     C
 N       0.0906   0.4419   0.1175     N
@@ -36,7 +36,7 @@ N       0.0906   0.8825   0.5581     N
 C       0.0999   0.0846   0.2715     C
 C       0.0999   0.7285   0.9154     C
 C      0.10585      0.0  0.17985     C
-C      0.10585  0.82015     -0.0     C
+C      0.10585  0.82015      0.0     C
 N       0.1086   0.9121   0.0879     N
 H       0.1202   0.1442    0.272     H
 H       0.1202    0.728   0.8558     H
@@ -48,8 +48,8 @@ C      0.13995      0.0  0.08325     C
 C      0.13995  0.91675      0.0     C
 H       0.1731   0.1489   0.1222     H
 H       0.1731   0.8778   0.8511     H
+N       0.1965      0.0   0.9121     N
 N       0.1965   0.0879      0.0     N
-N       0.1965      1.0   0.9121     N
 Au     0.20784  0.41568  0.29216    Au
 Au     0.20784  0.70784  0.58432    Au
 N       0.2081   0.1175   0.4406     N

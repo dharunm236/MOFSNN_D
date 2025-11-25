@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VEGXIQ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VEGXIQ_clean'
 _cell_length_a  7.31600
 _cell_length_b 16.53300
 _cell_length_c 32.02300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -173,7 +173,7 @@ C       0.4756   0.0538   0.7501     C
 C       0.4756   0.5538   0.7499     C
 C       0.4889   0.1992   0.7239     C
 C       0.4889   0.6992   0.7761     C
-Mn         0.5     -0.0      0.5    Mn
+Mn         0.5      0.0      0.5    Mn
 Mn         0.5      0.5      0.0    Mn
 C       0.5111   0.3008   0.2239     C
 C       0.5111   0.8008   0.2761     C
@@ -211,8 +211,8 @@ H       0.6171   0.0345   0.0927     H
 H       0.6171   0.5345   0.4073     H
 F       0.6495  0.33134  0.19708     F
 F       0.6495  0.83134  0.30292     F
-F       0.6666  0.43203  0.27355     F
-F       0.6666  0.93203  0.22645     F
+F     0.66666667  0.43203  0.27355     F
+F     0.66666667  0.93203  0.22645     F
 H       0.6728   0.3188    0.105     H
 H       0.6728   0.8188    0.395     H
 C       0.6742   0.1648   0.8153     C

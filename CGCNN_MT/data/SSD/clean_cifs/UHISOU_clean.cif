@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/UHISOU_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\UHISOU_clean'
 _cell_length_a  6.90070
 _cell_length_b  7.47220
 _cell_length_c  8.25210
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -32,7 +32,7 @@ C       0.4634  0.93171  0.33339     C
 O      0.47861  0.35781  0.20938     O
 Mg         0.5      0.5      0.0    Mg
 O      0.52139  0.64219  0.79062     O
-C       0.5366  0.06829  0.66661     C
+C       0.5366  0.06829 0.66666667     C
 C      0.54559  0.82615  0.47559     C
 O      0.54933  0.73552  0.14641     O
 H       0.5762   0.7093   0.4591     H

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HIWXER01_SL'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HIWXER01_SL'
 _cell_length_a 16.08710
 _cell_length_b  8.55050
 _cell_length_c 17.18860
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,7 +20,6 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Zn         0.0  0.37327     0.25    Zn
-Zn        -0.0  0.62673     0.75    Zn
 O       0.0349   0.3726   0.3884     O
 O       0.0349   0.6274   0.8884     O
 O       0.0386   0.3163   0.9888     O
@@ -159,3 +158,4 @@ O       0.9614   0.3163   0.5112     O
 O       0.9614   0.6837   0.0112     O
 O       0.9651   0.3726   0.1116     O
 O       0.9651   0.6274   0.6116     O
+Zn         1.0  0.62673     0.75    Zn

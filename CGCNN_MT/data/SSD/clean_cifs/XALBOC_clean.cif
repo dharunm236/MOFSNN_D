@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/XALBOC_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\XALBOC_clean'
 _cell_length_a 40.54080
 _cell_length_b 40.54080
 _cell_length_c 17.60550
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -587,8 +587,8 @@ C      0.33205  0.01612   0.5342     C
 C      0.33205  0.51612   0.4658     C
 H       0.3323   0.3024   0.0864     H
 H       0.3323   0.8024   0.9136     H
-C      0.33336  0.42102   0.5353     C
-C      0.33336  0.92102   0.4647     C
+C     0.33333333  0.42102   0.5353     C
+C     0.33333333  0.92102   0.4647     C
 H       0.3339   0.4722   0.2925     H
 H       0.3339   0.9722   0.7075     H
 C       0.3378  0.23987   0.3309     C
@@ -1001,8 +1001,8 @@ C       0.6622  0.26013   0.3309     C
 C       0.6622  0.76013   0.6691     C
 H       0.6661   0.0278   0.2925     H
 H       0.6661   0.5278   0.7075     H
-C      0.66664  0.07898   0.5353     C
-C      0.66664  0.57898   0.4647     C
+C     0.66666667  0.07898   0.5353     C
+C     0.66666667  0.57898   0.4647     C
 H       0.6677   0.1976   0.0864     H
 H       0.6677   0.6976   0.9136     H
 C      0.66795  0.48388   0.5342     C

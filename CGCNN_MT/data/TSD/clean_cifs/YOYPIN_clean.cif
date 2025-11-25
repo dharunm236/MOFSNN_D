@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/YOYPIN_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\YOYPIN_clean'
 _cell_length_a 16.90100
 _cell_length_b 16.90100
 _cell_length_c 14.08200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -87,8 +87,8 @@ C       0.3244   0.1036   0.3904     C
 C       0.3244   0.2208   0.1096     C
 N       0.3331   0.5606    0.516     N
 N       0.3331   0.7725    0.984     N
-Co     0.33333  0.66667  0.60379    Co
-Co     0.33333  0.66667  0.89621    Co
+Co    0.33333333 0.66666667  0.60379    Co
+Co    0.33333333 0.66666667  0.89621    Co
 C        0.338   0.4328   0.4707     C
 C        0.338   0.9052   0.0293     C
 H        0.341   0.0205   0.0728     H
@@ -193,8 +193,8 @@ H        0.659   0.6795   0.5728     H
 H        0.659   0.9795   0.9272     H
 C        0.662   0.0948   0.9707     C
 C        0.662   0.5672   0.5293     C
-Co     0.66667  0.33333  0.10379    Co
-Co     0.66667  0.33333  0.39621    Co
+Co    0.66666667 0.33333333  0.10379    Co
+Co    0.66666667 0.33333333  0.39621    Co
 N       0.6669   0.2275    0.016     N
 N       0.6669   0.4394    0.484     N
 C       0.6756   0.7792   0.8904     C

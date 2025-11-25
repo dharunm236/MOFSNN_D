@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HUHJAW_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HUHJAW_clean'
 _cell_length_a  7.87240
 _cell_length_b  9.28840
 _cell_length_c  9.46070
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -43,7 +43,7 @@ N        0.438   0.3196    0.636     N
 N       0.4457   0.1663    0.807     N
 C        0.456   0.7866   0.2628     C
 N       0.4747   0.7548   0.7484     N
-Cd         0.5      0.0     -0.0    Cd
+Cd         0.5      0.0      0.0    Cd
 Cd         0.5      0.5      0.5    Cd
 N       0.5253   0.2452   0.2516     N
 C        0.544   0.2134   0.7372     C

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HISJIE_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HISJIE_clean'
 _cell_length_a 14.37470
 _cell_length_b 18.63300
 _cell_length_c 23.95700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -113,7 +113,7 @@ C       0.1764   0.4488  0.56229     C
 C       0.1783   0.6724   0.9559     C
 Co     0.18467  0.82464  0.57113    Co
 O      0.18547  0.69263  0.00512     O
-H       0.1884   0.0592   0.3333     H
+H       0.1884   0.0592 0.33333333     H
 C       0.1935   0.5964  0.54951     C
 C       0.1944  0.46997  0.97246     C
 C        0.199  0.54342  0.98372     C
@@ -408,7 +408,7 @@ Co     0.80086  0.31764  0.09316    Co
 C        0.801  0.04342  0.01628     C
 C       0.8056  0.96997  0.02754     C
 C       0.8065   0.0964  0.45049     C
-H       0.8116   0.5592   0.6667     H
+H       0.8116   0.5592 0.66666667     H
 O      0.81453  0.19263  0.99488     O
 Co     0.81533  0.32464  0.42887    Co
 C       0.8217   0.1724   0.0441     C

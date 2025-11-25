@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/BASSUL_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\BASSUL_clean'
 _cell_length_a  8.47590
 _cell_length_b 25.28500
 _cell_length_c 17.76500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -131,8 +131,8 @@ N       0.3146  0.66127   0.4348     N
 N       0.3146  0.83873   0.9348     N
 C       0.3151   0.6208   0.5649     C
 C       0.3151   0.8792   0.0649     C
-Er     0.33331  0.02325  0.78237    Er
-Er     0.33331  0.47675  0.28237    Er
+Er    0.33333333  0.02325  0.78237    Er
+Er    0.33333333  0.47675  0.28237    Er
 C       0.3414   0.1361    0.243     C
 C       0.3414   0.3639    0.743     C
 C       0.3441   0.0932   0.0346     C
@@ -225,8 +225,8 @@ C       0.6559   0.5932   0.4654     C
 C       0.6559   0.9068   0.9654     C
 C       0.6586   0.6361    0.257     C
 C       0.6586   0.8639    0.757     C
-Er     0.66669  0.52325  0.71763    Er
-Er     0.66669  0.97675  0.21763    Er
+Er    0.66666667  0.52325  0.71763    Er
+Er    0.66666667  0.97675  0.21763    Er
 C       0.6849   0.1208   0.9351     C
 C       0.6849   0.3792   0.4351     C
 N       0.6854  0.16127   0.0652     N

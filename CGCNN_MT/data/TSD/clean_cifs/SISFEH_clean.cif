@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/SISFEH_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\SISFEH_clean'
 _cell_length_a  8.76350
 _cell_length_b 11.46780
 _cell_length_c 11.46780
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Ni         0.0      0.5     -0.0    Ni
+Ni         0.0      0.5      0.0    Ni
 H       0.0243   0.4599   0.3063     H
 O       0.0328  0.43269  0.36977     O
 H       0.0361   0.3551   0.3473     H
@@ -57,7 +57,7 @@ H        0.462   0.2667   0.8959     H
 H       0.4639   0.3473   0.3551     H
 O       0.4672  0.36977  0.43269     O
 H       0.4757   0.3063   0.4599     H
-Ni         0.5     -0.0      0.5    Ni
+Ni         0.5      0.0      0.5    Ni
 H       0.5243   0.6937   0.5401     H
 O       0.5328  0.63023  0.56731     O
 H       0.5361   0.6527   0.6449     H

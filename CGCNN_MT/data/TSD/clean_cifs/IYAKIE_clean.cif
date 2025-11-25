@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/IYAKIE_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\IYAKIE_clean'
 _cell_length_a 19.99900
 _cell_length_b 18.62840
 _cell_length_c 35.12300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -147,7 +147,7 @@ C       0.2258   0.1968   0.0952     C
 O       0.2266   0.7984   0.2776     O
 H       0.2279    0.158   0.0786     H
 O       0.2324   0.1998   0.4428     O
-C       0.2354    0.391   0.6667     C
+C       0.2354    0.391 0.66666667     C
 H       0.2354   0.8217   0.3485     H
 O       0.2462   0.3565   0.6974     O
 Cd     0.24735  0.24205  0.50412    Cd
@@ -376,7 +376,7 @@ C       0.6553    0.929   0.6435     C
 O       0.6597   0.8135   0.5472     O
 C       0.6607   0.7643   0.5715     C
 H       0.6614   0.3381   0.3165     H
-C       0.6666   0.6402   0.0271     C
+C     0.66666667   0.6402   0.0271     C
 C       0.6675   0.7507   0.3314     C
 O       0.6695   0.2082   0.4596     O
 O       0.6705   0.6765   0.0571     O
@@ -415,7 +415,7 @@ C       0.7258   0.3032   0.0952     C
 O       0.7266   0.7016   0.2776     O
 H       0.7279    0.342   0.0786     H
 O       0.7324   0.3002   0.4428     O
-C       0.7354    0.109   0.6667     C
+C       0.7354    0.109 0.66666667     C
 H       0.7354   0.6783   0.3485     H
 O       0.7462   0.1435   0.6974     O
 Cd     0.74735  0.25795  0.50412    Cd

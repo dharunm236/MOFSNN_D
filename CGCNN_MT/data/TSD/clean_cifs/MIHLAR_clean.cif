@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/MIHLAR_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\MIHLAR_clean'
 _cell_length_a  9.85480
 _cell_length_b 13.81380
 _cell_length_c 33.79250
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -126,7 +126,7 @@ H       0.3149   0.9774   0.3692     H
 H       0.3184   0.8045   0.3988     H
 C       0.3226   0.7029  0.87155     C
 C       0.3292   0.9287  0.12924     C
-H       0.3333   0.8349   0.0404     H
+H     0.33333333   0.8349   0.0404     H
 C       0.3349   0.2292  0.68859     C
 C       0.3378   0.3872  0.52505     C
 C       0.3425   0.6026  0.93458     C
@@ -251,7 +251,7 @@ N       0.6564   0.4051   0.4477     N
 C       0.6575   0.3974  0.06542     C
 C       0.6622   0.6128  0.47495     C
 C       0.6651   0.7708  0.31141     C
-H       0.6667   0.1651   0.9596     H
+H     0.66666667   0.1651   0.9596     H
 C       0.6708   0.0713  0.87076     C
 C       0.6774   0.2971  0.12845     C
 H       0.6816   0.1955   0.6012     H

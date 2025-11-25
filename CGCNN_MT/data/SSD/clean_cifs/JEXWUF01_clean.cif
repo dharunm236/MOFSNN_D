@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/JEXWUF01_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\JEXWUF01_clean'
 _cell_length_a  7.30580
 _cell_length_b  7.30580
 _cell_length_c  8.18970
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -27,7 +27,7 @@ O      0.10955  0.41693  0.10556     O
 O      0.10955  0.69262  0.39444     O
 O      0.30738  0.41693  0.39444     O
 O      0.30738  0.89045  0.10556     O
-Co     0.33333  0.66667     0.25    Co
+Co    0.33333333 0.66666667     0.25    Co
 H        0.408      0.0      0.5     H
 H        0.408    0.408      0.0     H
 O      0.41693  0.10955  0.89444     O
@@ -40,7 +40,7 @@ O      0.58307  0.69262  0.10556     O
 O      0.58307  0.89045  0.39444     O
 H        0.592      0.0      0.0     H
 H        0.592    0.592      0.5     H
-Co     0.66667  0.33333     0.75    Co
+Co    0.66666667 0.33333333     0.75    Co
 O      0.69262  0.10955  0.60556     O
 O      0.69262  0.58307  0.89444     O
 O      0.89045  0.30738  0.89444     O

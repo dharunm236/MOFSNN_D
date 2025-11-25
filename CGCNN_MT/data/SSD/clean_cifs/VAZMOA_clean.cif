@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/VAZMOA_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\VAZMOA_clean'
 _cell_length_a  9.81840
 _cell_length_b  9.81840
 _cell_length_c 13.26160
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -31,7 +31,7 @@ O       0.1215   0.9454   0.5403     O
 O       0.1551   0.6802   0.4055     O
 C       0.1641   0.9309   0.9162     C
 H       0.1772   0.2409   0.8207     H
-C       0.1781   0.3333    0.235     C
+C       0.1781 0.33333333    0.235     C
 O       0.1886   0.2656   0.3148     O
 C       0.1927    0.163   0.8519     C
 O       0.2119   0.7415    0.994     O
@@ -74,7 +74,7 @@ C       0.7737   0.9239   0.4602     C
 O       0.7881   0.2585    0.006     O
 C       0.8073    0.837   0.1481     C
 O       0.8114   0.7344   0.6852     O
-C       0.8219   0.6667    0.765     C
+C       0.8219 0.66666667    0.765     C
 H       0.8228   0.7591   0.1793     H
 C       0.8359   0.0691   0.0838     C
 O       0.8449   0.3198   0.5945     O

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/MUDTEL_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\MUDTEL_clean'
 _cell_length_a 30.28750
 _cell_length_b 30.28750
 _cell_length_c 30.28750
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,16 +20,16 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Cu         0.0      0.0  0.26244    Cu
+Cu         0.0      0.0  0.35039    Cu
 Cu         0.0      0.0  0.64961    Cu
 Cu         0.0      0.0  0.73756    Cu
-Cu         0.0  0.26244      0.0    Cu
 Cu         0.0  0.26244  0.73756    Cu
 Cu         0.0  0.35039      0.0    Cu
+Cu         0.0  0.35039  0.64961    Cu
 Cu         0.0  0.64961      0.0    Cu
 Cu         0.0  0.64961  0.35039    Cu
 Cu         0.0  0.73756      0.0    Cu
 Cu         0.0  0.73756  0.26244    Cu
-Cu         0.0      1.0  0.35039    Cu
 O      0.01286  0.30086  0.76314     O
 O      0.01286  0.30086  0.92314     O
 O      0.01286  0.76314  0.30086     O
@@ -225,9 +225,9 @@ C       0.3484  0.89976  0.73598     C
 C      0.34861  0.02017  0.81561     C
 C      0.34861  0.81561  0.02017     C
 C      0.34861  0.81561  0.81561     C
-Cu     0.35039     -0.0      0.0    Cu
+Cu     0.35039      0.0      0.0    Cu
+Cu     0.35039      0.0  0.64961    Cu
 Cu     0.35039  0.64961      0.0    Cu
-Cu     0.35039      1.0  0.64961    Cu
 C      0.37354  0.02294  0.76192     C
 C      0.37354  0.02294   0.8416     C
 C      0.37354  0.76192  0.02294     C
@@ -522,4 +522,4 @@ O      0.98714  0.23686  0.07686     O
 O      0.98714  0.23686  0.69914     O
 O      0.98714  0.69914  0.07686     O
 O      0.98714  0.69914  0.23686     O
-Cu         1.0  0.35039  0.64961    Cu
+Cu         1.0  0.26244      0.0    Cu

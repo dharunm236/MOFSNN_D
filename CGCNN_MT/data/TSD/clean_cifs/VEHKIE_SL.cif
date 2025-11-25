@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/VEHKIE_SL'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\VEHKIE_SL'
 _cell_length_a 20.31790
 _cell_length_b 20.31790
 _cell_length_c 20.31790
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,10 +19,10 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-H         -0.0      0.0  0.44088     H
-O         -0.0      0.0  0.48908     O
-H         -0.0  0.44088     -0.0     H
-O         -0.0  0.48908     -0.0     O
+H          0.0      0.0  0.44088     H
+O          0.0      0.0  0.48908     O
+H          0.0  0.44088      0.0     H
+O          0.0  0.48908      0.0     O
 O      0.00504  0.82646  0.36352     O
 O       0.0063  0.51495  0.61893     O
 O      0.00998  0.53607  0.86491     O
@@ -113,7 +113,7 @@ C      0.42114  0.34508  0.92014     C
 C      0.42494    0.501  0.07986     C
 Zn     0.42534  0.53541  0.47921    Zn
 Zn     0.43658      0.5  0.93658    Zn
-H      0.44088      0.0     -0.0     H
+H      0.44088      0.0      0.0     H
 O      0.45253  0.64591  0.52832     O
 H       0.4556    0.486   0.2102     H
 H       0.4589   0.2376   0.9351     H

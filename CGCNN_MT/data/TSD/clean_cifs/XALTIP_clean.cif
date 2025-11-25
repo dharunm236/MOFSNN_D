@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/XALTIP_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\XALTIP_clean'
 _cell_length_a 21.91680
 _cell_length_b 21.91680
 _cell_length_c 21.91680
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,10 +20,7 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 O          0.0      0.0  0.43319     O
-O          0.0  0.43319      0.0     O
-O          0.0  0.56681      0.0     O
-O          0.0  0.56681  0.43319     O
-O          0.0      1.0  0.56681     O
+O          0.0      0.0  0.56681     O
 C       0.0388   0.0388  0.42744     C
 C       0.0388   0.0388  0.49496     C
 C       0.0388  0.42744   0.0388     C
@@ -89,7 +86,7 @@ C      0.42744   0.0388   0.0388     C
 C      0.42744   0.0388  0.49496     C
 C      0.42744  0.49496   0.0388     C
 Cl     0.43236  0.85588  0.85588    Cl
-O      0.43319      0.0     -0.0     O
+O      0.43319      0.0      0.0     O
 O      0.43319      0.0  0.56681     O
 O      0.43319  0.56681      0.0     O
 Co     0.45547  0.18151  0.18151    Co
@@ -180,4 +177,7 @@ C       0.9612  0.57256  0.50504     C
 C       0.9612  0.57256   0.9612     C
 C       0.9612   0.9612  0.50504     C
 C       0.9612   0.9612  0.57256     C
+O          1.0  0.43319      0.0     O
 O          1.0  0.43319  0.56681     O
+O          1.0  0.56681      0.0     O
+O          1.0  0.56681  0.43319     O

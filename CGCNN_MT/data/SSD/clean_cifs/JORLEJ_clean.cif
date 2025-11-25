@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/JORLEJ_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\JORLEJ_clean'
 _cell_length_a 21.11460
 _cell_length_b 21.58040
 _cell_length_c 28.25140
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -32,7 +32,7 @@ N      0.01643  0.61496  0.18097     N
 H       0.0165    0.424   0.8581     H
 C      0.01812  0.38236  0.85131     C
 C       0.0209  0.41204  0.13547     C
-C      0.02359  0.66662  0.68383     C
+C      0.02359 0.66666667  0.68383     C
 C      0.02726   0.3584  0.06358     C
 C       0.0282   0.2608   0.8302     C
 N      0.03055  0.60518  0.67404     N
@@ -148,7 +148,7 @@ H       0.2988   0.7718   0.4573     H
 C       0.3022   0.2042  0.30591     C
 C      0.30685  0.19428  0.80401     C
 H       0.3096   0.2258   0.8657     H
-C      0.30979  0.66662  0.81617     C
+C      0.30979 0.66666667  0.81617     C
 C      0.31076  0.87128  0.94242     C
 C      0.31174  0.02932  0.96944     C
 C      0.31359  0.73082  0.87619     C

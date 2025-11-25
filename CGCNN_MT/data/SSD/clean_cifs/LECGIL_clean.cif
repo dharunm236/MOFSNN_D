@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/LECGIL_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\LECGIL_clean'
 _cell_length_a 15.32500
 _cell_length_b 16.47200
 _cell_length_c 17.07200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -40,7 +40,7 @@ C       0.0985   0.0008   0.8079     C
 N       0.1003   0.8787    0.999     N
 H       0.1162   0.0209   0.6765     H
 Cu     0.12705  0.93023  0.31004    Cu
-Cu     0.14128  0.12045   0.3333    Cu
+Cu     0.14128  0.12045 0.33333333    Cu
 H       0.1651   0.9823   0.8084     H
 C       0.1741   0.7366   0.9924     C
 N       0.1743   0.8497     0.03     N
@@ -104,7 +104,7 @@ N       0.6438    0.115   0.0001     N
 Cu     0.64414  0.30704  0.93371    Cu
 N       0.6498   0.5663   0.8429     N
 N       0.6527   0.7471   0.7639     N
-C       0.6666   0.3135   0.7458     C
+C     0.66666667   0.3135   0.7458     C
 N       0.6776   0.4221   0.8643     N
 N       0.6871   0.2686   0.8221     N
 H       0.7029   0.9043   0.9848     H
@@ -132,7 +132,7 @@ H       0.8107   0.3221   0.0161     H
 N       0.8257   0.1503     0.97     N
 C       0.8259   0.2634   0.0076     C
 H       0.8349   0.0177   0.1916     H
-Cu     0.85872  0.87955   0.6667    Cu
+Cu     0.85872  0.87955 0.66666667    Cu
 Cu     0.87295  0.06977  0.68996    Cu
 H       0.8838   0.9791   0.3235     H
 N       0.8997   0.1213    0.001     N

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/TEYLIU_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\TEYLIU_clean'
 _cell_length_a  6.20350
 _cell_length_b 12.04450
 _cell_length_c 22.73730
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -78,7 +78,7 @@ C       0.4546   0.5353   0.1466     C
 C       0.4632   0.5378   0.6867     C
 C       0.4716   0.2926  0.24469     C
 H       0.4717   0.5783   0.1804     H
-Co         0.5     -0.0      0.5    Co
+Co         0.5      0.0      0.5    Co
 H       0.5283   0.4217   0.8196     H
 C       0.5284   0.7074  0.75531     C
 C       0.5368   0.4622   0.3133     C

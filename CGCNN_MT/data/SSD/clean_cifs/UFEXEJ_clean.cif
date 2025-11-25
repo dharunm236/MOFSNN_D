@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/UFEXEJ_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\UFEXEJ_clean'
 _cell_length_a  7.00120
 _cell_length_b 16.00200
 _cell_length_c 16.00200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -45,7 +45,7 @@ N       0.2365   0.6099    0.426     N
 O      0.27199  0.05107    0.705     O
 O       0.2838  0.38827  0.04037     O
 Dy     0.28898  0.06436  0.84684    Dy
-O      0.31923     -0.0      0.0     O
+O      0.31923      0.0      0.0     O
 O      0.32417  0.04037  0.57136     O
 H       0.3284   0.2844   0.5907     H
 C       0.3372   0.3209   0.0303     C
@@ -64,8 +64,8 @@ C       0.4463   0.6611   0.0126     C
 O      0.45172  0.00887  0.17851     O
 C       0.4589   0.0126   0.3263     C
 N       0.4597   0.2292   0.6975     N
+Cu         0.5      0.0      0.5    Cu
 Cu         0.5      0.5      0.0    Cu
-Cu         0.5      1.0      0.5    Cu
 N       0.5403   0.7708   0.3025     N
 C       0.5411   0.9874   0.6737     C
 O      0.54828  0.99113  0.82149     O
@@ -84,7 +84,7 @@ N       0.6625    0.426   0.9641     N
 C       0.6628   0.6791   0.9697     C
 H       0.6716   0.7156   0.4093     H
 O      0.67583  0.95963  0.42864     O
-O      0.68077      1.0      0.0     O
+O      0.68077      0.0      0.0     O
 Dy     0.71102  0.93564  0.15316    Dy
 O       0.7162  0.61173  0.95963     O
 O      0.72801  0.94893    0.295     O

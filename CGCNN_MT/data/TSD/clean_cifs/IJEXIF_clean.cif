@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/IJEXIF_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\IJEXIF_clean'
 _cell_length_a 16.37900
 _cell_length_b 16.36100
 _cell_length_c 28.99900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -237,8 +237,8 @@ C      0.65954  0.20638  0.40894     C
 C      0.65954  0.29362  0.90894     C
 C        0.666  0.13245  0.70939     C
 C        0.666  0.36755  0.20939     C
-C      0.66671  0.55636  0.42594     C
-C      0.66671  0.94364  0.92594     C
+C     0.66666667  0.55636  0.42594     C
+C     0.66666667  0.94364  0.92594     C
 O      0.67325  0.05999  0.87683     O
 O      0.67325  0.44001  0.37683     O
 C      0.67485  0.01764  0.65884     C

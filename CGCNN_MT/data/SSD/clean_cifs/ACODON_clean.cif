@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ACODON_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ACODON_clean'
 _cell_length_a 10.55730
 _cell_length_b 14.47940
 _cell_length_c 23.31600
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -46,7 +46,7 @@ C       0.0996   0.2619   0.8505     C
 C       0.1165   0.2025   0.5825     C
 C       0.1165   0.2975   0.9175     C
 H        0.118   0.1667   0.9298     H
-H        0.118   0.3333   0.5702     H
+H        0.118 0.33333333   0.5702     H
 C       0.1216   0.2001   0.3521     C
 C       0.1216   0.2999   0.1479     C
 C       0.1228   0.2326   0.9498     C
@@ -167,7 +167,7 @@ C       0.8772   0.7326   0.4498     C
 C       0.8772   0.7674   0.0502     C
 C       0.8784   0.7001   0.8521     C
 C       0.8784   0.7999   0.6479     C
-H        0.882   0.6667   0.4298     H
+H        0.882 0.66666667   0.4298     H
 H        0.882   0.8333   0.0702     H
 C       0.8835   0.7025   0.0825     C
 C       0.8835   0.7975   0.4175     C

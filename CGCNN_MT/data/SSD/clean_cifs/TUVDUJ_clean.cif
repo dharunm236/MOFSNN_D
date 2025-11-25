@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/TUVDUJ_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\TUVDUJ_clean'
 _cell_length_a 15.22900
 _cell_length_b 15.22900
 _cell_length_c 15.85200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -81,8 +81,8 @@ C       0.3257   0.1108   0.1951     C
 C       0.3257   0.1108   0.8049     C
 C       0.3257   0.2149   0.3049     C
 C       0.3257   0.2149   0.6951     C
-Er     0.33333  0.66666     0.25    Er
-Er     0.33333  0.66666     0.75    Er
+Er    0.33333333 0.66666667     0.25    Er
+Er    0.33333333 0.66666667     0.75    Er
 C       0.3532   0.4951   0.1409     C
 C       0.3532   0.4951   0.8591     C
 C       0.3532   0.8581   0.3591     C
@@ -113,8 +113,8 @@ C       0.4951   0.1419   0.1409     C
 C       0.4951   0.1419   0.8591     C
 C       0.4951   0.3532   0.3591     C
 C       0.4951   0.3532   0.6409     C
-Mn         0.5     -0.0      0.0    Mn
-Mn         0.5     -0.0      0.5    Mn
+Mn         0.5      0.0      0.0    Mn
+Mn         0.5      0.0      0.5    Mn
 Mn         0.5      0.5      0.0    Mn
 Mn         0.5      0.5      0.5    Mn
 C       0.5049   0.6468   0.3591     C
@@ -147,8 +147,8 @@ C       0.6468   0.1419   0.3591     C
 C       0.6468   0.1419   0.6409     C
 C       0.6468   0.5049   0.1409     C
 C       0.6468   0.5049   0.8591     C
-Er     0.66667  0.33334     0.25    Er
-Er     0.66667  0.33334     0.75    Er
+Er    0.66666667 0.33333333     0.25    Er
+Er    0.66666667 0.33333333     0.75    Er
 C       0.6743   0.7851   0.3049     C
 C       0.6743   0.7851   0.6951     C
 C       0.6743   0.8892   0.1951     C

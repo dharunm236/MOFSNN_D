@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/QIVZEC_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\QIVZEC_clean'
 _cell_length_a 10.75750
 _cell_length_b 15.31800
 _cell_length_c 29.39060
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -312,7 +312,7 @@ C       0.7706   0.0066   0.9105     C
 C       0.7712   0.9714  0.95628     C
 N       0.7719   0.0831  0.58289     N
 N       0.7817   0.5848  0.08368     N
-N       0.7831   0.6666  0.24524     N
+N       0.7831 0.66666667  0.24524     N
 N       0.7852   0.1232  0.53693     N
 C       0.7856   0.3069  0.61104     C
 O        0.791  0.25697  0.83406     O

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/BEPBAB_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\BEPBAB_clean'
 _cell_length_a  9.49300
 _cell_length_b 11.24200
 _cell_length_c 11.27000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -67,7 +67,7 @@ N       0.6501   0.7161   0.8203     N
 C       0.6526   0.6229   0.1493     C
 H       0.6687   0.6933   0.5541     H
 C       0.6898   0.3266   0.2186     C
-H       0.6989   0.6666    0.356     H
+H       0.6989 0.66666667    0.356     H
 N       0.6997   0.3992   0.8969     N
 H       0.7074   0.3958   0.6277     H
 H       0.7374   0.3711   0.4284     H

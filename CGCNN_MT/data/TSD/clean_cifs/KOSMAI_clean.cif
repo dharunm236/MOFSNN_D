@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/KOSMAI_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\KOSMAI_clean'
 _cell_length_a  6.77670
 _cell_length_b 15.09990
 _cell_length_c 15.09990
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -23,7 +23,7 @@ C       0.0346   0.0941   0.4673     C
 C       0.0346   0.5327   0.9059     C
 O       0.0472   0.4992    0.322     O
 O       0.0472    0.678   0.5008     O
-C      0.08235     -0.0  0.49695     C
+C      0.08235      0.0  0.49695     C
 C      0.08235  0.50305      0.0     C
 H        0.108   0.5715   0.4285     H
 Co       0.113   0.2985   0.2795    Co
@@ -33,7 +33,7 @@ O       0.1784   0.5983   0.8179     O
 C       0.1969   0.4573   0.3548     C
 C       0.1969   0.6452   0.5427     C
 C       0.2318   0.5568   0.4432     C
-H      0.24285     -0.0  0.48045     H
+H      0.24285      0.0  0.48045     H
 H      0.24285  0.51955      0.0     H
 O       0.2519   0.3838   0.3425     O
 O       0.2519   0.6575   0.6162     O
@@ -45,7 +45,7 @@ Co      0.3925   0.2795    0.422    Co
 Co      0.3925    0.578   0.7205    Co
 C       0.5019   0.4673   0.4386     C
 C       0.5019   0.5614   0.5327     C
-H       0.5365     -0.0   0.5715     H
+H       0.5365      0.0   0.5715     H
 H       0.5365   0.4285      0.0     H
 O        0.548   0.1788   0.4992     O
 O        0.548   0.5008   0.8212     O

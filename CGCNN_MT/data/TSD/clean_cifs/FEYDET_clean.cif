@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/FEYDET_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\FEYDET_clean'
 _cell_length_a  7.31810
 _cell_length_b 17.02000
 _cell_length_c 10.57890
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -51,7 +51,7 @@ C        0.361   0.5465   0.6353     C
 C         0.39   0.7519   0.7722     C
 C        0.402   0.0012   0.0158     C
 O        0.414   0.9252   0.0196     O
-C        0.417   0.6666    0.759     C
+C        0.417 0.66666667    0.759     C
 C       0.4462   0.5057   0.7474     C
 H       0.4594   0.4515   0.7437     H
 H       0.4616   0.1503   0.0528     H

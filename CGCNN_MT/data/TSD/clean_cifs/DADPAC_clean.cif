@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/DADPAC_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\DADPAC_clean'
 _cell_length_a 15.49800
 _cell_length_b 16.40000
 _cell_length_c 12.66000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,6 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Fe         0.0  0.05061     0.75    Fe
 Fe         0.0  0.94939     0.25    Fe
 O       0.0252   0.2343   0.6097     O
 O       0.0252   0.7657   0.1097     O
@@ -159,3 +158,4 @@ C       0.9632   0.0231    0.504     C
 C       0.9632   0.9769    0.004     C
 O       0.9748   0.2343   0.8903     O
 O       0.9748   0.7657   0.3903     O
+Fe         1.0  0.05061     0.75    Fe

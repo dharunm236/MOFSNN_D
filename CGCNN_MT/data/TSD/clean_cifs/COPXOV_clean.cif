@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/COPXOV_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\COPXOV_clean'
 _cell_length_a 13.39970
 _cell_length_b 13.66990
 _cell_length_c 46.33900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -441,7 +441,7 @@ N      0.65845   0.1927  0.71078     N
 O      0.65971  0.30214  0.07392     O
 H       0.6599   0.0742    0.954     H
 O      0.66439  0.40398  0.25744     O
-C      0.66671  0.93042  0.78988     C
+C     0.66666667  0.93042  0.78988     C
 H       0.6672   0.9176   0.0299     H
 C      0.66941  0.47942  0.84543     C
 C      0.67091  0.16602  0.48817     C

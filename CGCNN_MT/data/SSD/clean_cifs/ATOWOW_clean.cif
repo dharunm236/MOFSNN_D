@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ATOWOW_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ATOWOW_clean'
 _cell_length_a 14.05990
 _cell_length_b 14.05990
 _cell_length_c 14.35000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -26,7 +26,7 @@ C       0.0134   0.6308   0.2862     C
 C       0.0154   0.3306   0.8013     C
 O       0.0166    0.289   0.4746     O
 Zn     0.01975  0.01975  0.08429    Zn
-C       0.0216   0.5566   0.6666     C
+C       0.0216   0.5566 0.66666667     C
 N       0.0228   0.9486   0.6253     N
 O       0.0268   0.1786    0.965     O
 C       0.0286   0.6794   0.5899     C
@@ -71,7 +71,7 @@ H       0.4924   0.0362   0.4099     H
 H       0.5076   0.9638   0.5901     H
 C       0.5178   0.0552   0.7504     C
 C       0.5179   0.0129   0.3525     C
-C       0.5566   0.0216   0.6666     C
+C       0.5566   0.0216 0.66666667     C
 H       0.5667   0.0833   0.7608     H
 C       0.5966   0.9524    0.178     C
 H        0.623   0.9352   0.1157     H

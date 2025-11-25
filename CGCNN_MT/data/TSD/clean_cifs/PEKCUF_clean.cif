@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/PEKCUF_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\PEKCUF_clean'
 _cell_length_a 11.30310
 _cell_length_b 24.23340
 _cell_length_c 36.07900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,7 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-C       0.0008   0.0579   0.6667     C
+C       0.0008   0.0579 0.66666667     C
 H       0.0012    0.051   0.3555     H
 C       0.0034   0.8048  0.80273     C
 C       0.0038   0.6779  0.47157     C
@@ -273,7 +273,7 @@ O       0.5462  0.31951  0.10558     O
 H       0.5487   0.4974   0.1037     H
 H       0.5491    0.585    0.897     H
 O       0.5498  0.33666  0.20802     O
-H        0.558   0.6667   0.9552     H
+H        0.558 0.66666667   0.9552     H
 C       0.5597   0.6599  0.79904     C
 C       0.5628   0.8464  0.03601     C
 C       0.5639   0.2065   0.1543     C
@@ -448,7 +448,7 @@ H       0.9343   0.2551    0.326     H
 C       0.9361   0.2065   0.6543     C
 C       0.9372   0.8464  0.53601     C
 C       0.9403   0.6599  0.29904     C
-H        0.942   0.6667   0.4552     H
+H        0.942 0.66666667   0.4552     H
 O       0.9502  0.33666  0.70802     O
 H       0.9509    0.585    0.397     H
 H       0.9513   0.4974   0.6037     H
@@ -474,4 +474,4 @@ C       0.9925    0.163  0.22551     C
 C       0.9962   0.3221  0.52843     C
 C       0.9966   0.1952  0.19727     C
 H       0.9988    0.949   0.6445     H
-C       0.9992   0.9421   0.3333     C
+C       0.9992   0.9421 0.33333333     C

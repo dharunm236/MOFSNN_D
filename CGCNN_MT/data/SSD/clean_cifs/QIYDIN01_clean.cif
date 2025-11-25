@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/QIYDIN01_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\QIYDIN01_clean'
 _cell_length_a 47.49300
 _cell_length_b 51.75150
 _cell_length_c 32.96740
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -653,8 +653,8 @@ C       0.3306  0.23399   0.0719     C
 C       0.3306  0.76601   0.5719     C
 H       0.3323   0.1657   0.3651     H
 H       0.3323   0.8343   0.8651     H
-O      0.33333  0.33294  0.19318     O
-O      0.33333  0.66706  0.69318     O
+O     0.33333333  0.33294  0.19318     O
+O     0.33333333  0.66706  0.69318     O
 C      0.33462  0.49373   0.5454     C
 C      0.33462  0.50627   0.0454     C
 H       0.3355   0.3041    0.322     H
@@ -1159,8 +1159,8 @@ H       0.6645   0.3041    0.178     H
 H       0.6645   0.6959    0.678     H
 C      0.66538  0.49373   0.9546     C
 C      0.66538  0.50627   0.4546     C
-O      0.66667  0.33294  0.30682     O
-O      0.66667  0.66706  0.80682     O
+O     0.66666667  0.33294  0.30682     O
+O     0.66666667  0.66706  0.80682     O
 H       0.6677   0.1657   0.1349     H
 H       0.6677   0.8343   0.6349     H
 C       0.6694  0.23399   0.4281     C

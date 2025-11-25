@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/ATICAH_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\ATICAH_clean'
 _cell_length_a 10.16170
 _cell_length_b 11.65480
 _cell_length_c 15.29430
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -20,7 +20,7 @@ _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
 Mn         0.0      0.0      0.0    Mn
-Mn         0.0      0.5     -0.0    Mn
+Mn         0.0      0.5      0.0    Mn
 O      0.00774  0.62581  0.21628     O
 O      0.01977  0.46322  0.13721     O
 O      0.02258   0.6866  0.01907     O

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/HAZNIH_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\HAZNIH_clean'
 _cell_length_a 15.39590
 _cell_length_b 17.37750
 _cell_length_c 15.05430
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -91,7 +91,7 @@ O       0.2844   0.0763     0.55     O
 O       0.2844   0.9237     0.05     O
 C        0.302   0.4932   0.3028     C
 C        0.302   0.5068   0.8028     C
-C       0.3094   0.4404   0.6666     C
+C       0.3094   0.4404 0.66666667     C
 C       0.3094   0.5596   0.1666     C
 H       0.3143   0.2922   0.4816     H
 H       0.3143   0.7078   0.9816     H
@@ -206,7 +206,7 @@ O       0.7844   0.5763     0.55     O
 C        0.802   0.0068   0.8028     C
 C        0.802   0.9932   0.3028     C
 C       0.8094   0.0596   0.1666     C
-C       0.8094   0.9404   0.6666     C
+C       0.8094   0.9404 0.66666667     C
 H       0.8143   0.2078   0.9816     H
 H       0.8143   0.7922   0.4816     H
 C       0.8193   0.4686   0.3648     C

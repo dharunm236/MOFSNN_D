@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/NUFBUN_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\NUFBUN_clean'
 _cell_length_a 12.02400
 _cell_length_b 13.77300
 _cell_length_c 15.85000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -49,8 +49,8 @@ C       0.3115    0.517  0.08819     C
 C       0.3115    0.983  0.58819     C
 C       0.3301   0.1106  0.72512     C
 C       0.3301   0.3894  0.22512     C
-C       0.3333   0.1953  0.08974     C
-C       0.3333   0.3047  0.58974     C
+C     0.33333333   0.1953  0.08974     C
+C     0.33333333   0.3047  0.58974     C
 C       0.3398   0.1803   0.7973     C
 C       0.3398   0.3197   0.2973     C
 O       0.3554   0.1399  0.15299     O
@@ -95,8 +95,8 @@ O       0.6446   0.6399  0.34701     O
 O       0.6446   0.8601  0.84701     O
 C       0.6602   0.6803   0.7027     C
 C       0.6602   0.8197   0.2027     C
-C       0.6667   0.6953  0.41026     C
-C       0.6667   0.8047  0.91026     C
+C     0.66666667   0.6953  0.41026     C
+C     0.66666667   0.8047  0.91026     C
 C       0.6699   0.6106  0.77488     C
 C       0.6699   0.8894  0.27488     C
 C       0.6885    0.017  0.41181     C

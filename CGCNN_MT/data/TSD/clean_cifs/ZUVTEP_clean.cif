@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ZUVTEP_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ZUVTEP_clean'
 _cell_length_a  9.50700
 _cell_length_b  9.50700
 _cell_length_c 17.44300
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -49,7 +49,7 @@ C       0.3068   0.9059   0.5514     C
 C       0.3068   0.9059   0.9486     C
 H        0.325   0.8303   0.5227     H
 H        0.325   0.8303   0.9773     H
-La     0.33333  0.66667     0.75    La
+La    0.33333333 0.66666667     0.75    La
 C       0.3501    0.185   0.1046     C
 C       0.3501    0.185   0.3954     C
 C       0.4009   0.0941   0.0514     C
@@ -74,7 +74,7 @@ C       0.5991   0.6932   0.5514     C
 C       0.5991   0.6932   0.9486     C
 C       0.6499   0.8349   0.6046     C
 C       0.6499   0.8349   0.8954     C
-La     0.66667  0.33333     0.25    La
+La    0.66666667 0.33333333     0.25    La
 H        0.675   0.5053   0.0227     H
 H        0.675   0.5053   0.4773     H
 C       0.6932   0.5991   0.0514     C

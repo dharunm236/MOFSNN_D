@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/VEHLEA01_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\VEHLEA01_clean'
 _cell_length_a 15.78300
 _cell_length_b  8.37800
 _cell_length_c 15.95500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,7 +19,6 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Zn         0.0  0.13092     0.75    Zn
 Zn         0.0  0.86908     0.25    Zn
 P      0.02115  0.12698  0.40041     P
 P      0.02115  0.87302  0.90041     P
@@ -111,3 +110,4 @@ O      0.97507   0.0146  0.84229     O
 O      0.97507   0.9854  0.34229     O
 P      0.97885  0.12698  0.09959     P
 P      0.97885  0.87302  0.59959     P
+Zn         1.0  0.13092     0.75    Zn

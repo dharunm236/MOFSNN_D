@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/POMMAH_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\POMMAH_clean'
 _cell_length_a 21.91730
 _cell_length_b 21.91730
 _cell_length_c 28.26850
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -117,8 +117,8 @@ C       0.3017    0.532   0.0717     C
 C       0.3017    0.532   0.9283     C
 C       0.3017   0.7697   0.4283     C
 C       0.3017   0.7697   0.5717     C
-O      0.33333  0.66667      0.0     O
-O      0.33333  0.66667      0.5     O
+O     0.33333333 0.66666667      0.0     O
+O     0.33333333 0.66666667      0.5     O
 N       0.3456   0.4669   0.1822     N
 N       0.3456   0.4669   0.8178     N
 N       0.3456   0.8787   0.3178     N
@@ -295,8 +295,8 @@ N       0.6544   0.1213   0.3178     N
 N       0.6544   0.1213   0.6822     N
 N       0.6544   0.5331   0.1822     N
 N       0.6544   0.5331   0.8178     N
-O      0.66667  0.33333      0.0     O
-O      0.66667  0.33333      0.5     O
+O     0.66666667 0.33333333      0.0     O
+O     0.66666667 0.33333333      0.5     O
 C       0.6983   0.2303   0.4283     C
 C       0.6983   0.2303   0.5717     C
 C       0.6983    0.468   0.0717     C

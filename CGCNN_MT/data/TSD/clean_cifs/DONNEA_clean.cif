@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/DONNEA_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\DONNEA_clean'
 _cell_length_a  6.72610
 _cell_length_b 11.04550
 _cell_length_c 11.04550
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -38,7 +38,7 @@ O       0.3452   0.1867   0.0113     O
 C       0.3708   0.9732   0.5584     C
 C       0.4228   0.0134    0.376     C
 O       0.4682   0.0533   0.1959     O
-Ga         0.5     -0.0      0.0    Ga
+Ga         0.5      0.0      0.0    Ga
 O       0.5318   0.9467   0.8041     O
 C       0.5772   0.9866    0.624     C
 C       0.6292   0.0268   0.4416     C

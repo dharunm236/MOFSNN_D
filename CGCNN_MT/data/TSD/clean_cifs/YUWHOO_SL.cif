@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/YUWHOO_SL'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\YUWHOO_SL'
 _cell_length_a 12.19450
 _cell_length_b 12.19450
 _cell_length_c 12.16900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -77,7 +77,7 @@ C      0.49534  0.75474   0.0002     C
 H        0.496    0.286    0.081     H
 C       0.4977   0.5023     0.25     C
 C      0.49885  0.23125   0.2705     C
-Ga         0.5      0.0     -0.0    Ga
+Ga         0.5      0.0      0.0    Ga
 Ga         0.5      0.5      0.0    Ga
 Ga         0.5      0.5      0.5    Ga
 C      0.50115  0.76875   0.7295     C

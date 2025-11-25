@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/FOXNIQ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\FOXNIQ_clean'
 _cell_length_a 11.92480
 _cell_length_b 16.16060
 _cell_length_c 17.52540
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -90,7 +90,7 @@ O       0.3215   0.1728   0.2926     O
 C       0.3243   0.6051   0.8239     C
 C       0.3248   0.6687   0.4991     C
 C       0.3274   0.5812   0.2323     C
-H       0.3333   0.6217    0.978     H
+H     0.33333333   0.6217    0.978     H
 C       0.3407   0.1211   0.6727     C
 C       0.3422   0.2445   0.5848     C
 O       0.3422   0.5566    0.775     O
@@ -114,7 +114,7 @@ O       0.4198   0.3269   0.2294     O
 Gd     0.42989  0.20626  0.42457    Gd
 C        0.433   0.6593   0.2382     C
 N       0.4354   0.1403   0.5609     N
-O       0.4371   0.7297   0.6666     O
+O       0.4371   0.7297 0.66666667     O
 Gd     0.43717  0.58396  0.66373    Gd
 C       0.4426   0.0244   0.6417     C
 O       0.4541   0.5036   0.2807     O
@@ -161,7 +161,7 @@ C       0.6537   0.5042   0.7432     C
 O       0.6578   0.4434    0.225     O
 C       0.6578   0.7555   0.4152     C
 C       0.6593   0.8789   0.3273     C
-H       0.6667   0.3783    0.022     H
+H     0.66666667   0.3783    0.022     H
 C       0.6726   0.4188   0.7677     C
 C       0.6752   0.3313   0.5009     C
 C       0.6757   0.3949   0.1761     C

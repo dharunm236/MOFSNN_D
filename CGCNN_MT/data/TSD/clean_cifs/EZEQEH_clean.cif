@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/EZEQEH_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\EZEQEH_clean'
 _cell_length_a 16.75130
 _cell_length_b 18.19230
 _cell_length_c 12.02580
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -89,8 +89,8 @@ H        0.279    0.445    0.743     H
 H        0.279    0.555    0.243     H
 H        0.285    0.441     0.34     H
 H        0.285    0.559     0.84     H
-C       0.3333  0.10136   0.8326     C
-C       0.3333  0.89864   0.3326     C
+C     0.33333333  0.10136   0.8326     C
+C     0.33333333  0.89864   0.3326     C
 C       0.3364  0.03428   0.4443     C
 C       0.3364  0.96572   0.9443     C
 C       0.3381  0.17026    0.767     C
@@ -173,8 +173,8 @@ C       0.6619  0.17026    0.733     C
 C       0.6619  0.82974    0.233     C
 C       0.6636  0.03428   0.0557     C
 C       0.6636  0.96572   0.5557     C
-C       0.6667  0.10136   0.6674     C
-C       0.6667  0.89864   0.1674     C
+C     0.66666667  0.10136   0.6674     C
+C     0.66666667  0.89864   0.1674     C
 H        0.715    0.441     0.16     H
 H        0.715    0.559     0.66     H
 H        0.721    0.445    0.757     H

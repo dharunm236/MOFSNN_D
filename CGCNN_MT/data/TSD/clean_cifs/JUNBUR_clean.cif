@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/JUNBUR_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\JUNBUR_clean'
 _cell_length_a 10.24000
 _cell_length_b 13.77200
 _cell_length_c 16.70000
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -65,8 +65,8 @@ O        0.634   0.1668   0.5727     O
 O        0.634   0.3332   0.0727     O
 H       0.6609   0.2259   0.2086     H
 H       0.6609   0.2741   0.7086     H
-O       0.6666    0.648   0.1484     O
-O       0.6666    0.852   0.6484     O
+O     0.66666667    0.648   0.1484     O
+O     0.66666667    0.852   0.6484     O
 O       0.6805   0.5458   0.0533     O
 O       0.6805   0.9542   0.5533     O
 C         0.74   0.6096   0.1179     C

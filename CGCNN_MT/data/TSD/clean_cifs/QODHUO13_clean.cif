@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/QODHUO13_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\QODHUO13_clean'
 _cell_length_a 22.02900
 _cell_length_b 16.48610
 _cell_length_c 25.58870
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -92,7 +92,7 @@ C       0.1715   0.7081    0.256     C
 C       0.1745   0.4592   0.0263     C
 C       0.1745   0.5408   0.5263     C
 H        0.176   0.3334   0.8322     H
-H        0.176   0.6666   0.3322     H
+H        0.176 0.66666667   0.3322     H
 H       0.1765    0.318   0.1553     H
 H       0.1765    0.682   0.6553     H
 Ag     0.17734  0.24623  0.63295    Ag
@@ -538,7 +538,7 @@ Ag     0.82266  0.75377  0.36705    Ag
 H       0.8235    0.318   0.3447     H
 H       0.8235    0.682   0.8447     H
 H        0.824   0.3334   0.6678     H
-H        0.824   0.6666   0.1678     H
+H        0.824 0.66666667   0.1678     H
 C       0.8255   0.4592   0.4737     C
 C       0.8255   0.5408   0.9737     C
 C       0.8285   0.2919    0.744     C

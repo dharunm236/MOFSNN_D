@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/ORANAY_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\ORANAY_clean'
 _cell_length_a 15.61150
 _cell_length_b 15.61150
 _cell_length_c 15.18420
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,8 +19,6 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
-Mg         0.0      0.5      0.0    Mg
-Mg         0.0      0.5      0.5    Mg
 H       0.0539   0.2891   0.3441     H
 H       0.0539   0.2891   0.6559     H
 H       0.0539   0.7648   0.1559     H
@@ -81,8 +79,8 @@ C       0.3223    0.107   0.1943     C
 C       0.3223    0.107   0.8057     C
 C       0.3223   0.2153   0.3057     C
 C       0.3223   0.2153   0.6943     C
-Ce     0.33333  0.66667     0.25    Ce
-Ce     0.33333  0.66667     0.75    Ce
+Ce    0.33333333 0.66666667     0.25    Ce
+Ce    0.33333333 0.66666667     0.75    Ce
 C      0.35303  0.48768  0.13922     C
 C      0.35303  0.48768  0.86078     C
 C      0.35303  0.86535  0.36078     C
@@ -147,8 +145,8 @@ C      0.64697  0.13465  0.36078     C
 C      0.64697  0.13465  0.63922     C
 C      0.64697  0.51232  0.13922     C
 C      0.64697  0.51232  0.86078     C
-Ce     0.66667  0.33333     0.25    Ce
-Ce     0.66667  0.33333     0.75    Ce
+Ce    0.66666667 0.33333333     0.25    Ce
+Ce    0.66666667 0.33333333     0.75    Ce
 C       0.6777   0.7847   0.3057     C
 C       0.6777   0.7847   0.6943     C
 C       0.6777    0.893   0.1943     C
@@ -209,3 +207,5 @@ H       0.9461   0.2352   0.1559     H
 H       0.9461   0.2352   0.8441     H
 H       0.9461   0.7109   0.3441     H
 H       0.9461   0.7109   0.6559     H
+Mg         1.0      0.5      0.0    Mg
+Mg         1.0      0.5      0.5    Mg

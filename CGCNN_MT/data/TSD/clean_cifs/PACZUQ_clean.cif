@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/PACZUQ_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\PACZUQ_clean'
 _cell_length_a 12.51400
 _cell_length_b 15.76700
 _cell_length_c 16.17100
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -85,7 +85,7 @@ H        0.313   0.8021   0.5888     H
 O        0.314   0.6292   0.2003     O
 O       0.3228   0.1336   0.8613     O
 H       0.3293   0.8807   0.5179     H
-H       0.3305   0.7344   0.6666     H
+H       0.3305   0.7344 0.66666667     H
 H       0.3343   0.0613    0.653     H
 H       0.3468   0.6807   0.2538     H
 H       0.3477    0.458   0.8866     H

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/VOYGOH_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\VOYGOH_clean'
 _cell_length_a 21.68540
 _cell_length_b 29.72760
 _cell_length_c 34.82860
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -441,7 +441,7 @@ C       0.6591   0.2078   0.3613     C
 O      0.65954  0.60011  0.53889     O
 Mo     0.66003  0.57241  0.85127    Mo
 O      0.66646  0.58222  0.05616     O
-O       0.6667  0.67547  0.00833     O
+O     0.66666667  0.67547  0.00833     O
 O       0.6692  0.50596  0.85594     O
 O       0.6694  0.47301  0.35932     O
 H       0.6725   0.2214   0.3848     H

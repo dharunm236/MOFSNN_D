@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/CAVREY_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\CAVREY_clean'
 _cell_length_a 15.58500
 _cell_length_b 19.23700
 _cell_length_c 25.30500
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -284,8 +284,8 @@ H        0.653   0.3155   0.4507     H
 C       0.6553   0.5108   0.5335     C
 C       0.6553   0.9892   0.5335     C
 H       0.6659     0.25   0.2099     H
-C       0.6666   0.6211   0.7919     C
-C       0.6666   0.8789   0.7919     C
+C     0.66666667   0.6211   0.7919     C
+C     0.66666667   0.8789   0.7919     C
 O       0.6749   0.1053   0.1929     O
 O       0.6749   0.3947   0.1929     O
 Zn     0.68421     0.25  0.30386    Zn

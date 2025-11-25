@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/HOQMIL04_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\HOQMIL04_clean'
 _cell_length_a 12.56690
 _cell_length_b 12.56690
 _cell_length_c 13.54830
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -74,7 +74,7 @@ H        0.488   0.3409   0.2663     H
 O      0.49031  0.17967  0.88916     O
 N      0.49177  0.26589  0.92264     N
 C      0.49825  0.45041  0.98382     C
-Mg         0.5     -0.0      0.0    Mg
+Mg         0.5      0.0      0.0    Mg
 Mg         0.5      0.5      0.5    Mg
 C      0.50175  0.54959  0.01618     C
 N      0.50823  0.73411  0.07736     N

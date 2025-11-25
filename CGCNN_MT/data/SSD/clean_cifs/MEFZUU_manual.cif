@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/MEFZUU_manual'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\MEFZUU_manual'
 _cell_length_a 38.14280
 _cell_length_b 38.14280
 _cell_length_c 39.24560
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -423,8 +423,8 @@ C       0.2492   0.3175   0.1708     C
 C       0.2492   0.3175   0.6708     C
 C       0.2492   0.8175   0.1708     C
 C       0.2492   0.8175   0.6708     C
-Mn        0.25     -0.0     0.25    Mn
-Mn        0.25     -0.0     0.75    Mn
+Mn        0.25      0.0     0.25    Mn
+Mn        0.25      0.0     0.75    Mn
 Mn        0.25     0.25     0.25    Mn
 Mn        0.25     0.25     0.75    Mn
 Mn        0.25      0.5     0.25    Mn
@@ -621,9 +621,9 @@ H      0.35165  0.12985   0.2207     H
 H      0.35165  0.12985   0.7207     H
 H      0.35165  0.62985   0.2207     H
 H      0.35165  0.62985   0.7207     H
-Cl     0.35295   0.0415     -0.0    Cl
+Cl     0.35295   0.0415      0.0    Cl
 Cl     0.35295   0.0415      0.5    Cl
-Cl     0.35295   0.5415     -0.0    Cl
+Cl     0.35295   0.5415      0.0    Cl
 Cl     0.35295   0.5415      0.5    Cl
 C      0.35595  0.48785   0.3823     C
 C      0.35595  0.48785   0.8823     C
@@ -827,8 +827,8 @@ O      0.49748  0.81448  0.45285     O
 O      0.49748  0.81448  0.95285     O
 Cl     0.49842  0.30782  0.19377    Cl
 Cl     0.49842  0.80782  0.19377    Cl
-Mn         0.5     -0.0     0.25    Mn
-Mn         0.5     -0.0     0.75    Mn
+Mn         0.5      0.0     0.25    Mn
+Mn         0.5      0.0     0.75    Mn
 Mn         0.5     0.25     0.25    Mn
 Mn         0.5     0.25     0.75    Mn
 Mn         0.5      0.5     0.25    Mn
@@ -1230,8 +1230,8 @@ C       0.7492   0.3175   0.1708     C
 C       0.7492   0.3175   0.6708     C
 C       0.7492   0.8175   0.1708     C
 C       0.7492   0.8175   0.6708     C
-Mn        0.75     -0.0     0.25    Mn
-Mn        0.75     -0.0     0.75    Mn
+Mn        0.75      0.0     0.25    Mn
+Mn        0.75      0.0     0.75    Mn
 Mn        0.75     0.25     0.25    Mn
 Mn        0.75     0.25     0.75    Mn
 Mn        0.75      0.5     0.25    Mn

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/TSD/clean_cifs/SUHBAA_clean'
+_chemical_name_common  'CGCNN_MT\data\TSD\clean_cifs\SUHBAA_clean'
 _cell_length_a 37.22700
 _cell_length_b 37.22700
 _cell_length_c 30.14900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -393,9 +393,9 @@ H       0.3298   0.5133   0.4336     H
 H       0.3298   0.8165   0.0664     H
 C       0.3312   0.1013    0.432     C
 C       0.3312   0.2299    0.068     C
-Zn     0.33333  0.66667   0.1936    Zn
-O      0.33333  0.66667     0.25     O
-Zn     0.33333  0.66667   0.3064    Zn
+Zn    0.33333333 0.66666667   0.1936    Zn
+O     0.33333333 0.66666667     0.25     O
+Zn    0.33333333 0.66666667   0.3064    Zn
 F       0.3346   0.0756   0.1014     F
 F       0.3346    0.259   0.3986     F
 O       0.3353  0.16765     0.25     O
@@ -674,9 +674,9 @@ H        0.663   0.9475   0.4558     H
 O       0.6647  0.83235     0.75     O
 F       0.6654    0.741   0.6014     F
 F       0.6654   0.9244   0.8986     F
-Zn     0.66667  0.33333   0.6936    Zn
-O      0.66667  0.33333     0.75     O
-Zn     0.66667  0.33333   0.8064    Zn
+Zn    0.66666667 0.33333333   0.6936    Zn
+O     0.66666667 0.33333333     0.75     O
+Zn    0.66666667 0.33333333   0.8064    Zn
 C       0.6688   0.7701    0.932     C
 C       0.6688   0.8987    0.568     C
 H       0.6702   0.1835   0.9336     H

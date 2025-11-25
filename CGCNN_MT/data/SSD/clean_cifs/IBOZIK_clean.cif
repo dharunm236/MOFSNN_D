@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/SSD/clean_cifs/IBOZIK_clean'
+_chemical_name_common  'CGCNN_MT\data\SSD\clean_cifs\IBOZIK_clean'
 _cell_length_a 10.01240
 _cell_length_b 14.19080
 _cell_length_c 21.64820
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -88,7 +88,7 @@ O       0.4213  0.85206  0.17632     O
 H       0.4266   0.3399   0.1887     H
 H       0.4266   0.6601   0.6887     H
 H        0.434   0.0063   0.8333     H
-H        0.434   0.9937   0.3333     H
+H        0.434   0.9937 0.33333333     H
 H       0.4341   0.2823   0.1278     H
 H       0.4341   0.7177   0.6278     H
 H       0.4552   0.0681   0.1758     H
@@ -107,7 +107,7 @@ H       0.5448   0.0681   0.3242     H
 H       0.5448   0.9319   0.8242     H
 H       0.5659   0.2823   0.3722     H
 H       0.5659   0.7177   0.8722     H
-H        0.566   0.0063   0.6667     H
+H        0.566   0.0063 0.66666667     H
 H        0.566   0.9937   0.1667     H
 H       0.5734   0.3399   0.3113     H
 H       0.5734   0.6601   0.8113     H
