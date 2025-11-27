@@ -1,0 +1,1 @@
+feature_folders/QOSXOM_clean/zeo++/QOSXOM_clean_pd.txt    11.04395 8.54040  11.03268

@@ -1,0 +1,8 @@
+HAPVEB_clean_primitive, Anchors list: {1, 7}, SBU connectlist: {1}
+HAPVEB_clean_primitive, Anchors list: {1, 7}, SBU connectlist: {1}
+HAPVEB_clean_primitive, Anchors list: {0, 6}, SBU connectlist: {0}
+HAPVEB_clean_primitive, Anchors list: {0, 6}, SBU connectlist: {0}
+HAPVEB_clean_primitive, Anchors list: {3, 11}, SBU connectlist: {3}
+HAPVEB_clean_primitive, Anchors list: {3, 11}, SBU connectlist: {3}
+HAPVEB_clean_primitive, Anchors list: {2, 10}, SBU connectlist: {2}
+HAPVEB_clean_primitive, Anchors list: {2, 10}, SBU connectlist: {2}

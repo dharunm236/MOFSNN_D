@@ -1,0 +1,12 @@
+QAJMUM_clean_primitive, Anchors list: {24, 18, 23}, SBU connectlist: {9, 2, 6}
+QAJMUM_clean_primitive, Anchors list: {25, 19, 22}, SBU connectlist: {8, 3, 7}
+QAJMUM_clean_primitive, Anchors list: {16, 25, 21}, SBU connectlist: {0, 5, 7}
+QAJMUM_clean_primitive, Anchors list: {24, 17, 20}, SBU connectlist: {1, 4, 6}
+QAJMUM_clean_primitive, Anchors list: {16, 19, 23}, SBU connectlist: {0, 9, 3}
+QAJMUM_clean_primitive, Anchors list: {17, 18, 22}, SBU connectlist: {8, 1, 2}
+QAJMUM_clean_primitive, Anchors list: {24, 18, 21}, SBU connectlist: {2, 5, 6}
+QAJMUM_clean_primitive, Anchors list: {25, 19, 20}, SBU connectlist: {3, 4, 7}
+QAJMUM_clean_primitive, Anchors list: {19, 20, 22}, SBU connectlist: {8, 3, 4}
+QAJMUM_clean_primitive, Anchors list: {18, 21, 23}, SBU connectlist: {9, 2, 5}
+QAJMUM_clean_primitive, Anchors list: {25, 20, 22}, SBU connectlist: {8, 4, 7}
+QAJMUM_clean_primitive, Anchors list: {24, 21, 23}, SBU connectlist: {9, 5, 6}

@@ -1,0 +1,1 @@
+feature_folders/NUCYER_clean/zeo++/NUCYER_clean_pd.txt    4.97468 4.20229  4.97468

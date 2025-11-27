@@ -1,0 +1,3 @@
+@ feature_folders/PUZKOM_clean/zeo++/PUZKOM_clean_sa.txt Unitcell_volume: 3384.44   Density: 1.28608   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 221.3 NASA_m^2/cm^3: 653.876 NASA_m^2/g: 508.425
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 109.305  111.996  

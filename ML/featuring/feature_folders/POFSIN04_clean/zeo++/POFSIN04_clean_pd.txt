@@ -1,0 +1,1 @@
+feature_folders/POFSIN04_clean/zeo++/POFSIN04_clean_pd.txt    6.96632 5.62312  6.96632

@@ -1,0 +1,6 @@
+NIHVUX_clean_primitive, Anchors list: {72, 2}, SBU connectlist: {2, 4}
+NIHVUX_clean_primitive, Anchors list: {1, 61}, SBU connectlist: {1, 4}
+NIHVUX_clean_primitive, Anchors list: {1, 68}, SBU connectlist: {1, 4}
+NIHVUX_clean_primitive, Anchors list: {0, 67}, SBU connectlist: {0, 4}
+NIHVUX_clean_primitive, Anchors list: {66, 3}, SBU connectlist: {3, 4}
+NIHVUX_clean_primitive, Anchors list: {65, 2}, SBU connectlist: {2, 4}

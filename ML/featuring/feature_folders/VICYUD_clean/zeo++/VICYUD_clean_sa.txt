@@ -1,0 +1,3 @@
+@ feature_folders/VICYUD_clean/zeo++/VICYUD_clean_sa.txt Unitcell_volume: 3927.96   Density: 1.15194   ASA_A^2: 449.942 ASA_m^2/cm^3: 1145.48 ASA_m^2/g: 994.398 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 225.603  224.339  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

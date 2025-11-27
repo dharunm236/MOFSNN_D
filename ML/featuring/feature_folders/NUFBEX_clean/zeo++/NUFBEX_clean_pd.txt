@@ -1,0 +1,1 @@
+feature_folders/NUFBEX_clean/zeo++/NUFBEX_clean_pd.txt    8.49623 5.29107  8.49228

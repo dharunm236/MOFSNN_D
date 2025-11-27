@@ -1,0 +1,8 @@
+BAXSIE_clean_primitive, Anchors list: {0, 17, 3, 6}, SBU connectlist: {0, 3, 6}
+BAXSIE_clean_primitive, Anchors list: {2, 12, 29, 15}, SBU connectlist: {2, 12, 15}
+BAXSIE_clean_primitive, Anchors list: {2, 18, 5, 15}, SBU connectlist: {2, 5, 15}
+BAXSIE_clean_primitive, Anchors list: {0, 11, 30, 14}, SBU connectlist: {0, 11, 14}
+BAXSIE_clean_primitive, Anchors list: {9, 11, 25, 14}, SBU connectlist: {9, 11, 14}
+BAXSIE_clean_primitive, Anchors list: {10, 26, 12, 7}, SBU connectlist: {10, 12, 7}
+BAXSIE_clean_primitive, Anchors list: {5, 10, 21, 7}, SBU connectlist: {10, 5, 7}
+BAXSIE_clean_primitive, Anchors list: {9, 3, 6, 22}, SBU connectlist: {9, 3, 6}

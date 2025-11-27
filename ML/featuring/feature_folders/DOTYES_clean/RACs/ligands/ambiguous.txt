@@ -1,0 +1,14 @@
+DOTYES_clean_primitive, Anchors list: {323, 585, 555, 601, 563, 595, 567, 313, 315}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {322, 584, 554, 600, 562, 594, 566, 312, 314}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {579, 551, 586, 591, 561, 597, 598, 569, 573}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {315, 309, 317, 307}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {314, 316, 306, 308}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {578, 550, 587, 590, 560, 596, 599, 568, 572}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {544, 547, 583, 553, 556, 593, 565, 571, 575}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {545, 546, 582, 552, 557, 592, 564, 570, 574}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {577, 581, 549, 301, 589, 559, 309, 311, 543}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {576, 580, 548, 300, 588, 558, 308, 310, 542}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {305, 301}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {304, 300}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {322, 318}, SBU connectlist: {68} set to be linker
+DOTYES_clean_primitive, Anchors list: {323, 319}, SBU connectlist: {68} set to be linker

@@ -1,0 +1,1 @@
+feature_folders/COPXOV_clean/zeo++/COPXOV_clean_pd.txt    5.47401 3.72166  5.46236

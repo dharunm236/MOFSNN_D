@@ -1,0 +1,1 @@
+feature_folders/PEFRID_clean/zeo++/PEFRID_clean_pd.txt    9.83742 8.15940  9.81000

@@ -1,0 +1,2 @@
+YARBAW_clean_primitive, Anchors list: {127}, SBU connectlist: {1} set to be linker
+YARBAW_clean_primitive, Anchors list: {126}, SBU connectlist: {0} set to be linker

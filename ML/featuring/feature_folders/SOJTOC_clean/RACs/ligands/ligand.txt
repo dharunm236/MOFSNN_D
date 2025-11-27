@@ -1,0 +1,4 @@
+SOJTOC_clean_primitive, Anchors list: {123, 155}, SBU connectlist: {2, 7}
+SOJTOC_clean_primitive, Anchors list: {122, 154}, SBU connectlist: {1, 6}
+SOJTOC_clean_primitive, Anchors list: {121, 155}, SBU connectlist: {0, 7}
+SOJTOC_clean_primitive, Anchors list: {120, 154}, SBU connectlist: {3, 6}

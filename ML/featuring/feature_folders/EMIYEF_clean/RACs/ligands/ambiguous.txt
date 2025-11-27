@@ -1,0 +1,2 @@
+EMIYEF_clean_primitive, Anchors list: {0, 1, 4}, SBU connectlist: {0} set to be linker
+EMIYEF_clean_primitive, Anchors list: {0, 3, 6}, SBU connectlist: {0} set to be linker

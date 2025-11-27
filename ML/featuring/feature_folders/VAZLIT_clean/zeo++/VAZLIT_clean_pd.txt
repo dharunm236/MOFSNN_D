@@ -1,0 +1,1 @@
+feature_folders/VAZLIT_clean/zeo++/VAZLIT_clean_pd.txt    3.41131 2.42549  3.38497

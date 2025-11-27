@@ -1,0 +1,1 @@
+feature_folders/DOTYES_clean/zeo++/DOTYES_clean_pd.txt    5.95870 3.44401  5.95870

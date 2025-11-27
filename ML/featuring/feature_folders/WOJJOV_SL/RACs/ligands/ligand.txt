@@ -1,0 +1,8 @@
+WOJJOV_SL_primitive, Anchors list: {25, 2, 3}, SBU connectlist: {2, 3, 13}
+WOJJOV_SL_primitive, Anchors list: {0, 1, 24}, SBU connectlist: {0, 1, 12}
+WOJJOV_SL_primitive, Anchors list: {47, 6, 7}, SBU connectlist: {9, 6, 7}
+WOJJOV_SL_primitive, Anchors list: {4, 5, 46}, SBU connectlist: {8, 4, 5}
+WOJJOV_SL_primitive, Anchors list: {19, 2, 3}, SBU connectlist: {11, 2, 3}
+WOJJOV_SL_primitive, Anchors list: {0, 1, 18}, SBU connectlist: {0, 1, 10}
+WOJJOV_SL_primitive, Anchors list: {53, 6, 7}, SBU connectlist: {15, 6, 7}
+WOJJOV_SL_primitive, Anchors list: {4, 5, 52}, SBU connectlist: {4, 5, 14}

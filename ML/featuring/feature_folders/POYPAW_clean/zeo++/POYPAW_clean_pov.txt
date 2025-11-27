@@ -1,0 +1,3 @@
+@ feature_folders/POYPAW_clean/zeo++/POYPAW_clean_pov.txt Unitcell_volume: 5569.97   Density: 0.954107   POAV_A^3: 1668.21 POAV_Volume_fraction: 0.2995 POAV_cm^3/g: 0.313906 PONAV_A^3: 195.506 PONAV_Volume_fraction: 0.0351 PONAV_cm^3/g: 0.0367883
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/POYPAW_clean/zeo++/POYPAW_clean_pov.txt	0.954107	1.86	10000	0.0535	0.0009	0.2995	0.0351	0.2552	0.4102

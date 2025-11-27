@@ -1,0 +1,1 @@
+feature_folders/MOYMET_clean/zeo++/MOYMET_clean_pd.txt    9.12886 8.44595  9.12886

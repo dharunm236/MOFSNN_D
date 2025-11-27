@@ -1,0 +1,4 @@
+MATPUV_clean_primitive, Anchors list: {104, 213, 157, 215}, SBU connectlist: {1, 10, 3, 5}
+MATPUV_clean_primitive, Anchors list: {156, 212, 214, 105}, SBU connectlist: {0, 2, 11, 4}
+MATPUV_clean_primitive, Anchors list: {107, 213, 158, 215}, SBU connectlist: {1, 3, 13, 14}
+MATPUV_clean_primitive, Anchors list: {106, 212, 214, 159}, SBU connectlist: {0, 2, 12, 15}

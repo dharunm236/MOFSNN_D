@@ -1,0 +1,3 @@
+@ feature_folders/QUTVIM_clean/zeo++/QUTVIM_clean_sa.txt Unitcell_volume: 859.185   Density: 0.970407   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 28.142 NASA_m^2/cm^3: 327.542 NASA_m^2/g: 337.531
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 7.09306  7.41024  6.62227  7.01638  

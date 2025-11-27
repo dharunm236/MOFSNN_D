@@ -1,0 +1,1 @@
+feature_folders/OMUSAS_clean/zeo++/OMUSAS_clean_pd.txt    18.71179 16.17781  18.69784

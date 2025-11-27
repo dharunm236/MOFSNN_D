@@ -1,0 +1,8 @@
+EZOBUR02_clean_primitive27, Anchors list: {3}, SBU connectlist: {3}
+EZOBUR02_clean_primitive22, Anchors list: {7}, SBU connectlist: {7}
+EZOBUR02_clean_primitive21, Anchors list: {11}, SBU connectlist: {11}
+EZOBUR02_clean_primitive20, Anchors list: {10}, SBU connectlist: {10}
+EZOBUR02_clean_primitive14, Anchors list: {6}, SBU connectlist: {6}
+EZOBUR02_clean_primitive12, Anchors list: {10}, SBU connectlist: {10}
+EZOBUR02_clean_primitive9, Anchors list: {2}, SBU connectlist: {2}
+EZOBUR02_clean_primitive0, Anchors list: {3}, SBU connectlist: {3}

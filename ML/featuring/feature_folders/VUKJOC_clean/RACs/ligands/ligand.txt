@@ -1,0 +1,4 @@
+VUKJOC_clean_primitive, Anchors list: {178, 196, 14}, SBU connectlist: {19, 21, 6}
+VUKJOC_clean_primitive, Anchors list: {9, 153, 135}, SBU connectlist: {20, 12, 13}
+VUKJOC_clean_primitive, Anchors list: {96, 78, 6}, SBU connectlist: {10, 18, 7}
+VUKJOC_clean_primitive, Anchors list: {1, 35, 53}, SBU connectlist: {1, 11, 22}

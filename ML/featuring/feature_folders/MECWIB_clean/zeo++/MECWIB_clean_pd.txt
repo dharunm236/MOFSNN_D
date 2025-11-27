@@ -1,0 +1,1 @@
+feature_folders/MECWIB_clean/zeo++/MECWIB_clean_pd.txt    7.68734 5.08903  7.68734

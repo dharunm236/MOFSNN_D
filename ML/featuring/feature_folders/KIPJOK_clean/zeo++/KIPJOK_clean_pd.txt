@@ -1,0 +1,1 @@
+feature_folders/KIPJOK_clean/zeo++/KIPJOK_clean_pd.txt    7.22312 5.53705  7.21754

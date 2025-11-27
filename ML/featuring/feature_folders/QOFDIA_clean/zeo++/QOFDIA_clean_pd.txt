@@ -1,0 +1,1 @@
+feature_folders/QOFDIA_clean/zeo++/QOFDIA_clean_pd.txt    7.06728 3.80398  6.85693

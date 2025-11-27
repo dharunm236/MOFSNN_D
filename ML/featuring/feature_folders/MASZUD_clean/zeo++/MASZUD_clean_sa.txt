@@ -1,0 +1,3 @@
+@ feature_folders/MASZUD_clean/zeo++/MASZUD_clean_sa.txt Unitcell_volume: 4068.36   Density: 1.46962   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 355.698 NASA_m^2/cm^3: 874.304 NASA_m^2/g: 594.919
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 162.559  161.223  16.3303  15.5858  

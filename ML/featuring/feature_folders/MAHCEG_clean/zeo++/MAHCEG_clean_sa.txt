@@ -1,0 +1,3 @@
+@ feature_folders/MAHCEG_clean/zeo++/MAHCEG_clean_sa.txt Unitcell_volume: 19230.7   Density: 0.531149   ASA_A^2: 4087.45 ASA_m^2/cm^3: 2125.48 ASA_m^2/g: 4001.66 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 4087.45  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

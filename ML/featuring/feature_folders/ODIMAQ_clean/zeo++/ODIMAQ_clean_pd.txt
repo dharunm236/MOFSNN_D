@@ -1,0 +1,1 @@
+feature_folders/ODIMAQ_clean/zeo++/ODIMAQ_clean_pd.txt    8.52073 7.26741  8.52073

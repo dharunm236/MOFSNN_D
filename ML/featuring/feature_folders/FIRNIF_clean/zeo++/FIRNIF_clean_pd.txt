@@ -1,0 +1,1 @@
+feature_folders/FIRNIF_clean/zeo++/FIRNIF_clean_pd.txt    6.78527 6.06197  6.78492

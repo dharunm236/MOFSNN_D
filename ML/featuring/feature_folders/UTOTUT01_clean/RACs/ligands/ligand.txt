@@ -1,0 +1,2 @@
+UTOTUT01_clean_primitive4, Anchors list: {1, 3, 7}, SBU connectlist: {1}
+UTOTUT01_clean_primitive0, Anchors list: {3, 5, 7}, SBU connectlist: {1}

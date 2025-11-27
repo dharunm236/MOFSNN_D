@@ -1,0 +1,1 @@
+feature_folders/BIBXOB_clean/zeo++/BIBXOB_clean_pd.txt    19.69144 7.98654  19.69144

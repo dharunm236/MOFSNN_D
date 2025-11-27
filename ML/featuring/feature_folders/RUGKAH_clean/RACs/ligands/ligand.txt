@@ -1,0 +1,1 @@
+RUGKAH_clean_primitive0, Anchors list: {17}, SBU connectlist: {1}

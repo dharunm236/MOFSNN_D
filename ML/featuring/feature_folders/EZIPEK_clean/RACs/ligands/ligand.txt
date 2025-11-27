@@ -1,0 +1,8 @@
+EZIPEK_clean_primitive, Anchors list: {49, 50, 52}, SBU connectlist: {1, 2, 4}
+EZIPEK_clean_primitive, Anchors list: {48, 50, 52}, SBU connectlist: {0, 2, 4}
+EZIPEK_clean_primitive, Anchors list: {48, 51, 52}, SBU connectlist: {0, 3, 4}
+EZIPEK_clean_primitive, Anchors list: {49, 51, 52}, SBU connectlist: {1, 3, 4}
+EZIPEK_clean_primitive, Anchors list: {49, 51, 53}, SBU connectlist: {1, 3, 5}
+EZIPEK_clean_primitive, Anchors list: {48, 51, 53}, SBU connectlist: {0, 3, 5}
+EZIPEK_clean_primitive, Anchors list: {48, 50, 53}, SBU connectlist: {0, 2, 5}
+EZIPEK_clean_primitive, Anchors list: {49, 50, 53}, SBU connectlist: {1, 2, 5}

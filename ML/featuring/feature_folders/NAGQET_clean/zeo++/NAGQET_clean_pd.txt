@@ -1,0 +1,1 @@
+feature_folders/NAGQET_clean/zeo++/NAGQET_clean_pd.txt    6.32737 4.10631  6.20812

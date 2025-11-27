@@ -1,0 +1,3 @@
+@ feature_folders/COTYIV_clean/zeo++/COTYIV_clean_pov.txt Unitcell_volume: 7925.6   Density: 0.968257   POAV_A^3: 4459.74 POAV_Volume_fraction: 0.5627 POAV_cm^3/g: 0.581147 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/COTYIV_clean/zeo++/COTYIV_clean_pov.txt	0.968257	1.86	10000	0.2332	0	0.5627	0	0.1272	0.3101

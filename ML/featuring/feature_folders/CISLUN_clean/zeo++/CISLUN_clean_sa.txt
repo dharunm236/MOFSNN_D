@@ -1,0 +1,3 @@
+@ feature_folders/CISLUN_clean/zeo++/CISLUN_clean_sa.txt Unitcell_volume: 2962.78   Density: 0.963118   ASA_A^2: 499.438 ASA_m^2/cm^3: 1685.71 ASA_m^2/g: 1750.26 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 247.233  252.205  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

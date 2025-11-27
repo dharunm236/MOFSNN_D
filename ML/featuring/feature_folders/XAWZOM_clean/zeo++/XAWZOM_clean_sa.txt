@@ -1,0 +1,3 @@
+@ feature_folders/XAWZOM_clean/zeo++/XAWZOM_clean_sa.txt Unitcell_volume: 3419.72   Density: 1.58757   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 1.40205 NASA_m^2/cm^3: 4.09989 NASA_m^2/g: 2.5825
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 0.262228  0.422392  0.4552  0.262228  

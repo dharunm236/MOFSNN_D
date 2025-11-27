@@ -1,0 +1,7 @@
+GIYSIR_clean_primitive, Anchors list: {3, 5}, SBU connectlist: {1} set to be linker
+GIYSIR_clean_primitive, Anchors list: {2, 4}, SBU connectlist: {0} set to be linker
+GIYSIR_clean_primitive, Anchors list: {3, 7}, SBU connectlist: {1} set to be linker
+GIYSIR_clean_primitive, Anchors list: {2, 6}, SBU connectlist: {0} set to be linker
+GIYSIR_clean_primitive, Anchors list: {1, 5}, SBU connectlist: {1} set to be linker
+GIYSIR_clean_primitive, Anchors list: {0, 4}, SBU connectlist: {0} set to be linker
+Structure GIYSIR_clean_primitive has extremely short ligands, check the outputs

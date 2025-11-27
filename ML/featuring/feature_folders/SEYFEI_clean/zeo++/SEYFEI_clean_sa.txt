@@ -1,0 +1,3 @@
+@ feature_folders/SEYFEI_clean/zeo++/SEYFEI_clean_sa.txt Unitcell_volume: 1237.86   Density: 2.14126   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 8.26705 NASA_m^2/cm^3: 66.7852 NASA_m^2/g: 31.1897
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 2.05671  2.2462  1.95369  2.01044  

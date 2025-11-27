@@ -1,0 +1,2 @@
+DEYJIC_clean_primitive, Anchors list: {5}, SBU connectlist: {0} set to be linker
+DEYJIC_clean_primitive, Anchors list: {4}, SBU connectlist: {0} set to be linker

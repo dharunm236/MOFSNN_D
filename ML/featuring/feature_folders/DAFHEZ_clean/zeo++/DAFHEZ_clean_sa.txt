@@ -1,0 +1,3 @@
+@ feature_folders/DAFHEZ_clean/zeo++/DAFHEZ_clean_sa.txt Unitcell_volume: 4421.92   Density: 1.25164   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 221.379 NASA_m^2/cm^3: 500.641 NASA_m^2/g: 399.987
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 28.1612  28.021  28.3276  25.7761  28.5446  27.4264  27.8475  27.275  

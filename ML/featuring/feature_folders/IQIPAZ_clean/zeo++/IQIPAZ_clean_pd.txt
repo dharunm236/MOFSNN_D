@@ -1,0 +1,1 @@
+feature_folders/IQIPAZ_clean/zeo++/IQIPAZ_clean_pd.txt    5.68593 3.36787  5.68593

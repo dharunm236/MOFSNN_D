@@ -1,0 +1,1 @@
+feature_folders/KARNID_clean/zeo++/KARNID_clean_pd.txt    13.04320 6.77735  13.03970

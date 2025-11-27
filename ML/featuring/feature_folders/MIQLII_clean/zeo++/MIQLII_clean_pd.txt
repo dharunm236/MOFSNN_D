@@ -1,0 +1,1 @@
+feature_folders/MIQLII_clean/zeo++/MIQLII_clean_pd.txt    6.49028 4.19114  6.49028

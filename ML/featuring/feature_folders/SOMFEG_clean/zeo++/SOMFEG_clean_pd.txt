@@ -1,0 +1,1 @@
+feature_folders/SOMFEG_clean/zeo++/SOMFEG_clean_pd.txt    6.71551 6.34258  6.71551

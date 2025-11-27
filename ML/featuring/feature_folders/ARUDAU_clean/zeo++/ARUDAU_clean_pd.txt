@@ -1,0 +1,1 @@
+feature_folders/ARUDAU_clean/zeo++/ARUDAU_clean_pd.txt    5.48855 2.55093  5.48855

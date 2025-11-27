@@ -1,0 +1,1 @@
+feature_folders/AGARUW_clean/zeo++/AGARUW_clean_pd.txt    6.77693 6.25183  6.77330

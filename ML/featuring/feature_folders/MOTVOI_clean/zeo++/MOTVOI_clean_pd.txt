@@ -1,0 +1,1 @@
+feature_folders/MOTVOI_clean/zeo++/MOTVOI_clean_pd.txt    9.88234 7.01733  9.86726

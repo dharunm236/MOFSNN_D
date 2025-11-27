@@ -1,0 +1,1 @@
+feature_folders/RUMROI_clean/zeo++/RUMROI_clean_pd.txt    4.02034 3.24806  3.86366

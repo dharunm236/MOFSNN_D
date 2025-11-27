@@ -1,0 +1,3 @@
+@ feature_folders/VONBIK_clean/zeo++/VONBIK_clean_sa.txt Unitcell_volume: 5154.14   Density: 1.27276   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 150.171 NASA_m^2/cm^3: 291.359 NASA_m^2/g: 228.92
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 37.4021  0.568593  36.5342  37.3369  36.5196  0.578574  0.636674  0.594166  

@@ -1,0 +1,1 @@
+feature_folders/FEZQEI_clean/zeo++/FEZQEI_clean_pd.txt    5.82808 5.10591  5.81138

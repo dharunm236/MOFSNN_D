@@ -1,0 +1,3 @@
+ERAHOV_clean_primitive3, Anchors list: {1}, SBU connectlist: {1}
+ERAHOV_clean_primitive2, Anchors list: {0}, SBU connectlist: {0}
+ERAHOV_clean_primitive0, Anchors list: {0}, SBU connectlist: {0}

@@ -1,0 +1,1 @@
+feature_folders/VUKTIG_clean/zeo++/VUKTIG_clean_pd.txt    5.58633 4.32231  5.33300

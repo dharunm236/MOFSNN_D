@@ -1,0 +1,6 @@
+BIBXIV_clean_primitive, Anchors list: {320, 321, 322, 323}, SBU connectlist: {0} set to be linker
+BIBXIV_clean_primitive, Anchors list: {324, 325, 318, 319}, SBU connectlist: {0} set to be linker
+BIBXIV_clean_primitive, Anchors list: {320, 323, 324, 319}, SBU connectlist: {0} set to be linker
+BIBXIV_clean_primitive, Anchors list: {321, 322, 325, 318}, SBU connectlist: {0} set to be linker
+BIBXIV_clean_primitive, Anchors list: {321, 322, 324, 319}, SBU connectlist: {0} set to be linker
+BIBXIV_clean_primitive, Anchors list: {320, 323, 325, 318}, SBU connectlist: {0} set to be linker

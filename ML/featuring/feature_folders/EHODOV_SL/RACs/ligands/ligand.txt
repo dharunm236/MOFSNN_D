@@ -1,0 +1,8 @@
+EHODOV_SL_primitive, Anchors list: {42, 5, 6}, SBU connectlist: {9, 5, 6}
+EHODOV_SL_primitive, Anchors list: {1, 21, 5}, SBU connectlist: {1, 5, 14}
+EHODOV_SL_primitive, Anchors list: {26, 3, 4}, SBU connectlist: {3, 4, 12}
+EHODOV_SL_primitive, Anchors list: {0, 2, 22}, SBU connectlist: {0, 2, 15}
+EHODOV_SL_primitive, Anchors list: {59, 6, 7}, SBU connectlist: {13, 6, 7}
+EHODOV_SL_primitive, Anchors list: {2, 4, 79}, SBU connectlist: {2, 11, 4}
+EHODOV_SL_primitive, Anchors list: {0, 75, 3}, SBU connectlist: {0, 10, 3}
+EHODOV_SL_primitive, Anchors list: {8, 1, 7}, SBU connectlist: {8, 1, 7}

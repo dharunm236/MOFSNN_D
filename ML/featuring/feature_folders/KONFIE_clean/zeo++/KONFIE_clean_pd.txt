@@ -1,0 +1,1 @@
+feature_folders/KONFIE_clean/zeo++/KONFIE_clean_pd.txt    4.23932 3.28223  4.21233

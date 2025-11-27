@@ -1,0 +1,2 @@
+XOMCIN_clean_primitive, Anchors list: {9}, SBU connectlist: {5}
+XOMCIN_clean_primitive, Anchors list: {2}, SBU connectlist: {0}

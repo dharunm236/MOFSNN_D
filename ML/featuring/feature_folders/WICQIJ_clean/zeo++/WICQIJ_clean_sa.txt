@@ -1,0 +1,3 @@
+@ feature_folders/WICQIJ_clean/zeo++/WICQIJ_clean_sa.txt Unitcell_volume: 4506.33   Density: 1.18312   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 28.9346 NASA_m^2/cm^3: 64.2088 NASA_m^2/g: 54.2709
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 3.87768  3.78213  3.5582  3.56319  3.67277  3.73127  3.20114  3.54822  

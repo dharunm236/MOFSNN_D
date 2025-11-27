@@ -1,0 +1,1 @@
+feature_folders/KINDOC_clean/zeo++/KINDOC_clean_pd.txt    6.25246 5.98089  6.23061

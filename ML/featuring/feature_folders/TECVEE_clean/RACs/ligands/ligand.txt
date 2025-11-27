@@ -1,0 +1,4 @@
+TECVEE_clean_primitive, Anchors list: {3, 5}, SBU connectlist: {3, 5}
+TECVEE_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0, 2}
+TECVEE_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}
+TECVEE_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}

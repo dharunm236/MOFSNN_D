@@ -1,0 +1,1 @@
+feature_folders/LUMYID_clean/zeo++/LUMYID_clean_pd.txt    5.90727 4.56218  5.90695

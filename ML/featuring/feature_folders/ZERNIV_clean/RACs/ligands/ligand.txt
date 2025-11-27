@@ -1,0 +1,4 @@
+ZERNIV_clean_primitive, Anchors list: {0, 25, 23}, SBU connectlist: {0, 7}
+ZERNIV_clean_primitive, Anchors list: {1, 27, 29}, SBU connectlist: {1, 5}
+ZERNIV_clean_primitive, Anchors list: {2, 28, 30}, SBU connectlist: {3, 6}
+ZERNIV_clean_primitive, Anchors list: {32, 34, 3}, SBU connectlist: {2, 4}

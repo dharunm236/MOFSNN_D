@@ -1,0 +1,8 @@
+CABQEB_clean_primitive, Anchors list: {18, 3, 14}, SBU connectlist: {3} set to be ligand
+CABQEB_clean_primitive, Anchors list: {9, 14, 17}, SBU connectlist: {3} set to be ligand
+CABQEB_clean_primitive, Anchors list: {10, 13, 15}, SBU connectlist: {4} set to be linker
+CABQEB_clean_primitive, Anchors list: {9, 12, 7}, SBU connectlist: {3} set to be ligand
+CABQEB_clean_primitive, Anchors list: {8, 13, 5}, SBU connectlist: {4} set to be linker
+CABQEB_clean_primitive, Anchors list: {8, 19, 4}, SBU connectlist: {4} set to be linker
+CABQEB_clean_primitive, Anchors list: {3, 6, 7}, SBU connectlist: {3} set to be ligand
+CABQEB_clean_primitive, Anchors list: {16, 19, 15}, SBU connectlist: {4} set to be linker

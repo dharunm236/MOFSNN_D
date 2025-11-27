@@ -1,0 +1,3 @@
+@ feature_folders/RAJFEQ_clean/zeo++/RAJFEQ_clean_pov.txt Unitcell_volume: 1205.12   Density: 1.469   POAV_A^3: 417.814 POAV_Volume_fraction: 0.3467 POAV_cm^3/g: 0.236011 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/RAJFEQ_clean/zeo++/RAJFEQ_clean_pov.txt	1.469	1.86	10000	0.0515	0	0.3467	0	0.1652	0.4881

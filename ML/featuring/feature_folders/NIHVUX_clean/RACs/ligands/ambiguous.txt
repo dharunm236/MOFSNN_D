@@ -1,0 +1,4 @@
+NIHVUX_clean_primitive, Anchors list: {4, 5, 7, 73, 74, 76, 80, 52, 54}, SBU connectlist: {4} set to be linker
+NIHVUX_clean_primitive, Anchors list: {67, 68, 69, 70, 71, 72, 75, 77, 78}, SBU connectlist: {4} set to be linker
+NIHVUX_clean_primitive, Anchors list: {64, 65, 66, 55, 56, 58, 61, 62, 63}, SBU connectlist: {4} set to be linker
+NIHVUX_clean_primitive, Anchors list: {4, 6, 7, 79, 81, 53, 57, 59, 60}, SBU connectlist: {4} set to be linker

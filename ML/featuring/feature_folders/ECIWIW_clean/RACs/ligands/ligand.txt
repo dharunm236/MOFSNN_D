@@ -1,0 +1,2 @@
+ECIWIW_clean_primitive, Anchors list: {288}, SBU connectlist: {0}
+ECIWIW_clean_primitive, Anchors list: {289}, SBU connectlist: {1}

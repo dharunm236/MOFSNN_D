@@ -1,0 +1,6 @@
+GUMBIA_clean_primitive, Anchors list: {85}, SBU connectlist: {1} set to be ligand
+GUMBIA_clean_primitive, Anchors list: {84}, SBU connectlist: {0} set to be ligand
+GUMBIA_clean_primitive, Anchors list: {87}, SBU connectlist: {5} set to be ligand
+GUMBIA_clean_primitive, Anchors list: {86}, SBU connectlist: {4} set to be linker
+GUMBIA_clean_primitive, Anchors list: {88}, SBU connectlist: {2} set to be linker
+GUMBIA_clean_primitive, Anchors list: {89}, SBU connectlist: {3} set to be ligand

@@ -1,0 +1,1 @@
+feature_folders/PURNIB_clean/zeo++/PURNIB_clean_pd.txt    4.73986 3.41279  4.73986

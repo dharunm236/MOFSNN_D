@@ -1,0 +1,1 @@
+feature_folders/NUVYOT_clean/zeo++/NUVYOT_clean_pd.txt    4.99879 3.59688  4.83591

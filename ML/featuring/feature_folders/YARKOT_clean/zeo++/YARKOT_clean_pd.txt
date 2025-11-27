@@ -1,0 +1,1 @@
+feature_folders/YARKOT_clean/zeo++/YARKOT_clean_pd.txt    5.24895 3.98299  5.22518

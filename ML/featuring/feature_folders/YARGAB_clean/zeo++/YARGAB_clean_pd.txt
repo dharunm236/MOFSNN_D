@@ -1,0 +1,1 @@
+feature_folders/YARGAB_clean/zeo++/YARGAB_clean_pd.txt    10.69750 9.67182  10.69549

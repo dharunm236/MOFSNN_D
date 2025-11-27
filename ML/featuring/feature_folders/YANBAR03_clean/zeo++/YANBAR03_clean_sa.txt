@@ -1,0 +1,3 @@
+@ feature_folders/YANBAR03_clean/zeo++/YANBAR03_clean_sa.txt Unitcell_volume: 1641.14   Density: 1.80873   ASA_A^2: 79.836 ASA_m^2/cm^3: 486.466 ASA_m^2/g: 268.954 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 40.2951  39.5409  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

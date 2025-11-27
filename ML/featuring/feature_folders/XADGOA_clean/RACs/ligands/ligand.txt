@@ -1,0 +1,4 @@
+XADGOA_clean_primitive, Anchors list: {2, 4, 5}, SBU connectlist: {1}
+XADGOA_clean_primitive, Anchors list: {2, 3, 5}, SBU connectlist: {1}
+XADGOA_clean_primitive, Anchors list: {1, 6, 7}, SBU connectlist: {0}
+XADGOA_clean_primitive, Anchors list: {0, 1, 6}, SBU connectlist: {0}

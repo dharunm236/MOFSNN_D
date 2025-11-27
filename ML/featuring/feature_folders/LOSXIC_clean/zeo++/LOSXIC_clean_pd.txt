@@ -1,0 +1,1 @@
+feature_folders/LOSXIC_clean/zeo++/LOSXIC_clean_pd.txt    6.03404 5.83785  6.03380

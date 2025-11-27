@@ -1,0 +1,1 @@
+feature_folders/DARJOX_clean/zeo++/DARJOX_clean_pd.txt    4.96663 3.20989  4.95574

@@ -1,0 +1,3 @@
+OLANAS_clean_primitive, Anchors list: {193, 142}, SBU connectlist: {1, 3}
+OLANAS_clean_primitive, Anchors list: {188, 143}, SBU connectlist: {8, 4}
+OLANAS_clean_primitive, Anchors list: {142, 143}, SBU connectlist: {3, 4}

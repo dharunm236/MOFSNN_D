@@ -1,0 +1,2 @@
+FAHBIC_clean_primitive13, Anchors list: {3}, SBU connectlist: {3}
+FAHBIC_clean_primitive4, Anchors list: {1}, SBU connectlist: {1}

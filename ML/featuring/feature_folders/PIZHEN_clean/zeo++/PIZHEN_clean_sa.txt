@@ -1,0 +1,3 @@
+@ feature_folders/PIZHEN_clean/zeo++/PIZHEN_clean_sa.txt Unitcell_volume: 5299.79   Density: 3.34285   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 5.35753 NASA_m^2/cm^3: 10.109 NASA_m^2/g: 3.02405
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 1.35146  1.25821  1.31975  1.42811  

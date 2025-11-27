@@ -1,0 +1,1 @@
+feature_folders/ZECKID_clean/zeo++/ZECKID_clean_pd.txt    10.33443 8.28292  10.32847

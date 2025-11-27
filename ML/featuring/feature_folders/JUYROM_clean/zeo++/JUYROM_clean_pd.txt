@@ -1,0 +1,1 @@
+feature_folders/JUYROM_clean/zeo++/JUYROM_clean_pd.txt    6.55332 4.61366  6.52426

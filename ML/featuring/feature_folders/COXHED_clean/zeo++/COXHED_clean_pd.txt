@@ -1,0 +1,1 @@
+feature_folders/COXHED_clean/zeo++/COXHED_clean_pd.txt    8.70899 8.38156  8.70899

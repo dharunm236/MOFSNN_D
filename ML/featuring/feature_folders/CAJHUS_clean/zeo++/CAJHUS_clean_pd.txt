@@ -1,0 +1,1 @@
+feature_folders/CAJHUS_clean/zeo++/CAJHUS_clean_pd.txt    2.92677 2.42135  2.92677

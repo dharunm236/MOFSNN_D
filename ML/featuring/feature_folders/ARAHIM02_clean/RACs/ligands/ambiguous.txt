@@ -1,0 +1,4 @@
+ARAHIM02_clean_primitive, Anchors list: {50, 51}, SBU connectlist: {0} set to be linker
+ARAHIM02_clean_primitive, Anchors list: {50, 51}, SBU connectlist: {0} set to be linker
+ARAHIM02_clean_primitive, Anchors list: {50, 51}, SBU connectlist: {0} set to be linker
+ARAHIM02_clean_primitive, Anchors list: {50, 51}, SBU connectlist: {0} set to be linker

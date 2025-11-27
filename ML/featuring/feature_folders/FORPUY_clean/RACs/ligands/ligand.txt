@@ -1,0 +1,8 @@
+FORPUY_clean_primitive, Anchors list: {65, 61, 105}, SBU connectlist: {1, 11, 21}
+FORPUY_clean_primitive, Anchors list: {64, 104, 60}, SBU connectlist: {0, 10, 20}
+FORPUY_clean_primitive, Anchors list: {105, 69, 63}, SBU connectlist: {11, 3, 23}
+FORPUY_clean_primitive, Anchors list: {104, 68, 62}, SBU connectlist: {2, 10, 22}
+FORPUY_clean_primitive, Anchors list: {91, 111, 87}, SBU connectlist: {17, 19, 7}
+FORPUY_clean_primitive, Anchors list: {110, 90, 86}, SBU connectlist: {16, 18, 6}
+FORPUY_clean_primitive, Anchors list: {89, 83, 111}, SBU connectlist: {9, 5, 17}
+FORPUY_clean_primitive, Anchors list: {88, 82, 110}, SBU connectlist: {8, 16, 4}

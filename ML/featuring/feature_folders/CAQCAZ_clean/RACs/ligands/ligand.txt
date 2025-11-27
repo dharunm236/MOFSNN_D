@@ -1,0 +1,4 @@
+CAQCAZ_clean_primitive, Anchors list: {1, 3, 4}, SBU connectlist: {1, 3, 4}
+CAQCAZ_clean_primitive, Anchors list: {0, 2, 5}, SBU connectlist: {0, 2, 5}
+CAQCAZ_clean_primitive, Anchors list: {0, 2, 5}, SBU connectlist: {0, 2, 5}
+CAQCAZ_clean_primitive, Anchors list: {1, 3, 4}, SBU connectlist: {1, 3, 4}

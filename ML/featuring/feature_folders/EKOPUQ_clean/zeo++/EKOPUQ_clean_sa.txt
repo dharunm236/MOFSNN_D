@@ -1,0 +1,3 @@
+@ feature_folders/EKOPUQ_clean/zeo++/EKOPUQ_clean_sa.txt Unitcell_volume: 3913.4   Density: 0.972371   ASA_A^2: 308.889 ASA_m^2/cm^3: 789.311 ASA_m^2/g: 811.739 NASA_A^2: 206.003 NASA_m^2/cm^3: 526.403 NASA_m^2/g: 541.36
+Number_of_channels: 1 Channel_surface_area_A^2: 308.889  
+Number_of_pockets: 1 Pocket_surface_area_A^2: 206.003  

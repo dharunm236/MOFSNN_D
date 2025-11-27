@@ -1,0 +1,4 @@
+GIRYEN_clean_primitive, Anchors list: {177, 179}, SBU connectlist: {1} set to be ligand
+GIRYEN_clean_primitive, Anchors list: {176, 178}, SBU connectlist: {0} set to be linker
+GIRYEN_clean_primitive, Anchors list: {177, 181}, SBU connectlist: {1} set to be linker
+GIRYEN_clean_primitive, Anchors list: {176, 180}, SBU connectlist: {0} set to be linker

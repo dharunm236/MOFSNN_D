@@ -1,0 +1,8 @@
+WIDWOX_clean_primitive86, Anchors list: {4}, SBU connectlist: {4}
+WIDWOX_clean_primitive80, Anchors list: {7}, SBU connectlist: {7}
+WIDWOX_clean_primitive64, Anchors list: {5}, SBU connectlist: {5}
+WIDWOX_clean_primitive59, Anchors list: {2}, SBU connectlist: {2}
+WIDWOX_clean_primitive44, Anchors list: {3}, SBU connectlist: {3}
+WIDWOX_clean_primitive32, Anchors list: {0}, SBU connectlist: {0}
+WIDWOX_clean_primitive14, Anchors list: {1}, SBU connectlist: {1}
+WIDWOX_clean_primitive4, Anchors list: {6}, SBU connectlist: {6}

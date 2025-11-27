@@ -1,0 +1,2 @@
+TONMAM_clean_primitive, Anchors list: {0, 1, 9, 7}, SBU connectlist: {0}
+TONMAM_clean_primitive, Anchors list: {32, 2, 3, 34}, SBU connectlist: {1}

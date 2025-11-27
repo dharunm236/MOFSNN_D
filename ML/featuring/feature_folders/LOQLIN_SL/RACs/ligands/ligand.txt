@@ -1,0 +1,6 @@
+LOQLIN_SL_primitive, Anchors list: {10, 2, 3}, SBU connectlist: {2, 3, 6}
+LOQLIN_SL_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+LOQLIN_SL_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+LOQLIN_SL_primitive, Anchors list: {2, 3, 29}, SBU connectlist: {9, 2, 3}
+LOQLIN_SL_primitive, Anchors list: {20, 4, 5}, SBU connectlist: {8, 4, 5}
+LOQLIN_SL_primitive, Anchors list: {19, 4, 5}, SBU connectlist: {4, 5, 7}

@@ -1,0 +1,4 @@
+IQIJIC_clean_primitive, Anchors list: {5}, SBU connectlist: {5} set to be linker
+IQIJIC_clean_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+IQIJIC_clean_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+IQIJIC_clean_primitive, Anchors list: {4}, SBU connectlist: {4} set to be linker

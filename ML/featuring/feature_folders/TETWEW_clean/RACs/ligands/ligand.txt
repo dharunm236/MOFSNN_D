@@ -1,0 +1,14 @@
+TETWEW_clean_primitive, Anchors list: {0, 11, 14}, SBU connectlist: {0, 5}
+TETWEW_clean_primitive, Anchors list: {0, 9, 12}, SBU connectlist: {0, 2}
+TETWEW_clean_primitive, Anchors list: {2, 26, 23}, SBU connectlist: {11, 3}
+TETWEW_clean_primitive, Anchors list: {3, 28}, SBU connectlist: {2, 4}
+TETWEW_clean_primitive, Anchors list: {24, 2, 21}, SBU connectlist: {10, 3}
+TETWEW_clean_primitive, Anchors list: {0, 10, 31}, SBU connectlist: {0, 2}
+TETWEW_clean_primitive, Anchors list: {2, 19, 22}, SBU connectlist: {10, 3}
+TETWEW_clean_primitive, Anchors list: {17, 2, 20}, SBU connectlist: {11, 3}
+TETWEW_clean_primitive, Anchors list: {2, 18, 15}, SBU connectlist: {11, 3}
+TETWEW_clean_primitive, Anchors list: {16, 2, 13}, SBU connectlist: {10, 3}
+TETWEW_clean_primitive, Anchors list: {1, 11}, SBU connectlist: {1, 5}
+TETWEW_clean_primitive, Anchors list: {0, 8, 29}, SBU connectlist: {0, 5}
+TETWEW_clean_primitive, Anchors list: {0, 27, 30}, SBU connectlist: {0, 5}
+TETWEW_clean_primitive, Anchors list: {0, 25, 28}, SBU connectlist: {0, 2}

@@ -1,0 +1,2 @@
+KOJTOU_clean_primitive13, Anchors list: {12, 5, 6, 14}, SBU connectlist: {2}
+KOJTOU_clean_primitive12, Anchors list: {15, 4, 13, 7}, SBU connectlist: {3}

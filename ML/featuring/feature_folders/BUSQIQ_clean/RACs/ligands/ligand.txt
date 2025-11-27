@@ -1,0 +1,8 @@
+BUSQIQ_clean_primitive, Anchors list: {2, 3, 7}, SBU connectlist: {2, 3, 7}
+BUSQIQ_clean_primitive, Anchors list: {1, 2, 5}, SBU connectlist: {1, 2, 5}
+BUSQIQ_clean_primitive, Anchors list: {0, 1, 6}, SBU connectlist: {0, 1, 6}
+BUSQIQ_clean_primitive, Anchors list: {0, 1, 13}, SBU connectlist: {0, 1, 11}
+BUSQIQ_clean_primitive, Anchors list: {0, 3, 4}, SBU connectlist: {0, 3, 4}
+BUSQIQ_clean_primitive, Anchors list: {0, 11, 3}, SBU connectlist: {0, 9, 3}
+BUSQIQ_clean_primitive, Anchors list: {2, 3, 12}, SBU connectlist: {10, 2, 3}
+BUSQIQ_clean_primitive, Anchors list: {1, 2, 10}, SBU connectlist: {8, 1, 2}

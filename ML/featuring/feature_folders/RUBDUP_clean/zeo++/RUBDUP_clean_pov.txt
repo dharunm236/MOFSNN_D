@@ -1,0 +1,3 @@
+@ feature_folders/RUBDUP_clean/zeo++/RUBDUP_clean_pov.txt Unitcell_volume: 36796.4   Density: 0.298857   POAV_A^3: 29606.4 POAV_Volume_fraction: 0.8046 POAV_cm^3/g: 2.69226 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/RUBDUP_clean/zeo++/RUBDUP_clean_pov.txt	0.298857	1.86	10000	0.6227	0	0.8046	0	0.0563	0.1391

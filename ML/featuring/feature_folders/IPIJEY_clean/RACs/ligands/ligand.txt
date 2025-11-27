@@ -1,0 +1,8 @@
+IPIJEY_clean_primitive21, Anchors list: {12}, SBU connectlist: {12}
+IPIJEY_clean_primitive20, Anchors list: {13}, SBU connectlist: {13}
+IPIJEY_clean_primitive17, Anchors list: {11}, SBU connectlist: {11}
+IPIJEY_clean_primitive16, Anchors list: {10}, SBU connectlist: {10}
+IPIJEY_clean_primitive9, Anchors list: {4}, SBU connectlist: {4}
+IPIJEY_clean_primitive8, Anchors list: {5}, SBU connectlist: {5}
+IPIJEY_clean_primitive5, Anchors list: {3}, SBU connectlist: {3}
+IPIJEY_clean_primitive4, Anchors list: {2}, SBU connectlist: {2}

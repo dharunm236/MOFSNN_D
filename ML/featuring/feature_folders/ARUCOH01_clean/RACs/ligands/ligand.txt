@@ -1,0 +1,1 @@
+ARUCOH01_clean_primitive5, Anchors list: {1}, SBU connectlist: {1}

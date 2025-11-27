@@ -1,0 +1,1 @@
+feature_folders/VETMIS_clean/zeo++/VETMIS_clean_pd.txt    17.23979 11.94779  17.19471

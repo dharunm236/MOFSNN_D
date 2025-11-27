@@ -1,0 +1,1 @@
+feature_folders/JALLEQ_clean/zeo++/JALLEQ_clean_pd.txt    20.73249 7.86615  20.70807

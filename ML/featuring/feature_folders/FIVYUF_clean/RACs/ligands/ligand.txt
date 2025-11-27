@@ -1,0 +1,12 @@
+FIVYUF_clean_primitive, Anchors list: {72, 89, 2}, SBU connectlist: {8, 2, 14}
+FIVYUF_clean_primitive, Anchors list: {1, 75, 57}, SBU connectlist: {1, 9, 25}
+FIVYUF_clean_primitive, Anchors list: {0, 120, 126}, SBU connectlist: {0, 24, 28}
+FIVYUF_clean_primitive, Anchors list: {0, 41, 53}, SBU connectlist: {0, 18, 22}
+FIVYUF_clean_primitive, Anchors list: {12, 5, 15}, SBU connectlist: {10, 11, 5}
+FIVYUF_clean_primitive, Anchors list: {90, 85, 5}, SBU connectlist: {13, 26, 5}
+FIVYUF_clean_primitive, Anchors list: {56, 59, 3}, SBU connectlist: {16, 27, 3}
+FIVYUF_clean_primitive, Anchors list: {1, 26, 7}, SBU connectlist: {1, 6, 15}
+FIVYUF_clean_primitive, Anchors list: {107, 3, 109}, SBU connectlist: {19, 3, 20}
+FIVYUF_clean_primitive, Anchors list: {2, 46, 31}, SBU connectlist: {2, 29, 21}
+FIVYUF_clean_primitive, Anchors list: {4, 79, 71}, SBU connectlist: {4, 12, 7}
+FIVYUF_clean_primitive, Anchors list: {4, 117, 103}, SBU connectlist: {17, 4, 23}

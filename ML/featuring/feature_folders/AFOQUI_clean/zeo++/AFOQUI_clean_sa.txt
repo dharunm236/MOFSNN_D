@@ -1,0 +1,3 @@
+@ feature_folders/AFOQUI_clean/zeo++/AFOQUI_clean_sa.txt Unitcell_volume: 2076.4   Density: 1.62091   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 17.0409 NASA_m^2/cm^3: 82.0696 NASA_m^2/g: 50.6319
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 4.12473  4.37462  4.41879  4.12276  

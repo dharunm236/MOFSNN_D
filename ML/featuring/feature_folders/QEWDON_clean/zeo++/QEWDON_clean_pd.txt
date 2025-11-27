@@ -1,0 +1,1 @@
+feature_folders/QEWDON_clean/zeo++/QEWDON_clean_pd.txt    6.85219 4.97206  6.84537

@@ -1,0 +1,3 @@
+@ feature_folders/ZOXGOK_clean/zeo++/ZOXGOK_clean_pov.txt Unitcell_volume: 2243.08   Density: 1.34232   POAV_A^3: 702.981 POAV_Volume_fraction: 0.3134 POAV_cm^3/g: 0.233476 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ZOXGOK_clean/zeo++/ZOXGOK_clean_pov.txt	1.34232	1.86	10000	0.0552	0	0.3134	0	0.229	0.4576

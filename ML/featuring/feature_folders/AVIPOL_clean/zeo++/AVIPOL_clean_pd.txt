@@ -1,0 +1,1 @@
+feature_folders/AVIPOL_clean/zeo++/AVIPOL_clean_pd.txt    6.58742 5.62125  6.51109

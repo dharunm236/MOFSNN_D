@@ -1,0 +1,1 @@
+feature_folders/TAKGUK_clean/zeo++/TAKGUK_clean_pd.txt    10.52986 9.57688  10.52986

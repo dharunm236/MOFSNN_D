@@ -1,0 +1,3 @@
+@ feature_folders/RUSWOT_clean/zeo++/RUSWOT_clean_sa.txt Unitcell_volume: 1488.32   Density: 1.19886   ASA_A^2: 176.702 ASA_m^2/cm^3: 1187.26 ASA_m^2/g: 990.323 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 176.702  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

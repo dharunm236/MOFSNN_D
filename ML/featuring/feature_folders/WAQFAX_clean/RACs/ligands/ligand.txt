@@ -1,0 +1,8 @@
+WAQFAX_clean_primitive, Anchors list: {17, 19, 15}, SBU connectlist: {17, 19, 15}
+WAQFAX_clean_primitive, Anchors list: {1, 21, 23}, SBU connectlist: {1, 21, 23}
+WAQFAX_clean_primitive, Anchors list: {10, 12, 14}, SBU connectlist: {10, 12, 14}
+WAQFAX_clean_primitive, Anchors list: {9, 11, 13}, SBU connectlist: {9, 11, 13}
+WAQFAX_clean_primitive, Anchors list: {8, 4, 6}, SBU connectlist: {8, 4, 6}
+WAQFAX_clean_primitive, Anchors list: {3, 5, 7}, SBU connectlist: {3, 5, 7}
+WAQFAX_clean_primitive, Anchors list: {0, 2, 22}, SBU connectlist: {0, 2, 22}
+WAQFAX_clean_primitive, Anchors list: {16, 18, 20}, SBU connectlist: {16, 18, 20}

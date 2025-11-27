@@ -1,0 +1,8 @@
+NUDLIJ_clean_primitive, Anchors list: {26, 3, 4, 7}, SBU connectlist: {17, 3, 4, 7}
+NUDLIJ_clean_primitive, Anchors list: {25, 2, 5, 6}, SBU connectlist: {16, 2, 5, 6}
+NUDLIJ_clean_primitive, Anchors list: {1, 10, 42, 9}, SBU connectlist: {1, 10, 12, 9}
+NUDLIJ_clean_primitive, Anchors list: {0, 8, 11, 41}, SBU connectlist: {0, 8, 11, 13}
+NUDLIJ_clean_primitive, Anchors list: {0, 11, 3, 14}, SBU connectlist: {0, 3, 13, 15}
+NUDLIJ_clean_primitive, Anchors list: {1, 2, 10, 13}, SBU connectlist: {1, 2, 10, 14}
+NUDLIJ_clean_primitive, Anchors list: {9, 5, 6, 30}, SBU connectlist: {9, 19, 5, 6}
+NUDLIJ_clean_primitive, Anchors list: {8, 4, 29, 7}, SBU connectlist: {8, 18, 4, 7}

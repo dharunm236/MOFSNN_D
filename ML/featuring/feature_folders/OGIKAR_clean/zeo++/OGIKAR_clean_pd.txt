@@ -1,0 +1,1 @@
+feature_folders/OGIKAR_clean/zeo++/OGIKAR_clean_pd.txt    10.47027 5.43474  8.40946

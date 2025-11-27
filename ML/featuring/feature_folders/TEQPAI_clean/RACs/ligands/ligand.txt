@@ -1,0 +1,1 @@
+TEQPAI_clean_primitive10, Anchors list: {2, 14, 15}, SBU connectlist: {1}

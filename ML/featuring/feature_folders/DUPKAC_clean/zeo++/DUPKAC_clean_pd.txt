@@ -1,0 +1,1 @@
+feature_folders/DUPKAC_clean/zeo++/DUPKAC_clean_pd.txt    11.86138 6.56548  10.57954

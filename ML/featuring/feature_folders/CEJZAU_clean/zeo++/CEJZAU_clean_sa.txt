@@ -1,0 +1,3 @@
+@ feature_folders/CEJZAU_clean/zeo++/CEJZAU_clean_sa.txt Unitcell_volume: 6555.14   Density: 1.03983   ASA_A^2: 815.453 ASA_m^2/cm^3: 1243.99 ASA_m^2/g: 1196.34 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 815.453  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

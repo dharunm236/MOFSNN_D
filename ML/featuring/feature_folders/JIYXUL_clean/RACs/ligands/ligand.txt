@@ -1,0 +1,30 @@
+JIYXUL_clean_primitive, Anchors list: {25, 18, 29, 33}, SBU connectlist: {13, 15}
+JIYXUL_clean_primitive, Anchors list: {3, 23}, SBU connectlist: {3, 13}
+JIYXUL_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}
+JIYXUL_clean_primitive, Anchors list: {2, 10}, SBU connectlist: {2, 10}
+JIYXUL_clean_primitive, Anchors list: {16, 10}, SBU connectlist: {10, 13}
+JIYXUL_clean_primitive, Anchors list: {2, 10}, SBU connectlist: {2, 10}
+JIYXUL_clean_primitive, Anchors list: {8, 9}, SBU connectlist: {8, 9}
+JIYXUL_clean_primitive, Anchors list: {32, 9}, SBU connectlist: {9, 13}
+JIYXUL_clean_primitive, Anchors list: {2, 13}, SBU connectlist: {2, 13}
+JIYXUL_clean_primitive, Anchors list: {18, 34, 35, 36}, SBU connectlist: {13, 15}
+JIYXUL_clean_primitive, Anchors list: {1, 12}, SBU connectlist: {1, 12}
+JIYXUL_clean_primitive, Anchors list: {32, 10, 31}, SBU connectlist: {10, 13}
+JIYXUL_clean_primitive, Anchors list: {8, 9}, SBU connectlist: {8, 9}
+JIYXUL_clean_primitive, Anchors list: {6, 7}, SBU connectlist: {6, 7}
+JIYXUL_clean_primitive, Anchors list: {27, 31, 7}, SBU connectlist: {13, 7}
+JIYXUL_clean_primitive, Anchors list: {8, 4, 29}, SBU connectlist: {8, 4, 13}
+JIYXUL_clean_primitive, Anchors list: {6, 7}, SBU connectlist: {6, 7}
+JIYXUL_clean_primitive, Anchors list: {32, 17, 27, 31}, SBU connectlist: {13, 14}
+JIYXUL_clean_primitive, Anchors list: {24, 18, 28, 23}, SBU connectlist: {13, 15}
+JIYXUL_clean_primitive, Anchors list: {5, 6}, SBU connectlist: {5, 6}
+JIYXUL_clean_primitive, Anchors list: {8, 26, 4}, SBU connectlist: {8, 4, 13}
+JIYXUL_clean_primitive, Anchors list: {24, 28, 5}, SBU connectlist: {13, 5}
+JIYXUL_clean_primitive, Anchors list: {17, 26, 22, 30}, SBU connectlist: {13, 14}
+JIYXUL_clean_primitive, Anchors list: {5, 6}, SBU connectlist: {5, 6}
+JIYXUL_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}
+JIYXUL_clean_primitive, Anchors list: {24, 2, 23}, SBU connectlist: {2, 13}
+JIYXUL_clean_primitive, Anchors list: {17, 19, 20, 21}, SBU connectlist: {13, 14}
+JIYXUL_clean_primitive, Anchors list: {3, 36}, SBU connectlist: {3, 13}
+JIYXUL_clean_primitive, Anchors list: {9, 19}, SBU connectlist: {9, 13}
+JIYXUL_clean_primitive, Anchors list: {0, 11}, SBU connectlist: {0, 11}

@@ -1,0 +1,60 @@
+INIRII_clean_primitive, Anchors list: {16, 13, 39}, SBU connectlist: {16, 13, 39}
+INIRII_clean_primitive, Anchors list: {11, 12, 44}, SBU connectlist: {11, 12, 44}
+INIRII_clean_primitive, Anchors list: {16, 40, 11}, SBU connectlist: {16, 40, 11}
+INIRII_clean_primitive, Anchors list: {10, 43, 36}, SBU connectlist: {10, 43, 36}
+INIRII_clean_primitive, Anchors list: {41, 38}, SBU connectlist: {41, 38}
+INIRII_clean_primitive, Anchors list: {16, 35, 11}, SBU connectlist: {16, 35, 11}
+INIRII_clean_primitive, Anchors list: {124, 37, 14}, SBU connectlist: {110, 37, 14}
+INIRII_clean_primitive, Anchors list: {9, 35, 39}, SBU connectlist: {9, 35, 39}
+INIRII_clean_primitive, Anchors list: {40, 33, 10}, SBU connectlist: {40, 33, 10}
+INIRII_clean_primitive, Anchors list: {121, 37}, SBU connectlist: {109, 37}
+INIRII_clean_primitive, Anchors list: {9, 34, 39}, SBU connectlist: {9, 34, 39}
+INIRII_clean_primitive, Anchors list: {8, 36, 13}, SBU connectlist: {8, 36, 13}
+INIRII_clean_primitive, Anchors list: {8, 34, 13}, SBU connectlist: {8, 34, 13}
+INIRII_clean_primitive, Anchors list: {32, 10, 36}, SBU connectlist: {32, 10, 36}
+INIRII_clean_primitive, Anchors list: {9, 35, 31}, SBU connectlist: {9, 35, 31}
+INIRII_clean_primitive, Anchors list: {33, 11, 6}, SBU connectlist: {33, 11, 6}
+INIRII_clean_primitive, Anchors list: {11, 6, 31}, SBU connectlist: {11, 6, 31}
+INIRII_clean_primitive, Anchors list: {33, 10, 28}, SBU connectlist: {33, 10, 28}
+INIRII_clean_primitive, Anchors list: {106, 30}, SBU connectlist: {100, 30}
+INIRII_clean_primitive, Anchors list: {9, 34, 27}, SBU connectlist: {9, 34, 27}
+INIRII_clean_primitive, Anchors list: {32, 10, 28}, SBU connectlist: {32, 10, 28}
+INIRII_clean_primitive, Anchors list: {5, 30, 103}, SBU connectlist: {99, 5, 30}
+INIRII_clean_primitive, Anchors list: {8, 32, 3}, SBU connectlist: {8, 32, 3}
+INIRII_clean_primitive, Anchors list: {26, 29}, SBU connectlist: {26, 29}
+INIRII_clean_primitive, Anchors list: {24, 9, 31}, SBU connectlist: {24, 9, 31}
+INIRII_clean_primitive, Anchors list: {8, 27, 3}, SBU connectlist: {8, 27, 3}
+INIRII_clean_primitive, Anchors list: {8, 23, 7}, SBU connectlist: {8, 23, 7}
+INIRII_clean_primitive, Anchors list: {3, 28, 6}, SBU connectlist: {3, 28, 6}
+INIRII_clean_primitive, Anchors list: {29, 4, 5}, SBU connectlist: {29, 4, 5}
+INIRII_clean_primitive, Anchors list: {24, 3, 6}, SBU connectlist: {24, 3, 6}
+INIRII_clean_primitive, Anchors list: {25, 4, 5}, SBU connectlist: {25, 4, 5}
+INIRII_clean_primitive, Anchors list: {0, 29, 22}, SBU connectlist: {0, 29, 22}
+INIRII_clean_primitive, Anchors list: {1, 26, 5}, SBU connectlist: {1, 26, 5}
+INIRII_clean_primitive, Anchors list: {24, 27}, SBU connectlist: {24, 27}
+INIRII_clean_primitive, Anchors list: {1, 2, 30}, SBU connectlist: {1, 2, 30}
+INIRII_clean_primitive, Anchors list: {1, 21, 5}, SBU connectlist: {1, 21, 5}
+INIRII_clean_primitive, Anchors list: {25, 19, 21}, SBU connectlist: {25, 19, 21}
+INIRII_clean_primitive, Anchors list: {57, 3, 23}, SBU connectlist: {3, 77, 23}
+INIRII_clean_primitive, Anchors list: {0, 26, 47}, SBU connectlist: {0, 26, 47}
+INIRII_clean_primitive, Anchors list: {18, 4, 22}, SBU connectlist: {18, 4, 22}
+INIRII_clean_primitive, Anchors list: {25, 19, 20}, SBU connectlist: {25, 19, 20}
+INIRII_clean_primitive, Anchors list: {49, 23}, SBU connectlist: {49, 23}
+INIRII_clean_primitive, Anchors list: {18, 4, 20}, SBU connectlist: {18, 4, 20}
+INIRII_clean_primitive, Anchors list: {45, 19, 21}, SBU connectlist: {45, 19, 21}
+INIRII_clean_primitive, Anchors list: {1, 47, 15}, SBU connectlist: {1, 47, 15}
+INIRII_clean_primitive, Anchors list: {178, 44}, SBU connectlist: {74, 44}
+INIRII_clean_primitive, Anchors list: {0, 42, 47}, SBU connectlist: {0, 42, 47}
+INIRII_clean_primitive, Anchors list: {1, 45, 15}, SBU connectlist: {1, 45, 15}
+INIRII_clean_primitive, Anchors list: {41, 19, 20}, SBU connectlist: {41, 19, 20}
+INIRII_clean_primitive, Anchors list: {16, 170, 44}, SBU connectlist: {16, 44, 70}
+INIRII_clean_primitive, Anchors list: {0, 42, 46}, SBU connectlist: {0, 42, 46}
+INIRII_clean_primitive, Anchors list: {46, 18, 14}, SBU connectlist: {46, 18, 14}
+INIRII_clean_primitive, Anchors list: {17, 18, 37}, SBU connectlist: {17, 18, 37}
+INIRII_clean_primitive, Anchors list: {40, 43}, SBU connectlist: {40, 43}
+INIRII_clean_primitive, Anchors list: {41, 18, 14}, SBU connectlist: {41, 18, 14}
+INIRII_clean_primitive, Anchors list: {19, 45, 38}, SBU connectlist: {19, 45, 38}
+INIRII_clean_primitive, Anchors list: {42, 14, 15}, SBU connectlist: {42, 14, 15}
+INIRII_clean_primitive, Anchors list: {16, 43, 13}, SBU connectlist: {16, 43, 13}
+INIRII_clean_primitive, Anchors list: {38, 14, 15}, SBU connectlist: {38, 14, 15}
+INIRII_clean_primitive, Anchors list: {0, 46, 22}, SBU connectlist: {0, 46, 22}

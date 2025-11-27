@@ -1,0 +1,1 @@
+RESSAK_clean_primitive1, Anchors list: {0}, SBU connectlist: {0}

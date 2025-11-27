@@ -1,0 +1,1 @@
+feature_folders/SOTXAC_clean/zeo++/SOTXAC_clean_pd.txt    6.12649 5.14189  6.12649

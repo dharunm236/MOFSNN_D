@@ -1,0 +1,1 @@
+feature_folders/FARFIO_clean/zeo++/FARFIO_clean_pd.txt    9.12316 6.55123  9.12316

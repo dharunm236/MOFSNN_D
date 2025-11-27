@@ -1,0 +1,3 @@
+@ feature_folders/OKIQAB_clean/zeo++/OKIQAB_clean_sa.txt Unitcell_volume: 10468.7   Density: 1.34977   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 208.848 NASA_m^2/cm^3: 199.497 NASA_m^2/g: 147.801
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 26.7203  26.6954  25.8193  26.2528  26.2727  25.8504  25.1413  26.096  

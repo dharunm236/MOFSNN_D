@@ -1,0 +1,1 @@
+feature_folders/QOFDAS_clean/zeo++/QOFDAS_clean_pd.txt    7.04267 3.81631  7.04267

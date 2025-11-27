@@ -1,0 +1,1 @@
+feature_folders/TIXMET_clean/zeo++/TIXMET_clean_pd.txt    7.37185 6.83905  7.34248

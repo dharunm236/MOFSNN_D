@@ -1,0 +1,2 @@
+NOFQOQ_clean_primitive, Anchors list: {20, 21}, SBU connectlist: {0} set to be linker
+NOFQOQ_clean_primitive, Anchors list: {20, 21}, SBU connectlist: {0} set to be linker

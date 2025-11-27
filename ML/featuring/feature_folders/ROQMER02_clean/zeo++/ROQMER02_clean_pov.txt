@@ -1,0 +1,3 @@
+@ feature_folders/ROQMER02_clean/zeo++/ROQMER02_clean_pov.txt Unitcell_volume: 2096.22   Density: 1.0365   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 654.02 PONAV_Volume_fraction: 0.312 PONAV_cm^3/g: 0.301012
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ROQMER02_clean/zeo++/ROQMER02_clean_pov.txt	1.0365	1.86	10000	0	0.011	0	0.312	0.2654	0.4226

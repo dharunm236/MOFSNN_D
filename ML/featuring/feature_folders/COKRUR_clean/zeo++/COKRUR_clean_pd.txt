@@ -1,0 +1,1 @@
+feature_folders/COKRUR_clean/zeo++/COKRUR_clean_pd.txt    8.84838 5.55969  8.84838

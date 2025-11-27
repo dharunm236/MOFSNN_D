@@ -1,0 +1,1 @@
+feature_folders/ZIBRAD_clean/zeo++/ZIBRAD_clean_pd.txt    4.74916 3.37744  4.73796

@@ -1,0 +1,3 @@
+@ feature_folders/BOWNUY_clean/zeo++/BOWNUY_clean_sa.txt Unitcell_volume: 6459.07   Density: 0.770284   ASA_A^2: 826.081 ASA_m^2/cm^3: 1278.95 ASA_m^2/g: 1660.36 NASA_A^2: 251.479 NASA_m^2/cm^3: 389.343 NASA_m^2/g: 505.453
+Number_of_channels: 1 Channel_surface_area_A^2: 826.081  
+Number_of_pockets: 1 Pocket_surface_area_A^2: 251.479  

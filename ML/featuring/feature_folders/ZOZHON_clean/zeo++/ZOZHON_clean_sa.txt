@@ -1,0 +1,3 @@
+@ feature_folders/ZOZHON_clean/zeo++/ZOZHON_clean_sa.txt Unitcell_volume: 5890.84   Density: 1.04457   ASA_A^2: 420.617 ASA_m^2/cm^3: 714.019 ASA_m^2/g: 683.557 NASA_A^2: 443.882 NASA_m^2/cm^3: 753.512 NASA_m^2/g: 721.364
+Number_of_channels: 1 Channel_surface_area_A^2: 420.617  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 221.989  221.893  

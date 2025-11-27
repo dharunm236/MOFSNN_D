@@ -1,0 +1,3 @@
+@ feature_folders/REYJEM_clean/zeo++/REYJEM_clean_pov.txt Unitcell_volume: 4149.51   Density: 0.811705   POAV_A^3: 2370.2 POAV_Volume_fraction: 0.5712 POAV_cm^3/g: 0.703704 PONAV_A^3: 174.28 PONAV_Volume_fraction: 0.042 PONAV_cm^3/g: 0.0517429
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/REYJEM_clean/zeo++/REYJEM_clean_pov.txt	0.811705	1.86	10000	0.2212	0.0019	0.5712	0.042	0.1045	0.2823

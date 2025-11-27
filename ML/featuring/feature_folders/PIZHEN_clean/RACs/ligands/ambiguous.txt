@@ -1,0 +1,4 @@
+PIZHEN_clean_primitive, Anchors list: {0, 3, 4, 7, 73, 9, 74, 77, 14, 79, 17, 82}, SBU connectlist: {0} set to be linker
+PIZHEN_clean_primitive, Anchors list: {1, 2, 5, 6, 8, 72, 75, 76, 78, 15, 16, 83}, SBU connectlist: {1} set to be ligand
+PIZHEN_clean_primitive, Anchors list: {10, 13, 81, 18, 84, 20, 86, 23, 24, 89, 90, 27}, SBU connectlist: {2} set to be linker
+PIZHEN_clean_primitive, Anchors list: {88, 11, 12, 80, 19, 85, 21, 87, 22, 25, 26, 91}, SBU connectlist: {3} set to be ligand

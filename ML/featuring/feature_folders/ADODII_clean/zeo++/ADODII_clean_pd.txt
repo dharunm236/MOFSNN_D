@@ -1,0 +1,1 @@
+feature_folders/ADODII_clean/zeo++/ADODII_clean_pd.txt    5.97540 5.30364  5.62846

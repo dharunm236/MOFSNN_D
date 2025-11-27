@@ -1,0 +1,1 @@
+feature_folders/DURDAX_clean/zeo++/DURDAX_clean_pd.txt    8.52385 5.96037  8.36033

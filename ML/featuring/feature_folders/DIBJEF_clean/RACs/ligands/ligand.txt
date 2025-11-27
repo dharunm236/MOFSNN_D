@@ -1,0 +1,16 @@
+DIBJEF_clean_primitive, Anchors list: {0, 1, 2}, SBU connectlist: {0, 1, 2}
+DIBJEF_clean_primitive, Anchors list: {3, 4, 6}, SBU connectlist: {3, 4, 6}
+DIBJEF_clean_primitive, Anchors list: {0, 9, 10}, SBU connectlist: {0, 9, 10}
+DIBJEF_clean_primitive, Anchors list: {3, 5, 7}, SBU connectlist: {3, 5, 7}
+DIBJEF_clean_primitive, Anchors list: {8, 6, 7}, SBU connectlist: {8, 6, 7}
+DIBJEF_clean_primitive, Anchors list: {1, 11, 9}, SBU connectlist: {1, 11, 9}
+DIBJEF_clean_primitive, Anchors list: {3, 4, 5}, SBU connectlist: {3, 4, 5}
+DIBJEF_clean_primitive, Anchors list: {9, 10, 11}, SBU connectlist: {9, 10, 11}
+DIBJEF_clean_primitive, Anchors list: {8, 4, 6}, SBU connectlist: {8, 4, 6}
+DIBJEF_clean_primitive, Anchors list: {1, 2, 11}, SBU connectlist: {1, 2, 11}
+DIBJEF_clean_primitive, Anchors list: {8, 5, 7}, SBU connectlist: {8, 5, 7}
+DIBJEF_clean_primitive, Anchors list: {0, 2, 10}, SBU connectlist: {0, 2, 10}
+DIBJEF_clean_primitive, Anchors list: {3, 6, 7}, SBU connectlist: {3, 6, 7}
+DIBJEF_clean_primitive, Anchors list: {8, 4, 5}, SBU connectlist: {8, 4, 5}
+DIBJEF_clean_primitive, Anchors list: {0, 1, 9}, SBU connectlist: {0, 1, 9}
+DIBJEF_clean_primitive, Anchors list: {11, 2, 10}, SBU connectlist: {11, 2, 10}

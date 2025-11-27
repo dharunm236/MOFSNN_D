@@ -1,0 +1,3 @@
+@ feature_folders/DOPHOH_clean/zeo++/DOPHOH_clean_sa.txt Unitcell_volume: 9975.88   Density: 0.985409   ASA_A^2: 1338.9 ASA_m^2/cm^3: 1342.13 ASA_m^2/g: 1362.01 NASA_A^2: 348.205 NASA_m^2/cm^3: 349.047 NASA_m^2/g: 354.215
+Number_of_channels: 1 Channel_surface_area_A^2: 1338.9  
+Number_of_pockets: 1 Pocket_surface_area_A^2: 348.205  

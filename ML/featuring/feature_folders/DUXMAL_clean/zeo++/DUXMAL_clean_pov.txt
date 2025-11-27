@@ -1,0 +1,3 @@
+@ feature_folders/DUXMAL_clean/zeo++/DUXMAL_clean_pov.txt Unitcell_volume: 3887.73   Density: 1.15892   POAV_A^3: 884.847 POAV_Volume_fraction: 0.2276 POAV_cm^3/g: 0.196389 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/DUXMAL_clean/zeo++/DUXMAL_clean_pov.txt	1.15892	1.86	10000	0.0079	0	0.2276	0	0.284	0.4884

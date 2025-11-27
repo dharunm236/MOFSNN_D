@@ -1,0 +1,3 @@
+@ feature_folders/YOYREL_clean/zeo++/YOYREL_clean_pov.txt Unitcell_volume: 3711.75   Density: 1.04682   POAV_A^3: 988.811 POAV_Volume_fraction: 0.2664 POAV_cm^3/g: 0.254486 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/YOYREL_clean/zeo++/YOYREL_clean_pov.txt	1.04682	1.86	10000	0.0514	0	0.2664	0	0.2686	0.465

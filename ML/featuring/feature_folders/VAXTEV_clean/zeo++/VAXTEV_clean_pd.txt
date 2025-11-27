@@ -1,0 +1,1 @@
+feature_folders/VAXTEV_clean/zeo++/VAXTEV_clean_pd.txt    6.85828 3.52910  6.82854

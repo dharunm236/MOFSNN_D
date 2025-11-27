@@ -1,0 +1,8 @@
+NAQLAT_clean_primitive, Anchors list: {6}, SBU connectlist: {6}
+NAQLAT_clean_primitive, Anchors list: {11}, SBU connectlist: {11}
+NAQLAT_clean_primitive, Anchors list: {8}, SBU connectlist: {8}
+NAQLAT_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+NAQLAT_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+NAQLAT_clean_primitive, Anchors list: {5}, SBU connectlist: {5}
+NAQLAT_clean_primitive, Anchors list: {9}, SBU connectlist: {9}
+NAQLAT_clean_primitive, Anchors list: {2}, SBU connectlist: {2}

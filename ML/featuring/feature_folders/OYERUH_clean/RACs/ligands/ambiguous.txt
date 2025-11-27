@@ -1,0 +1,12 @@
+OYERUH_clean_primitive, Anchors list: {151}, SBU connectlist: {11} set to be ligand
+OYERUH_clean_primitive, Anchors list: {151}, SBU connectlist: {11} set to be ligand
+OYERUH_clean_primitive, Anchors list: {150}, SBU connectlist: {10} set to be ligand
+OYERUH_clean_primitive, Anchors list: {150}, SBU connectlist: {10} set to be ligand
+OYERUH_clean_primitive, Anchors list: {151}, SBU connectlist: {11} set to be ligand
+OYERUH_clean_primitive, Anchors list: {150}, SBU connectlist: {10} set to be ligand
+OYERUH_clean_primitive, Anchors list: {149}, SBU connectlist: {9} set to be ligand
+OYERUH_clean_primitive, Anchors list: {148}, SBU connectlist: {8} set to be ligand
+OYERUH_clean_primitive, Anchors list: {149}, SBU connectlist: {9} set to be ligand
+OYERUH_clean_primitive, Anchors list: {149}, SBU connectlist: {9} set to be ligand
+OYERUH_clean_primitive, Anchors list: {148}, SBU connectlist: {8} set to be ligand
+OYERUH_clean_primitive, Anchors list: {148}, SBU connectlist: {8} set to be ligand

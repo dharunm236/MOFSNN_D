@@ -1,0 +1,4 @@
+CUVXAT_clean_primitive9, Anchors list: {2}, SBU connectlist: {2}
+CUVXAT_clean_primitive7, Anchors list: {4}, SBU connectlist: {4}
+CUVXAT_clean_primitive5, Anchors list: {1}, SBU connectlist: {1}
+CUVXAT_clean_primitive2, Anchors list: {5}, SBU connectlist: {5}

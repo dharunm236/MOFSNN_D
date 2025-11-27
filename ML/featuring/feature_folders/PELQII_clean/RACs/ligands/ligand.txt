@@ -1,0 +1,4 @@
+PELQII_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+PELQII_clean_primitive, Anchors list: {4}, SBU connectlist: {4}
+PELQII_clean_primitive, Anchors list: {7}, SBU connectlist: {7}
+PELQII_clean_primitive, Anchors list: {0}, SBU connectlist: {0}

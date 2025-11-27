@@ -1,0 +1,1 @@
+feature_folders/FAVGER_clean/zeo++/FAVGER_clean_pd.txt    5.34600 4.52892  5.34303

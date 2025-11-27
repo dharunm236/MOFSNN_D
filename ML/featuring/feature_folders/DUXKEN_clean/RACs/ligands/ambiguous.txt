@@ -1,0 +1,15 @@
+DUXKEN_clean_primitive, Anchors list: {26, 27}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {30, 31}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {28, 31}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {29, 30}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {28, 30}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {24, 25}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {28}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {24, 25}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {24}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {25}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {27}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {29}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {26}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {29, 31}, SBU connectlist: {0} set to be linker
+DUXKEN_clean_primitive, Anchors list: {30, 31}, SBU connectlist: {0} set to be linker

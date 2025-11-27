@@ -1,0 +1,4 @@
+EWUTEW_clean_primitive, Anchors list: {6}, SBU connectlist: {1}
+EWUTEW_clean_primitive, Anchors list: {9}, SBU connectlist: {0}
+EWUTEW_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+EWUTEW_clean_primitive, Anchors list: {5}, SBU connectlist: {3}

@@ -1,0 +1,1 @@
+LIFSAW_clean_primitive8, Anchors list: {96, 99, 100}, SBU connectlist: {0}

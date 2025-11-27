@@ -1,0 +1,4 @@
+OWIYUP_clean_primitive, Anchors list: {251}, SBU connectlist: {9} set to be ligand
+OWIYUP_clean_primitive, Anchors list: {250}, SBU connectlist: {8} set to be ligand
+OWIYUP_clean_primitive, Anchors list: {244}, SBU connectlist: {2} set to be ligand
+OWIYUP_clean_primitive, Anchors list: {245}, SBU connectlist: {3} set to be ligand

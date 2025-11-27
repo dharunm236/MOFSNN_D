@@ -1,0 +1,2 @@
+FARHIR_ion_b_primitive, Anchors list: {37}, SBU connectlist: {5}
+FARHIR_ion_b_primitive, Anchors list: {36}, SBU connectlist: {4}

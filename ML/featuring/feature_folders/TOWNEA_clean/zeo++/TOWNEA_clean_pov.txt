@@ -1,0 +1,3 @@
+@ feature_folders/TOWNEA_clean/zeo++/TOWNEA_clean_pov.txt Unitcell_volume: 16709.4   Density: 0.718839   POAV_A^3: 9937.07 POAV_Volume_fraction: 0.5947 POAV_cm^3/g: 0.827306 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/TOWNEA_clean/zeo++/TOWNEA_clean_pov.txt	0.718839	1.86	10000	0.2439	0	0.5947	0	0.1108	0.2945

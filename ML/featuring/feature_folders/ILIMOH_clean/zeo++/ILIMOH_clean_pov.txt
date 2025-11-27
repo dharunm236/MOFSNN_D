@@ -1,0 +1,3 @@
+@ feature_folders/ILIMOH_clean/zeo++/ILIMOH_clean_pov.txt Unitcell_volume: 2137.07   Density: 1.17288   POAV_A^3: 503.708 POAV_Volume_fraction: 0.2357 POAV_cm^3/g: 0.200959 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ILIMOH_clean/zeo++/ILIMOH_clean_pov.txt	1.17288	1.86	10000	0.0468	0	0.2357	0	0.2647	0.4996

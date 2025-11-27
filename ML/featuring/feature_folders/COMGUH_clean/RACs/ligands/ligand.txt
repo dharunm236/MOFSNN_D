@@ -1,0 +1,4 @@
+COMGUH_clean_primitive, Anchors list: {0, 7}, SBU connectlist: {0, 9}
+COMGUH_clean_primitive, Anchors list: {3, 6}, SBU connectlist: {8, 3}
+COMGUH_clean_primitive, Anchors list: {3, 6}, SBU connectlist: {8, 3}
+COMGUH_clean_primitive, Anchors list: {0, 7}, SBU connectlist: {0, 9}

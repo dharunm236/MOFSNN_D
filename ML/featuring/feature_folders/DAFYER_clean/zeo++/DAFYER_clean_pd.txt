@@ -1,0 +1,1 @@
+feature_folders/DAFYER_clean/zeo++/DAFYER_clean_pd.txt    7.75542 2.91986  7.60488

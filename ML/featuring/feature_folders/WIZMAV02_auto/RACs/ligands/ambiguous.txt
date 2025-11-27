@@ -1,0 +1,4 @@
+WIZMAV02_auto_primitive, Anchors list: {344, 347, 340, 343}, SBU connectlist: {1} set to be linker
+WIZMAV02_auto_primitive, Anchors list: {345, 346, 341, 342}, SBU connectlist: {0} set to be linker
+WIZMAV02_auto_primitive, Anchors list: {345, 346, 341, 342}, SBU connectlist: {0} set to be linker
+WIZMAV02_auto_primitive, Anchors list: {344, 347, 340, 343}, SBU connectlist: {1} set to be linker

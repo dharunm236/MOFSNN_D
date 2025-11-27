@@ -1,0 +1,1 @@
+GIRYEN_clean_primitive7, Anchors list: {177, 179}, SBU connectlist: {1}

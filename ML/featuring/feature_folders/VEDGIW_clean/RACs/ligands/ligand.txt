@@ -1,0 +1,1 @@
+VEDGIW_clean_primitive11, Anchors list: {1, 7}, SBU connectlist: {1}

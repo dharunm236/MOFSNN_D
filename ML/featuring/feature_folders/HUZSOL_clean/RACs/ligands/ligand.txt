@@ -1,0 +1,12 @@
+HUZSOL_clean_primitive, Anchors list: {13, 11, 4, 12}, SBU connectlist: {13, 11, 4, 12}
+HUZSOL_clean_primitive, Anchors list: {8, 9, 10, 7}, SBU connectlist: {8, 9, 10, 7}
+HUZSOL_clean_primitive, Anchors list: {0, 17, 18, 19}, SBU connectlist: {0, 17, 18, 19}
+HUZSOL_clean_primitive, Anchors list: {16, 3, 14, 15}, SBU connectlist: {16, 3, 14, 15}
+HUZSOL_clean_primitive, Anchors list: {5, 7}, SBU connectlist: {5, 7}
+HUZSOL_clean_primitive, Anchors list: {4, 6}, SBU connectlist: {4, 6}
+HUZSOL_clean_primitive, Anchors list: {5, 7}, SBU connectlist: {5, 7}
+HUZSOL_clean_primitive, Anchors list: {1, 3}, SBU connectlist: {1, 3}
+HUZSOL_clean_primitive, Anchors list: {1, 3}, SBU connectlist: {1, 3}
+HUZSOL_clean_primitive, Anchors list: {4, 6}, SBU connectlist: {4, 6}
+HUZSOL_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0, 2}
+HUZSOL_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0, 2}

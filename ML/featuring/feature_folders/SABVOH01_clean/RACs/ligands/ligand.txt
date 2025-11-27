@@ -1,0 +1,4 @@
+SABVOH01_clean_primitive, Anchors list: {0, 1, 23}, SBU connectlist: {0, 1, 7}
+SABVOH01_clean_primitive, Anchors list: {2, 3, 14}, SBU connectlist: {2, 3, 6}
+SABVOH01_clean_primitive, Anchors list: {2, 3, 13}, SBU connectlist: {2, 3, 5}
+SABVOH01_clean_primitive, Anchors list: {0, 1, 4}, SBU connectlist: {0, 1, 4}

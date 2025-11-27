@@ -1,0 +1,16 @@
+CAWZUX_clean_primitive, Anchors list: {32, 31}, SBU connectlist: {0} set to be ligand
+CAWZUX_clean_primitive, Anchors list: {35, 28}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {27, 30}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {32, 29}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {27, 28}, SBU connectlist: {0} set to be ligand
+CAWZUX_clean_primitive, Anchors list: {26}, SBU connectlist: {0} set to be ligand
+CAWZUX_clean_primitive, Anchors list: {34, 29}, SBU connectlist: {0} set to be ligand
+CAWZUX_clean_primitive, Anchors list: {32}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {33, 34}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {27}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {33}, SBU connectlist: {0} set to be ligand
+CAWZUX_clean_primitive, Anchors list: {26, 35}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {24, 31}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {25, 26}, SBU connectlist: {0} set to be linker
+CAWZUX_clean_primitive, Anchors list: {25, 30}, SBU connectlist: {0} set to be ligand
+CAWZUX_clean_primitive, Anchors list: {24, 33}, SBU connectlist: {0} set to be linker

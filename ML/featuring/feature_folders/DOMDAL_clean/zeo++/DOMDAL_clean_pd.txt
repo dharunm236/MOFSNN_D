@@ -1,0 +1,1 @@
+feature_folders/DOMDAL_clean/zeo++/DOMDAL_clean_pd.txt    18.43381 14.45488  18.43107

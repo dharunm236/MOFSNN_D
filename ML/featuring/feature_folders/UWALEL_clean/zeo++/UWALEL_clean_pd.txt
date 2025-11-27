@@ -1,0 +1,1 @@
+feature_folders/UWALEL_clean/zeo++/UWALEL_clean_pd.txt    8.58782 8.08438  8.58782

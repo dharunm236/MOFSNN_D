@@ -1,0 +1,1 @@
+feature_folders/VAYWID_clean/zeo++/VAYWID_clean_pd.txt    8.02371 3.35769  8.02371

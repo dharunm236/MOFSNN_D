@@ -1,0 +1,1 @@
+feature_folders/ELERIX01_clean/zeo++/ELERIX01_clean_pd.txt    3.89315 3.28740  3.87417

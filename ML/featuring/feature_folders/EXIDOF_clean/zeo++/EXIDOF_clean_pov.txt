@@ -1,0 +1,3 @@
+@ feature_folders/EXIDOF_clean/zeo++/EXIDOF_clean_pov.txt Unitcell_volume: 3963.2   Density: 1.03591   POAV_A^3: 1829.81 POAV_Volume_fraction: 0.4617 POAV_cm^3/g: 0.445694 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/EXIDOF_clean/zeo++/EXIDOF_clean_pov.txt	1.03591	1.86	10000	0.0692	0	0.4617	0	0.163	0.3753

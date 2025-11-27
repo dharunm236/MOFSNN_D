@@ -1,0 +1,1 @@
+feature_folders/TAKYOV_clean/zeo++/TAKYOV_clean_pd.txt    7.07022 3.04881  7.07022

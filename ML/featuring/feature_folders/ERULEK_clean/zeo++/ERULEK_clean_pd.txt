@@ -1,0 +1,1 @@
+feature_folders/ERULEK_clean/zeo++/ERULEK_clean_pd.txt    8.92635 6.96591  8.92635

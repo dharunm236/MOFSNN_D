@@ -1,0 +1,4 @@
+EJOQOL_clean_primitive, Anchors list: {193, 139}, SBU connectlist: {3, 13}
+EJOQOL_clean_primitive, Anchors list: {192, 138}, SBU connectlist: {2, 12}
+EJOQOL_clean_primitive, Anchors list: {133, 191}, SBU connectlist: {17, 7}
+EJOQOL_clean_primitive, Anchors list: {132, 190}, SBU connectlist: {16, 6}

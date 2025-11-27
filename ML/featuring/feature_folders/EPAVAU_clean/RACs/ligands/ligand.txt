@@ -1,0 +1,16 @@
+EPAVAU_clean_primitive, Anchors list: {361, 362, 359}, SBU connectlist: {3, 5, 6}
+EPAVAU_clean_primitive, Anchors list: {360, 363, 358}, SBU connectlist: {2, 4, 7}
+EPAVAU_clean_primitive, Anchors list: {369, 370, 367}, SBU connectlist: {11, 13, 14}
+EPAVAU_clean_primitive, Anchors list: {368, 371, 366}, SBU connectlist: {10, 12, 15}
+EPAVAU_clean_primitive, Anchors list: {368, 371, 365}, SBU connectlist: {9, 12, 15}
+EPAVAU_clean_primitive, Anchors list: {369, 370, 364}, SBU connectlist: {8, 13, 14}
+EPAVAU_clean_primitive, Anchors list: {371, 365, 366}, SBU connectlist: {9, 10, 15}
+EPAVAU_clean_primitive, Anchors list: {370, 364, 367}, SBU connectlist: {8, 11, 14}
+EPAVAU_clean_primitive, Anchors list: {360, 363, 357}, SBU connectlist: {1, 4, 7}
+EPAVAU_clean_primitive, Anchors list: {361, 362, 356}, SBU connectlist: {0, 5, 6}
+EPAVAU_clean_primitive, Anchors list: {363, 357, 358}, SBU connectlist: {1, 2, 7}
+EPAVAU_clean_primitive, Anchors list: {362, 356, 359}, SBU connectlist: {0, 3, 6}
+EPAVAU_clean_primitive, Anchors list: {361, 356, 359}, SBU connectlist: {0, 3, 5}
+EPAVAU_clean_primitive, Anchors list: {360, 357, 358}, SBU connectlist: {1, 2, 4}
+EPAVAU_clean_primitive, Anchors list: {369, 364, 367}, SBU connectlist: {8, 11, 13}
+EPAVAU_clean_primitive, Anchors list: {368, 365, 366}, SBU connectlist: {9, 10, 12}

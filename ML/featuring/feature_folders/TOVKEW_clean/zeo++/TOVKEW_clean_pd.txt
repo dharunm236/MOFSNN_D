@@ -1,0 +1,1 @@
+feature_folders/TOVKEW_clean/zeo++/TOVKEW_clean_pd.txt    13.15242 8.94797  13.15242

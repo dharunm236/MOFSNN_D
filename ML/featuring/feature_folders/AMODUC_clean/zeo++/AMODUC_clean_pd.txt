@@ -1,0 +1,1 @@
+feature_folders/AMODUC_clean/zeo++/AMODUC_clean_pd.txt    8.56321 6.70069  8.56321

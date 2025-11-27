@@ -1,0 +1,1 @@
+feature_folders/QISVEU_clean/zeo++/QISVEU_clean_pd.txt    5.34851 2.65989  5.33539

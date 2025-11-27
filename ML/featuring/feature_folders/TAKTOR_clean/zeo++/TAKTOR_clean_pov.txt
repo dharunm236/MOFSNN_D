@@ -1,0 +1,3 @@
+@ feature_folders/TAKTOR_clean/zeo++/TAKTOR_clean_pov.txt Unitcell_volume: 1332.88   Density: 1.17586   POAV_A^3: 590.867 POAV_Volume_fraction: 0.4433 POAV_cm^3/g: 0.377001 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/TAKTOR_clean/zeo++/TAKTOR_clean_pov.txt	1.17586	1.86	10000	0.1148	0	0.4433	0	0.1343	0.4224

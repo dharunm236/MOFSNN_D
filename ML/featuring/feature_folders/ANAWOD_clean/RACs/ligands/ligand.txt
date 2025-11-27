@@ -1,0 +1,12 @@
+ANAWOD_clean_primitive, Anchors list: {10, 11, 23}, SBU connectlist: {10, 11, 23}
+ANAWOD_clean_primitive, Anchors list: {9, 11, 22}, SBU connectlist: {9, 11, 22}
+ANAWOD_clean_primitive, Anchors list: {10, 21, 7}, SBU connectlist: {10, 21, 7}
+ANAWOD_clean_primitive, Anchors list: {8, 9, 20}, SBU connectlist: {8, 9, 20}
+ANAWOD_clean_primitive, Anchors list: {8, 19, 6}, SBU connectlist: {8, 19, 6}
+ANAWOD_clean_primitive, Anchors list: {18, 6, 7}, SBU connectlist: {18, 6, 7}
+ANAWOD_clean_primitive, Anchors list: {17, 4, 5}, SBU connectlist: {17, 4, 5}
+ANAWOD_clean_primitive, Anchors list: {16, 3, 5}, SBU connectlist: {16, 3, 5}
+ANAWOD_clean_primitive, Anchors list: {1, 4, 15}, SBU connectlist: {1, 4, 15}
+ANAWOD_clean_primitive, Anchors list: {2, 3, 14}, SBU connectlist: {2, 3, 14}
+ANAWOD_clean_primitive, Anchors list: {0, 2, 13}, SBU connectlist: {0, 2, 13}
+ANAWOD_clean_primitive, Anchors list: {0, 1, 12}, SBU connectlist: {0, 1, 12}

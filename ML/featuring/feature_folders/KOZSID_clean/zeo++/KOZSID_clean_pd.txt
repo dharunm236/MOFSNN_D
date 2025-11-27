@@ -1,0 +1,1 @@
+feature_folders/KOZSID_clean/zeo++/KOZSID_clean_pd.txt    5.70946 3.86883  5.70946

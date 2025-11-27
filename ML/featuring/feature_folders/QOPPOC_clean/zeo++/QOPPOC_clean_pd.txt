@@ -1,0 +1,1 @@
+feature_folders/QOPPOC_clean/zeo++/QOPPOC_clean_pd.txt    4.21204 3.56876  4.20993

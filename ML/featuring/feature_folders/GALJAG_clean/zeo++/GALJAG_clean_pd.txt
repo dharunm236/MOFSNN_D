@@ -1,0 +1,1 @@
+feature_folders/GALJAG_clean/zeo++/GALJAG_clean_pd.txt    7.13587 6.98688  7.13339

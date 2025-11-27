@@ -1,0 +1,3 @@
+@ feature_folders/FIDRIV_clean/zeo++/FIDRIV_clean_sa.txt Unitcell_volume: 7933.29   Density: 0.698397   ASA_A^2: 1053.46 ASA_m^2/cm^3: 1327.89 ASA_m^2/g: 1901.34 NASA_A^2: 1.1592 NASA_m^2/cm^3: 1.46119 NASA_m^2/g: 2.0922
+Number_of_channels: 1 Channel_surface_area_A^2: 1053.46  
+Number_of_pockets: 4 Pocket_surface_area_A^2: 0.37182  0.240589  0.284333  0.262461  

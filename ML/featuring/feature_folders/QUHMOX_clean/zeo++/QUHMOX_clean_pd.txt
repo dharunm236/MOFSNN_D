@@ -1,0 +1,1 @@
+feature_folders/QUHMOX_clean/zeo++/QUHMOX_clean_pd.txt    4.58218 3.19075  4.58218

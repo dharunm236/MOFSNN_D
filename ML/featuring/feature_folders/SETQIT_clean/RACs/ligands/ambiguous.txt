@@ -1,0 +1,2 @@
+SETQIT_clean_primitive, Anchors list: {16, 17}, SBU connectlist: {0} set to be linker
+SETQIT_clean_primitive, Anchors list: {16, 17}, SBU connectlist: {0} set to be linker

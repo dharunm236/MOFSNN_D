@@ -1,0 +1,4 @@
+GUCJAQ_clean_primitive, Anchors list: {136}, SBU connectlist: {0}
+GUCJAQ_clean_primitive, Anchors list: {137}, SBU connectlist: {1}
+GUCJAQ_clean_primitive, Anchors list: {134}, SBU connectlist: {2}
+GUCJAQ_clean_primitive, Anchors list: {135}, SBU connectlist: {3}

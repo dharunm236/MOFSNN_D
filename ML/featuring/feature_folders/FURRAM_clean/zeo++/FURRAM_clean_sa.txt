@@ -1,0 +1,3 @@
+@ feature_folders/FURRAM_clean/zeo++/FURRAM_clean_sa.txt Unitcell_volume: 2773.58   Density: 1.04916   ASA_A^2: 403.153 ASA_m^2/cm^3: 1453.55 ASA_m^2/g: 1385.44 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 403.153  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

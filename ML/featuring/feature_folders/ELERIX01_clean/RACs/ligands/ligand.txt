@@ -1,0 +1,6 @@
+ELERIX01_clean_primitive, Anchors list: {72, 1, 74}, SBU connectlist: {8, 1, 6}
+ELERIX01_clean_primitive, Anchors list: {0, 73, 71}, SBU connectlist: {0, 5, 7}
+ELERIX01_clean_primitive, Anchors list: {26, 3, 28}, SBU connectlist: {10, 3, 12}
+ELERIX01_clean_primitive, Anchors list: {25, 2, 27}, SBU connectlist: {9, 2, 11}
+ELERIX01_clean_primitive, Anchors list: {8}, SBU connectlist: {4}
+ELERIX01_clean_primitive, Anchors list: {13}, SBU connectlist: {4}

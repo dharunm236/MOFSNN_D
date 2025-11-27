@@ -1,0 +1,8 @@
+VAYDOQ_clean_primitive, Anchors list: {24, 26, 3}, SBU connectlist: {3, 21}
+VAYDOQ_clean_primitive, Anchors list: {25, 2, 23}, SBU connectlist: {2, 20}
+VAYDOQ_clean_primitive, Anchors list: {18, 20, 5}, SBU connectlist: {19, 5}
+VAYDOQ_clean_primitive, Anchors list: {17, 19, 4}, SBU connectlist: {18, 4}
+VAYDOQ_clean_primitive, Anchors list: {11, 36, 38}, SBU connectlist: {11, 15}
+VAYDOQ_clean_primitive, Anchors list: {10, 35, 37}, SBU connectlist: {10, 14}
+VAYDOQ_clean_primitive, Anchors list: {32, 13, 30}, SBU connectlist: {13, 23}
+VAYDOQ_clean_primitive, Anchors list: {12, 29, 31}, SBU connectlist: {12, 22}

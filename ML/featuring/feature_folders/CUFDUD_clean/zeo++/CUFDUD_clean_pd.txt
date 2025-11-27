@@ -1,0 +1,1 @@
+feature_folders/CUFDUD_clean/zeo++/CUFDUD_clean_pd.txt    6.88927 5.43832  6.88311

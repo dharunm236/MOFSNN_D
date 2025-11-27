@@ -1,0 +1,3 @@
+@ feature_folders/DOYHOQ_clean/zeo++/DOYHOQ_clean_sa.txt Unitcell_volume: 3123.63   Density: 0.987346   ASA_A^2: 549.943 ASA_m^2/cm^3: 1760.59 ASA_m^2/g: 1783.16 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 549.943  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

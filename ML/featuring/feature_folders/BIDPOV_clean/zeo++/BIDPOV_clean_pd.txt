@@ -1,0 +1,1 @@
+feature_folders/BIDPOV_clean/zeo++/BIDPOV_clean_pd.txt    11.28498 6.79545  11.27552

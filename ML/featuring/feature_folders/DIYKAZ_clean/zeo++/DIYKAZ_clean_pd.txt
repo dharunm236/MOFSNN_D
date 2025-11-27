@@ -1,0 +1,1 @@
+feature_folders/DIYKAZ_clean/zeo++/DIYKAZ_clean_pd.txt    4.37669 3.51099  4.36980

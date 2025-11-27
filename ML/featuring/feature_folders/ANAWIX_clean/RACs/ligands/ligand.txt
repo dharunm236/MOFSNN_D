@@ -1,0 +1,4 @@
+ANAWIX_clean_primitive, Anchors list: {51, 52, 54}, SBU connectlist: {3, 4, 6}
+ANAWIX_clean_primitive, Anchors list: {50, 53, 55}, SBU connectlist: {2, 5, 7}
+ANAWIX_clean_primitive, Anchors list: {49, 52, 55}, SBU connectlist: {1, 4, 7}
+ANAWIX_clean_primitive, Anchors list: {48, 53, 54}, SBU connectlist: {0, 5, 6}

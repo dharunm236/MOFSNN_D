@@ -1,0 +1,1 @@
+feature_folders/FAGMOS_clean/zeo++/FAGMOS_clean_pd.txt    4.83716 3.91151  4.83716

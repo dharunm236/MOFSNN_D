@@ -1,0 +1,3 @@
+@ feature_folders/PUQXUV_clean/zeo++/PUQXUV_clean_sa.txt Unitcell_volume: 3019.02   Density: 1.50363   ASA_A^2: 54.1643 ASA_m^2/cm^3: 179.41 ASA_m^2/g: 119.318 NASA_A^2: 63.1425 NASA_m^2/cm^3: 209.149 NASA_m^2/g: 139.096
+Number_of_channels: 1 Channel_surface_area_A^2: 54.1643  
+Number_of_pockets: 3 Pocket_surface_area_A^2: 20.8896  21.2027  21.0502  

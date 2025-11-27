@@ -1,0 +1,4 @@
+KUKPOX_clean_primitive, Anchors list: {41, 42, 45, 46}, SBU connectlist: {0} set to be linker
+KUKPOX_clean_primitive, Anchors list: {40, 43, 44, 47}, SBU connectlist: {0} set to be linker
+KUKPOX_clean_primitive, Anchors list: {40, 43, 45, 46}, SBU connectlist: {0} set to be linker
+KUKPOX_clean_primitive, Anchors list: {41, 42, 44, 47}, SBU connectlist: {0} set to be linker

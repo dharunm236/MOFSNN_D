@@ -1,0 +1,1 @@
+feature_folders/EQOXIT_clean/zeo++/EQOXIT_clean_pd.txt    7.72403 6.97893  7.70110

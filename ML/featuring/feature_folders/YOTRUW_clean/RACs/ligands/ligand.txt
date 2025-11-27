@@ -1,0 +1,8 @@
+YOTRUW_clean_primitive, Anchors list: {1, 83}, SBU connectlist: {1, 7}
+YOTRUW_clean_primitive, Anchors list: {0, 82}, SBU connectlist: {0, 6}
+YOTRUW_clean_primitive, Anchors list: {0, 85}, SBU connectlist: {0, 9}
+YOTRUW_clean_primitive, Anchors list: {1, 84}, SBU connectlist: {8, 1}
+YOTRUW_clean_primitive, Anchors list: {33, 2, 4, 31}, SBU connectlist: {2, 5}
+YOTRUW_clean_primitive, Anchors list: {32, 3, 5, 30}, SBU connectlist: {3, 4}
+YOTRUW_clean_primitive, Anchors list: {2, 27, 4, 29}, SBU connectlist: {2, 5}
+YOTRUW_clean_primitive, Anchors list: {26, 3, 28, 5}, SBU connectlist: {3, 4}

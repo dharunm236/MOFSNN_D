@@ -1,0 +1,1 @@
+feature_folders/YICDAR_clean/zeo++/YICDAR_clean_pd.txt    5.59978 4.73879  5.59367

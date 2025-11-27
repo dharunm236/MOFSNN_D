@@ -1,0 +1,1 @@
+feature_folders/KAVTEI_clean/zeo++/KAVTEI_clean_pd.txt    5.70278 3.85308  5.70278

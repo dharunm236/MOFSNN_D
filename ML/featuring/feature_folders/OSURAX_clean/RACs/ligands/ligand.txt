@@ -1,0 +1,4 @@
+OSURAX_clean_primitive, Anchors list: {133}, SBU connectlist: {5}
+OSURAX_clean_primitive, Anchors list: {132}, SBU connectlist: {4}
+OSURAX_clean_primitive, Anchors list: {130}, SBU connectlist: {2}
+OSURAX_clean_primitive, Anchors list: {129}, SBU connectlist: {1}

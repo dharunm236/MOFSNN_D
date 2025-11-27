@@ -1,0 +1,3 @@
+@ feature_folders/ALIXUP_clean/zeo++/ALIXUP_clean_pov.txt Unitcell_volume: 2802.92   Density: 1.33865   POAV_A^3: 866.942 POAV_Volume_fraction: 0.3093 POAV_cm^3/g: 0.231054 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ALIXUP_clean/zeo++/ALIXUP_clean_pov.txt	1.33865	1.86	10000	0.0575	0	0.3093	0	0.2515	0.4392

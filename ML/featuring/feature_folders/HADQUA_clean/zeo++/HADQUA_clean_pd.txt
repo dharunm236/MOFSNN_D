@@ -1,0 +1,1 @@
+feature_folders/HADQUA_clean/zeo++/HADQUA_clean_pd.txt    4.82014 3.51021  4.81155

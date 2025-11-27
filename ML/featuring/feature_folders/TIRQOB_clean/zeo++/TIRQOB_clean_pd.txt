@@ -1,0 +1,1 @@
+feature_folders/TIRQOB_clean/zeo++/TIRQOB_clean_pd.txt    6.93138 5.10575  6.93138

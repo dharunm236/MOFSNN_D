@@ -1,0 +1,3 @@
+@ feature_folders/MATXAJ_clean/zeo++/MATXAJ_clean_sa.txt Unitcell_volume: 7472.45   Density: 0.6224   ASA_A^2: 1469.61 ASA_m^2/cm^3: 1966.71 ASA_m^2/g: 3159.88 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 1469.61  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

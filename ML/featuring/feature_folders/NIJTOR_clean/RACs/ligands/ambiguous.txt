@@ -1,0 +1,3 @@
+NIJTOR_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2} set to be linker
+NIJTOR_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2} set to be linker
+NIJTOR_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2} set to be linker

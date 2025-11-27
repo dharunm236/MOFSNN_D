@@ -1,0 +1,3 @@
+@ feature_folders/VOCNOQ_clean/zeo++/VOCNOQ_clean_sa.txt Unitcell_volume: 5656.25   Density: 1.46036   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 82.5465 NASA_m^2/cm^3: 145.939 NASA_m^2/g: 99.9334
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 12 Pocket_surface_area_A^2: 10.2989  9.98606  10.1916  10.2347  0.0574253  0.172276  10.3722  10.5505  0.200989  0.100494  10.2649  10.1166  

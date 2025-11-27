@@ -1,0 +1,3 @@
+@ feature_folders/WIFBAQ_clean/zeo++/WIFBAQ_clean_pov.txt Unitcell_volume: 2436.28   Density: 1.2726   POAV_A^3: 500.411 POAV_Volume_fraction: 0.2054 POAV_cm^3/g: 0.161402 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/WIFBAQ_clean/zeo++/WIFBAQ_clean_pov.txt	1.2726	1.86	10000	0.0325	0	0.2054	0	0.2973	0.4973

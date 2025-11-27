@@ -1,0 +1,1 @@
+feature_folders/JUFREJ_clean/zeo++/JUFREJ_clean_pd.txt    6.33827 5.99916  6.33827

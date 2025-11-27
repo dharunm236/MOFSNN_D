@@ -1,0 +1,4 @@
+BIRMUM_clean_primitive, Anchors list: {4, 6}, SBU connectlist: {4, 6}
+BIRMUM_clean_primitive, Anchors list: {5, 7}, SBU connectlist: {5, 7}
+BIRMUM_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0, 2}
+BIRMUM_clean_primitive, Anchors list: {1, 3}, SBU connectlist: {1, 3}

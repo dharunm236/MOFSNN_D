@@ -1,0 +1,2 @@
+QOHTOX_clean_primitive9, Anchors list: {1}, SBU connectlist: {1}
+QOHTOX_clean_primitive8, Anchors list: {0}, SBU connectlist: {0}

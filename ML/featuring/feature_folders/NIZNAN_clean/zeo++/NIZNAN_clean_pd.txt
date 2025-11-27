@@ -1,0 +1,1 @@
+feature_folders/NIZNAN_clean/zeo++/NIZNAN_clean_pd.txt    5.62761 3.49522  5.62761

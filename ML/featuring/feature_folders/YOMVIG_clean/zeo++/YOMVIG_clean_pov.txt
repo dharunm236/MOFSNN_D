@@ -1,0 +1,3 @@
+@ feature_folders/YOMVIG_clean/zeo++/YOMVIG_clean_pov.txt Unitcell_volume: 2734.94   Density: 1.93225   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 633.685 PONAV_Volume_fraction: 0.2317 PONAV_cm^3/g: 0.119912
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/YOMVIG_clean/zeo++/YOMVIG_clean_pov.txt	1.93225	1.86	10000	0	0.0184	0	0.2317	0.2204	0.5479

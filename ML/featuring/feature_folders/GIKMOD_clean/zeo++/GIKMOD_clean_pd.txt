@@ -1,0 +1,1 @@
+feature_folders/GIKMOD_clean/zeo++/GIKMOD_clean_pd.txt    3.93708 2.55442  3.90338

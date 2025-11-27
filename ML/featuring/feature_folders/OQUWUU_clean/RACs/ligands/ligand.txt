@@ -1,0 +1,1 @@
+OQUWUU_clean_primitive2, Anchors list: {384, 386, 388, 390, 392, 394, 368, 370, 376, 378, 380, 382}, SBU connectlist: {2}

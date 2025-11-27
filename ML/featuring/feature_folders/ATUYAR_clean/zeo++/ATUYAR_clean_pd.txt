@@ -1,0 +1,1 @@
+feature_folders/ATUYAR_clean/zeo++/ATUYAR_clean_pd.txt    4.18124 2.56035  4.14817

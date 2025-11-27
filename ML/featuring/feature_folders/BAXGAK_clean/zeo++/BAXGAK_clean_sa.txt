@@ -1,0 +1,3 @@
+@ feature_folders/BAXGAK_clean/zeo++/BAXGAK_clean_sa.txt Unitcell_volume: 696.834   Density: 1.30644   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 7.4563 NASA_m^2/cm^3: 107.002 NASA_m^2/g: 81.9035
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 1.85801  1.921  1.65741  2.01989  

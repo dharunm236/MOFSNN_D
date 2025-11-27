@@ -1,0 +1,3 @@
+@ feature_folders/EPAVAU_clean/zeo++/EPAVAU_clean_sa.txt Unitcell_volume: 6245.96   Density: 1.64446   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 295.537 NASA_m^2/cm^3: 473.166 NASA_m^2/g: 287.733
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 10 Pocket_surface_area_A^2: 118.453  1.00241  119.509  13.1429  13.6259  1.2753  12.2063  1.01829  14.1976  1.10667  

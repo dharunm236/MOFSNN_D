@@ -1,0 +1,1 @@
+feature_folders/HICZAW_clean/zeo++/HICZAW_clean_pd.txt    4.78527 4.01405  4.78527

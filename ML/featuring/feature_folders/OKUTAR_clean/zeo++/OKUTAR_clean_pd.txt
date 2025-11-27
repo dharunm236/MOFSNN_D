@@ -1,0 +1,1 @@
+feature_folders/OKUTAR_clean/zeo++/OKUTAR_clean_pd.txt    10.98199 6.35591  10.98199

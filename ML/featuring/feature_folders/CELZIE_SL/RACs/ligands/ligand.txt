@@ -1,0 +1,8 @@
+CELZIE_SL_primitive, Anchors list: {105, 5, 7}, SBU connectlist: {11, 5, 7}
+CELZIE_SL_primitive, Anchors list: {0, 4, 112}, SBU connectlist: {0, 4, 12}
+CELZIE_SL_primitive, Anchors list: {104, 4, 6}, SBU connectlist: {10, 4, 6}
+CELZIE_SL_primitive, Anchors list: {1, 5, 113}, SBU connectlist: {1, 13, 5}
+CELZIE_SL_primitive, Anchors list: {3, 103, 7}, SBU connectlist: {9, 3, 7}
+CELZIE_SL_primitive, Anchors list: {2, 102, 6}, SBU connectlist: {8, 2, 6}
+CELZIE_SL_primitive, Anchors list: {1, 3, 111}, SBU connectlist: {1, 3, 15}
+CELZIE_SL_primitive, Anchors list: {0, 2, 110}, SBU connectlist: {0, 2, 14}

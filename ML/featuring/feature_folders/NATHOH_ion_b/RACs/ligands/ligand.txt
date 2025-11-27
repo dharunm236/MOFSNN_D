@@ -1,0 +1,12 @@
+NATHOH_ion_b_primitive, Anchors list: {32, 2, 26}, SBU connectlist: {2, 6}
+NATHOH_ion_b_primitive, Anchors list: {35, 3, 15}, SBU connectlist: {3, 4}
+NATHOH_ion_b_primitive, Anchors list: {13}, SBU connectlist: {13}
+NATHOH_ion_b_primitive, Anchors list: {12}, SBU connectlist: {12}
+NATHOH_ion_b_primitive, Anchors list: {10}, SBU connectlist: {10}
+NATHOH_ion_b_primitive, Anchors list: {13}, SBU connectlist: {13}
+NATHOH_ion_b_primitive, Anchors list: {8}, SBU connectlist: {8}
+NATHOH_ion_b_primitive, Anchors list: {1, 19, 25}, SBU connectlist: {1, 6}
+NATHOH_ion_b_primitive, Anchors list: {0, 16, 36}, SBU connectlist: {0, 4}
+NATHOH_ion_b_primitive, Anchors list: {11}, SBU connectlist: {11}
+NATHOH_ion_b_primitive, Anchors list: {9}, SBU connectlist: {9}
+NATHOH_ion_b_primitive, Anchors list: {8}, SBU connectlist: {8}

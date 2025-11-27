@@ -1,0 +1,1 @@
+feature_folders/LUFNAC05_clean/zeo++/LUFNAC05_clean_pd.txt    7.61946 5.80686  7.26906

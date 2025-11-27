@@ -1,0 +1,1 @@
+Structure FEZCUJ_charged_primitive has extremely short ligands, check the outputs

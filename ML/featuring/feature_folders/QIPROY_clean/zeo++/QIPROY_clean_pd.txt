@@ -1,0 +1,1 @@
+feature_folders/QIPROY_clean/zeo++/QIPROY_clean_pd.txt    5.11864 3.64824  4.96747

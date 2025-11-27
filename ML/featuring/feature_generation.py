@@ -66,21 +66,32 @@ def descriptor_generator(name, structure_path, wiggle_room, prob_radius):
 
     # Zeo++ should be installed
     # Change the zeo++-0.3/network path as appropriate
-    cmd1 = f'/home/zhangsd/repos/zeo++-0.3/network -ha -res {zeo_folder}/{name}_pd.txt {structure_path} > /dev/null 2>&1' # > /dev/null 2>&1 mutes terminal printing
-    cmd2 = f'/home/zhangsd/repos/zeo++-0.3/network -sa {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_sa.txt {structure_path} > /dev/null 2>&1'
-    cmd3 = f'/home/zhangsd/repos/zeo++-0.3/network -volpo {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_pov.txt {structure_path} > /dev/null 2>&1'
+    # Remove > /dev/null 2>&1 to allow capturing stderr
+    cmd1 = f'/home/dharunkraja/miniconda3/envs/mofsnn/bin/network -ha -res {zeo_folder}/{name}_pd.txt {structure_path}' 
+    cmd2 = f'/home/dharunkraja/miniconda3/envs/mofsnn/bin/network -sa {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_sa.txt {structure_path}'
+    cmd3 = f'/home/dharunkraja/miniconda3/envs/mofsnn/bin/network -volpo {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_pov.txt {structure_path}'
     cmd4 = 'python RAC_getter.py %s %s %s %f' %(structure_path, name, RACs_folder, wiggle_room)
 
     # four parallelized Zeo++ and RAC commands
-    process1 = subprocess.Popen(cmd1, stdout=subprocess.PIPE, stderr=None, shell=True)
-    process2 = subprocess.Popen(cmd2, stdout=subprocess.PIPE, stderr=None, shell=True)
-    process3 = subprocess.Popen(cmd3, stdout=subprocess.PIPE, stderr=None, shell=True)
-    process4 = subprocess.Popen(cmd4, stdout=subprocess.PIPE, stderr=None, shell=True)
+    # Use stderr=subprocess.PIPE to capture errors
+    process1 = subprocess.Popen(cmd1, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    process2 = subprocess.Popen(cmd2, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    process3 = subprocess.Popen(cmd3, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    process4 = subprocess.Popen(cmd4, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
 
-    output1 = process1.communicate()[0]
-    output2 = process2.communicate()[0]
-    output3 = process3.communicate()[0]
-    output4 = process4.communicate()[0]
+    output1, err1 = process1.communicate()
+    output2, err2 = process2.communicate()
+    output3, err3 = process3.communicate()
+    output4, err4 = process4.communicate()
+
+    if process1.returncode != 0:
+        print(f"Error in Zeo++ (pd) for {name}: {err1.decode()}")
+    if process2.returncode != 0:
+        print(f"Error in Zeo++ (sa) for {name}: {err2.decode()}")
+    if process3.returncode != 0:
+        print(f"Error in Zeo++ (volpo) for {name}: {err3.decode()}")
+    if process4.returncode != 0:
+        print(f"Error in RAC_getter for {name}: {err4.decode()}")
 
     # Commands above write Zeo++ output to files. Now, code below extracts information from those files.
     # The Zeo++ calculations use a probe radius of 1.4 angstrom, and zeo++ is called by subprocess.
@@ -238,4 +249,4 @@ if __name__ == '__main__':
     final_df = final_df.sort_values(by=['name']) # Sort names alphabetically.
     final_df.to_csv(final_csv_path, index=False)
 
-    print(f'unsuccessful_featurizations is {unsuccessful_featurizations}') 
+    print(f'unsuccessful_featurizations is {unsuccessful_featurizations}')

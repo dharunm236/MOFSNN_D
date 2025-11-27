@@ -1,0 +1,1 @@
+feature_folders/VALXEO_clean/zeo++/VALXEO_clean_pd.txt    9.67830 6.73158  8.21464

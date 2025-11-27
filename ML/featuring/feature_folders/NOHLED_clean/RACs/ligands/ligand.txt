@@ -1,0 +1,8 @@
+NOHLED_clean_primitive, Anchors list: {4, 12, 15}, SBU connectlist: {4, 12, 15}
+NOHLED_clean_primitive, Anchors list: {4, 13, 14}, SBU connectlist: {4, 13, 14}
+NOHLED_clean_primitive, Anchors list: {17, 18, 7}, SBU connectlist: {17, 18, 7}
+NOHLED_clean_primitive, Anchors list: {16, 19, 7}, SBU connectlist: {16, 19, 7}
+NOHLED_clean_primitive, Anchors list: {9, 10, 5}, SBU connectlist: {9, 10, 5}
+NOHLED_clean_primitive, Anchors list: {8, 11, 5}, SBU connectlist: {8, 11, 5}
+NOHLED_clean_primitive, Anchors list: {20, 6, 23}, SBU connectlist: {20, 6, 23}
+NOHLED_clean_primitive, Anchors list: {21, 6, 22}, SBU connectlist: {21, 6, 22}

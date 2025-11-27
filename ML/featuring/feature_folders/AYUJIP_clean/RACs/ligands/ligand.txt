@@ -1,0 +1,6 @@
+AYUJIP_clean_primitive, Anchors list: {426, 435, 436}, SBU connectlist: {1, 9}
+AYUJIP_clean_primitive, Anchors list: {451, 420, 423}, SBU connectlist: {2, 6}
+AYUJIP_clean_primitive, Anchors list: {441, 429, 430}, SBU connectlist: {0, 13}
+AYUJIP_clean_primitive, Anchors list: {434, 445, 446}, SBU connectlist: {0, 14}
+AYUJIP_clean_primitive, Anchors list: {440, 449, 439}, SBU connectlist: {1, 4}
+AYUJIP_clean_primitive, Anchors list: {424, 452, 455}, SBU connectlist: {6, 7}

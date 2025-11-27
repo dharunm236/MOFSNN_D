@@ -1,0 +1,1 @@
+feature_folders/BETDIP_clean/zeo++/BETDIP_clean_pd.txt    6.11094 3.88458  6.10684

@@ -1,0 +1,1 @@
+feature_folders/MAQBIS_clean/zeo++/MAQBIS_clean_pd.txt    11.36686 8.59659  11.35492

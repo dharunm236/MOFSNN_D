@@ -1,0 +1,9 @@
+PIGHIX01_clean_primitive16, Anchors list: {8}, SBU connectlist: {8}
+PIGHIX01_clean_primitive13, Anchors list: {6}, SBU connectlist: {6}
+PIGHIX01_clean_primitive12, Anchors list: {7}, SBU connectlist: {7}
+PIGHIX01_clean_primitive10, Anchors list: {5}, SBU connectlist: {5}
+PIGHIX01_clean_primitive9, Anchors list: {3}, SBU connectlist: {3}
+PIGHIX01_clean_primitive5, Anchors list: {0}, SBU connectlist: {0}
+PIGHIX01_clean_primitive4, Anchors list: {1}, SBU connectlist: {1}
+PIGHIX01_clean_primitive1, Anchors list: {11}, SBU connectlist: {11}
+PIGHIX01_clean_primitive0, Anchors list: {10}, SBU connectlist: {10}

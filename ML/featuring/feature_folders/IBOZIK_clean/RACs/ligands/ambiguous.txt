@@ -1,0 +1,4 @@
+IBOZIK_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0} set to be ligand
+IBOZIK_clean_primitive, Anchors list: {1, 4}, SBU connectlist: {1} set to be linker
+IBOZIK_clean_primitive, Anchors list: {2, 7}, SBU connectlist: {0} set to be ligand
+IBOZIK_clean_primitive, Anchors list: {3, 6}, SBU connectlist: {1} set to be linker

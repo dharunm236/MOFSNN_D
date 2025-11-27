@@ -1,0 +1,1 @@
+feature_folders/KOBFIR_clean/zeo++/KOBFIR_clean_pd.txt    7.63345 5.82686  7.42798

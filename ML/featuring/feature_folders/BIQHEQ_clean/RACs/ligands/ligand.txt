@@ -1,0 +1,12 @@
+BIQHEQ_clean_primitive, Anchors list: {9}, SBU connectlist: {7}
+BIQHEQ_clean_primitive, Anchors list: {8}, SBU connectlist: {6}
+BIQHEQ_clean_primitive, Anchors list: {7}, SBU connectlist: {9}
+BIQHEQ_clean_primitive, Anchors list: {6}, SBU connectlist: {8}
+BIQHEQ_clean_primitive, Anchors list: {9}, SBU connectlist: {7}
+BIQHEQ_clean_primitive, Anchors list: {8}, SBU connectlist: {6}
+BIQHEQ_clean_primitive, Anchors list: {7}, SBU connectlist: {9}
+BIQHEQ_clean_primitive, Anchors list: {6}, SBU connectlist: {8}
+BIQHEQ_clean_primitive3, Anchors list: {5}, SBU connectlist: {5}
+BIQHEQ_clean_primitive2, Anchors list: {4}, SBU connectlist: {4}
+BIQHEQ_clean_primitive1, Anchors list: {2}, SBU connectlist: {2}
+BIQHEQ_clean_primitive0, Anchors list: {1}, SBU connectlist: {1}

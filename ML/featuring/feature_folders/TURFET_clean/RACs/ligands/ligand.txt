@@ -1,0 +1,2 @@
+TURFET_clean_primitive8, Anchors list: {2}, SBU connectlist: {2}
+TURFET_clean_primitive3, Anchors list: {3}, SBU connectlist: {3}

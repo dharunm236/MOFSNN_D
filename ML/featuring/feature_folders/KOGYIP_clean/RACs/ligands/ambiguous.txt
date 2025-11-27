@@ -1,0 +1,2 @@
+KOGYIP_clean_primitive, Anchors list: {21, 22}, SBU connectlist: {0} set to be linker
+KOGYIP_clean_primitive, Anchors list: {21, 22}, SBU connectlist: {0} set to be linker

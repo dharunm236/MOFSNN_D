@@ -1,0 +1,1 @@
+feature_folders/SOJKOT01_clean/zeo++/SOJKOT01_clean_pd.txt    3.47614 3.16896  3.46431

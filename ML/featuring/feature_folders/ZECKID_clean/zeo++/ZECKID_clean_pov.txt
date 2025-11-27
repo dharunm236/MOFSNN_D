@@ -1,0 +1,3 @@
+@ feature_folders/ZECKID_clean/zeo++/ZECKID_clean_pov.txt Unitcell_volume: 2137.69   Density: 0.62663   POAV_A^3: 1550.25 POAV_Volume_fraction: 0.7252 POAV_cm^3/g: 1.1573 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ZECKID_clean/zeo++/ZECKID_clean_pov.txt	0.62663	1.86	10000	0.3343	0	0.7252	0	0.0553	0.2195

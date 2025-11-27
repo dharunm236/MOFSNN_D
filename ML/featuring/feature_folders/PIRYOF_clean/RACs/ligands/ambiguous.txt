@@ -1,0 +1,4 @@
+PIRYOF_clean_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+PIRYOF_clean_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+PIRYOF_clean_primitive, Anchors list: {3}, SBU connectlist: {3} set to be linker
+PIRYOF_clean_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker

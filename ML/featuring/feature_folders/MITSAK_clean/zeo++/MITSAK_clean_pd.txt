@@ -1,0 +1,1 @@
+feature_folders/MITSAK_clean/zeo++/MITSAK_clean_pd.txt    6.12983 4.98405  6.10443

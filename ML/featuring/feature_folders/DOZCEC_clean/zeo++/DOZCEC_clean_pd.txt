@@ -1,0 +1,1 @@
+feature_folders/DOZCEC_clean/zeo++/DOZCEC_clean_pd.txt    19.11403 11.73283  19.11403

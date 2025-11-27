@@ -1,0 +1,4 @@
+SOCWOX_clean_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+SOCWOX_clean_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+SOCWOX_clean_primitive, Anchors list: {7}, SBU connectlist: {7} set to be ligand
+SOCWOX_clean_primitive, Anchors list: {6}, SBU connectlist: {6} set to be ligand

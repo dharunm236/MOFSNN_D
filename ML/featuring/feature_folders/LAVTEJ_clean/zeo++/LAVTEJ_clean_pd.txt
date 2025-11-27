@@ -1,0 +1,1 @@
+feature_folders/LAVTEJ_clean/zeo++/LAVTEJ_clean_pd.txt    6.93182 6.57314  6.93182

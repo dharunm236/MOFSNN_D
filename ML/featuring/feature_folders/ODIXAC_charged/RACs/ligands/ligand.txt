@@ -1,0 +1,4 @@
+ODIXAC_charged_primitive, Anchors list: {3}, SBU connectlist: {3}
+ODIXAC_charged_primitive, Anchors list: {3}, SBU connectlist: {3}
+ODIXAC_charged_primitive, Anchors list: {3}, SBU connectlist: {3}
+ODIXAC_charged_primitive, Anchors list: {3}, SBU connectlist: {3}

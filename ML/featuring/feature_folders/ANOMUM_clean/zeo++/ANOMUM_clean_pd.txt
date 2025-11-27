@@ -1,0 +1,1 @@
+feature_folders/ANOMUM_clean/zeo++/ANOMUM_clean_pd.txt    7.28969 4.98752  7.28860

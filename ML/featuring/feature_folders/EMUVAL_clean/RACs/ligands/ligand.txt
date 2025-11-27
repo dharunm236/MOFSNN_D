@@ -1,0 +1,4 @@
+EMUVAL_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+EMUVAL_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+EMUVAL_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+EMUVAL_clean_primitive, Anchors list: {1}, SBU connectlist: {1}

@@ -1,0 +1,3 @@
+@ feature_folders/DEZKAW_clean/zeo++/DEZKAW_clean_pov.txt Unitcell_volume: 3879.3   Density: 0.911325   POAV_A^3: 1653.36 POAV_Volume_fraction: 0.4262 POAV_cm^3/g: 0.467671 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/DEZKAW_clean/zeo++/DEZKAW_clean_pov.txt	0.911325	1.86	10000	0.1102	0	0.4262	0	0.2135	0.3603

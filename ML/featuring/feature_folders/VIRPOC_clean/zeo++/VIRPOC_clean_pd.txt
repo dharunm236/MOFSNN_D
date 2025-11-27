@@ -1,0 +1,1 @@
+feature_folders/VIRPOC_clean/zeo++/VIRPOC_clean_pd.txt    7.89373 4.43058  7.53660

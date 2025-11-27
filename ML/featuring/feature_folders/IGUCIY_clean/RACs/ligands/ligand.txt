@@ -1,0 +1,4 @@
+IGUCIY_clean_primitive, Anchors list: {185}, SBU connectlist: {3}
+IGUCIY_clean_primitive, Anchors list: {184}, SBU connectlist: {2}
+IGUCIY_clean_primitive, Anchors list: {183}, SBU connectlist: {5}
+IGUCIY_clean_primitive, Anchors list: {182}, SBU connectlist: {4}

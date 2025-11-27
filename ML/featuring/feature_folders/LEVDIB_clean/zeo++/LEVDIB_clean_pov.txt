@@ -1,0 +1,3 @@
+@ feature_folders/LEVDIB_clean/zeo++/LEVDIB_clean_pov.txt Unitcell_volume: 5195.57   Density: 0.771367   POAV_A^3: 2967.19 POAV_Volume_fraction: 0.5711 POAV_cm^3/g: 0.740374 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/LEVDIB_clean/zeo++/LEVDIB_clean_pov.txt	0.771367	1.86	10000	0.1912	0	0.5711	0	0.1291	0.2998

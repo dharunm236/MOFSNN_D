@@ -1,0 +1,1 @@
+feature_folders/VARJEF_clean/zeo++/VARJEF_clean_pd.txt    7.50874 4.26843  7.46970

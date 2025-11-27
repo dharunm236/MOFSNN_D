@@ -1,0 +1,3 @@
+@ feature_folders/FECYUJ_clean/zeo++/FECYUJ_clean_sa.txt Unitcell_volume: 6600.68   Density: 0.925869   ASA_A^2: 1221.12 ASA_m^2/cm^3: 1849.98 ASA_m^2/g: 1998.11 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 1221.12  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

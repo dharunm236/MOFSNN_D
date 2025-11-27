@@ -1,0 +1,1 @@
+feature_folders/OXALOP_clean/zeo++/OXALOP_clean_pd.txt    5.88824 4.43891  5.88490

@@ -1,0 +1,1 @@
+feature_folders/EWUSOF_clean/zeo++/EWUSOF_clean_pd.txt    11.18858 8.47337  10.82564

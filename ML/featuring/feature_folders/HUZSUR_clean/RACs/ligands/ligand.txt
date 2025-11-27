@@ -1,0 +1,2 @@
+HUZSUR_clean_primitive, Anchors list: {1, 5}, SBU connectlist: {1, 5}
+HUZSUR_clean_primitive, Anchors list: {0, 4}, SBU connectlist: {0, 4}

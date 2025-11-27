@@ -1,0 +1,3 @@
+@ feature_folders/MAYJOM_clean/zeo++/MAYJOM_clean_sa.txt Unitcell_volume: 6278.19   Density: 1.25239   ASA_A^2: 882.759 ASA_m^2/cm^3: 1406.07 ASA_m^2/g: 1122.71 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 443.231  439.528  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

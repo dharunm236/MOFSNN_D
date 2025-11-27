@@ -1,0 +1,2 @@
+QOHYET_clean_primitive, Anchors list: {72, 75, 112, 79}, SBU connectlist: {0, 3, 4, 7}
+QOHYET_clean_primitive, Anchors list: {73, 74, 113, 78}, SBU connectlist: {1, 2, 5, 6}

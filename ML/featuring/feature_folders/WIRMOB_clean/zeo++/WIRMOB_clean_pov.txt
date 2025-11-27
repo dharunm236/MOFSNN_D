@@ -1,0 +1,3 @@
+@ feature_folders/WIRMOB_clean/zeo++/WIRMOB_clean_pov.txt Unitcell_volume: 8860.75   Density: 0.92351   POAV_A^3: 2601.52 POAV_Volume_fraction: 0.2936 POAV_cm^3/g: 0.317917 PONAV_A^3: 351.772 PONAV_Volume_fraction: 0.0397 PONAV_cm^3/g: 0.0429881
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/WIRMOB_clean/zeo++/WIRMOB_clean_pov.txt	0.92351	1.86	10000	0.0867	0.0038	0.2936	0.0397	0.25	0.4167

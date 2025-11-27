@@ -1,0 +1,1 @@
+Structure FIBHIJ_clean_primitive has extremely short ligands, check the outputs

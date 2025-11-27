@@ -1,0 +1,5 @@
+GETXAG_clean_primitive, Anchors list: {0, 4}, SBU connectlist: {0} set to be linker
+GETXAG_clean_primitive, Anchors list: {3, 5}, SBU connectlist: {1} set to be linker
+GETXAG_clean_primitive, Anchors list: {1, 3}, SBU connectlist: {1} set to be linker
+GETXAG_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be linker
+Structure GETXAG_clean_primitive has extremely short ligands, check the outputs

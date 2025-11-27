@@ -1,0 +1,1 @@
+feature_folders/EQAMUG_clean/zeo++/EQAMUG_clean_pd.txt    4.23795 3.61938  4.23534

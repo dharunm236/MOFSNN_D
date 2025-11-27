@@ -1,0 +1,2 @@
+KUFVIS_clean_primitive4, Anchors list: {0}, SBU connectlist: {0}
+KUFVIS_clean_primitive3, Anchors list: {7}, SBU connectlist: {7}

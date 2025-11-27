@@ -1,0 +1,4 @@
+LECFEG_clean_primitive, Anchors list: {2, 3, 15}, SBU connectlist: {2} set to be ligand
+LECFEG_clean_primitive, Anchors list: {10, 11, 14}, SBU connectlist: {4} set to be linker
+LECFEG_clean_primitive, Anchors list: {8, 9, 5}, SBU connectlist: {5} set to be linker
+LECFEG_clean_primitive, Anchors list: {16, 17, 4}, SBU connectlist: {3} set to be linker

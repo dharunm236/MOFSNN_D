@@ -1,0 +1,4 @@
+VEGXUC_clean_primitive, Anchors list: {0, 9, 10, 4}, SBU connectlist: {0} set to be linker
+VEGXUC_clean_primitive, Anchors list: {8, 1, 11, 5}, SBU connectlist: {1} set to be linker
+VEGXUC_clean_primitive, Anchors list: {0, 9, 3, 4}, SBU connectlist: {0} set to be linker
+VEGXUC_clean_primitive, Anchors list: {8, 1, 2, 5}, SBU connectlist: {1} set to be linker

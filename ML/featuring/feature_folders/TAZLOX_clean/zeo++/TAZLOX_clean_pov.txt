@@ -1,0 +1,3 @@
+@ feature_folders/TAZLOX_clean/zeo++/TAZLOX_clean_pov.txt Unitcell_volume: 9991.26   Density: 0.977004   POAV_A^3: 6224.55 POAV_Volume_fraction: 0.623 POAV_cm^3/g: 0.637663 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/TAZLOX_clean/zeo++/TAZLOX_clean_pov.txt	0.977004	1.86	10000	0.2447	0	0.623	0	0.109	0.268

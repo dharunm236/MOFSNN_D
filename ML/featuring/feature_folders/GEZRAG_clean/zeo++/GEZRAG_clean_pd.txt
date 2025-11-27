@@ -1,0 +1,1 @@
+feature_folders/GEZRAG_clean/zeo++/GEZRAG_clean_pd.txt    7.97174 5.12774  7.96680

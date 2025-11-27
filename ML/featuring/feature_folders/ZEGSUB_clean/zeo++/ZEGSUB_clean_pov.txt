@@ -1,0 +1,3 @@
+@ feature_folders/ZEGSUB_clean/zeo++/ZEGSUB_clean_pov.txt Unitcell_volume: 6719.97   Density: 1.20729   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 1218.33 PONAV_Volume_fraction: 0.1813 PONAV_cm^3/g: 0.150171
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ZEGSUB_clean/zeo++/ZEGSUB_clean_pov.txt	1.20729	1.86	10000	0	0.0417	0	0.1813	0.2973	0.5214

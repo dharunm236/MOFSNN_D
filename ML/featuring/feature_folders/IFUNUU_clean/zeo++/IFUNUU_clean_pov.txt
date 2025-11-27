@@ -1,0 +1,3 @@
+@ feature_folders/IFUNUU_clean/zeo++/IFUNUU_clean_pov.txt Unitcell_volume: 2315.93   Density: 1.36844   POAV_A^3: 889.781 POAV_Volume_fraction: 0.3842 POAV_cm^3/g: 0.280757 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/IFUNUU_clean/zeo++/IFUNUU_clean_pov.txt	1.36844	1.86	10000	0.0461	0	0.3842	0	0.1849	0.4309

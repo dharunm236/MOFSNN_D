@@ -1,0 +1,2 @@
+XUCSOF_clean_primitive11, Anchors list: {3}, SBU connectlist: {3}
+XUCSOF_clean_primitive10, Anchors list: {8}, SBU connectlist: {8}

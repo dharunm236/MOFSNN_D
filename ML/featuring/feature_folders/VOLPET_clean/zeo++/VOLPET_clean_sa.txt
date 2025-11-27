@@ -1,0 +1,3 @@
+@ feature_folders/VOLPET_clean/zeo++/VOLPET_clean_sa.txt Unitcell_volume: 4070.64   Density: 0.741977   ASA_A^2: 959.172 ASA_m^2/cm^3: 2356.32 ASA_m^2/g: 3175.73 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 959.172  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

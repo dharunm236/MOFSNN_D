@@ -1,0 +1,3 @@
+@ feature_folders/ROQFUA06_clean/zeo++/ROQFUA06_clean_pov.txt Unitcell_volume: 2327.78   Density: 0.990335   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 752.34 PONAV_Volume_fraction: 0.3232 PONAV_cm^3/g: 0.326354
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ROQFUA06_clean/zeo++/ROQFUA06_clean_pov.txt	0.990335	1.86	10000	0	0.0153	0	0.3232	0.2494	0.4274

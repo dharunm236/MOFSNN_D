@@ -1,0 +1,1 @@
+feature_folders/ZOXTEN_clean/zeo++/ZOXTEN_clean_pd.txt    5.96521 3.15004  5.78672

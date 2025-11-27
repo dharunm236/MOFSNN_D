@@ -1,0 +1,4 @@
+QISKIN_clean_primitive, Anchors list: {26, 3}, SBU connectlist: {9, 3}
+QISKIN_clean_primitive, Anchors list: {0, 19}, SBU connectlist: {0, 10}
+QISKIN_clean_primitive, Anchors list: {1, 2, 18, 17}, SBU connectlist: {1, 2, 6, 7}
+QISKIN_clean_primitive, Anchors list: {1, 2, 27, 28}, SBU connectlist: {8, 1, 2, 11}

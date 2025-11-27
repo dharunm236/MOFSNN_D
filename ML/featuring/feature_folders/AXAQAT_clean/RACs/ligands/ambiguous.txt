@@ -1,0 +1,2 @@
+AXAQAT_clean_primitive, Anchors list: {10}, SBU connectlist: {2} set to be linker
+Structure AXAQAT_clean_primitive has extremely short ligands, check the outputs

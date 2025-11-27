@@ -1,0 +1,4 @@
+ROCZOA_clean_primitive, Anchors list: {0, 4}, SBU connectlist: {0, 4}
+ROCZOA_clean_primitive, Anchors list: {1, 5}, SBU connectlist: {1, 5}
+ROCZOA_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}
+ROCZOA_clean_primitive, Anchors list: {0, 3}, SBU connectlist: {0, 3}

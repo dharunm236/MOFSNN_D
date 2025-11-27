@@ -1,0 +1,3 @@
+@ feature_folders/TANFEV_clean/zeo++/TANFEV_clean_pov.txt Unitcell_volume: 1572.08   Density: 2.3923   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 89.4513 PONAV_Volume_fraction: 0.0569 PONAV_cm^3/g: 0.0237847
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/TANFEV_clean/zeo++/TANFEV_clean_pov.txt	2.3923	1.86	10000	0	0.0004	0	0.0569	0.3989	0.5442

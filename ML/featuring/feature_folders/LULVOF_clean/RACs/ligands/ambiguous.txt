@@ -1,0 +1,4 @@
+LULVOF_clean_primitive, Anchors list: {141}, SBU connectlist: {5} set to be ligand
+LULVOF_clean_primitive, Anchors list: {140}, SBU connectlist: {4} set to be ligand
+LULVOF_clean_primitive, Anchors list: {137}, SBU connectlist: {1} set to be linker
+LULVOF_clean_primitive, Anchors list: {136}, SBU connectlist: {0} set to be linker

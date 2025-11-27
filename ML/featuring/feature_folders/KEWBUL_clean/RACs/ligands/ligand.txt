@@ -1,0 +1,4 @@
+KEWBUL_clean_primitive11, Anchors list: {5}, SBU connectlist: {5}
+KEWBUL_clean_primitive10, Anchors list: {4}, SBU connectlist: {4}
+KEWBUL_clean_primitive8, Anchors list: {3}, SBU connectlist: {3}
+KEWBUL_clean_primitive7, Anchors list: {2}, SBU connectlist: {2}

@@ -1,0 +1,1 @@
+feature_folders/TECTUS_clean/zeo++/TECTUS_clean_pd.txt    5.15619 3.59892  5.15619

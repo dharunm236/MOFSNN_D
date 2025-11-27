@@ -1,0 +1,1 @@
+feature_folders/CETHEQ_clean/zeo++/CETHEQ_clean_pd.txt    9.71439 7.35018  9.71439

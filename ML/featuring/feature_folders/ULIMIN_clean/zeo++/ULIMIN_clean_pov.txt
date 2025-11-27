@@ -1,0 +1,3 @@
+@ feature_folders/ULIMIN_clean/zeo++/ULIMIN_clean_pov.txt Unitcell_volume: 3275.11   Density: 1.2693   POAV_A^3: 351.747 POAV_Volume_fraction: 0.1074 POAV_cm^3/g: 0.0846133 PONAV_A^3: 127.074 PONAV_Volume_fraction: 0.0388 PONAV_cm^3/g: 0.0305679
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ULIMIN_clean/zeo++/ULIMIN_clean_pov.txt	1.2693	1.86	10000	0.0054	0.0013	0.1074	0.0388	0.3258	0.528

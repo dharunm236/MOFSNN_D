@@ -1,0 +1,1 @@
+feature_folders/DANVAQ_clean/zeo++/DANVAQ_clean_pd.txt    5.88569 2.76547  5.88569

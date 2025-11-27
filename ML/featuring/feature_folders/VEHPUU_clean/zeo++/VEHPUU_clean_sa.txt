@@ -1,0 +1,3 @@
+@ feature_folders/VEHPUU_clean/zeo++/VEHPUU_clean_sa.txt Unitcell_volume: 1642.11   Density: 1.2974   ASA_A^2: 154.356 ASA_m^2/cm^3: 939.984 ASA_m^2/g: 724.512 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 77.4247  76.9309  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

@@ -1,0 +1,1 @@
+CAVMOD_clean_primitive11, Anchors list: {2, 15}, SBU connectlist: {2}

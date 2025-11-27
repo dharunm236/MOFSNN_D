@@ -1,0 +1,1 @@
+feature_folders/GEGDED_clean/zeo++/GEGDED_clean_pd.txt    10.73095 6.57358  10.72652

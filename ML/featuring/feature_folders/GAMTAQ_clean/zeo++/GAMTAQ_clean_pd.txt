@@ -1,0 +1,1 @@
+feature_folders/GAMTAQ_clean/zeo++/GAMTAQ_clean_pd.txt    4.96960 3.15514  4.71289

@@ -1,0 +1,3 @@
+@ feature_folders/HUMWIX_clean/zeo++/HUMWIX_clean_pov.txt Unitcell_volume: 11712.2   Density: 0.727734   POAV_A^3: 5550.43 POAV_Volume_fraction: 0.4739 POAV_cm^3/g: 0.651199 PONAV_A^3: 558.674 PONAV_Volume_fraction: 0.0477 PONAV_cm^3/g: 0.0655459
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/HUMWIX_clean/zeo++/HUMWIX_clean_pov.txt	0.727734	1.86	10000	0.2256	0.0146	0.4739	0.0477	0.1441	0.3343

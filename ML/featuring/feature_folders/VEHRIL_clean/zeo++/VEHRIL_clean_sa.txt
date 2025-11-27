@@ -1,0 +1,3 @@
+@ feature_folders/VEHRIL_clean/zeo++/VEHRIL_clean_sa.txt Unitcell_volume: 3856.1   Density: 1.10229   ASA_A^2: 706.916 ASA_m^2/cm^3: 1833.24 ASA_m^2/g: 1663.12 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 706.916  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

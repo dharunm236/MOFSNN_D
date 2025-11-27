@@ -1,0 +1,3 @@
+@ feature_folders/LEVYOC_clean/zeo++/LEVYOC_clean_sa.txt Unitcell_volume: 2093.84   Density: 1.7513   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 44.7137 NASA_m^2/cm^3: 213.548 NASA_m^2/g: 121.937
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 17.4936  4.39621  18.5274  4.29656  

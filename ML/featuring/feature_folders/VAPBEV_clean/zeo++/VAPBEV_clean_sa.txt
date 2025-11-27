@@ -1,0 +1,3 @@
+@ feature_folders/VAPBEV_clean/zeo++/VAPBEV_clean_sa.txt Unitcell_volume: 3302.13   Density: 1.10537   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 224.903 NASA_m^2/cm^3: 681.083 NASA_m^2/g: 616.159
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 90.5386  3.32451  92.1132  17.7343  0  17.7691  3.42293  0  

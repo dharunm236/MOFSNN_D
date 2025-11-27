@@ -1,0 +1,2 @@
+OBIBOT_clean_primitive14, Anchors list: {8}, SBU connectlist: {8}
+OBIBOT_clean_primitive11, Anchors list: {9}, SBU connectlist: {9}

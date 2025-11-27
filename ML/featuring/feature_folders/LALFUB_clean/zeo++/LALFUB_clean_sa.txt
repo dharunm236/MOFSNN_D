@@ -1,0 +1,3 @@
+@ feature_folders/LALFUB_clean/zeo++/LALFUB_clean_sa.txt Unitcell_volume: 733.568   Density: 1.72073   ASA_A^2: 79.7668 ASA_m^2/cm^3: 1087.38 ASA_m^2/g: 631.929 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 79.7668  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

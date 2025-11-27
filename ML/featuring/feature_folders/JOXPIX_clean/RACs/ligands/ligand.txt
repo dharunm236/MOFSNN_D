@@ -1,0 +1,2 @@
+JOXPIX_clean_primitive, Anchors list: {2, 34, 37}, SBU connectlist: {2, 6, 7}
+JOXPIX_clean_primitive, Anchors list: {1, 25, 22}, SBU connectlist: {16, 1, 18}

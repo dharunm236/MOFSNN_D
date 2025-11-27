@@ -1,0 +1,4 @@
+BOTLED_clean_primitive, Anchors list: {1, 4, 5}, SBU connectlist: {0, 1, 6}
+BOTLED_clean_primitive, Anchors list: {10, 2, 11}, SBU connectlist: {2, 3, 5}
+BOTLED_clean_primitive, Anchors list: {2, 6, 7}, SBU connectlist: {2, 7}
+BOTLED_clean_primitive, Anchors list: {8, 1, 9}, SBU connectlist: {1, 4}

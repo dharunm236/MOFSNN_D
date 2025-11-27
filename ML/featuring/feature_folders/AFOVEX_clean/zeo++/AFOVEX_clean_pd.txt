@@ -1,0 +1,1 @@
+feature_folders/AFOVEX_clean/zeo++/AFOVEX_clean_pd.txt    8.81515 6.86051  8.81515

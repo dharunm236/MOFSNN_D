@@ -1,0 +1,2 @@
+ANEPIT_clean_primitive4, Anchors list: {5, 7}, SBU connectlist: {2}
+ANEPIT_clean_primitive2, Anchors list: {0, 2}, SBU connectlist: {0}

@@ -1,0 +1,4 @@
+TAVQEN_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}
+TAVQEN_clean_primitive, Anchors list: {2, 5}, SBU connectlist: {2, 5}
+TAVQEN_clean_primitive, Anchors list: {2, 5}, SBU connectlist: {2, 5}
+TAVQEN_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}

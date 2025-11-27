@@ -1,0 +1,4 @@
+MUGHED_clean_primitive, Anchors list: {73, 68, 70, 71}, SBU connectlist: {0} set to be linker
+MUGHED_clean_primitive, Anchors list: {72, 69, 70, 71}, SBU connectlist: {0} set to be linker
+MUGHED_clean_primitive, Anchors list: {72, 73, 69, 71}, SBU connectlist: {0} set to be linker
+MUGHED_clean_primitive, Anchors list: {72, 73, 68, 70}, SBU connectlist: {0} set to be linker

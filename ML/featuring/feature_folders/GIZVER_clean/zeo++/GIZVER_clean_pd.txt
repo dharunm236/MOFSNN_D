@@ -1,0 +1,1 @@
+feature_folders/GIZVER_clean/zeo++/GIZVER_clean_pd.txt    3.86175 3.03502  3.84974

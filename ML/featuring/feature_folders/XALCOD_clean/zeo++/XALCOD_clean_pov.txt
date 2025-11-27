@@ -1,0 +1,3 @@
+@ feature_folders/XALCOD_clean/zeo++/XALCOD_clean_pov.txt Unitcell_volume: 14606   Density: 0.992163   POAV_A^3: 308.187 POAV_Volume_fraction: 0.0211 POAV_cm^3/g: 0.0212667 PONAV_A^3: 3255.68 PONAV_Volume_fraction: 0.2229 PONAV_cm^3/g: 0.224661
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XALCOD_clean/zeo++/XALCOD_clean_pov.txt	0.992163	1.86	10000	0.0016	0.0672	0.0211	0.2229	0.3029	0.4531

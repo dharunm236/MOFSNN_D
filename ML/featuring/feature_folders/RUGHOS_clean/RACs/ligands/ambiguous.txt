@@ -1,0 +1,3 @@
+RUGHOS_clean_primitive, Anchors list: {6}, SBU connectlist: {0} set to be linker
+RUGHOS_clean_primitive, Anchors list: {6}, SBU connectlist: {0} set to be linker
+RUGHOS_clean_primitive, Anchors list: {6}, SBU connectlist: {0} set to be ligand

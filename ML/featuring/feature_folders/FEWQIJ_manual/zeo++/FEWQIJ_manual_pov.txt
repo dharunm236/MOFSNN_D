@@ -1,0 +1,3 @@
+@ feature_folders/FEWQIJ_manual/zeo++/FEWQIJ_manual_pov.txt Unitcell_volume: 1517.52   Density: 2.34625   POAV_A^3: 445.24 POAV_Volume_fraction: 0.2934 POAV_cm^3/g: 0.125051 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FEWQIJ_manual/zeo++/FEWQIJ_manual_pov.txt	2.34625	1.86	10000	0.0315	0	0.2934	0	0.1721	0.5345

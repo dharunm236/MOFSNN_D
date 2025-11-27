@@ -1,0 +1,4 @@
+PUGHUW_clean_primitive, Anchors list: {10}, SBU connectlist: {10}
+PUGHUW_clean_primitive, Anchors list: {7}, SBU connectlist: {7}
+PUGHUW_clean_primitive, Anchors list: {4}, SBU connectlist: {4}
+PUGHUW_clean_primitive, Anchors list: {1}, SBU connectlist: {1}

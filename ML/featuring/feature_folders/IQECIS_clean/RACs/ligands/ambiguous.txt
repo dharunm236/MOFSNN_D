@@ -1,0 +1,4 @@
+IQECIS_clean_primitive, Anchors list: {12, 13, 15}, SBU connectlist: {2} set to be linker
+IQECIS_clean_primitive, Anchors list: {8, 10, 11}, SBU connectlist: {3} set to be ligand
+IQECIS_clean_primitive, Anchors list: {4, 5, 7}, SBU connectlist: {1} set to be ligand
+IQECIS_clean_primitive, Anchors list: {0, 2, 3}, SBU connectlist: {0} set to be ligand

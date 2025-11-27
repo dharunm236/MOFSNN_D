@@ -1,0 +1,1 @@
+feature_folders/ASINIB_clean/zeo++/ASINIB_clean_pd.txt    12.38988 7.22905  12.38123

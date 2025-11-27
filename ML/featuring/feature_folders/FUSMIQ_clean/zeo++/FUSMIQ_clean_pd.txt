@@ -1,0 +1,1 @@
+feature_folders/FUSMIQ_clean/zeo++/FUSMIQ_clean_pd.txt    10.44819 9.48819  10.44819

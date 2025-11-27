@@ -1,0 +1,3 @@
+@ feature_folders/XADDEN_manual/zeo++/XADDEN_manual_pov.txt Unitcell_volume: 4587.66   Density: 0.875752   POAV_A^3: 2969.13 POAV_Volume_fraction: 0.6472 POAV_cm^3/g: 0.739022 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XADDEN_manual/zeo++/XADDEN_manual_pov.txt	0.875752	1.86	10000	0.2566	0	0.6472	0	0.0731	0.2797

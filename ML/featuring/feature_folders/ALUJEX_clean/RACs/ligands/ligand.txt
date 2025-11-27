@@ -1,0 +1,4 @@
+ALUJEX_clean_primitive, Anchors list: {81, 9, 90}, SBU connectlist: {9, 14, 17}
+ALUJEX_clean_primitive, Anchors list: {2, 13, 22}, SBU connectlist: {2, 19, 12}
+ALUJEX_clean_primitive, Anchors list: {57, 5, 54}, SBU connectlist: {16, 18, 5}
+ALUJEX_clean_primitive, Anchors list: {46, 49, 6}, SBU connectlist: {13, 6, 15}

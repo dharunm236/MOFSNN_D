@@ -1,0 +1,4 @@
+OWETIU_clean_primitive, Anchors list: {112, 115, 118, 119, 120, 123, 124, 125, 126}, SBU connectlist: {2} set to be ligand
+OWETIU_clean_primitive, Anchors list: {106, 107, 109, 113, 114, 116, 117, 121, 122}, SBU connectlist: {2} set to be ligand
+OWETIU_clean_primitive, Anchors list: {96, 100, 101, 103, 104, 108, 110, 111, 95}, SBU connectlist: {3} set to be ligand
+OWETIU_clean_primitive, Anchors list: {97, 98, 99, 102, 105, 91, 92, 93, 94}, SBU connectlist: {3} set to be ligand

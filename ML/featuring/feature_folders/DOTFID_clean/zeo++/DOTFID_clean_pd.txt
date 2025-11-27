@@ -1,0 +1,1 @@
+feature_folders/DOTFID_clean/zeo++/DOTFID_clean_pd.txt    9.22988 5.75129  9.22988

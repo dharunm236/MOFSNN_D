@@ -1,0 +1,8 @@
+EQUBIC_clean_primitive, Anchors list: {21, 2, 3, 5}, SBU connectlist: {2, 3, 13, 7}
+EQUBIC_clean_primitive, Anchors list: {2, 3, 4, 20}, SBU connectlist: {2, 3, 12, 6}
+EQUBIC_clean_primitive, Anchors list: {0, 1, 15, 7}, SBU connectlist: {0, 1, 9, 15}
+EQUBIC_clean_primitive, Anchors list: {0, 1, 6, 14}, SBU connectlist: {0, 1, 8, 14}
+EQUBIC_clean_primitive, Anchors list: {1, 41, 6, 7}, SBU connectlist: {8, 1, 11, 9}
+EQUBIC_clean_primitive, Anchors list: {0, 40, 6, 7}, SBU connectlist: {0, 8, 10, 9}
+EQUBIC_clean_primitive, Anchors list: {35, 3, 4, 5}, SBU connectlist: {3, 5, 6, 7}
+EQUBIC_clean_primitive, Anchors list: {2, 5, 34, 4}, SBU connectlist: {2, 4, 6, 7}

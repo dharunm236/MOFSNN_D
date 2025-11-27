@@ -1,0 +1,1 @@
+feature_folders/KOSKIO_clean/zeo++/KOSKIO_clean_pd.txt    11.01742 9.84741  11.01647

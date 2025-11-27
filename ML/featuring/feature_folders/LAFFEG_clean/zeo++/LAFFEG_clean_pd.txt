@@ -1,0 +1,1 @@
+feature_folders/LAFFEG_clean/zeo++/LAFFEG_clean_pd.txt    5.84020 3.81140  5.82814

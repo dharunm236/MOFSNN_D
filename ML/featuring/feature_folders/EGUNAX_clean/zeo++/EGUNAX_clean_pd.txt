@@ -1,0 +1,1 @@
+feature_folders/EGUNAX_clean/zeo++/EGUNAX_clean_pd.txt    3.79689 3.00491  3.79689

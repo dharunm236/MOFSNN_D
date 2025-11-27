@@ -1,0 +1,3 @@
+@ feature_folders/FOFHUE_clean/zeo++/FOFHUE_clean_sa.txt Unitcell_volume: 1002.27   Density: 2.17815   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 2.7277 NASA_m^2/cm^3: 27.2152 NASA_m^2/g: 12.4946
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 0.588609  0.588609  0.746529  0.803954  

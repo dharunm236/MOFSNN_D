@@ -1,0 +1,1 @@
+feature_folders/NAWKII_clean/zeo++/NAWKII_clean_pd.txt    5.89164 3.91247  5.89164

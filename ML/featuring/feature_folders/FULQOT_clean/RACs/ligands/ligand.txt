@@ -1,0 +1,4 @@
+FULQOT_clean_primitive, Anchors list: {9, 7}, SBU connectlist: {8, 11}
+FULQOT_clean_primitive, Anchors list: {0, 34}, SBU connectlist: {0, 4}
+FULQOT_clean_primitive, Anchors list: {3, 23}, SBU connectlist: {10, 3}
+FULQOT_clean_primitive, Anchors list: {4, 20}, SBU connectlist: {9, 5}

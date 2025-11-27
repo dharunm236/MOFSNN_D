@@ -1,0 +1,11 @@
+OXAPEJ_charged_primitive, Anchors list: {8, 122}, SBU connectlist: {2}
+OXAPEJ_charged_primitive, Anchors list: {121, 7}, SBU connectlist: {2}
+OXAPEJ_charged_primitive17, Anchors list: {0, 3, 4}, SBU connectlist: {0}
+OXAPEJ_charged_primitive16, Anchors list: {1, 2, 5}, SBU connectlist: {1}
+OXAPEJ_charged_primitive, Anchors list: {50, 4}, SBU connectlist: {0}
+OXAPEJ_charged_primitive, Anchors list: {49, 3}, SBU connectlist: {0}
+OXAPEJ_charged_primitive10, Anchors list: {9, 10, 6}, SBU connectlist: {3}
+OXAPEJ_charged_primitive, Anchors list: {10, 124}, SBU connectlist: {3}
+OXAPEJ_charged_primitive, Anchors list: {9, 123}, SBU connectlist: {3}
+OXAPEJ_charged_primitive, Anchors list: {48, 2}, SBU connectlist: {1}
+OXAPEJ_charged_primitive, Anchors list: {1, 47}, SBU connectlist: {1}

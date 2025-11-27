@@ -1,0 +1,8 @@
+ERUNOW_clean_primitive, Anchors list: {232, 234, 238}, SBU connectlist: {1} set to be linker
+ERUNOW_clean_primitive, Anchors list: {233, 235, 239}, SBU connectlist: {0} set to be linker
+ERUNOW_clean_primitive, Anchors list: {224, 228, 230}, SBU connectlist: {0} set to be linker
+ERUNOW_clean_primitive, Anchors list: {225, 229, 231}, SBU connectlist: {1} set to be linker
+ERUNOW_clean_primitive, Anchors list: {233, 228, 237}, SBU connectlist: {0} set to be linker
+ERUNOW_clean_primitive, Anchors list: {232, 236, 229}, SBU connectlist: {1} set to be linker
+ERUNOW_clean_primitive, Anchors list: {226, 235, 230}, SBU connectlist: {0} set to be linker
+ERUNOW_clean_primitive, Anchors list: {234, 227, 231}, SBU connectlist: {1} set to be linker

@@ -1,0 +1,1 @@
+feature_folders/VEDFAN_clean/zeo++/VEDFAN_clean_pd.txt    6.01158 4.07874  6.00756

@@ -1,0 +1,1 @@
+feature_folders/BASTUM_clean/zeo++/BASTUM_clean_pd.txt    4.06519 2.73290  3.96378

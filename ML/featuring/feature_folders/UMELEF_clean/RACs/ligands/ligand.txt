@@ -1,0 +1,2 @@
+UMELEF_clean_primitive, Anchors list: {6, 7}, SBU connectlist: {6, 7}
+UMELEF_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}

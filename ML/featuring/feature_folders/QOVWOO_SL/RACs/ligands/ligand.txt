@@ -1,0 +1,8 @@
+QOVWOO_SL_primitive, Anchors list: {2, 3, 47}, SBU connectlist: {11, 2, 3}
+QOVWOO_SL_primitive, Anchors list: {0, 1, 46}, SBU connectlist: {0, 1, 10}
+QOVWOO_SL_primitive, Anchors list: {0, 1, 9}, SBU connectlist: {0, 1, 9}
+QOVWOO_SL_primitive, Anchors list: {8, 2, 3}, SBU connectlist: {8, 2, 3}
+QOVWOO_SL_primitive, Anchors list: {29, 6, 7}, SBU connectlist: {15, 6, 7}
+QOVWOO_SL_primitive, Anchors list: {28, 6, 7}, SBU connectlist: {14, 6, 7}
+QOVWOO_SL_primitive, Anchors list: {27, 4, 5}, SBU connectlist: {13, 4, 5}
+QOVWOO_SL_primitive, Anchors list: {26, 4, 5}, SBU connectlist: {12, 4, 5}

@@ -1,0 +1,13 @@
+JEDKEJ_clean_primitive, Anchors list: {121, 15}, SBU connectlist: {17} set to be ligand
+JEDKEJ_clean_primitive, Anchors list: {120, 14}, SBU connectlist: {16} set to be linker
+JEDKEJ_clean_primitive, Anchors list: {75, 13}, SBU connectlist: {15} set to be linker
+JEDKEJ_clean_primitive, Anchors list: {74, 12}, SBU connectlist: {14} set to be ligand
+JEDKEJ_clean_primitive, Anchors list: {9, 49}, SBU connectlist: {13} set to be linker
+JEDKEJ_clean_primitive, Anchors list: {8, 48}, SBU connectlist: {12} set to be ligand
+JEDKEJ_clean_primitive, Anchors list: {19, 147}, SBU connectlist: {19} set to be ligand
+JEDKEJ_clean_primitive, Anchors list: {18, 146}, SBU connectlist: {18} set to be linker
+JEDKEJ_clean_primitive, Anchors list: {11, 67}, SBU connectlist: {7} set to be ligand
+JEDKEJ_clean_primitive, Anchors list: {66, 10}, SBU connectlist: {6} set to be linker
+JEDKEJ_clean_primitive, Anchors list: {17, 129}, SBU connectlist: {3} set to be linker
+JEDKEJ_clean_primitive, Anchors list: {16, 128}, SBU connectlist: {2} set to be ligand
+Structure JEDKEJ_clean_primitive has extremely short ligands, check the outputs

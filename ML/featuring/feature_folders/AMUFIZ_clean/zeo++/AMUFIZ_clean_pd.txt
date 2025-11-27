@@ -1,0 +1,1 @@
+feature_folders/AMUFIZ_clean/zeo++/AMUFIZ_clean_pd.txt    3.98894 3.09876  3.98894

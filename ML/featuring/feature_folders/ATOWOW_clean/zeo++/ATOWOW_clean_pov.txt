@@ -1,0 +1,3 @@
+@ feature_folders/ATOWOW_clean/zeo++/ATOWOW_clean_pov.txt Unitcell_volume: 2137.86   Density: 0.865497   POAV_A^3: 1204.25 POAV_Volume_fraction: 0.5633 POAV_cm^3/g: 0.65084 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ATOWOW_clean/zeo++/ATOWOW_clean_pov.txt	0.865497	1.86	10000	0.1987	0	0.5633	0	0.1146	0.3221

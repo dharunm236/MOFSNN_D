@@ -1,0 +1,2 @@
+SABWAU_SL_primitive, Anchors list: {0, 1, 4}, SBU connectlist: {0, 1, 3}
+SABWAU_SL_primitive, Anchors list: {0, 1, 9}, SBU connectlist: {0, 1, 2}

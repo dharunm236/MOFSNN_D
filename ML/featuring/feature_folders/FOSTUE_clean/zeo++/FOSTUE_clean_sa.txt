@@ -1,0 +1,3 @@
+@ feature_folders/FOSTUE_clean/zeo++/FOSTUE_clean_sa.txt Unitcell_volume: 23772.9   Density: 0.582855   ASA_A^2: 4866.7 ASA_m^2/cm^3: 2047.16 ASA_m^2/g: 3512.29 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 4866.7  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

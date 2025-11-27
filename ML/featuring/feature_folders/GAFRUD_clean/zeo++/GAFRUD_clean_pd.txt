@@ -1,0 +1,1 @@
+feature_folders/GAFRUD_clean/zeo++/GAFRUD_clean_pd.txt    10.60624 5.71562  10.59803

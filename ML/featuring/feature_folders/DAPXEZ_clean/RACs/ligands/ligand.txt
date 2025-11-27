@@ -1,0 +1,56 @@
+DAPXEZ_clean_primitive, Anchors list: {18, 23}, SBU connectlist: {18, 23}
+DAPXEZ_clean_primitive, Anchors list: {19, 22}, SBU connectlist: {19, 22}
+DAPXEZ_clean_primitive, Anchors list: {19, 21}, SBU connectlist: {19, 21}
+DAPXEZ_clean_primitive, Anchors list: {18, 20}, SBU connectlist: {18, 20}
+DAPXEZ_clean_primitive, Anchors list: {17, 15}, SBU connectlist: {17, 15}
+DAPXEZ_clean_primitive, Anchors list: {16, 14}, SBU connectlist: {16, 14}
+DAPXEZ_clean_primitive, Anchors list: {16, 13}, SBU connectlist: {16, 13}
+DAPXEZ_clean_primitive, Anchors list: {17, 12}, SBU connectlist: {17, 12}
+DAPXEZ_clean_primitive, Anchors list: {17, 7}, SBU connectlist: {17, 7}
+DAPXEZ_clean_primitive, Anchors list: {16, 6}, SBU connectlist: {16, 6}
+DAPXEZ_clean_primitive, Anchors list: {9, 12}, SBU connectlist: {9, 12}
+DAPXEZ_clean_primitive, Anchors list: {8, 13}, SBU connectlist: {8, 13}
+DAPXEZ_clean_primitive, Anchors list: {1, 10, 9}, SBU connectlist: {1, 10, 9}
+DAPXEZ_clean_primitive, Anchors list: {0, 8, 11}, SBU connectlist: {0, 8, 11}
+DAPXEZ_clean_primitive, Anchors list: {13, 5}, SBU connectlist: {13, 5}
+DAPXEZ_clean_primitive, Anchors list: {4, 12}, SBU connectlist: {4, 12}
+DAPXEZ_clean_primitive, Anchors list: {11, 31}, SBU connectlist: {11, 31}
+DAPXEZ_clean_primitive, Anchors list: {10, 30}, SBU connectlist: {10, 30}
+DAPXEZ_clean_primitive, Anchors list: {4, 15}, SBU connectlist: {4, 15}
+DAPXEZ_clean_primitive, Anchors list: {5, 14}, SBU connectlist: {5, 14}
+DAPXEZ_clean_primitive, Anchors list: {24, 17, 15}, SBU connectlist: {24, 17, 15}
+DAPXEZ_clean_primitive, Anchors list: {16, 25, 14}, SBU connectlist: {16, 25, 14}
+DAPXEZ_clean_primitive, Anchors list: {11, 28}, SBU connectlist: {11, 28}
+DAPXEZ_clean_primitive, Anchors list: {10, 29}, SBU connectlist: {10, 29}
+DAPXEZ_clean_primitive, Anchors list: {27, 15}, SBU connectlist: {27, 15}
+DAPXEZ_clean_primitive, Anchors list: {26, 14}, SBU connectlist: {26, 14}
+DAPXEZ_clean_primitive, Anchors list: {31, 7}, SBU connectlist: {31, 7}
+DAPXEZ_clean_primitive, Anchors list: {6, 30}, SBU connectlist: {6, 30}
+DAPXEZ_clean_primitive, Anchors list: {11, 23}, SBU connectlist: {11, 23}
+DAPXEZ_clean_primitive, Anchors list: {10, 22}, SBU connectlist: {10, 22}
+DAPXEZ_clean_primitive, Anchors list: {27, 7}, SBU connectlist: {27, 7}
+DAPXEZ_clean_primitive, Anchors list: {9, 29}, SBU connectlist: {9, 29}
+DAPXEZ_clean_primitive, Anchors list: {8, 28}, SBU connectlist: {8, 28}
+DAPXEZ_clean_primitive, Anchors list: {25, 13}, SBU connectlist: {25, 13}
+DAPXEZ_clean_primitive, Anchors list: {24, 12}, SBU connectlist: {24, 12}
+DAPXEZ_clean_primitive, Anchors list: {29, 5}, SBU connectlist: {29, 5}
+DAPXEZ_clean_primitive, Anchors list: {4, 28}, SBU connectlist: {4, 28}
+DAPXEZ_clean_primitive, Anchors list: {9, 21}, SBU connectlist: {9, 21}
+DAPXEZ_clean_primitive, Anchors list: {8, 20}, SBU connectlist: {8, 20}
+DAPXEZ_clean_primitive, Anchors list: {25, 6}, SBU connectlist: {25, 6}
+DAPXEZ_clean_primitive, Anchors list: {24, 7}, SBU connectlist: {24, 7}
+DAPXEZ_clean_primitive, Anchors list: {10, 19, 21}, SBU connectlist: {10, 19, 21}
+DAPXEZ_clean_primitive, Anchors list: {18, 11, 20}, SBU connectlist: {18, 11, 20}
+DAPXEZ_clean_primitive, Anchors list: {21, 30}, SBU connectlist: {21, 30}
+DAPXEZ_clean_primitive, Anchors list: {20, 31}, SBU connectlist: {20, 31}
+DAPXEZ_clean_primitive, Anchors list: {25, 5}, SBU connectlist: {25, 5}
+DAPXEZ_clean_primitive, Anchors list: {24, 4}, SBU connectlist: {24, 4}
+DAPXEZ_clean_primitive, Anchors list: {31, 23}, SBU connectlist: {31, 23}
+DAPXEZ_clean_primitive, Anchors list: {22, 30}, SBU connectlist: {22, 30}
+DAPXEZ_clean_primitive, Anchors list: {24, 27, 3}, SBU connectlist: {24, 27, 3}
+DAPXEZ_clean_primitive, Anchors list: {25, 2, 26}, SBU connectlist: {25, 2, 26}
+DAPXEZ_clean_primitive, Anchors list: {27, 22}, SBU connectlist: {27, 22}
+DAPXEZ_clean_primitive, Anchors list: {26, 23}, SBU connectlist: {26, 23}
+DAPXEZ_clean_primitive, Anchors list: {19, 29}, SBU connectlist: {19, 29}
+DAPXEZ_clean_primitive, Anchors list: {18, 28}, SBU connectlist: {18, 28}
+DAPXEZ_clean_primitive, Anchors list: {26, 6}, SBU connectlist: {26, 6}

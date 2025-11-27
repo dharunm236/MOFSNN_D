@@ -1,0 +1,3 @@
+@ feature_folders/GARLET_clean/zeo++/GARLET_clean_sa.txt Unitcell_volume: 3375.17   Density: 1.15379   ASA_A^2: 350.58 ASA_m^2/cm^3: 1038.7 ASA_m^2/g: 900.253 NASA_A^2: 0.382227 NASA_m^2/cm^3: 1.13247 NASA_m^2/g: 0.981519
+Number_of_channels: 1 Channel_surface_area_A^2: 350.58  
+Number_of_pockets: 4 Pocket_surface_area_A^2: 0.0477783  0.143335  0.127409  0.0637045  

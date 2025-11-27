@@ -1,0 +1,4 @@
+ESIDOB_clean_primitive, Anchors list: {0, 2, 12}, SBU connectlist: {0, 2, 6}
+ESIDOB_clean_primitive, Anchors list: {11, 1, 3}, SBU connectlist: {1, 3, 5}
+ESIDOB_clean_primitive, Anchors list: {1, 3, 28}, SBU connectlist: {1, 3, 7}
+ESIDOB_clean_primitive, Anchors list: {0, 2, 27}, SBU connectlist: {0, 2, 4}

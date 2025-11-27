@@ -1,0 +1,3 @@
+@ feature_folders/TUKCOT_clean/zeo++/TUKCOT_clean_sa.txt Unitcell_volume: 2226.35   Density: 1.1597   ASA_A^2: 176.321 ASA_m^2/cm^3: 791.976 ASA_m^2/g: 682.913 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 4 Channel_surface_area_A^2: 44.3188  44.1696  44.1768  43.6561  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

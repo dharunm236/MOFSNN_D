@@ -1,0 +1,15 @@
+YOJMAN_clean_primitive, Anchors list: {0, 6}, SBU connectlist: {0, 6}
+YOJMAN_clean_primitive, Anchors list: {2, 4}, SBU connectlist: {2, 4}
+YOJMAN_clean_primitive, Anchors list: {2, 117}, SBU connectlist: {2, 13}
+YOJMAN_clean_primitive, Anchors list: {8, 103}, SBU connectlist: {8, 13}
+YOJMAN_clean_primitive, Anchors list: {153, 6}, SBU connectlist: {13, 6}
+YOJMAN_clean_primitive, Anchors list: {1, 122}, SBU connectlist: {1, 13}
+YOJMAN_clean_primitive40, Anchors list: {14, 30, 15}, SBU connectlist: {13}
+YOJMAN_clean_primitive, Anchors list: {10, 139}, SBU connectlist: {10, 13}
+YOJMAN_clean_primitive, Anchors list: {5, 158}, SBU connectlist: {13, 5}
+YOJMAN_clean_primitive, Anchors list: {136, 9}, SBU connectlist: {9, 13}
+YOJMAN_clean_primitive, Anchors list: {3, 5}, SBU connectlist: {3, 5}
+YOJMAN_clean_primitive17, Anchors list: {17, 14, 15}, SBU connectlist: {13}
+YOJMAN_clean_primitive16, Anchors list: {14, 15}, SBU connectlist: {13}
+YOJMAN_clean_primitive, Anchors list: {11, 172}, SBU connectlist: {11, 13}
+YOJMAN_clean_primitive, Anchors list: {1, 7}, SBU connectlist: {1, 7}

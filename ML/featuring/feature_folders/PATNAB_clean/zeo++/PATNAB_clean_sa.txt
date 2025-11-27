@@ -1,0 +1,3 @@
+@ feature_folders/PATNAB_clean/zeo++/PATNAB_clean_sa.txt Unitcell_volume: 2706.01   Density: 1.35956   ASA_A^2: 442.996 ASA_m^2/cm^3: 1637.08 ASA_m^2/g: 1204.13 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 220.384  222.612  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

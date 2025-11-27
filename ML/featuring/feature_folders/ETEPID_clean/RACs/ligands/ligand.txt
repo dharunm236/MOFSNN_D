@@ -1,0 +1,4 @@
+ETEPID_clean_primitive, Anchors list: {508, 511}, SBU connectlist: {0, 3}
+ETEPID_clean_primitive, Anchors list: {509, 510}, SBU connectlist: {1, 2}
+ETEPID_clean_primitive, Anchors list: {509, 510}, SBU connectlist: {1, 2}
+ETEPID_clean_primitive, Anchors list: {508, 511}, SBU connectlist: {0, 3}

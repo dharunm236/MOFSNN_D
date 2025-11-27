@@ -1,0 +1,4 @@
+IZIKOT02_clean_primitive, Anchors list: {6}, SBU connectlist: {0}
+IZIKOT02_clean_primitive, Anchors list: {6}, SBU connectlist: {0}
+IZIKOT02_clean_primitive, Anchors list: {6}, SBU connectlist: {0}
+IZIKOT02_clean_primitive, Anchors list: {6}, SBU connectlist: {0}

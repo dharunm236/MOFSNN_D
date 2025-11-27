@@ -1,0 +1,1 @@
+feature_folders/NUGROX_clean/zeo++/NUGROX_clean_pd.txt    7.91316 6.30986  7.91316

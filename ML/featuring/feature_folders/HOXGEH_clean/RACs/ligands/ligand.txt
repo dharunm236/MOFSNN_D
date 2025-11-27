@@ -1,0 +1,30 @@
+HOXGEH_clean_primitive, Anchors list: {73, 3, 62, 78}, SBU connectlist: {53, 57, 3, 45}
+HOXGEH_clean_primitive, Anchors list: {8, 58, 69, 53}, SBU connectlist: {8, 42, 50, 38}
+HOXGEH_clean_primitive, Anchors list: {0, 24, 116, 14}, SBU connectlist: {0, 17, 12, 81}
+HOXGEH_clean_primitive, Anchors list: {10, 92, 114, 111}, SBU connectlist: {80, 10, 67, 79}
+HOXGEH_clean_primitive, Anchors list: {8, 109, 96, 93}, SBU connectlist: {8, 78, 68, 70}
+HOXGEH_clean_primitive, Anchors list: {9, 102, 86, 106}, SBU connectlist: {64, 9, 74, 76}
+HOXGEH_clean_primitive, Anchors list: {99, 103, 94, 7}, SBU connectlist: {72, 75, 69, 7}
+HOXGEH_clean_primitive, Anchors list: {100, 97, 11, 84}, SBU connectlist: {73, 11, 62, 71}
+HOXGEH_clean_primitive, Anchors list: {91, 83, 6, 95}, SBU connectlist: {66, 83, 61, 6}
+HOXGEH_clean_primitive, Anchors list: {9, 74, 90, 79}, SBU connectlist: {65, 9, 58, 54}
+HOXGEH_clean_primitive, Anchors list: {82, 75, 4, 85}, SBU connectlist: {4, 63, 60, 55}
+HOXGEH_clean_primitive, Anchors list: {65, 10, 76, 71}, SBU connectlist: {56, 10, 52, 47}
+HOXGEH_clean_primitive, Anchors list: {0, 10, 11}, SBU connectlist: {0, 10, 11}
+HOXGEH_clean_primitive, Anchors list: {64, 81, 5, 70}, SBU connectlist: {59, 51, 5, 46}
+HOXGEH_clean_primitive, Anchors list: {50, 67, 61, 6}, SBU connectlist: {49, 36, 6, 44}
+HOXGEH_clean_primitive, Anchors list: {8, 3, 7}, SBU connectlist: {8, 3, 7}
+HOXGEH_clean_primitive, Anchors list: {9, 2, 6}, SBU connectlist: {9, 2, 6}
+HOXGEH_clean_primitive, Anchors list: {9, 2, 5}, SBU connectlist: {9, 2, 5}
+HOXGEH_clean_primitive, Anchors list: {8, 3, 4}, SBU connectlist: {8, 3, 4}
+HOXGEH_clean_primitive, Anchors list: {0, 1, 11}, SBU connectlist: {0, 1, 11}
+HOXGEH_clean_primitive, Anchors list: {107, 11, 117, 15}, SBU connectlist: {82, 11, 77, 13}
+HOXGEH_clean_primitive, Anchors list: {1, 66, 60, 55}, SBU connectlist: {48, 1, 43, 39}
+HOXGEH_clean_primitive, Anchors list: {56, 49, 46, 7}, SBU connectlist: {32, 40, 35, 7}
+HOXGEH_clean_primitive, Anchors list: {41, 2, 52, 57}, SBU connectlist: {41, 2, 37, 30}
+HOXGEH_clean_primitive, Anchors list: {40, 48, 36, 5}, SBU connectlist: {25, 29, 34, 5}
+HOXGEH_clean_primitive, Anchors list: {0, 34, 47, 31}, SBU connectlist: {0, 33, 21, 23}
+HOXGEH_clean_primitive, Anchors list: {32, 37, 4, 28}, SBU connectlist: {26, 19, 4, 22}
+HOXGEH_clean_primitive, Anchors list: {25, 2, 45, 29}, SBU connectlist: {2, 18, 20, 31}
+HOXGEH_clean_primitive, Anchors list: {38, 35, 3, 22}, SBU connectlist: {16, 24, 3, 27}
+HOXGEH_clean_primitive, Anchors list: {1, 20, 17, 39}, SBU connectlist: {1, 28, 14, 15}

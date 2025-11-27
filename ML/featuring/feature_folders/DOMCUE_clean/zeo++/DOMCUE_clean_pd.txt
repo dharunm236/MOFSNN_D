@@ -1,0 +1,1 @@
+feature_folders/DOMCUE_clean/zeo++/DOMCUE_clean_pd.txt    18.25770 13.54460  17.72935

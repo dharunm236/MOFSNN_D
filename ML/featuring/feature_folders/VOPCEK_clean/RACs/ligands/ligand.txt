@@ -1,0 +1,4 @@
+VOPCEK_clean_primitive, Anchors list: {67, 69, 6}, SBU connectlist: {9, 10, 5}
+VOPCEK_clean_primitive, Anchors list: {66, 68, 7}, SBU connectlist: {8, 11, 4}
+VOPCEK_clean_primitive, Anchors list: {0, 27, 29}, SBU connectlist: {0, 13, 15}
+VOPCEK_clean_primitive, Anchors list: {1, 26, 28}, SBU connectlist: {1, 12, 14}

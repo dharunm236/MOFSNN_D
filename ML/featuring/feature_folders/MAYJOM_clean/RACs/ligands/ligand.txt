@@ -1,0 +1,16 @@
+MAYJOM_clean_primitive, Anchors list: {73, 11, 13}, SBU connectlist: {19, 13, 15}
+MAYJOM_clean_primitive, Anchors list: {72, 10, 12}, SBU connectlist: {18, 12, 14}
+MAYJOM_clean_primitive, Anchors list: {39, 5, 7}, SBU connectlist: {9, 17, 7}
+MAYJOM_clean_primitive, Anchors list: {38, 4, 6}, SBU connectlist: {8, 16, 6}
+MAYJOM_clean_primitive, Anchors list: {33, 2, 4}, SBU connectlist: {4, 6}
+MAYJOM_clean_primitive, Anchors list: {32, 3, 5}, SBU connectlist: {5, 7}
+MAYJOM_clean_primitive, Anchors list: {89, 1, 15}, SBU connectlist: {1, 25, 23}
+MAYJOM_clean_primitive, Anchors list: {0, 88, 14}, SBU connectlist: {0, 24, 22}
+MAYJOM_clean_primitive, Anchors list: {0, 3, 23}, SBU connectlist: {0, 27, 5}
+MAYJOM_clean_primitive, Anchors list: {1, 2, 22}, SBU connectlist: {1, 26, 4}
+MAYJOM_clean_primitive, Anchors list: {12, 14, 79}, SBU connectlist: {18, 22}
+MAYJOM_clean_primitive, Anchors list: {13, 78, 15}, SBU connectlist: {19, 23}
+MAYJOM_clean_primitive, Anchors list: {8, 65, 10}, SBU connectlist: {10, 3, 14}
+MAYJOM_clean_primitive, Anchors list: {64, 9, 11}, SBU connectlist: {2, 11, 15}
+MAYJOM_clean_primitive, Anchors list: {9, 6, 47}, SBU connectlist: {8, 11, 21}
+MAYJOM_clean_primitive, Anchors list: {8, 46, 7}, SBU connectlist: {9, 10, 20}

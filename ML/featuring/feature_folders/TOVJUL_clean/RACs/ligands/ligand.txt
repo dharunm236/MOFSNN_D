@@ -1,0 +1,12 @@
+TOVJUL_clean_primitive21, Anchors list: {13, 14}, SBU connectlist: {4}
+TOVJUL_clean_primitive20, Anchors list: {13, 14}, SBU connectlist: {4}
+TOVJUL_clean_primitive19, Anchors list: {21, 22}, SBU connectlist: {7}
+TOVJUL_clean_primitive18, Anchors list: {9, 10}, SBU connectlist: {3}
+TOVJUL_clean_primitive17, Anchors list: {21, 22}, SBU connectlist: {7}
+TOVJUL_clean_primitive16, Anchors list: {17, 15}, SBU connectlist: {5}
+TOVJUL_clean_primitive15, Anchors list: {9, 10}, SBU connectlist: {3}
+TOVJUL_clean_primitive14, Anchors list: {3, 5}, SBU connectlist: {1}
+TOVJUL_clean_primitive13, Anchors list: {3, 4}, SBU connectlist: {1}
+TOVJUL_clean_primitive12, Anchors list: {16, 15}, SBU connectlist: {5}
+TOVJUL_clean_primitive8, Anchors list: {1, 2}, SBU connectlist: {0}
+TOVJUL_clean_primitive7, Anchors list: {1, 2}, SBU connectlist: {0}

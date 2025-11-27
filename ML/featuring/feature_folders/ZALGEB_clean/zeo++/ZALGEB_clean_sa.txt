@@ -1,0 +1,3 @@
+@ feature_folders/ZALGEB_clean/zeo++/ZALGEB_clean_sa.txt Unitcell_volume: 2220.62   Density: 1.81667   ASA_A^2: 247.079 ASA_m^2/cm^3: 1112.66 ASA_m^2/g: 612.47 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 247.079  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

@@ -1,0 +1,3 @@
+@ feature_folders/AWUPAL_clean/zeo++/AWUPAL_clean_pov.txt Unitcell_volume: 17636.8   Density: 0.348553   POAV_A^3: 14432.2 POAV_Volume_fraction: 0.8183 POAV_cm^3/g: 2.34771 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/AWUPAL_clean/zeo++/AWUPAL_clean_pov.txt	0.348553	1.86	10000	0.5487	0	0.8183	0	0.0337	0.148

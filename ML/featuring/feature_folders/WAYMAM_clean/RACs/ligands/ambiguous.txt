@@ -1,0 +1,2 @@
+WAYMAM_clean_primitive, Anchors list: {26, 27}, SBU connectlist: {0} set to be linker
+WAYMAM_clean_primitive, Anchors list: {26, 27}, SBU connectlist: {0} set to be linker

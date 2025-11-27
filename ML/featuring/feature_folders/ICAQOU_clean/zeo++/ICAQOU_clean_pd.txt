@@ -1,0 +1,1 @@
+feature_folders/ICAQOU_clean/zeo++/ICAQOU_clean_pd.txt    20.29966 7.90669  20.29476

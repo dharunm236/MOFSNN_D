@@ -1,0 +1,3 @@
+@ feature_folders/NUCREJ_clean/zeo++/NUCREJ_clean_pov.txt Unitcell_volume: 2205.68   Density: 1.63646   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 100.579 PONAV_Volume_fraction: 0.0456 PONAV_cm^3/g: 0.027865
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/NUCREJ_clean/zeo++/NUCREJ_clean_pov.txt	1.63646	1.86	10000	0	0.0005	0	0.0456	0.3848	0.5696

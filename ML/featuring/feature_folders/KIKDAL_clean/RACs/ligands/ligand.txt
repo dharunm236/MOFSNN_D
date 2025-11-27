@@ -1,0 +1,6 @@
+KIKDAL_clean_primitive, Anchors list: {67}, SBU connectlist: {1}
+KIKDAL_clean_primitive, Anchors list: {68}, SBU connectlist: {2}
+KIKDAL_clean_primitive, Anchors list: {66}, SBU connectlist: {0}
+KIKDAL_clean_primitive, Anchors list: {68}, SBU connectlist: {2}
+KIKDAL_clean_primitive, Anchors list: {66}, SBU connectlist: {0}
+KIKDAL_clean_primitive, Anchors list: {67}, SBU connectlist: {1}

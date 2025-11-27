@@ -1,0 +1,3 @@
+@ feature_folders/HIDBIH_clean/zeo++/HIDBIH_clean_sa.txt Unitcell_volume: 1726.37   Density: 1.56083   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 51.0074 NASA_m^2/cm^3: 295.461 NASA_m^2/g: 189.297
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 25.3917  25.6157  

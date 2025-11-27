@@ -1,0 +1,1 @@
+feature_folders/COWMOR_clean/zeo++/COWMOR_clean_pd.txt    6.72492 5.56330  6.71793

@@ -1,0 +1,1 @@
+feature_folders/ENITOL_clean/zeo++/ENITOL_clean_pd.txt    9.01670 5.78838  8.99600

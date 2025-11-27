@@ -1,0 +1,1 @@
+feature_folders/FAVGAN_clean/zeo++/FAVGAN_clean_pd.txt    5.57766 4.50081  5.45506

@@ -1,0 +1,6 @@
+EZOFOP_clean_primitive, Anchors list: {436}, SBU connectlist: {10}
+EZOFOP_clean_primitive, Anchors list: {435}, SBU connectlist: {9}
+EZOFOP_clean_primitive, Anchors list: {431}, SBU connectlist: {5}
+EZOFOP_clean_primitive, Anchors list: {428}, SBU connectlist: {2}
+EZOFOP_clean_primitive, Anchors list: {432}, SBU connectlist: {6}
+EZOFOP_clean_primitive, Anchors list: {427}, SBU connectlist: {1}

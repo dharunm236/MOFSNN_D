@@ -1,0 +1,1 @@
+feature_folders/MIMVEJ_clean/zeo++/MIMVEJ_clean_pd.txt    4.76356 4.28310  4.61746

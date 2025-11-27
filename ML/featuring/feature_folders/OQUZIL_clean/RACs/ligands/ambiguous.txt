@@ -1,0 +1,4 @@
+OQUZIL_clean_primitive, Anchors list: {128, 129, 130, 131, 132, 133, 137, 138, 139, 119, 120, 121}, SBU connectlist: {1} set to be ligand
+OQUZIL_clean_primitive, Anchors list: {134, 135, 136, 116, 117, 118, 122, 123, 124, 125, 126, 127}, SBU connectlist: {1} set to be linker
+OQUZIL_clean_primitive, Anchors list: {96, 97, 104, 105, 106, 107, 108, 109, 113, 114, 115, 95}, SBU connectlist: {0} set to be linker
+OQUZIL_clean_primitive, Anchors list: {98, 99, 100, 101, 102, 103, 110, 111, 112, 92, 93, 94}, SBU connectlist: {0} set to be linker

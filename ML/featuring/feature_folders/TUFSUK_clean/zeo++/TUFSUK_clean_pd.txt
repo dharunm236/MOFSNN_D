@@ -1,0 +1,1 @@
+feature_folders/TUFSUK_clean/zeo++/TUFSUK_clean_pd.txt    3.77011 2.69961  3.76836

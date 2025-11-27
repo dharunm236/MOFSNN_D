@@ -1,0 +1,2 @@
+PIZHEN_clean_primitive2, Anchors list: {1, 2, 5, 6, 8, 72, 75, 76, 78, 15, 16, 83}, SBU connectlist: {1}
+PIZHEN_clean_primitive0, Anchors list: {88, 11, 12, 80, 19, 85, 21, 87, 22, 25, 26, 91}, SBU connectlist: {3}

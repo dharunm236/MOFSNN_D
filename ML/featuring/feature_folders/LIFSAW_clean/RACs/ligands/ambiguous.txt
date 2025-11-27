@@ -1,0 +1,6 @@
+LIFSAW_clean_primitive, Anchors list: {96, 99, 100}, SBU connectlist: {0} set to be linker
+LIFSAW_clean_primitive, Anchors list: {97, 98, 101}, SBU connectlist: {1} set to be linker
+LIFSAW_clean_primitive, Anchors list: {97, 98, 101}, SBU connectlist: {1} set to be linker
+LIFSAW_clean_primitive, Anchors list: {96, 99, 100}, SBU connectlist: {0} set to be ligand
+LIFSAW_clean_primitive, Anchors list: {96, 99, 100}, SBU connectlist: {0} set to be linker
+LIFSAW_clean_primitive, Anchors list: {97, 98, 101}, SBU connectlist: {1} set to be linker

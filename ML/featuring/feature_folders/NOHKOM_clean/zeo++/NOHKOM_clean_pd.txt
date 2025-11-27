@@ -1,0 +1,1 @@
+feature_folders/NOHKOM_clean/zeo++/NOHKOM_clean_pd.txt    4.48358 3.22253  4.42235

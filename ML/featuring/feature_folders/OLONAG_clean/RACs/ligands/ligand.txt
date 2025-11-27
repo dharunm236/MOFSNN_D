@@ -1,0 +1,4 @@
+OLONAG_clean_primitive, Anchors list: {0, 2, 35, 34}, SBU connectlist: {0, 8}
+OLONAG_clean_primitive, Anchors list: {56, 58, 3, 5}, SBU connectlist: {19, 2, 18}
+OLONAG_clean_primitive, Anchors list: {0, 2, 21, 23}, SBU connectlist: {0, 20, 21}
+OLONAG_clean_primitive, Anchors list: {45, 3, 44, 5}, SBU connectlist: {2, 14}

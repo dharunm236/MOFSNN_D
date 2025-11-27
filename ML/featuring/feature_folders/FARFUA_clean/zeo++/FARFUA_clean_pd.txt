@@ -1,0 +1,1 @@
+feature_folders/FARFUA_clean/zeo++/FARFUA_clean_pd.txt    8.43305 6.00246  8.42837

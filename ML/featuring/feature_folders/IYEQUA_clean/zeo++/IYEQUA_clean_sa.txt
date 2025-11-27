@@ -1,0 +1,3 @@
+@ feature_folders/IYEQUA_clean/zeo++/IYEQUA_clean_sa.txt Unitcell_volume: 4813.05   Density: 1.31059   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 34.8662 NASA_m^2/cm^3: 72.4411 NASA_m^2/g: 55.2736
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 4.10355  4.26922  4.33567  4.39136  4.43219  4.59683  4.30892  4.42848  

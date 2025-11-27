@@ -1,0 +1,2 @@
+MINVUA01_SL_primitive, Anchors list: {16, 17}, SBU connectlist: {0} set to be linker
+MINVUA01_SL_primitive, Anchors list: {16, 17}, SBU connectlist: {0} set to be linker

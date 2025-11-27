@@ -1,0 +1,6 @@
+HUNFON_clean_primitive7, Anchors list: {12, 15}, SBU connectlist: {0}
+HUNFON_clean_primitive6, Anchors list: {16, 17}, SBU connectlist: {0}
+HUNFON_clean_primitive4, Anchors list: {12, 15}, SBU connectlist: {0}
+HUNFON_clean_primitive3, Anchors list: {12, 15}, SBU connectlist: {0}
+HUNFON_clean_primitive2, Anchors list: {12, 15}, SBU connectlist: {0}
+HUNFON_clean_primitive1, Anchors list: {13, 14}, SBU connectlist: {0}

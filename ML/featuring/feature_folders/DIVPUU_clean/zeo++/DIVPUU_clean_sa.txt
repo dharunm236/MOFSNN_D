@@ -1,0 +1,3 @@
+@ feature_folders/DIVPUU_clean/zeo++/DIVPUU_clean_sa.txt Unitcell_volume: 987.635   Density: 1.34186   ASA_A^2: 96.9765 ASA_m^2/cm^3: 981.906 ASA_m^2/g: 731.749 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 96.9765  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

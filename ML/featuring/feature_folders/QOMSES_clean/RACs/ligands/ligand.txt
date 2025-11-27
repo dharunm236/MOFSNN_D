@@ -1,0 +1,4 @@
+QOMSES_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2, 3}
+QOMSES_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}
+QOMSES_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0, 5}
+QOMSES_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}

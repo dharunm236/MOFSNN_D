@@ -1,0 +1,3 @@
+@ feature_folders/OCUMOR_clean/zeo++/OCUMOR_clean_sa.txt Unitcell_volume: 2795.09   Density: 1.29298   ASA_A^2: 245.031 ASA_m^2/cm^3: 876.649 ASA_m^2/g: 678.006 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 245.031  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

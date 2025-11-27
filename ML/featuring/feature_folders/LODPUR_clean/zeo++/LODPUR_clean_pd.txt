@@ -1,0 +1,1 @@
+feature_folders/LODPUR_clean/zeo++/LODPUR_clean_pd.txt    3.98082 2.60457  3.98082

@@ -1,0 +1,1 @@
+feature_folders/JADMAF_clean/zeo++/JADMAF_clean_pd.txt    5.41874 3.68682  5.40982

@@ -1,0 +1,1 @@
+feature_folders/FECXES_clean/zeo++/FECXES_clean_pd.txt    10.76463 6.58995  10.75981

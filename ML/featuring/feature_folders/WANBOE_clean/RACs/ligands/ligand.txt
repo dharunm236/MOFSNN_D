@@ -1,0 +1,19 @@
+WANBOE_clean_primitive, Anchors list: {0, 40}, SBU connectlist: {0, 12}
+WANBOE_clean_primitive, Anchors list: {69, 6}, SBU connectlist: {12, 6}
+WANBOE_clean_primitive, Anchors list: {4, 44}, SBU connectlist: {4, 13}
+WANBOE_clean_primitive, Anchors list: {11, 95}, SBU connectlist: {11, 12}
+WANBOE_clean_primitive, Anchors list: {9, 70}, SBU connectlist: {9, 13}
+WANBOE_clean_primitive, Anchors list: {99, 3}, SBU connectlist: {3, 13}
+WANBOE_clean_primitive, Anchors list: {10, 98}, SBU connectlist: {10, 13}
+WANBOE_clean_primitive, Anchors list: {61, 7}, SBU connectlist: {13, 7}
+WANBOE_clean_primitive, Anchors list: {1, 6}, SBU connectlist: {1, 6}
+WANBOE_clean_primitive, Anchors list: {96, 9}, SBU connectlist: {9, 13}
+WANBOE_clean_primitive, Anchors list: {43, 6}, SBU connectlist: {12, 6}
+WANBOE_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0, 5}
+WANBOE_clean_primitive, Anchors list: {41, 5}, SBU connectlist: {12, 5}
+WANBOE_clean_primitive13, Anchors list: {40, 43, 48, 81, 87, 95}, SBU connectlist: {12}
+WANBOE_clean_primitive, Anchors list: {10, 3}, SBU connectlist: {10, 3}
+WANBOE_clean_primitive11, Anchors list: {69, 71, 72, 77, 78, 85}, SBU connectlist: {12}
+WANBOE_clean_primitive9, Anchors list: {74, 75, 80, 83, 88, 93}, SBU connectlist: {12}
+WANBOE_clean_primitive, Anchors list: {9, 2}, SBU connectlist: {9, 2}
+WANBOE_clean_primitive, Anchors list: {8, 78}, SBU connectlist: {8, 12}

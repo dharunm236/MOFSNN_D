@@ -1,0 +1,1 @@
+COKFAK_clean_primitive2, Anchors list: {1}, SBU connectlist: {1}

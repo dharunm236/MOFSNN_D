@@ -1,0 +1,3 @@
+@ feature_folders/FIJDIM07_clean/zeo++/FIJDIM07_clean_sa.txt Unitcell_volume: 1778.7   Density: 1.22701   ASA_A^2: 188.119 ASA_m^2/cm^3: 1057.62 ASA_m^2/g: 861.947 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 188.119  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

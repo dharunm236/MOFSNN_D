@@ -1,0 +1,1 @@
+feature_folders/XASPEP_clean/zeo++/XASPEP_clean_pd.txt    8.19698 6.94467  8.19698

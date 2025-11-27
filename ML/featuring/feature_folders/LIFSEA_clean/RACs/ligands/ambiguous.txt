@@ -1,0 +1,6 @@
+LIFSEA_clean_primitive, Anchors list: {104, 100, 103}, SBU connectlist: {0} set to be linker
+LIFSEA_clean_primitive, Anchors list: {105, 101, 102}, SBU connectlist: {1} set to be linker
+LIFSEA_clean_primitive, Anchors list: {105, 101, 102}, SBU connectlist: {1} set to be linker
+LIFSEA_clean_primitive, Anchors list: {104, 100, 103}, SBU connectlist: {0} set to be linker
+LIFSEA_clean_primitive, Anchors list: {104, 100, 103}, SBU connectlist: {0} set to be linker
+LIFSEA_clean_primitive, Anchors list: {105, 101, 102}, SBU connectlist: {1} set to be linker

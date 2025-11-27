@@ -1,0 +1,1 @@
+feature_folders/DIWMON_clean/zeo++/DIWMON_clean_pd.txt    9.51037 3.99846  8.92844

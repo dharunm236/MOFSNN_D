@@ -1,0 +1,3 @@
+@ feature_folders/WOJJOV_SL/zeo++/WOJJOV_SL_sa.txt Unitcell_volume: 2942.95   Density: 1.16534   ASA_A^2: 225.183 ASA_m^2/cm^3: 765.161 ASA_m^2/g: 656.598 NASA_A^2: 36.5206 NASA_m^2/cm^3: 124.095 NASA_m^2/g: 106.488
+Number_of_channels: 2 Channel_surface_area_A^2: 114.056  111.127  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 17.6524  18.8683  

@@ -1,0 +1,3 @@
+@ feature_folders/ZUZZEB_clean/zeo++/ZUZZEB_clean_sa.txt Unitcell_volume: 25182.1   Density: 0.903178   ASA_A^2: 4783.68 ASA_m^2/cm^3: 1899.63 ASA_m^2/g: 2103.28 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 4783.68  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

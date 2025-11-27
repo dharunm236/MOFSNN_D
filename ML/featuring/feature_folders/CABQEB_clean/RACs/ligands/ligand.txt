@@ -1,0 +1,4 @@
+CABQEB_clean_primitive28, Anchors list: {18, 3, 14}, SBU connectlist: {3}
+CABQEB_clean_primitive21, Anchors list: {9, 14, 17}, SBU connectlist: {3}
+CABQEB_clean_primitive17, Anchors list: {9, 12, 7}, SBU connectlist: {3}
+CABQEB_clean_primitive4, Anchors list: {3, 6, 7}, SBU connectlist: {3}

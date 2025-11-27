@@ -1,0 +1,1 @@
+feature_folders/ATIBUA_clean/zeo++/ATIBUA_clean_pd.txt    4.92972 3.79229  4.92858

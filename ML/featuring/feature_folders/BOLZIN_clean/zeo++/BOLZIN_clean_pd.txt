@@ -1,0 +1,1 @@
+feature_folders/BOLZIN_clean/zeo++/BOLZIN_clean_pd.txt    18.71247 7.75586  17.50088

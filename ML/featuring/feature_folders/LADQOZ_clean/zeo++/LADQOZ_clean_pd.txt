@@ -1,0 +1,1 @@
+feature_folders/LADQOZ_clean/zeo++/LADQOZ_clean_pd.txt    6.39416 5.57332  6.29982

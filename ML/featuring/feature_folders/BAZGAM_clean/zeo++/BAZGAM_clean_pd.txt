@@ -1,0 +1,1 @@
+feature_folders/BAZGAM_clean/zeo++/BAZGAM_clean_pd.txt    42.79816 24.24061  42.79816

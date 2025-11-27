@@ -1,0 +1,3 @@
+@ feature_folders/XUNSEG_clean/zeo++/XUNSEG_clean_sa.txt Unitcell_volume: 851.413   Density: 1.00672   ASA_A^2: 64.8171 ASA_m^2/cm^3: 761.289 ASA_m^2/g: 756.21 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 32.9257  31.8913  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

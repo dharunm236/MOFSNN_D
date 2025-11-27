@@ -1,0 +1,3 @@
+@ feature_folders/XOPLUL_clean/zeo++/XOPLUL_clean_pov.txt Unitcell_volume: 930.395   Density: 1.70185   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 205.524 PONAV_Volume_fraction: 0.2209 PONAV_cm^3/g: 0.1298
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XOPLUL_clean/zeo++/XOPLUL_clean_pov.txt	1.70185	1.86	10000	0	0.0058	0	0.2209	0.274	0.5051

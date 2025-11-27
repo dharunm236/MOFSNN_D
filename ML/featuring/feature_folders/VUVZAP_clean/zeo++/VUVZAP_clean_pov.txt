@@ -1,0 +1,3 @@
+@ feature_folders/VUVZAP_clean/zeo++/VUVZAP_clean_pov.txt Unitcell_volume: 1884.47   Density: 1.57661   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 402.522 PONAV_Volume_fraction: 0.2136 PONAV_cm^3/g: 0.135481
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/VUVZAP_clean/zeo++/VUVZAP_clean_pov.txt	1.57661	1.86	10000	0	0.0061	0	0.2136	0.3433	0.4431

@@ -1,0 +1,1 @@
+feature_folders/OKUSUK_clean/zeo++/OKUSUK_clean_pd.txt    24.78598 13.19796  24.38050

@@ -1,0 +1,4 @@
+WUXYOF_clean_primitive, Anchors list: {32, 3, 4, 29}, SBU connectlist: {8, 13, 5, 23}
+WUXYOF_clean_primitive, Anchors list: {66, 11, 12, 63}, SBU connectlist: {16, 17, 6, 25}
+WUXYOF_clean_primitive, Anchors list: {3, 4, 28, 30}, SBU connectlist: {8, 24, 5, 22}
+WUXYOF_clean_primitive, Anchors list: {11, 65, 67, 12}, SBU connectlist: {16, 17, 3, 7}

@@ -1,0 +1,1 @@
+feature_folders/NUDMOQ_clean/zeo++/NUDMOQ_clean_pd.txt    6.60298 5.82042  6.58811

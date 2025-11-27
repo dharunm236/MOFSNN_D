@@ -1,0 +1,1 @@
+feature_folders/EYACOX_clean/zeo++/EYACOX_clean_pd.txt    8.14361 5.87215  7.66896

@@ -1,0 +1,1 @@
+feature_folders/ACAJOF_clean/zeo++/ACAJOF_clean_pd.txt    6.86398 6.10482  6.86398

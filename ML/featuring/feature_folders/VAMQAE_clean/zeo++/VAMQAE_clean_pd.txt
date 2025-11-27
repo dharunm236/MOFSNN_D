@@ -1,0 +1,1 @@
+feature_folders/VAMQAE_clean/zeo++/VAMQAE_clean_pd.txt    7.70479 5.78408  7.70479

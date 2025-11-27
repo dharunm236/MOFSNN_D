@@ -1,0 +1,1 @@
+feature_folders/PURNEX_clean/zeo++/PURNEX_clean_pd.txt    5.09536 3.50261  5.03109

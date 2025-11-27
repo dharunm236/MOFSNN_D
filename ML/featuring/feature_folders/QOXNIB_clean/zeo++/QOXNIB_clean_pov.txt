@@ -1,0 +1,3 @@
+@ feature_folders/QOXNIB_clean/zeo++/QOXNIB_clean_pov.txt Unitcell_volume: 2024.85   Density: 2.02207   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 172.315 PONAV_Volume_fraction: 0.0851 PONAV_cm^3/g: 0.0420855
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/QOXNIB_clean/zeo++/QOXNIB_clean_pov.txt	2.02207	1.86	10000	0	0.0023	0	0.0851	0.355	0.5599

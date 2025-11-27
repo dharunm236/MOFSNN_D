@@ -1,0 +1,1 @@
+feature_folders/VASFIH_clean/zeo++/VASFIH_clean_pd.txt    5.55628 5.01575  5.54452

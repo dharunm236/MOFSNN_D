@@ -1,0 +1,3 @@
+@ feature_folders/FORPUY_clean/zeo++/FORPUY_clean_pov.txt Unitcell_volume: 3846.03   Density: 1.13071   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 1891.86 PONAV_Volume_fraction: 0.4919 PONAV_cm^3/g: 0.435037
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FORPUY_clean/zeo++/FORPUY_clean_pov.txt	1.13071	1.86	10000	0	0.1326	0	0.4919	0.1777	0.3304

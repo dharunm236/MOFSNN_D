@@ -1,0 +1,1 @@
+feature_folders/LECFAC_clean/zeo++/LECFAC_clean_pd.txt    9.81867 4.43775  9.81321

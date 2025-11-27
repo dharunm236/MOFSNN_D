@@ -1,0 +1,3 @@
+@ feature_folders/PAMTII_clean/zeo++/PAMTII_clean_pov.txt Unitcell_volume: 5019.09   Density: 0.953828   POAV_A^3: 2739.92 POAV_Volume_fraction: 0.5459 POAV_cm^3/g: 0.572326 PONAV_A^3: 239.41 PONAV_Volume_fraction: 0.0477 PONAV_cm^3/g: 0.050009
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/PAMTII_clean/zeo++/PAMTII_clean_pov.txt	0.953828	1.86	10000	0.2242	0.0047	0.5459	0.0477	0.1064	0.3

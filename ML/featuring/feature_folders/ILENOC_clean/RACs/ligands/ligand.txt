@@ -1,0 +1,8 @@
+ILENOC_clean_primitive, Anchors list: {12, 15}, SBU connectlist: {1, 6}
+ILENOC_clean_primitive, Anchors list: {18, 13}, SBU connectlist: {2, 4}
+ILENOC_clean_primitive, Anchors list: {17}, SBU connectlist: {3}
+ILENOC_clean_primitive, Anchors list: {16}, SBU connectlist: {0}
+ILENOC_clean_primitive, Anchors list: {17}, SBU connectlist: {3}
+ILENOC_clean_primitive, Anchors list: {16}, SBU connectlist: {0}
+ILENOC_clean_primitive, Anchors list: {13, 15}, SBU connectlist: {2, 6}
+ILENOC_clean_primitive, Anchors list: {18, 12}, SBU connectlist: {1, 4}

@@ -1,0 +1,4 @@
+HOJLUP_clean_primitive, Anchors list: {227}, SBU connectlist: {1}
+HOJLUP_clean_primitive, Anchors list: {226}, SBU connectlist: {0}
+HOJLUP_clean_primitive, Anchors list: {229}, SBU connectlist: {3}
+HOJLUP_clean_primitive, Anchors list: {228}, SBU connectlist: {2}

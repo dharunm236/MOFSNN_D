@@ -1,0 +1,16 @@
+PURNIB_clean_primitive, Anchors list: {97, 202, 190}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {48, 203, 96}, SBU connectlist: {0, 1}
+PURNIB_clean_primitive, Anchors list: {96, 49, 198}, SBU connectlist: {0, 1}
+PURNIB_clean_primitive, Anchors list: {97, 199, 191}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {97, 50, 188}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {96, 196, 189}, SBU connectlist: {0, 1}
+PURNIB_clean_primitive, Anchors list: {184, 96, 197}, SBU connectlist: {0, 1}
+PURNIB_clean_primitive, Anchors list: {185, 51, 97}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {96, 203, 197}, SBU connectlist: {0, 1}
+PURNIB_clean_primitive, Anchors list: {97, 202, 51}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {96, 196, 198}, SBU connectlist: {0, 1}
+PURNIB_clean_primitive, Anchors list: {97, 50, 199}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {97, 188, 191}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {96, 49, 189}, SBU connectlist: {0, 1}
+PURNIB_clean_primitive, Anchors list: {185, 190, 97}, SBU connectlist: {0, 2}
+PURNIB_clean_primitive, Anchors list: {48, 96, 184}, SBU connectlist: {0, 1}

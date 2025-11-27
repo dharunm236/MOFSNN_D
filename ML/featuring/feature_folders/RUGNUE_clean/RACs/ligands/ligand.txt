@@ -1,0 +1,2 @@
+RUGNUE_clean_primitive2, Anchors list: {12}, SBU connectlist: {0}
+RUGNUE_clean_primitive0, Anchors list: {12}, SBU connectlist: {0}

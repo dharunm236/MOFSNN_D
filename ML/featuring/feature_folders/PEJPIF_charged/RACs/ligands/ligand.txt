@@ -1,0 +1,2 @@
+PEJPIF_charged_primitive6, Anchors list: {6}, SBU connectlist: {6}
+PEJPIF_charged_primitive4, Anchors list: {1}, SBU connectlist: {1}

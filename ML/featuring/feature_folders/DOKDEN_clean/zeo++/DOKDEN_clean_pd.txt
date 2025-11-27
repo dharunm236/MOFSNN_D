@@ -1,0 +1,1 @@
+feature_folders/DOKDEN_clean/zeo++/DOKDEN_clean_pd.txt    15.14217 13.44364  15.14217

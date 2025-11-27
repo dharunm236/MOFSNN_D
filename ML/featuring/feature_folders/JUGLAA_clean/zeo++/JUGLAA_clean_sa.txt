@@ -1,0 +1,3 @@
+@ feature_folders/JUGLAA_clean/zeo++/JUGLAA_clean_sa.txt Unitcell_volume: 5802.48   Density: 1.4234   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 106.216 NASA_m^2/cm^3: 183.054 NASA_m^2/g: 128.603
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 27.4603  17.8253  4.18007  3.85369  4.40686  26.4799  17.7974  4.21288  

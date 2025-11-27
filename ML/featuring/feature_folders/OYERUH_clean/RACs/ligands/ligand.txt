@@ -1,0 +1,12 @@
+OYERUH_clean_primitive35, Anchors list: {151}, SBU connectlist: {11}
+OYERUH_clean_primitive34, Anchors list: {151}, SBU connectlist: {11}
+OYERUH_clean_primitive33, Anchors list: {150}, SBU connectlist: {10}
+OYERUH_clean_primitive32, Anchors list: {150}, SBU connectlist: {10}
+OYERUH_clean_primitive31, Anchors list: {151}, SBU connectlist: {11}
+OYERUH_clean_primitive30, Anchors list: {150}, SBU connectlist: {10}
+OYERUH_clean_primitive29, Anchors list: {149}, SBU connectlist: {9}
+OYERUH_clean_primitive28, Anchors list: {148}, SBU connectlist: {8}
+OYERUH_clean_primitive27, Anchors list: {149}, SBU connectlist: {9}
+OYERUH_clean_primitive26, Anchors list: {149}, SBU connectlist: {9}
+OYERUH_clean_primitive25, Anchors list: {148}, SBU connectlist: {8}
+OYERUH_clean_primitive24, Anchors list: {148}, SBU connectlist: {8}

@@ -1,0 +1,3 @@
+@ feature_folders/QUJKOX_clean/zeo++/QUJKOX_clean_sa.txt Unitcell_volume: 3521.19   Density: 1.36332   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 257.864 NASA_m^2/cm^3: 732.32 NASA_m^2/g: 537.161
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 130.098  127.765  

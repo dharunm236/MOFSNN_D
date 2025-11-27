@@ -1,0 +1,1 @@
+feature_folders/COWMEH_clean/zeo++/COWMEH_clean_pd.txt    6.75649 5.53249  6.75411

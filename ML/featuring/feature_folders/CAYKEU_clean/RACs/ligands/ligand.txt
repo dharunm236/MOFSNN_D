@@ -1,0 +1,8 @@
+CAYKEU_clean_primitive, Anchors list: {0, 1, 13, 5}, SBU connectlist: {0, 1, 5, 9}
+CAYKEU_clean_primitive, Anchors list: {3, 12, 6, 7}, SBU connectlist: {8, 3, 6, 7}
+CAYKEU_clean_primitive, Anchors list: {1, 4, 5, 25}, SBU connectlist: {1, 13, 4, 5}
+CAYKEU_clean_primitive, Anchors list: {0, 24, 4, 5}, SBU connectlist: {0, 12, 4, 5}
+CAYKEU_clean_primitive, Anchors list: {2, 3, 15, 7}, SBU connectlist: {11, 2, 3, 7}
+CAYKEU_clean_primitive, Anchors list: {2, 3, 6, 14}, SBU connectlist: {10, 2, 3, 6}
+CAYKEU_clean_primitive, Anchors list: {0, 1, 27, 4}, SBU connectlist: {0, 1, 4, 15}
+CAYKEU_clean_primitive, Anchors list: {2, 26, 6, 7}, SBU connectlist: {2, 14, 6, 7}

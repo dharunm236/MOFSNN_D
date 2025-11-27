@@ -1,0 +1,3 @@
+@ feature_folders/KEWBUL_clean/zeo++/KEWBUL_clean_sa.txt Unitcell_volume: 4131.55   Density: 1.48949   ASA_A^2: 306.76 ASA_m^2/cm^3: 742.481 ASA_m^2/g: 498.482 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 152.698  154.062  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

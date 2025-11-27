@@ -1,0 +1,1 @@
+feature_folders/GAGQAI_clean/zeo++/GAGQAI_clean_pd.txt    15.68390 9.81587  15.64288

@@ -1,0 +1,4 @@
+QOCBUH_clean_primitive, Anchors list: {18, 11}, SBU connectlist: {11, 12}
+QOCBUH_clean_primitive, Anchors list: {10, 19}, SBU connectlist: {10, 13}
+QOCBUH_clean_primitive, Anchors list: {1, 12}, SBU connectlist: {1, 14}
+QOCBUH_clean_primitive, Anchors list: {0, 13}, SBU connectlist: {0, 15}

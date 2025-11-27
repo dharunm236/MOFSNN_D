@@ -1,0 +1,9 @@
+ULASAD_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+ULASAD_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+ULASAD_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+ULASAD_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+ULASAD_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+ULASAD_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+ULASAD_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+ULASAD_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+ULASAD_clean_primitive1, Anchors list: {5}, SBU connectlist: {5}

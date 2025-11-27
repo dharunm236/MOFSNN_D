@@ -1,0 +1,1 @@
+feature_folders/GIRYOX_clean/zeo++/GIRYOX_clean_pd.txt    3.97688 3.23059  3.95261

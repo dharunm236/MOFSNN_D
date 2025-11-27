@@ -1,0 +1,1 @@
+feature_folders/KINRIK_clean/zeo++/KINRIK_clean_pd.txt    9.88968 4.92546  8.77230

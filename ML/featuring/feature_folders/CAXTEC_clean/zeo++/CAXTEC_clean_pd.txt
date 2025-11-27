@@ -1,0 +1,1 @@
+feature_folders/CAXTEC_clean/zeo++/CAXTEC_clean_pd.txt    10.88288 5.27306  10.88288

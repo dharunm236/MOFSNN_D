@@ -1,0 +1,3 @@
+@ feature_folders/QUPHIT_clean/zeo++/QUPHIT_clean_pov.txt Unitcell_volume: 2363.07   Density: 1.29661   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 238.907 PONAV_Volume_fraction: 0.1011 PONAV_cm^3/g: 0.0779726
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/QUPHIT_clean/zeo++/QUPHIT_clean_pov.txt	1.29661	1.86	10000	0	0.0024	0	0.1011	0.3428	0.5561

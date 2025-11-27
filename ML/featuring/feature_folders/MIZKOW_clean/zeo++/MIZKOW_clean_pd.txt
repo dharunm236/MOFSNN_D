@@ -1,0 +1,1 @@
+feature_folders/MIZKOW_clean/zeo++/MIZKOW_clean_pd.txt    3.83160 3.43471  3.83160

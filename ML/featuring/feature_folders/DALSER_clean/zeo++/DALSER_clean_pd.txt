@@ -1,0 +1,1 @@
+feature_folders/DALSER_clean/zeo++/DALSER_clean_pd.txt    4.08249 3.08769  3.67462

@@ -1,0 +1,1 @@
+feature_folders/GOWHOR_clean/zeo++/GOWHOR_clean_pd.txt    4.40095 3.16564  4.37453

@@ -1,0 +1,1 @@
+feature_folders/TECVEE_clean/zeo++/TECVEE_clean_pd.txt    6.29319 4.18887  6.28108

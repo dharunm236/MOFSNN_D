@@ -1,0 +1,4 @@
+GAXWEJ_clean_primitive, Anchors list: {1, 5, 29, 33}, SBU connectlist: {1, 2, 7}
+GAXWEJ_clean_primitive, Anchors list: {1, 4, 25, 22}, SBU connectlist: {1, 5, 9}
+GAXWEJ_clean_primitive, Anchors list: {0, 18, 3, 21}, SBU connectlist: {0, 8, 4}
+GAXWEJ_clean_primitive, Anchors list: {0, 2, 10, 14}, SBU connectlist: {0, 3, 6}

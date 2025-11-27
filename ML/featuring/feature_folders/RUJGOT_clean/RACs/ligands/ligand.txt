@@ -1,0 +1,3 @@
+RUJGOT_clean_primitive7, Anchors list: {1, 3, 5}, SBU connectlist: {0}
+RUJGOT_clean_primitive5, Anchors list: {0, 1, 2}, SBU connectlist: {0}
+RUJGOT_clean_primitive3, Anchors list: {3, 4, 5}, SBU connectlist: {0}

@@ -1,0 +1,4 @@
+TEQPAI_clean_primitive, Anchors list: {2, 14, 15}, SBU connectlist: {1} set to be ligand
+TEQPAI_clean_primitive, Anchors list: {0, 1, 13}, SBU connectlist: {0} set to be linker
+TEQPAI_clean_primitive, Anchors list: {8, 9, 5}, SBU connectlist: {2} set to be linker
+TEQPAI_clean_primitive, Anchors list: {10, 6, 7}, SBU connectlist: {3} set to be linker

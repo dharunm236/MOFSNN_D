@@ -1,0 +1,3 @@
+@ feature_folders/QIWGOU_clean/zeo++/QIWGOU_clean_sa.txt Unitcell_volume: 8885.47   Density: 1.51133   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 209.036 NASA_m^2/cm^3: 235.256 NASA_m^2/g: 155.662
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 45.036  59.9785  44.7885  59.2329  

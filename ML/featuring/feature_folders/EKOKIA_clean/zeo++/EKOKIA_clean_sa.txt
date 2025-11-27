@@ -1,0 +1,3 @@
+@ feature_folders/EKOKIA_clean/zeo++/EKOKIA_clean_sa.txt Unitcell_volume: 2990.96   Density: 1.40385   ASA_A^2: 307.536 ASA_m^2/cm^3: 1028.22 ASA_m^2/g: 732.428 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 154.209  153.326  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

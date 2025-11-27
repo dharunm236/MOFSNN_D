@@ -1,0 +1,3 @@
+@ feature_folders/YEKXET_clean/zeo++/YEKXET_clean_pov.txt Unitcell_volume: 5195.29   Density: 0.985188   POAV_A^3: 2552.97 POAV_Volume_fraction: 0.4914 POAV_cm^3/g: 0.498788 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/YEKXET_clean/zeo++/YEKXET_clean_pov.txt	0.985188	1.86	10000	0.1104	0	0.4914	0	0.1517	0.3569

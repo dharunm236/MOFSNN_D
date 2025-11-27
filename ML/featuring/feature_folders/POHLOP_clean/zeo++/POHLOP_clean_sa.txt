@@ -1,0 +1,3 @@
+@ feature_folders/POHLOP_clean/zeo++/POHLOP_clean_sa.txt Unitcell_volume: 1463.38   Density: 1.79796   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 10.5252 NASA_m^2/cm^3: 71.9242 NASA_m^2/g: 40.0032
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 2.70104  0  2.6107  2.53471  0  2.6788  0  0  

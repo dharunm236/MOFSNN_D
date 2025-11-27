@@ -1,0 +1,3 @@
+@ feature_folders/YAVZUT_clean/zeo++/YAVZUT_clean_sa.txt Unitcell_volume: 3948.92   Density: 0.854434   ASA_A^2: 676.867 ASA_m^2/cm^3: 1714.06 ASA_m^2/g: 2006.07 NASA_A^2: 2.56283 NASA_m^2/cm^3: 6.48994 NASA_m^2/g: 7.59561
+Number_of_channels: 1 Channel_surface_area_A^2: 676.867  
+Number_of_pockets: 1 Pocket_surface_area_A^2: 2.56283  

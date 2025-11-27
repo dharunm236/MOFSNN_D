@@ -1,0 +1,6 @@
+UTACOJ_clean_primitive, Anchors list: {8, 1, 9, 39}, SBU connectlist: {8, 1, 9}
+UTACOJ_clean_primitive, Anchors list: {1, 10, 11, 52}, SBU connectlist: {1, 10, 11}
+UTACOJ_clean_primitive, Anchors list: {0, 42, 6, 7}, SBU connectlist: {0, 6, 7}
+UTACOJ_clean_primitive, Anchors list: {1, 12, 13, 62}, SBU connectlist: {1, 12, 13}
+UTACOJ_clean_primitive, Anchors list: {0, 5, 4, 29}, SBU connectlist: {0, 4, 5}
+UTACOJ_clean_primitive, Anchors list: {0, 3, 2, 19}, SBU connectlist: {0, 2, 3}

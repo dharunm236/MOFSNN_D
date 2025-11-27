@@ -1,0 +1,8 @@
+XOJCUV_clean_primitive, Anchors list: {18, 23}, SBU connectlist: {0} set to be linker
+XOJCUV_clean_primitive, Anchors list: {17, 20}, SBU connectlist: {0} set to be linker
+XOJCUV_clean_primitive, Anchors list: {16, 21}, SBU connectlist: {0} set to be linker
+XOJCUV_clean_primitive, Anchors list: {18, 23}, SBU connectlist: {0} set to be linker
+XOJCUV_clean_primitive, Anchors list: {19, 22}, SBU connectlist: {0} set to be linker
+XOJCUV_clean_primitive, Anchors list: {19, 22}, SBU connectlist: {0} set to be linker
+XOJCUV_clean_primitive, Anchors list: {16, 21}, SBU connectlist: {0} set to be linker
+XOJCUV_clean_primitive, Anchors list: {17, 20}, SBU connectlist: {0} set to be linker

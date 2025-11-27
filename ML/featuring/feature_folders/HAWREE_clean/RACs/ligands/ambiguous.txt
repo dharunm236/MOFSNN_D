@@ -1,0 +1,4 @@
+HAWREE_clean_primitive, Anchors list: {8, 9, 2, 5}, SBU connectlist: {1} set to be linker
+HAWREE_clean_primitive, Anchors list: {9, 2, 3, 5}, SBU connectlist: {1} set to be linker
+HAWREE_clean_primitive, Anchors list: {0, 4, 6, 7}, SBU connectlist: {0} set to be linker
+HAWREE_clean_primitive, Anchors list: {0, 1, 4, 7}, SBU connectlist: {0} set to be linker

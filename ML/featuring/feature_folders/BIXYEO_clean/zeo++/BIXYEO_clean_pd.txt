@@ -1,0 +1,1 @@
+feature_folders/BIXYEO_clean/zeo++/BIXYEO_clean_pd.txt    6.67369 4.00375  6.66785

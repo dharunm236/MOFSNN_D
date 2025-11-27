@@ -1,0 +1,1 @@
+Structure JAHNEM02_clean_primitive has extremely short ligands, check the outputs

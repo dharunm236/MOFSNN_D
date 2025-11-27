@@ -1,0 +1,3 @@
+@ feature_folders/OTOLIU_clean/zeo++/OTOLIU_clean_pov.txt Unitcell_volume: 6013.78   Density: 0.748874   POAV_A^3: 3991.95 POAV_Volume_fraction: 0.6638 POAV_cm^3/g: 0.886397 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/OTOLIU_clean/zeo++/OTOLIU_clean_pov.txt	0.748874	1.86	10000	0.1242	0	0.6638	0	0.0728	0.2634

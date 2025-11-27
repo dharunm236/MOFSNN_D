@@ -1,0 +1,3 @@
+@ feature_folders/ECAHAT_clean/zeo++/ECAHAT_clean_pov.txt Unitcell_volume: 3160.17   Density: 0.854274   POAV_A^3: 1200.55 POAV_Volume_fraction: 0.3799 POAV_cm^3/g: 0.444705 PONAV_A^3: 85.0084 PONAV_Volume_fraction: 0.0269 PONAV_cm^3/g: 0.0314887
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ECAHAT_clean/zeo++/ECAHAT_clean_pov.txt	0.854274	1.86	10000	0.1868	0.0006	0.3799	0.0269	0.1992	0.394

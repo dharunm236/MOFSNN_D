@@ -1,0 +1,2 @@
+POWBEK_clean_primitive, Anchors list: {64, 65, 66, 48, 49, 56, 57, 58, 59, 60, 61}, SBU connectlist: {0} set to be ligand
+POWBEK_clean_primitive, Anchors list: {45, 46, 47, 50, 51, 52, 53, 54, 55, 62, 63}, SBU connectlist: {1} set to be linker

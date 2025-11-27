@@ -1,0 +1,5 @@
+ETECIR_clean_primitive19, Anchors list: {47}, SBU connectlist: {7}
+ETECIR_clean_primitive18, Anchors list: {46}, SBU connectlist: {6}
+ETECIR_clean_primitive16, Anchors list: {44}, SBU connectlist: {4}
+ETECIR_clean_primitive4, Anchors list: {42}, SBU connectlist: {2}
+ETECIR_clean_primitive3, Anchors list: {41}, SBU connectlist: {1}

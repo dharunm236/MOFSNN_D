@@ -1,0 +1,32 @@
+WAPSUE_clean_primitive, Anchors list: {1, 50}, SBU connectlist: {1, 12}
+WAPSUE_clean_primitive, Anchors list: {0, 51}, SBU connectlist: {0, 13}
+WAPSUE_clean_primitive, Anchors list: {8, 49, 57, 55}, SBU connectlist: {8, 12}
+WAPSUE_clean_primitive, Anchors list: {65, 6}, SBU connectlist: {12, 6}
+WAPSUE_clean_primitive, Anchors list: {6, 63}, SBU connectlist: {12, 6}
+WAPSUE_clean_primitive, Anchors list: {64, 7}, SBU connectlist: {13, 7}
+WAPSUE_clean_primitive, Anchors list: {48, 9, 56, 54}, SBU connectlist: {9, 13}
+WAPSUE_clean_primitive, Anchors list: {58, 11, 60, 66}, SBU connectlist: {11, 12}
+WAPSUE_clean_primitive, Anchors list: {9, 42, 47, 39}, SBU connectlist: {9, 13}
+WAPSUE_clean_primitive, Anchors list: {8, 46, 43, 38}, SBU connectlist: {8, 12}
+WAPSUE_clean_primitive, Anchors list: {40, 9, 45, 37}, SBU connectlist: {9, 13}
+WAPSUE_clean_primitive, Anchors list: {8, 41, 36, 44}, SBU connectlist: {8, 12}
+WAPSUE_clean_primitive, Anchors list: {0, 39}, SBU connectlist: {0, 13}
+WAPSUE_clean_primitive, Anchors list: {1, 38}, SBU connectlist: {1, 12}
+WAPSUE_clean_primitive, Anchors list: {0, 37}, SBU connectlist: {0, 13}
+WAPSUE_clean_primitive, Anchors list: {1, 36}, SBU connectlist: {1, 12}
+WAPSUE_clean_primitive, Anchors list: {1, 77}, SBU connectlist: {1, 12}
+WAPSUE_clean_primitive, Anchors list: {0, 76}, SBU connectlist: {0, 13}
+WAPSUE_clean_primitive, Anchors list: {39, 7}, SBU connectlist: {13, 7}
+WAPSUE_clean_primitive, Anchors list: {38, 6}, SBU connectlist: {12, 6}
+WAPSUE_clean_primitive, Anchors list: {6, 79}, SBU connectlist: {12, 6}
+WAPSUE_clean_primitive, Anchors list: {78, 7}, SBU connectlist: {13, 7}
+WAPSUE_clean_primitive, Anchors list: {77, 6}, SBU connectlist: {12, 6}
+WAPSUE_clean_primitive, Anchors list: {76, 7}, SBU connectlist: {13, 7}
+WAPSUE_clean_primitive, Anchors list: {74, 11, 79, 71}, SBU connectlist: {11, 12}
+WAPSUE_clean_primitive, Anchors list: {78, 10, 75, 70}, SBU connectlist: {10, 13}
+WAPSUE_clean_primitive, Anchors list: {72, 11, 77, 69}, SBU connectlist: {11, 12}
+WAPSUE_clean_primitive, Anchors list: {67, 10, 59, 61}, SBU connectlist: {10, 13}
+WAPSUE_clean_primitive, Anchors list: {73, 10, 68, 76}, SBU connectlist: {10, 13}
+WAPSUE_clean_primitive, Anchors list: {62, 7}, SBU connectlist: {13, 7}
+WAPSUE_clean_primitive, Anchors list: {0, 53}, SBU connectlist: {0, 13}
+WAPSUE_clean_primitive, Anchors list: {1, 52}, SBU connectlist: {1, 12}

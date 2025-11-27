@@ -1,0 +1,1 @@
+feature_folders/ICAROV_clean/zeo++/ICAROV_clean_pd.txt    20.34159 7.92114  20.34159

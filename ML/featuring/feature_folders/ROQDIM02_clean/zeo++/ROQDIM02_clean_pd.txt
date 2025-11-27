@@ -1,0 +1,1 @@
+feature_folders/ROQDIM02_clean/zeo++/ROQDIM02_clean_pd.txt    5.22188 2.67795  5.22188

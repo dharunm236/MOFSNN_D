@@ -1,0 +1,1 @@
+feature_folders/AQOSEG_clean/zeo++/AQOSEG_clean_pd.txt    9.43759 3.33986  9.23240

@@ -1,0 +1,1 @@
+feature_folders/AVELOD_clean/zeo++/AVELOD_clean_pd.txt    8.08398 4.98445  8.08398

@@ -1,0 +1,2 @@
+PEHTON_clean_primitive6, Anchors list: {8}, SBU connectlist: {8}
+PEHTON_clean_primitive4, Anchors list: {3}, SBU connectlist: {3}

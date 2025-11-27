@@ -1,0 +1,4 @@
+AVUJIL_clean_primitive, Anchors list: {3, 13, 6}, SBU connectlist: {11, 3, 4}
+AVUJIL_clean_primitive, Anchors list: {2, 12, 7}, SBU connectlist: {2, 10, 5}
+AVUJIL_clean_primitive, Anchors list: {16, 1, 11}, SBU connectlist: {8, 1, 7}
+AVUJIL_clean_primitive, Anchors list: {0, 17, 10}, SBU connectlist: {0, 9, 6}

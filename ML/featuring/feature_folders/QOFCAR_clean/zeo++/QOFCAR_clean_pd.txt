@@ -1,0 +1,1 @@
+feature_folders/QOFCAR_clean/zeo++/QOFCAR_clean_pd.txt    7.03282 3.82338  6.95580

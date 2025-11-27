@@ -1,0 +1,1 @@
+feature_folders/SOMFIK_clean/zeo++/SOMFIK_clean_pd.txt    6.73279 6.35537  6.73279

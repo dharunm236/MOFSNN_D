@@ -1,0 +1,6 @@
+XAMHEA_manual_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+XAMHEA_manual_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+XAMHEA_manual_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+XAMHEA_manual_primitive, Anchors list: {4, 5, 6, 7}, SBU connectlist: {1} set to be linker
+XAMHEA_manual_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+XAMHEA_manual_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker

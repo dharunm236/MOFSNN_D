@@ -1,0 +1,40 @@
+VEHYUE_clean_primitive, Anchors list: {2, 18, 13}, SBU connectlist: {2, 13, 22}
+VEHYUE_clean_primitive, Anchors list: {104, 107, 14, 30}, SBU connectlist: {43, 36, 37, 14}
+VEHYUE_clean_primitive, Anchors list: {0, 31, 15}, SBU connectlist: {0, 47, 15}
+VEHYUE_clean_primitive, Anchors list: {17, 2, 13}, SBU connectlist: {17, 2, 13}
+VEHYUE_clean_primitive, Anchors list: {0, 28, 15}, SBU connectlist: {0, 39, 15}
+VEHYUE_clean_primitive, Anchors list: {97, 99, 12, 28}, SBU connectlist: {34, 35, 12, 39}
+VEHYUE_clean_primitive, Anchors list: {27, 11, 92, 94}, SBU connectlist: {40, 33, 11, 46}
+VEHYUE_clean_primitive, Anchors list: {9, 84, 25, 87}, SBU connectlist: {9, 26, 30, 31}
+VEHYUE_clean_primitive, Anchors list: {8, 27, 7}, SBU connectlist: {8, 33, 7}
+VEHYUE_clean_primitive, Anchors list: {10, 26, 5}, SBU connectlist: {32, 10, 5}
+VEHYUE_clean_primitive, Anchors list: {29, 14, 30}, SBU connectlist: {43, 45, 14}
+VEHYUE_clean_primitive, Anchors list: {12, 28, 31}, SBU connectlist: {12, 47, 39}
+VEHYUE_clean_primitive, Anchors list: {28, 31, 14, 15}, SBU connectlist: {47, 39, 14, 15}
+VEHYUE_clean_primitive, Anchors list: {29, 11, 13, 30}, SBU connectlist: {45, 43, 11, 13}
+VEHYUE_clean_primitive, Anchors list: {8, 23, 7}, SBU connectlist: {8, 28, 7}
+VEHYUE_clean_primitive, Anchors list: {25, 10, 26, 12}, SBU connectlist: {32, 10, 12, 31}
+VEHYUE_clean_primitive, Anchors list: {8, 9, 27, 24}, SBU connectlist: {8, 9, 29, 33}
+VEHYUE_clean_primitive, Anchors list: {24, 27, 11}, SBU connectlist: {33, 11, 29}
+VEHYUE_clean_primitive, Anchors list: {25, 10, 5}, SBU connectlist: {10, 5, 31}
+VEHYUE_clean_primitive, Anchors list: {10, 5, 22}, SBU connectlist: {10, 27, 5}
+VEHYUE_clean_primitive, Anchors list: {9, 26, 25}, SBU connectlist: {32, 9, 31}
+VEHYUE_clean_primitive, Anchors list: {21, 6, 22}, SBU connectlist: {25, 27, 6}
+VEHYUE_clean_primitive, Anchors list: {8, 24, 7}, SBU connectlist: {8, 29, 7}
+VEHYUE_clean_primitive, Anchors list: {10, 21, 5}, SBU connectlist: {25, 10, 5}
+VEHYUE_clean_primitive, Anchors list: {8, 20, 7}, SBU connectlist: {8, 24, 7}
+VEHYUE_clean_primitive, Anchors list: {72, 75, 6, 22}, SBU connectlist: {27, 20, 21, 6}
+VEHYUE_clean_primitive, Anchors list: {65, 67, 4, 20}, SBU connectlist: {24, 18, 19, 4}
+VEHYUE_clean_primitive, Anchors list: {19, 3, 60, 62}, SBU connectlist: {3, 44, 38, 23}
+VEHYUE_clean_primitive, Anchors list: {1, 52, 17, 55}, SBU connectlist: {1, 42, 17, 41}
+VEHYUE_clean_primitive, Anchors list: {0, 19, 15}, SBU connectlist: {0, 23, 15}
+VEHYUE_clean_primitive, Anchors list: {4, 20, 23}, SBU connectlist: {24, 4, 28}
+VEHYUE_clean_primitive, Anchors list: {20, 23, 6, 7}, SBU connectlist: {24, 28, 6, 7}
+VEHYUE_clean_primitive, Anchors list: {21, 3, 5, 22}, SBU connectlist: {27, 25, 3, 5}
+VEHYUE_clean_primitive, Anchors list: {17, 2, 18, 4}, SBU connectlist: {17, 2, 4, 22}
+VEHYUE_clean_primitive, Anchors list: {0, 1, 19, 16}, SBU connectlist: {0, 1, 16, 23}
+VEHYUE_clean_primitive, Anchors list: {16, 19, 3}, SBU connectlist: {16, 3, 23}
+VEHYUE_clean_primitive, Anchors list: {1, 18, 17}, SBU connectlist: {1, 17, 22}
+VEHYUE_clean_primitive, Anchors list: {2, 13, 30}, SBU connectlist: {2, 43, 13}
+VEHYUE_clean_primitive, Anchors list: {0, 16, 15}, SBU connectlist: {0, 16, 15}
+VEHYUE_clean_primitive, Anchors list: {2, 29, 13}, SBU connectlist: {2, 45, 13}

@@ -1,0 +1,3 @@
+@ feature_folders/OTODEI_clean/zeo++/OTODEI_clean_pov.txt Unitcell_volume: 1899.55   Density: 1.17554   POAV_A^3: 351.798 POAV_Volume_fraction: 0.1852 POAV_cm^3/g: 0.157544 PONAV_A^3: 52.4277 PONAV_Volume_fraction: 0.0276 PONAV_cm^3/g: 0.0234785
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/OTODEI_clean/zeo++/OTODEI_clean_pov.txt	1.17554	1.86	10000	0.0136	0.0002	0.1852	0.0276	0.3326	0.4546

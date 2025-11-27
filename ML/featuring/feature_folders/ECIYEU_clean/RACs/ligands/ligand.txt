@@ -1,0 +1,4 @@
+ECIYEU_clean_primitive, Anchors list: {24, 9, 10}, SBU connectlist: {9, 10, 12}
+ECIYEU_clean_primitive, Anchors list: {8, 25, 7}, SBU connectlist: {8, 13, 7}
+ECIYEU_clean_primitive, Anchors list: {26, 3, 4}, SBU connectlist: {3, 4, 14}
+ECIYEU_clean_primitive, Anchors list: {1, 2, 27}, SBU connectlist: {1, 2, 15}

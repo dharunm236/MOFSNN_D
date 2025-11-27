@@ -1,0 +1,3 @@
+@ feature_folders/REYJEM_clean/zeo++/REYJEM_clean_sa.txt Unitcell_volume: 4149.51   Density: 0.811705   ASA_A^2: 742.751 ASA_m^2/cm^3: 1789.97 ASA_m^2/g: 2205.2 NASA_A^2: 45.6671 NASA_m^2/cm^3: 110.054 NASA_m^2/g: 135.584
+Number_of_channels: 1 Channel_surface_area_A^2: 742.751  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 23.2205  22.4466  

@@ -1,0 +1,1 @@
+OQUZIL_clean_primitive3, Anchors list: {128, 129, 130, 131, 132, 133, 137, 138, 139, 119, 120, 121}, SBU connectlist: {1}

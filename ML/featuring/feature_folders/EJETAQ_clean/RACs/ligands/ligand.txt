@@ -1,0 +1,4 @@
+EJETAQ_clean_primitive11, Anchors list: {3}, SBU connectlist: {3}
+EJETAQ_clean_primitive10, Anchors list: {2}, SBU connectlist: {2}
+EJETAQ_clean_primitive9, Anchors list: {0}, SBU connectlist: {0}
+EJETAQ_clean_primitive8, Anchors list: {1}, SBU connectlist: {1}

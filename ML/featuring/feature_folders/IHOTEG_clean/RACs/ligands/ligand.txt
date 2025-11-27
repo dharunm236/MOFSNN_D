@@ -1,0 +1,8 @@
+IHOTEG_clean_primitive, Anchors list: {183, 107, 181, 173}, SBU connectlist: {1, 2}
+IHOTEG_clean_primitive, Anchors list: {106, 172, 180, 182}, SBU connectlist: {0, 7}
+IHOTEG_clean_primitive, Anchors list: {184, 186, 131, 181}, SBU connectlist: {8, 1}
+IHOTEG_clean_primitive, Anchors list: {185, 130, 187, 180}, SBU connectlist: {0, 9}
+IHOTEG_clean_primitive, Anchors list: {177, 170, 172, 101}, SBU connectlist: {4, 7}
+IHOTEG_clean_primitive, Anchors list: {176, 171, 100, 173}, SBU connectlist: {2, 3}
+IHOTEG_clean_primitive, Anchors list: {177, 185, 125, 175}, SBU connectlist: {9, 4}
+IHOTEG_clean_primitive, Anchors list: {176, 124, 174, 184}, SBU connectlist: {8, 3}

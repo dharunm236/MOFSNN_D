@@ -1,0 +1,1 @@
+feature_folders/AVIMUO_clean/zeo++/AVIMUO_clean_pd.txt    5.70679 3.63990  5.25909

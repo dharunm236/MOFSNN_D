@@ -1,0 +1,3 @@
+@ feature_folders/QODHUO_clean/zeo++/QODHUO_clean_sa.txt Unitcell_volume: 4182.64   Density: 1.33459   ASA_A^2: 349.013 ASA_m^2/cm^3: 834.433 ASA_m^2/g: 625.234 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 174.418  174.596  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

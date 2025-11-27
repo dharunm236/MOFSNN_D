@@ -1,0 +1,1 @@
+feature_folders/PURRIE_clean/zeo++/PURRIE_clean_pd.txt    4.99199 2.94614  4.79999

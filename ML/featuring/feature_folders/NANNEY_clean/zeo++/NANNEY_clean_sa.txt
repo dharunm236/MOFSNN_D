@@ -1,0 +1,3 @@
+@ feature_folders/NANNEY_clean/zeo++/NANNEY_clean_sa.txt Unitcell_volume: 4262.31   Density: 1.29059   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 97.3772 NASA_m^2/cm^3: 228.461 NASA_m^2/g: 177.02
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 24.1646  24.7056  24.7511  23.7558  

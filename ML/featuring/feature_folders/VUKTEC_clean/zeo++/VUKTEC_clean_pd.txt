@@ -1,0 +1,1 @@
+feature_folders/VUKTEC_clean/zeo++/VUKTEC_clean_pd.txt    5.61851 4.19073  5.61851

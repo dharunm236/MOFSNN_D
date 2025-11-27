@@ -1,0 +1,3 @@
+@ feature_folders/AFOYOK_clean/zeo++/AFOYOK_clean_sa.txt Unitcell_volume: 2508.04   Density: 0.979448   ASA_A^2: 342.997 ASA_m^2/cm^3: 1367.59 ASA_m^2/g: 1396.29 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 172.988  170.01  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

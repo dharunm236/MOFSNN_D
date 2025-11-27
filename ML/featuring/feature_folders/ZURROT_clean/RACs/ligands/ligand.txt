@@ -1,0 +1,4 @@
+ZURROT_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+ZURROT_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+ZURROT_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+ZURROT_clean_primitive, Anchors list: {3}, SBU connectlist: {3}

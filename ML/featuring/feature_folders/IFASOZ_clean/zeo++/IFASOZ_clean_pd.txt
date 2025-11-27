@@ -1,0 +1,1 @@
+feature_folders/IFASOZ_clean/zeo++/IFASOZ_clean_pd.txt    9.64796 7.32340  9.64796

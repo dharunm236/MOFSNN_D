@@ -1,0 +1,14 @@
+XUWVUG_clean_h_primitive, Anchors list: {2, 5}, SBU connectlist: {2, 5}
+XUWVUG_clean_h_primitive, Anchors list: {2, 4}, SBU connectlist: {2, 4}
+XUWVUG_clean_h_primitive, Anchors list: {1, 4}, SBU connectlist: {1, 4}
+XUWVUG_clean_h_primitive, Anchors list: {1, 3}, SBU connectlist: {1, 3}
+XUWVUG_clean_h_primitive, Anchors list: {0}, SBU connectlist: {0}
+XUWVUG_clean_h_primitive, Anchors list: {0, 3}, SBU connectlist: {0, 3}
+XUWVUG_clean_h_primitive, Anchors list: {0, 5}, SBU connectlist: {0, 5}
+XUWVUG_clean_h_primitive, Anchors list: {1, 3}, SBU connectlist: {1, 3}
+XUWVUG_clean_h_primitive, Anchors list: {0, 3}, SBU connectlist: {0, 3}
+XUWVUG_clean_h_primitive, Anchors list: {2, 4}, SBU connectlist: {2, 4}
+XUWVUG_clean_h_primitive, Anchors list: {1, 4}, SBU connectlist: {1, 4}
+XUWVUG_clean_h_primitive, Anchors list: {5}, SBU connectlist: {5}
+XUWVUG_clean_h_primitive, Anchors list: {0, 5}, SBU connectlist: {0, 5}
+XUWVUG_clean_h_primitive, Anchors list: {2, 5}, SBU connectlist: {2, 5}

@@ -1,0 +1,1 @@
+feature_folders/BIPSUQ_clean/zeo++/BIPSUQ_clean_pd.txt    18.61448 16.94537  18.61448

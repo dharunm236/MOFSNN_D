@@ -1,0 +1,1 @@
+feature_folders/QOVSOL_clean/zeo++/QOVSOL_clean_pd.txt    6.42210 3.84022  6.40906

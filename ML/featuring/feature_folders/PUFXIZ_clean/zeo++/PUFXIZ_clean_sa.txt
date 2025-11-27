@@ -1,0 +1,3 @@
+@ feature_folders/PUFXIZ_clean/zeo++/PUFXIZ_clean_sa.txt Unitcell_volume: 2100.24   Density: 1.37474   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 75.5072 NASA_m^2/cm^3: 359.517 NASA_m^2/g: 261.516
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 18.8357  0.0109359  19.1818  0.0218718  0.0109359  0.0377979  18.5302  18.878  

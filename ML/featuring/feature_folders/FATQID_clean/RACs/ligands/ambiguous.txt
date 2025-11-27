@@ -1,0 +1,24 @@
+FATQID_clean_primitive, Anchors list: {3, 37, 39}, SBU connectlist: {1} set to be ligand
+FATQID_clean_primitive, Anchors list: {2, 37, 39}, SBU connectlist: {1} set to be ligand
+FATQID_clean_primitive, Anchors list: {1, 36, 38}, SBU connectlist: {0} set to be ligand
+FATQID_clean_primitive, Anchors list: {0, 36, 38}, SBU connectlist: {0} set to be linker
+FATQID_clean_primitive, Anchors list: {5, 37}, SBU connectlist: {1} set to be ligand
+FATQID_clean_primitive, Anchors list: {36, 4}, SBU connectlist: {0} set to be ligand
+FATQID_clean_primitive, Anchors list: {27, 19}, SBU connectlist: {3} set to be linker
+FATQID_clean_primitive, Anchors list: {18, 26}, SBU connectlist: {2} set to be linker
+FATQID_clean_primitive, Anchors list: {25, 27, 23}, SBU connectlist: {3} set to be linker
+FATQID_clean_primitive, Anchors list: {24, 26, 20}, SBU connectlist: {2} set to be linker
+FATQID_clean_primitive, Anchors list: {25, 27, 22}, SBU connectlist: {3} set to be linker
+FATQID_clean_primitive, Anchors list: {24, 26, 21}, SBU connectlist: {2} set to be linker
+FATQID_clean_primitive, Anchors list: {17, 19, 22}, SBU connectlist: {3} set to be linker
+FATQID_clean_primitive, Anchors list: {16, 18, 21}, SBU connectlist: {2} set to be linker
+FATQID_clean_primitive, Anchors list: {17, 19, 23}, SBU connectlist: {3} set to be linker
+FATQID_clean_primitive, Anchors list: {16, 18, 20}, SBU connectlist: {2} set to be linker
+FATQID_clean_primitive, Anchors list: {17, 25}, SBU connectlist: {3} set to be linker
+FATQID_clean_primitive, Anchors list: {16, 24}, SBU connectlist: {2} set to be linker
+FATQID_clean_primitive, Anchors list: {7, 39}, SBU connectlist: {1} set to be ligand
+FATQID_clean_primitive, Anchors list: {38, 6}, SBU connectlist: {0} set to be ligand
+FATQID_clean_primitive, Anchors list: {3, 5, 7}, SBU connectlist: {1} set to be ligand
+FATQID_clean_primitive, Anchors list: {0, 4, 6}, SBU connectlist: {0} set to be linker
+FATQID_clean_primitive, Anchors list: {2, 5, 7}, SBU connectlist: {1} set to be ligand
+FATQID_clean_primitive, Anchors list: {1, 4, 6}, SBU connectlist: {0} set to be linker

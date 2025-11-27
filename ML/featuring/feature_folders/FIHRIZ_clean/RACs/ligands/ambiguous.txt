@@ -1,0 +1,2 @@
+FIHRIZ_clean_primitive, Anchors list: {1, 5}, SBU connectlist: {0} set to be linker
+FIHRIZ_clean_primitive, Anchors list: {2, 4}, SBU connectlist: {1} set to be linker

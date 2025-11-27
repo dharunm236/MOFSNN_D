@@ -1,0 +1,8 @@
+DEJCEB_clean_primitive, Anchors list: {12}, SBU connectlist: {12}
+DEJCEB_clean_primitive, Anchors list: {13}, SBU connectlist: {13}
+DEJCEB_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+DEJCEB_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+DEJCEB_clean_primitive, Anchors list: {5}, SBU connectlist: {5}
+DEJCEB_clean_primitive, Anchors list: {4}, SBU connectlist: {4}
+DEJCEB_clean_primitive, Anchors list: {10}, SBU connectlist: {10}
+DEJCEB_clean_primitive, Anchors list: {11}, SBU connectlist: {11}

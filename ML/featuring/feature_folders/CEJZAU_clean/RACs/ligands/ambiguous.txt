@@ -1,0 +1,4 @@
+CEJZAU_clean_primitive, Anchors list: {0, 3, 4, 7}, SBU connectlist: {0} set to be linker
+CEJZAU_clean_primitive, Anchors list: {9, 2, 6, 1}, SBU connectlist: {1} set to be linker
+CEJZAU_clean_primitive, Anchors list: {8, 0, 4, 7}, SBU connectlist: {0} set to be linker
+CEJZAU_clean_primitive, Anchors list: {1, 2, 5, 9}, SBU connectlist: {1} set to be linker

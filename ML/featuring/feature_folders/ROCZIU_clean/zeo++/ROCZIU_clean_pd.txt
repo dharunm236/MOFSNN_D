@@ -1,0 +1,1 @@
+feature_folders/ROCZIU_clean/zeo++/ROCZIU_clean_pd.txt    6.78863 5.28492  6.77074

@@ -1,0 +1,3 @@
+@ feature_folders/DANROC_clean/zeo++/DANROC_clean_pov.txt Unitcell_volume: 4344.4   Density: 1.18504   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 1148.66 PONAV_Volume_fraction: 0.2644 PONAV_cm^3/g: 0.223115
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/DANROC_clean/zeo++/DANROC_clean_pov.txt	1.18504	1.86	10000	0	0.067	0	0.2644	0.2467	0.4889

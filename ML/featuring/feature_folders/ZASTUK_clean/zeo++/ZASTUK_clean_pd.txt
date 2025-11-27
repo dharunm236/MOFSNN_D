@@ -1,0 +1,1 @@
+feature_folders/ZASTUK_clean/zeo++/ZASTUK_clean_pd.txt    5.34499 3.95884  5.34499

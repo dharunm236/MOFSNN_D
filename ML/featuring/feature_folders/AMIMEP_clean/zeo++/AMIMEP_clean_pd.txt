@@ -1,0 +1,1 @@
+feature_folders/AMIMEP_clean/zeo++/AMIMEP_clean_pd.txt    11.21563 10.87494  11.21563

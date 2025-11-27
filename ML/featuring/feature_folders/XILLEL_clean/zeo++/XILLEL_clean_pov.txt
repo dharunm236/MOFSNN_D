@@ -1,0 +1,3 @@
+@ feature_folders/XILLEL_clean/zeo++/XILLEL_clean_pov.txt Unitcell_volume: 8743.05   Density: 0.988669   POAV_A^3: 3156.24 POAV_Volume_fraction: 0.361 POAV_cm^3/g: 0.365137 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XILLEL_clean/zeo++/XILLEL_clean_pov.txt	0.988669	1.86	10000	0.0773	0	0.361	0	0.2243	0.4147

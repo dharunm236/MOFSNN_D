@@ -1,0 +1,4 @@
+LECFAC_clean_primitive, Anchors list: {16, 1, 4}, SBU connectlist: {1} set to be linker
+LECFAC_clean_primitive, Anchors list: {2, 3, 15}, SBU connectlist: {2} set to be ligand
+LECFAC_clean_primitive, Anchors list: {10, 11, 14}, SBU connectlist: {6} set to be linker
+LECFAC_clean_primitive, Anchors list: {8, 9, 5}, SBU connectlist: {3} set to be linker

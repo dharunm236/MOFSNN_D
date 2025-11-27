@@ -1,0 +1,4 @@
+ROCZUG_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0, 2}
+ROCZUG_clean_primitive, Anchors list: {1, 3}, SBU connectlist: {1, 3}
+ROCZUG_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}
+ROCZUG_clean_primitive, Anchors list: {2, 5}, SBU connectlist: {2, 5}

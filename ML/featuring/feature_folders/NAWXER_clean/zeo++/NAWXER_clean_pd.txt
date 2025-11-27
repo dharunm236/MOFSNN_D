@@ -1,0 +1,1 @@
+feature_folders/NAWXER_clean/zeo++/NAWXER_clean_pd.txt    9.10021 5.60398  6.08561

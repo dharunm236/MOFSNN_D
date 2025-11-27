@@ -1,0 +1,4 @@
+HEDBOJ_clean_primitive, Anchors list: {4, 5}, SBU connectlist: {4, 5}
+HEDBOJ_clean_primitive, Anchors list: {10, 11}, SBU connectlist: {10, 11}
+HEDBOJ_clean_primitive, Anchors list: {6, 7}, SBU connectlist: {6, 7}
+HEDBOJ_clean_primitive, Anchors list: {8, 9}, SBU connectlist: {8, 9}

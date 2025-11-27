@@ -1,0 +1,2 @@
+IBOZIK_clean_primitive5, Anchors list: {0, 5}, SBU connectlist: {0}
+IBOZIK_clean_primitive3, Anchors list: {2, 7}, SBU connectlist: {0}

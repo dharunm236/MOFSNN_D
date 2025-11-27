@@ -1,0 +1,1 @@
+feature_folders/SAKDEQ_clean/zeo++/SAKDEQ_clean_pd.txt    5.81833 2.63968  5.81833

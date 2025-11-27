@@ -1,0 +1,1 @@
+feature_folders/GIRYUD_clean/zeo++/GIRYUD_clean_pd.txt    4.50039 3.68191  4.49771

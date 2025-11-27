@@ -1,0 +1,1 @@
+feature_folders/BETGIS_clean/zeo++/BETGIS_clean_pd.txt    14.00278 4.06192  14.00278

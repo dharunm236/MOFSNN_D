@@ -1,0 +1,1 @@
+feature_folders/ASINEX_clean/zeo++/ASINEX_clean_pd.txt    12.52181 7.27697  12.52053

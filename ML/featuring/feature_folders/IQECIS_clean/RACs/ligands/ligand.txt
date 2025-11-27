@@ -1,0 +1,3 @@
+IQECIS_clean_primitive14, Anchors list: {8, 10, 11}, SBU connectlist: {3}
+IQECIS_clean_primitive13, Anchors list: {4, 5, 7}, SBU connectlist: {1}
+IQECIS_clean_primitive12, Anchors list: {0, 2, 3}, SBU connectlist: {0}

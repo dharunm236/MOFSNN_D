@@ -1,0 +1,3 @@
+@ feature_folders/HOLQIK_clean/zeo++/HOLQIK_clean_sa.txt Unitcell_volume: 16356.1   Density: 0.913109   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 2282.39 NASA_m^2/cm^3: 1395.44 NASA_m^2/g: 1528.23
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 68.0391  504.058  500.487  506.27  503.497  66.7603  67.9809  65.301  

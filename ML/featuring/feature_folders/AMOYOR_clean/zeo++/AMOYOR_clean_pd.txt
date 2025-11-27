@@ -1,0 +1,1 @@
+feature_folders/AMOYOR_clean/zeo++/AMOYOR_clean_pd.txt    4.82905 4.48972  4.82035

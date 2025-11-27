@@ -1,0 +1,1 @@
+feature_folders/VOTKEW_clean/zeo++/VOTKEW_clean_pd.txt    5.13874 3.68344  5.13250

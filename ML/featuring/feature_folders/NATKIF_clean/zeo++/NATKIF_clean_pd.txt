@@ -1,0 +1,1 @@
+feature_folders/NATKIF_clean/zeo++/NATKIF_clean_pd.txt    17.00982 12.93858  16.43746

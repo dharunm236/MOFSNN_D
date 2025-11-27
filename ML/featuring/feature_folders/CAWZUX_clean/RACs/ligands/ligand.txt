@@ -1,0 +1,6 @@
+CAWZUX_clean_primitive15, Anchors list: {32, 31}, SBU connectlist: {0}
+CAWZUX_clean_primitive11, Anchors list: {27, 28}, SBU connectlist: {0}
+CAWZUX_clean_primitive10, Anchors list: {26}, SBU connectlist: {0}
+CAWZUX_clean_primitive9, Anchors list: {34, 29}, SBU connectlist: {0}
+CAWZUX_clean_primitive5, Anchors list: {33}, SBU connectlist: {0}
+CAWZUX_clean_primitive1, Anchors list: {25, 30}, SBU connectlist: {0}

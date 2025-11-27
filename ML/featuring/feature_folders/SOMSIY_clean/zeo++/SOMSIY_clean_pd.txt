@@ -1,0 +1,1 @@
+feature_folders/SOMSIY_clean/zeo++/SOMSIY_clean_pd.txt    6.00235 5.70741  6.00235

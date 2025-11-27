@@ -1,0 +1,3 @@
+@ feature_folders/DACXUB_clean/zeo++/DACXUB_clean_sa.txt Unitcell_volume: 1494.98   Density: 1.48041   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 74.3049 NASA_m^2/cm^3: 497.029 NASA_m^2/g: 335.738
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 1 Pocket_surface_area_A^2: 74.3049  

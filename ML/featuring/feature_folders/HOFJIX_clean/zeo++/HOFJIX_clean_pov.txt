@@ -1,0 +1,3 @@
+@ feature_folders/HOFJIX_clean/zeo++/HOFJIX_clean_pov.txt Unitcell_volume: 11061.4   Density: 1.06294   POAV_A^3: 4452.21 POAV_Volume_fraction: 0.4025 POAV_cm^3/g: 0.378667 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/HOFJIX_clean/zeo++/HOFJIX_clean_pov.txt	1.06294	1.86	10000	0.1632	0	0.4025	0	0.1848	0.4127

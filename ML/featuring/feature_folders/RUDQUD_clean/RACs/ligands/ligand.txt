@@ -1,0 +1,8 @@
+RUDQUD_clean_primitive, Anchors list: {29, 22}, SBU connectlist: {29, 22}
+RUDQUD_clean_primitive, Anchors list: {25, 18}, SBU connectlist: {25, 18}
+RUDQUD_clean_primitive, Anchors list: {24, 19}, SBU connectlist: {24, 19}
+RUDQUD_clean_primitive, Anchors list: {13, 6}, SBU connectlist: {13, 6}
+RUDQUD_clean_primitive, Anchors list: {12, 7}, SBU connectlist: {12, 7}
+RUDQUD_clean_primitive, Anchors list: {9, 2}, SBU connectlist: {9, 2}
+RUDQUD_clean_primitive, Anchors list: {8, 3}, SBU connectlist: {8, 3}
+RUDQUD_clean_primitive, Anchors list: {28, 23}, SBU connectlist: {28, 23}

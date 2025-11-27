@@ -1,0 +1,1 @@
+feature_folders/POSFIO_clean/zeo++/POSFIO_clean_pd.txt    6.80619 3.42889  6.80619

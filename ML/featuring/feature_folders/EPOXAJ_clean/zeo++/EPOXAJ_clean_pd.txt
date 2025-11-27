@@ -1,0 +1,1 @@
+feature_folders/EPOXAJ_clean/zeo++/EPOXAJ_clean_pd.txt    4.90808 3.54046  4.77039

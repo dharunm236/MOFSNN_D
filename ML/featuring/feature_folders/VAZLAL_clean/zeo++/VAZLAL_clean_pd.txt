@@ -1,0 +1,1 @@
+feature_folders/VAZLAL_clean/zeo++/VAZLAL_clean_pd.txt    3.43999 2.50635  3.42880

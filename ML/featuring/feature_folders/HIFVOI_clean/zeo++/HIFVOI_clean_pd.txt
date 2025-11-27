@@ -1,0 +1,1 @@
+feature_folders/HIFVOI_clean/zeo++/HIFVOI_clean_pd.txt    9.00136 6.57223  9.00136

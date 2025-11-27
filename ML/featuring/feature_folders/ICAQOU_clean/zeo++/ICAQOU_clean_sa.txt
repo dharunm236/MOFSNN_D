@@ -1,0 +1,3 @@
+@ feature_folders/ICAQOU_clean/zeo++/ICAQOU_clean_sa.txt Unitcell_volume: 20824.1   Density: 0.413296   ASA_A^2: 3947.35 ASA_m^2/cm^3: 1895.57 ASA_m^2/g: 4586.47 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 3947.35  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

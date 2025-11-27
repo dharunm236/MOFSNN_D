@@ -1,0 +1,2 @@
+LUFQUZ02_clean_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+Structure LUFQUZ02_clean_primitive has extremely short ligands, check the outputs

@@ -1,0 +1,1 @@
+feature_folders/ZARLIP_clean/zeo++/ZARLIP_clean_pd.txt    9.09773 7.66595  9.09773

@@ -1,0 +1,4 @@
+LIFSEA_clean_primitive, Anchors list: {105}, SBU connectlist: {1}
+LIFSEA_clean_primitive, Anchors list: {104}, SBU connectlist: {0}
+LIFSEA_clean_primitive, Anchors list: {103}, SBU connectlist: {0}
+LIFSEA_clean_primitive, Anchors list: {102}, SBU connectlist: {1}

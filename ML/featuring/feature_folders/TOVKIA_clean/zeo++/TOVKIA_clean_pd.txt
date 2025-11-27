@@ -1,0 +1,1 @@
+feature_folders/TOVKIA_clean/zeo++/TOVKIA_clean_pd.txt    11.37637 5.01755  11.37637

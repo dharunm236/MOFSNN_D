@@ -1,0 +1,8 @@
+HUNFIH_clean_primitive, Anchors list: {12, 15}, SBU connectlist: {0} set to be ligand
+HUNFIH_clean_primitive, Anchors list: {16, 17}, SBU connectlist: {0} set to be linker
+HUNFIH_clean_primitive, Anchors list: {13, 14}, SBU connectlist: {0} set to be ligand
+HUNFIH_clean_primitive, Anchors list: {12, 15}, SBU connectlist: {0} set to be ligand
+HUNFIH_clean_primitive, Anchors list: {12, 15}, SBU connectlist: {0} set to be ligand
+HUNFIH_clean_primitive, Anchors list: {12, 15}, SBU connectlist: {0} set to be ligand
+HUNFIH_clean_primitive, Anchors list: {16, 17}, SBU connectlist: {0} set to be ligand
+HUNFIH_clean_primitive, Anchors list: {13, 14}, SBU connectlist: {0} set to be linker

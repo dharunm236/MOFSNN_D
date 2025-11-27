@@ -1,0 +1,1 @@
+feature_folders/GOPTIQ_clean/zeo++/GOPTIQ_clean_pd.txt    6.68631 4.49619  6.67986

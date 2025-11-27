@@ -1,0 +1,1 @@
+feature_folders/NUCYIV_clean/zeo++/NUCYIV_clean_pd.txt    4.98545 4.21535  4.97291

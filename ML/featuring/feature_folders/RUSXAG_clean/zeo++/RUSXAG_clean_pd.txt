@@ -1,0 +1,1 @@
+feature_folders/RUSXAG_clean/zeo++/RUSXAG_clean_pd.txt    6.42693 3.78742  6.42686

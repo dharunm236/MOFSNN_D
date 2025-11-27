@@ -1,0 +1,96 @@
+FAZFET_clean_primitive, Anchors list: {128, 148, 181}, SBU connectlist: {49, 18, 4}
+FAZFET_clean_primitive, Anchors list: {9, 178, 124}, SBU connectlist: {2, 46}
+FAZFET_clean_primitive, Anchors list: {180, 182}, SBU connectlist: {48, 50}
+FAZFET_clean_primitive, Anchors list: {162, 165}, SBU connectlist: {33, 30}
+FAZFET_clean_primitive, Anchors list: {41, 53, 167}, SBU connectlist: {2, 35}
+FAZFET_clean_primitive, Anchors list: {138, 164, 135}, SBU connectlist: {32, 9, 11}
+FAZFET_clean_primitive, Anchors list: {161, 67, 47}, SBU connectlist: {2, 29}
+FAZFET_clean_primitive, Anchors list: {178, 181}, SBU connectlist: {49, 46}
+FAZFET_clean_primitive, Anchors list: {105, 117, 183}, SBU connectlist: {1, 51}
+FAZFET_clean_primitive, Anchors list: {160, 46, 63}, SBU connectlist: {3, 28}
+FAZFET_clean_primitive, Anchors list: {33, 58, 163}, SBU connectlist: {3, 31}
+FAZFET_clean_primitive, Anchors list: {147, 180, 150}, SBU connectlist: {48, 17, 19}
+FAZFET_clean_primitive, Anchors list: {177, 3, 111}, SBU connectlist: {1, 45}
+FAZFET_clean_primitive, Anchors list: {34, 45, 166}, SBU connectlist: {1, 34}
+FAZFET_clean_primitive, Anchors list: {161, 42, 61}, SBU connectlist: {2, 29}
+FAZFET_clean_primitive, Anchors list: {48, 165, 31}, SBU connectlist: {1, 33}
+FAZFET_clean_primitive, Anchors list: {161, 138, 135}, SBU connectlist: {9, 11, 29}
+FAZFET_clean_primitive, Anchors list: {40, 34, 164}, SBU connectlist: {32, 1}
+FAZFET_clean_primitive, Anchors list: {176, 110, 127}, SBU connectlist: {0, 44}
+FAZFET_clean_primitive, Anchors list: {97, 122, 179}, SBU connectlist: {0, 47}
+FAZFET_clean_primitive, Anchors list: {98, 109, 182}, SBU connectlist: {2, 50}
+FAZFET_clean_primitive, Anchors list: {177, 106, 125}, SBU connectlist: {1, 45}
+FAZFET_clean_primitive, Anchors list: {160, 163}, SBU connectlist: {28, 31}
+FAZFET_clean_primitive, Anchors list: {112, 181, 95}, SBU connectlist: {49, 2}
+FAZFET_clean_primitive, Anchors list: {177, 147, 150}, SBU connectlist: {17, 19, 45}
+FAZFET_clean_primitive, Anchors list: {56, 44, 159}, SBU connectlist: {27, 3}
+FAZFET_clean_primitive, Anchors list: {104, 98, 180}, SBU connectlist: {48, 2}
+FAZFET_clean_primitive, Anchors list: {162, 30, 31}, SBU connectlist: {1, 30}
+FAZFET_clean_primitive, Anchors list: {159, 51, 39}, SBU connectlist: {27, 3}
+FAZFET_clean_primitive, Anchors list: {176, 179}, SBU connectlist: {44, 47}
+FAZFET_clean_primitive, Anchors list: {120, 108, 175}, SBU connectlist: {0, 43}
+FAZFET_clean_primitive, Anchors list: {32, 158, 47}, SBU connectlist: {2, 26}
+FAZFET_clean_primitive, Anchors list: {43, 44, 157}, SBU connectlist: {25, 3}
+FAZFET_clean_primitive, Anchors list: {178, 94, 95}, SBU connectlist: {2, 46}
+FAZFET_clean_primitive, Anchors list: {160, 33, 27}, SBU connectlist: {3, 28}
+FAZFET_clean_primitive, Anchors list: {157, 38, 39}, SBU connectlist: {25, 3}
+FAZFET_clean_primitive, Anchors list: {42, 29, 158}, SBU connectlist: {2, 26}
+FAZFET_clean_primitive, Anchors list: {161, 158}, SBU connectlist: {26, 29}
+FAZFET_clean_primitive, Anchors list: {160, 133, 134}, SBU connectlist: {8, 28, 7}
+FAZFET_clean_primitive, Anchors list: {157, 159}, SBU connectlist: {25, 27}
+FAZFET_clean_primitive, Anchors list: {156, 133, 134}, SBU connectlist: {8, 24, 7}
+FAZFET_clean_primitive, Anchors list: {129, 131, 157}, SBU connectlist: {25, 5, 6}
+FAZFET_clean_primitive, Anchors list: {155, 156}, SBU connectlist: {24, 23}
+FAZFET_clean_primitive, Anchors list: {129, 153, 131}, SBU connectlist: {21, 5, 6}
+FAZFET_clean_primitive, Anchors list: {156, 22, 23}, SBU connectlist: {0, 24}
+FAZFET_clean_primitive, Anchors list: {17, 19, 156}, SBU connectlist: {0, 24}
+FAZFET_clean_primitive, Anchors list: {25, 18, 154}, SBU connectlist: {0, 22}
+FAZFET_clean_primitive, Anchors list: {152, 154}, SBU connectlist: {20, 22}
+FAZFET_clean_primitive, Anchors list: {155, 22, 7}, SBU connectlist: {0, 23}
+FAZFET_clean_primitive, Anchors list: {153, 26, 14}, SBU connectlist: {1, 21}
+FAZFET_clean_primitive, Anchors list: {17, 2, 155}, SBU connectlist: {0, 23}
+FAZFET_clean_primitive, Anchors list: {16, 1, 154}, SBU connectlist: {0, 22}
+FAZFET_clean_primitive, Anchors list: {153, 183}, SBU connectlist: {51, 21}
+FAZFET_clean_primitive, Anchors list: {152, 18, 123}, SBU connectlist: {0, 20}
+FAZFET_clean_primitive, Anchors list: {10, 182, 15}, SBU connectlist: {2, 50}
+FAZFET_clean_primitive, Anchors list: {8, 153, 117}, SBU connectlist: {1, 21}
+FAZFET_clean_primitive, Anchors list: {128, 148, 152}, SBU connectlist: {18, 4, 20}
+FAZFET_clean_primitive, Anchors list: {9, 11, 181}, SBU connectlist: {49, 2}
+FAZFET_clean_primitive, Anchors list: {180, 5, 15}, SBU connectlist: {48, 2}
+FAZFET_clean_primitive, Anchors list: {183, 14, 119}, SBU connectlist: {1, 51}
+FAZFET_clean_primitive, Anchors list: {152, 1, 113}, SBU connectlist: {0, 20}
+FAZFET_clean_primitive, Anchors list: {179, 13, 127}, SBU connectlist: {0, 47}
+FAZFET_clean_primitive, Anchors list: {175, 115, 103}, SBU connectlist: {0, 43}
+FAZFET_clean_primitive, Anchors list: {96, 174, 111}, SBU connectlist: {1, 42}
+FAZFET_clean_primitive, Anchors list: {107, 108, 173}, SBU connectlist: {0, 41}
+FAZFET_clean_primitive, Anchors list: {176, 97, 91}, SBU connectlist: {0, 44}
+FAZFET_clean_primitive, Anchors list: {173, 102, 103}, SBU connectlist: {0, 41}
+FAZFET_clean_primitive, Anchors list: {106, 93, 174}, SBU connectlist: {1, 42}
+FAZFET_clean_primitive, Anchors list: {177, 174}, SBU connectlist: {42, 45}
+FAZFET_clean_primitive, Anchors list: {176, 145, 146}, SBU connectlist: {16, 44, 15}
+FAZFET_clean_primitive, Anchors list: {173, 175}, SBU connectlist: {41, 43}
+FAZFET_clean_primitive, Anchors list: {145, 146, 172}, SBU connectlist: {16, 40, 15}
+FAZFET_clean_primitive, Anchors list: {173, 141, 143}, SBU connectlist: {41, 13, 14}
+FAZFET_clean_primitive, Anchors list: {171, 172}, SBU connectlist: {40, 39}
+FAZFET_clean_primitive, Anchors list: {169, 141, 143}, SBU connectlist: {37, 13, 14}
+FAZFET_clean_primitive, Anchors list: {172, 86, 87}, SBU connectlist: {40, 3}
+FAZFET_clean_primitive, Anchors list: {81, 83, 172}, SBU connectlist: {40, 3}
+FAZFET_clean_primitive, Anchors list: {170, 89, 82}, SBU connectlist: {3, 38}
+FAZFET_clean_primitive, Anchors list: {168, 170}, SBU connectlist: {36, 38}
+FAZFET_clean_primitive, Anchors list: {171, 86, 71}, SBU connectlist: {3, 39}
+FAZFET_clean_primitive, Anchors list: {169, 90, 78}, SBU connectlist: {2, 37}
+FAZFET_clean_primitive, Anchors list: {81, 66, 171}, SBU connectlist: {3, 39}
+FAZFET_clean_primitive, Anchors list: {80, 65, 170}, SBU connectlist: {3, 38}
+FAZFET_clean_primitive, Anchors list: {169, 167}, SBU connectlist: {35, 37}
+FAZFET_clean_primitive, Anchors list: {168, 82, 59}, SBU connectlist: {3, 36}
+FAZFET_clean_primitive, Anchors list: {74, 166, 79}, SBU connectlist: {1, 34}
+FAZFET_clean_primitive, Anchors list: {72, 169, 53}, SBU connectlist: {2, 37}
+FAZFET_clean_primitive, Anchors list: {136, 140, 168}, SBU connectlist: {10, 12, 36}
+FAZFET_clean_primitive, Anchors list: {73, 75, 165}, SBU connectlist: {1, 33}
+FAZFET_clean_primitive, Anchors list: {164, 69, 79}, SBU connectlist: {32, 1}
+FAZFET_clean_primitive, Anchors list: {167, 78, 55}, SBU connectlist: {2, 35}
+FAZFET_clean_primitive, Anchors list: {65, 49, 168}, SBU connectlist: {3, 36}
+FAZFET_clean_primitive, Anchors list: {163, 77, 63}, SBU connectlist: {3, 31}
+FAZFET_clean_primitive, Anchors list: {136, 140, 165}, SBU connectlist: {33, 10, 12}
+FAZFET_clean_primitive, Anchors list: {73, 162, 60}, SBU connectlist: {1, 30}
+FAZFET_clean_primitive, Anchors list: {164, 166}, SBU connectlist: {32, 34}

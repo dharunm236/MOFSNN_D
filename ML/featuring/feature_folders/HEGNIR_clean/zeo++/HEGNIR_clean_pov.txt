@@ -1,0 +1,3 @@
+@ feature_folders/HEGNIR_clean/zeo++/HEGNIR_clean_pov.txt Unitcell_volume: 2193.32   Density: 1.93131   POAV_A^3: 361.459 POAV_Volume_fraction: 0.1648 POAV_cm^3/g: 0.0853305 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/HEGNIR_clean/zeo++/HEGNIR_clean_pov.txt	1.93131	1.86	10000	0.0172	0	0.1648	0	0.2346	0.6006

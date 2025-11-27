@@ -1,0 +1,1 @@
+feature_folders/GAYPED_clean/zeo++/GAYPED_clean_pd.txt    9.58074 6.82289  8.02125

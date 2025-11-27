@@ -1,0 +1,4 @@
+POMMAH_clean_primitive, Anchors list: {9, 10, 6}, SBU connectlist: {10, 11, 7}
+POMMAH_clean_primitive, Anchors list: {8, 11, 7}, SBU connectlist: {8, 9, 12}
+POMMAH_clean_primitive, Anchors list: {1, 2, 5}, SBU connectlist: {1, 2, 6}
+POMMAH_clean_primitive, Anchors list: {0, 3, 4}, SBU connectlist: {0, 4, 5}

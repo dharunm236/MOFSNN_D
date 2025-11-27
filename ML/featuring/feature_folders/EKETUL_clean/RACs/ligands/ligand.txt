@@ -1,0 +1,2 @@
+EKETUL_clean_primitive5, Anchors list: {92}, SBU connectlist: {0}
+EKETUL_clean_primitive4, Anchors list: {93}, SBU connectlist: {1}

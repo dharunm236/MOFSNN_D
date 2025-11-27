@@ -1,0 +1,1 @@
+feature_folders/DUYREV_clean/zeo++/DUYREV_clean_pd.txt    5.41837 3.69977  5.33563

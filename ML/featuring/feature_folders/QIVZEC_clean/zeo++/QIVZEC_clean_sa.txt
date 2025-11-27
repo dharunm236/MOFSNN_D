@@ -1,0 +1,3 @@
+@ feature_folders/QIVZEC_clean/zeo++/QIVZEC_clean_sa.txt Unitcell_volume: 4761.62   Density: 1.23808   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 237.81 NASA_m^2/cm^3: 499.431 NASA_m^2/g: 403.39
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 120.751  0.117428  116.804  0.136775  

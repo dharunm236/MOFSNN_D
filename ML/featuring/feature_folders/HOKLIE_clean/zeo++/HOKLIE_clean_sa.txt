@@ -1,0 +1,3 @@
+@ feature_folders/HOKLIE_clean/zeo++/HOKLIE_clean_sa.txt Unitcell_volume: 5098.44   Density: 1.31362   ASA_A^2: 326.457 ASA_m^2/cm^3: 640.308 ASA_m^2/g: 487.438 NASA_A^2: 65.3217 NASA_m^2/cm^3: 128.121 NASA_m^2/g: 97.5326
+Number_of_channels: 1 Channel_surface_area_A^2: 326.457  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 33.3673  31.9543  

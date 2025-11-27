@@ -1,0 +1,1 @@
+feature_folders/DIDBAV_clean/zeo++/DIDBAV_clean_pd.txt    9.28847 5.74363  7.91915

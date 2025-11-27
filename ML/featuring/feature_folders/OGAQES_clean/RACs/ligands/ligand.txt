@@ -1,0 +1,12 @@
+OGAQES_clean_primitive, Anchors list: {25, 27, 5}, SBU connectlist: {3}
+OGAQES_clean_primitive, Anchors list: {24, 26, 4}, SBU connectlist: {3}
+OGAQES_clean_primitive, Anchors list: {49, 3, 51}, SBU connectlist: {1}
+OGAQES_clean_primitive, Anchors list: {48, 2, 50}, SBU connectlist: {1}
+OGAQES_clean_primitive, Anchors list: {1, 45, 47}, SBU connectlist: {0}
+OGAQES_clean_primitive, Anchors list: {0, 44, 46}, SBU connectlist: {0}
+OGAQES_clean_primitive, Anchors list: {56, 36, 6, 7}, SBU connectlist: {2, 4}
+OGAQES_clean_primitive, Anchors list: {57, 37, 4, 5}, SBU connectlist: {3, 5}
+OGAQES_clean_primitive, Anchors list: {18, 2, 3, 38}, SBU connectlist: {1, 6}
+OGAQES_clean_primitive, Anchors list: {0, 1, 19, 39}, SBU connectlist: {0, 7}
+OGAQES_clean_primitive, Anchors list: {31, 29, 7}, SBU connectlist: {2}
+OGAQES_clean_primitive, Anchors list: {28, 6, 30}, SBU connectlist: {2}

@@ -1,0 +1,1 @@
+feature_folders/ONAWEG01_clean/zeo++/ONAWEG01_clean_pd.txt    3.83089 2.66991  3.83089

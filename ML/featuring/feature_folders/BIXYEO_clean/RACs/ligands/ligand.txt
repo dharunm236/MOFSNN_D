@@ -1,0 +1,17 @@
+BIXYEO_clean_primitive, Anchors list: {1, 33}, SBU connectlist: {1, 9}
+BIXYEO_clean_primitive, Anchors list: {4, 46}, SBU connectlist: {8, 4}
+BIXYEO_clean_primitive, Anchors list: {3, 36}, SBU connectlist: {9, 3}
+BIXYEO_clean_primitive, Anchors list: {1, 28}, SBU connectlist: {8, 1}
+BIXYEO_clean_primitive, Anchors list: {45, 5}, SBU connectlist: {8, 5}
+BIXYEO_clean_primitive, Anchors list: {0, 27}, SBU connectlist: {0, 8}
+BIXYEO_clean_primitive, Anchors list: {40, 5}, SBU connectlist: {9, 5}
+BIXYEO_clean_primitive, Anchors list: {48, 7}, SBU connectlist: {8, 7}
+BIXYEO_clean_primitive, Anchors list: {4, 39}, SBU connectlist: {9, 4}
+BIXYEO_clean_primitive, Anchors list: {6, 47}, SBU connectlist: {8, 6}
+BIXYEO_clean_primitive, Anchors list: {42, 6}, SBU connectlist: {9, 6}
+BIXYEO_clean_primitive, Anchors list: {41, 7}, SBU connectlist: {9, 7}
+BIXYEO_clean_primitive, Anchors list: {2, 35}, SBU connectlist: {9, 2}
+BIXYEO_clean_primitive, Anchors list: {2, 30}, SBU connectlist: {8, 2}
+BIXYEO_clean_primitive, Anchors list: {3, 29}, SBU connectlist: {8, 3}
+BIXYEO_clean_primitive, Anchors list: {0, 34}, SBU connectlist: {0, 9}
+BIXYEO_clean_primitive1, Anchors list: {32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43}, SBU connectlist: {9}

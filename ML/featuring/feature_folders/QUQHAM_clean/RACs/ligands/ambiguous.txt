@@ -1,0 +1,2 @@
+QUQHAM_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {0} set to be linker
+QUQHAM_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0} set to be linker

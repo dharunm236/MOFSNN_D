@@ -1,0 +1,1 @@
+feature_folders/GAFBEX_clean/zeo++/GAFBEX_clean_pd.txt    3.39719 2.57051  3.39719

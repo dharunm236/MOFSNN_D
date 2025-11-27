@@ -1,0 +1,1 @@
+TOVHUJ_clean_primitive5, Anchors list: {0, 1}, SBU connectlist: {0}

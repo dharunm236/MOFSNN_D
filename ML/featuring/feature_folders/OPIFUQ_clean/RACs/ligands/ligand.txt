@@ -1,0 +1,6 @@
+OPIFUQ_clean_primitive, Anchors list: {448, 461, 453, 456}, SBU connectlist: {0, 8, 13, 5}
+OPIFUQ_clean_primitive, Anchors list: {449, 460, 452, 457}, SBU connectlist: {1, 4, 12, 9}
+OPIFUQ_clean_primitive, Anchors list: {447, 451, 459, 455}, SBU connectlist: {11, 3, 23, 7}
+OPIFUQ_clean_primitive, Anchors list: {458, 450, 446, 454}, SBU connectlist: {2, 10, 6, 22}
+OPIFUQ_clean_primitive, Anchors list: {441, 443, 445, 439}, SBU connectlist: {17, 19, 21, 15}
+OPIFUQ_clean_primitive, Anchors list: {440, 442, 444, 438}, SBU connectlist: {16, 18, 20, 14}

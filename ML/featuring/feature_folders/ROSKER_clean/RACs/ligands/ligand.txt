@@ -1,0 +1,8 @@
+ROSKER_clean_primitive, Anchors list: {27}, SBU connectlist: {11}
+ROSKER_clean_primitive, Anchors list: {25}, SBU connectlist: {9}
+ROSKER_clean_primitive, Anchors list: {24}, SBU connectlist: {8}
+ROSKER_clean_primitive, Anchors list: {26}, SBU connectlist: {10}
+ROSKER_clean_primitive, Anchors list: {26}, SBU connectlist: {10}
+ROSKER_clean_primitive, Anchors list: {24}, SBU connectlist: {8}
+ROSKER_clean_primitive, Anchors list: {25}, SBU connectlist: {9}
+ROSKER_clean_primitive, Anchors list: {27}, SBU connectlist: {11}

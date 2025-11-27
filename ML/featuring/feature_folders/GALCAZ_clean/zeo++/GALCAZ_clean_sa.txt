@@ -1,0 +1,3 @@
+@ feature_folders/GALCAZ_clean/zeo++/GALCAZ_clean_sa.txt Unitcell_volume: 4218.32   Density: 1.17363   ASA_A^2: 430.509 ASA_m^2/cm^3: 1020.57 ASA_m^2/g: 869.583 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 4 Channel_surface_area_A^2: 108.728  106.634  106.816  108.331  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

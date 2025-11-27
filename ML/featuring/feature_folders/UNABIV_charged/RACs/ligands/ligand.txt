@@ -1,0 +1,4 @@
+UNABIV_charged_primitive, Anchors list: {7}, SBU connectlist: {1}
+UNABIV_charged_primitive, Anchors list: {0}, SBU connectlist: {0}
+UNABIV_charged_primitive, Anchors list: {11}, SBU connectlist: {3}
+UNABIV_charged_primitive, Anchors list: {4}, SBU connectlist: {2}

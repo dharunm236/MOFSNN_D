@@ -1,0 +1,3 @@
+@ feature_folders/FUDGES_clean/zeo++/FUDGES_clean_pov.txt Unitcell_volume: 3711.39   Density: 0.846504   POAV_A^3: 2301.06 POAV_Volume_fraction: 0.62 POAV_cm^3/g: 0.732424 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FUDGES_clean/zeo++/FUDGES_clean_pov.txt	0.846504	1.86	10000	0.1823	0	0.62	0	0.1021	0.2779

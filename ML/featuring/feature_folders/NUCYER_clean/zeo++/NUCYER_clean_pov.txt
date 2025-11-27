@@ -1,0 +1,3 @@
+@ feature_folders/NUCYER_clean/zeo++/NUCYER_clean_pov.txt Unitcell_volume: 2225.31   Density: 1.49997   POAV_A^3: 370.291 POAV_Volume_fraction: 0.1664 POAV_cm^3/g: 0.110935 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/NUCYER_clean/zeo++/NUCYER_clean_pov.txt	1.49997	1.86	10000	0.0108	0	0.1664	0	0.3179	0.5157

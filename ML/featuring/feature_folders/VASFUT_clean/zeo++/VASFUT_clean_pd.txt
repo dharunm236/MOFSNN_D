@@ -1,0 +1,1 @@
+feature_folders/VASFUT_clean/zeo++/VASFUT_clean_pd.txt    5.82317 4.52383  5.82317

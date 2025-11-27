@@ -1,0 +1,1 @@
+feature_folders/NUVYIN_clean/zeo++/NUVYIN_clean_pd.txt    5.06465 3.39913  5.06465

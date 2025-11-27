@@ -1,0 +1,4 @@
+HAWREE_clean_primitive, Anchors list: {8, 49, 5}, SBU connectlist: {1}
+HAWREE_clean_primitive, Anchors list: {42, 4, 6}, SBU connectlist: {0}
+HAWREE_clean_primitive, Anchors list: {29, 3, 5}, SBU connectlist: {1}
+HAWREE_clean_primitive, Anchors list: {1, 4, 22}, SBU connectlist: {0}

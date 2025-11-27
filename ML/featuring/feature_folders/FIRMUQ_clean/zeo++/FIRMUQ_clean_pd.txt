@@ -1,0 +1,1 @@
+feature_folders/FIRMUQ_clean/zeo++/FIRMUQ_clean_pd.txt    6.37916 5.90394  6.37916

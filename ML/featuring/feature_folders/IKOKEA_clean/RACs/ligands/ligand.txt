@@ -1,0 +1,2 @@
+IKOKEA_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0, 5}
+IKOKEA_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0, 5}

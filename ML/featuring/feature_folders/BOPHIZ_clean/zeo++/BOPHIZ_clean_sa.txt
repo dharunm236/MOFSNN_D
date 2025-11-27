@@ -1,0 +1,3 @@
+@ feature_folders/BOPHIZ_clean/zeo++/BOPHIZ_clean_sa.txt Unitcell_volume: 3067.68   Density: 1.23618   ASA_A^2: 386.902 ASA_m^2/cm^3: 1261.22 ASA_m^2/g: 1020.25 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 386.902  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

@@ -1,0 +1,3 @@
+@ feature_folders/EVUNAL_clean/zeo++/EVUNAL_clean_pov.txt Unitcell_volume: 1907.56   Density: 2.17687   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 246.075 PONAV_Volume_fraction: 0.129 PONAV_cm^3/g: 0.0592594
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/EVUNAL_clean/zeo++/EVUNAL_clean_pov.txt	2.17687	1.86	10000	0	0.0027	0	0.129	0.2957	0.5753

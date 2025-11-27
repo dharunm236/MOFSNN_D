@@ -1,0 +1,4 @@
+PIGHIX_clean_primitive7, Anchors list: {96}, SBU connectlist: {0}
+PIGHIX_clean_primitive6, Anchors list: {97}, SBU connectlist: {1}
+PIGHIX_clean_primitive5, Anchors list: {99}, SBU connectlist: {3}
+PIGHIX_clean_primitive0, Anchors list: {101}, SBU connectlist: {5}

@@ -1,0 +1,1 @@
+feature_folders/ZINDAD_clean/zeo++/ZINDAD_clean_pd.txt    16.44314 6.73264  16.44314

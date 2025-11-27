@@ -1,0 +1,3 @@
+@ feature_folders/BAZGAM_clean/zeo++/BAZGAM_clean_pov.txt Unitcell_volume: 79692.1   Density: 0.126526   POAV_A^3: 73978.2 POAV_Volume_fraction: 0.9283 POAV_cm^3/g: 7.33684 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/BAZGAM_clean/zeo++/BAZGAM_clean_pov.txt	0.126526	1.86	10000	0.8048	0	0.9283	0	0.0124	0.0593

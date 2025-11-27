@@ -1,0 +1,3 @@
+@ feature_folders/GOSRIP_clean/zeo++/GOSRIP_clean_sa.txt Unitcell_volume: 3407.25   Density: 1.80918   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 45.2515 NASA_m^2/cm^3: 132.809 NASA_m^2/g: 73.4087
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 24 Pocket_surface_area_A^2: 10.3632  0  0  0  0.0143563  0  0.171011  0.170168  11.032  0.0143563  0.0852947  0.213237  11.2831  0  0  0.028291  11.0932  0.228858  0.0143563  0  0  0.142298  0.184524  0.213237  

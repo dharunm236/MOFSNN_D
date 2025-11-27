@@ -1,0 +1,3 @@
+@ feature_folders/PATNAB_clean/zeo++/PATNAB_clean_pov.txt Unitcell_volume: 2706.01   Density: 1.35956   POAV_A^3: 1499.94 POAV_Volume_fraction: 0.5543 POAV_cm^3/g: 0.407705 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/PATNAB_clean/zeo++/PATNAB_clean_pov.txt	1.35956	1.86	10000	0.1941	0	0.5543	0	0.1288	0.3169

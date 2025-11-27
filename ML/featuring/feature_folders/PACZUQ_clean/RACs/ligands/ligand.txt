@@ -1,0 +1,12 @@
+PACZUQ_clean_primitive, Anchors list: {1, 18}, SBU connectlist: {1, 13}
+PACZUQ_clean_primitive, Anchors list: {75, 5}, SBU connectlist: {9, 6}
+PACZUQ_clean_primitive, Anchors list: {0, 20}, SBU connectlist: {0, 16}
+PACZUQ_clean_primitive, Anchors list: {4, 77}, SBU connectlist: {10, 5}
+PACZUQ_clean_primitive, Anchors list: {0, 78}, SBU connectlist: {0, 11}
+PACZUQ_clean_primitive, Anchors list: {4, 61}, SBU connectlist: {17, 5}
+PACZUQ_clean_primitive, Anchors list: {2, 59}, SBU connectlist: {2, 15}
+PACZUQ_clean_primitive, Anchors list: {57, 3}, SBU connectlist: {3, 14}
+PACZUQ_clean_primitive, Anchors list: {2, 38}, SBU connectlist: {8, 2}
+PACZUQ_clean_primitive, Anchors list: {3, 36}, SBU connectlist: {3, 7}
+PACZUQ_clean_primitive, Anchors list: {1, 34}, SBU connectlist: {1, 4}
+PACZUQ_clean_primitive, Anchors list: {17, 5}, SBU connectlist: {12, 6}

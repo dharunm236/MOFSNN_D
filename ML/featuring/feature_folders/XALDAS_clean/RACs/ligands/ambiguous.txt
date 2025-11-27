@@ -1,0 +1,6 @@
+XALDAS_clean_primitive, Anchors list: {162, 163, 164, 165}, SBU connectlist: {1} set to be linker
+XALDAS_clean_primitive, Anchors list: {160, 161, 158, 159}, SBU connectlist: {0} set to be linker
+XALDAS_clean_primitive, Anchors list: {160, 161, 158, 159}, SBU connectlist: {0} set to be linker
+XALDAS_clean_primitive, Anchors list: {160, 161, 158, 159}, SBU connectlist: {0} set to be linker
+XALDAS_clean_primitive, Anchors list: {162, 163, 164, 165}, SBU connectlist: {1} set to be ligand
+XALDAS_clean_primitive, Anchors list: {162, 163, 164, 165}, SBU connectlist: {1} set to be ligand

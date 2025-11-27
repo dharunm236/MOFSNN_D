@@ -1,0 +1,16 @@
+TATYUL_clean_primitive, Anchors list: {8, 9}, SBU connectlist: {8, 9}
+TATYUL_clean_primitive, Anchors list: {8, 9}, SBU connectlist: {8, 9}
+TATYUL_clean_primitive, Anchors list: {14, 15}, SBU connectlist: {14, 15}
+TATYUL_clean_primitive, Anchors list: {14, 15}, SBU connectlist: {14, 15}
+TATYUL_clean_primitive, Anchors list: {12, 13}, SBU connectlist: {12, 13}
+TATYUL_clean_primitive, Anchors list: {12, 13}, SBU connectlist: {12, 13}
+TATYUL_clean_primitive, Anchors list: {18, 19}, SBU connectlist: {18, 19}
+TATYUL_clean_primitive, Anchors list: {18, 19}, SBU connectlist: {18, 19}
+TATYUL_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+TATYUL_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+TATYUL_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+TATYUL_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+TATYUL_clean_primitive, Anchors list: {6}, SBU connectlist: {6}
+TATYUL_clean_primitive, Anchors list: {7}, SBU connectlist: {7}
+TATYUL_clean_primitive, Anchors list: {4}, SBU connectlist: {4}
+TATYUL_clean_primitive, Anchors list: {5}, SBU connectlist: {5}

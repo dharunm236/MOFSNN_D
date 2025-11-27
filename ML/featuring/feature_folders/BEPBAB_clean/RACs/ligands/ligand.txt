@@ -1,0 +1,2 @@
+BEPBAB_clean_primitive, Anchors list: {0, 1, 14, 15}, SBU connectlist: {0, 1, 4, 5}
+BEPBAB_clean_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0, 1, 2, 3}

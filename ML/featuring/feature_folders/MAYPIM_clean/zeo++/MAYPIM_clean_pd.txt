@@ -1,0 +1,1 @@
+feature_folders/MAYPIM_clean/zeo++/MAYPIM_clean_pd.txt    4.30951 2.65055  3.86026

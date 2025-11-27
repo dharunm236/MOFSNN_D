@@ -1,0 +1,1 @@
+feature_folders/LUMZAW_clean/zeo++/LUMZAW_clean_pd.txt    5.82769 4.58968  5.82769

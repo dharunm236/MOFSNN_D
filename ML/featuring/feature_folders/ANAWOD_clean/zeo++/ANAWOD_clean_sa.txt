@@ -1,0 +1,3 @@
+@ feature_folders/ANAWOD_clean/zeo++/ANAWOD_clean_sa.txt Unitcell_volume: 5097.09   Density: 1.43826   ASA_A^2: 708.76 ASA_m^2/cm^3: 1390.52 ASA_m^2/g: 966.803 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 355.188  353.572  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

@@ -1,0 +1,1 @@
+feature_folders/ASIQEA_clean/zeo++/ASIQEA_clean_pd.txt    8.83773 6.27457  8.83773

@@ -1,0 +1,2 @@
+TONMEQ_clean_primitive, Anchors list: {33, 2, 3, 36}, SBU connectlist: {2, 3}
+TONMEQ_clean_primitive, Anchors list: {0, 1, 10, 7}, SBU connectlist: {0, 1}

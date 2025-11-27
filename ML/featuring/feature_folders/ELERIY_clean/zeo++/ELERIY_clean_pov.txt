@@ -1,0 +1,3 @@
+@ feature_folders/ELERIY_clean/zeo++/ELERIY_clean_pov.txt Unitcell_volume: 15053   Density: 0.765708   POAV_A^3: 8703.66 POAV_Volume_fraction: 0.5782 POAV_cm^3/g: 0.755118 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ELERIY_clean/zeo++/ELERIY_clean_pov.txt	0.765708	1.86	10000	0.2119	0	0.5782	0	0.1264	0.2954

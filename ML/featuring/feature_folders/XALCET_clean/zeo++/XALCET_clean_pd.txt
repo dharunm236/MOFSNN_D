@@ -1,0 +1,1 @@
+feature_folders/XALCET_clean/zeo++/XALCET_clean_pd.txt    12.09550 7.67742  11.81798

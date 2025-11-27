@@ -1,0 +1,4 @@
+OBIBEJ_clean_primitive, Anchors list: {104, 99, 7}, SBU connectlist: {8, 5}
+OBIBEJ_clean_primitive, Anchors list: {3, 44}, SBU connectlist: {9, 3}
+OBIBEJ_clean_primitive, Anchors list: {4, 85}, SBU connectlist: {10, 4}
+OBIBEJ_clean_primitive, Anchors list: {0, 25, 30}, SBU connectlist: {0, 11}

@@ -1,0 +1,3 @@
+@ feature_folders/IXUQUO_clean/zeo++/IXUQUO_clean_pov.txt Unitcell_volume: 9135.64   Density: 1.0897   POAV_A^3: 1810.68 POAV_Volume_fraction: 0.1982 POAV_cm^3/g: 0.181884 PONAV_A^3: 230.218 PONAV_Volume_fraction: 0.0252 PONAV_cm^3/g: 0.0231256
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/IXUQUO_clean/zeo++/IXUQUO_clean_pov.txt	1.0897	1.86	10000	0.0269	0.0014	0.1982	0.0252	0.3202	0.4564

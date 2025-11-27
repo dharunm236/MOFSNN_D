@@ -1,0 +1,64 @@
+EMIGEN_charged_primitive, Anchors list: {35, 38}, SBU connectlist: {32, 29}
+EMIGEN_charged_primitive, Anchors list: {35, 37}, SBU connectlist: {29, 31}
+EMIGEN_charged_primitive, Anchors list: {34, 31}, SBU connectlist: {28, 39}
+EMIGEN_charged_primitive, Anchors list: {33, 34, 30}, SBU connectlist: {27, 28, 38}
+EMIGEN_charged_primitive, Anchors list: {33, 29}, SBU connectlist: {27, 37}
+EMIGEN_charged_primitive, Anchors list: {32, 34, 28}, SBU connectlist: {26, 28, 36}
+EMIGEN_charged_primitive, Anchors list: {32, 33, 27}, SBU connectlist: {35, 26, 27}
+EMIGEN_charged_primitive, Anchors list: {32, 26}, SBU connectlist: {26, 34}
+EMIGEN_charged_primitive, Anchors list: {30, 31}, SBU connectlist: {38, 39}
+EMIGEN_charged_primitive, Anchors list: {24, 25}, SBU connectlist: {24, 25}
+EMIGEN_charged_primitive, Anchors list: {28, 31}, SBU connectlist: {36, 39}
+EMIGEN_charged_primitive, Anchors list: {29, 30}, SBU connectlist: {37, 38}
+EMIGEN_charged_primitive, Anchors list: {24, 22}, SBU connectlist: {24, 22}
+EMIGEN_charged_primitive, Anchors list: {25, 23}, SBU connectlist: {25, 23}
+EMIGEN_charged_primitive, Anchors list: {27, 28, 30}, SBU connectlist: {35, 36, 38}
+EMIGEN_charged_primitive, Anchors list: {24, 21, 23}, SBU connectlist: {24, 21, 23}
+EMIGEN_charged_primitive, Anchors list: {26, 28}, SBU connectlist: {34, 36}
+EMIGEN_charged_primitive, Anchors list: {27, 29}, SBU connectlist: {35, 37}
+EMIGEN_charged_primitive, Anchors list: {19, 23}, SBU connectlist: {19, 23}
+EMIGEN_charged_primitive, Anchors list: {21, 22}, SBU connectlist: {21, 22}
+EMIGEN_charged_primitive, Anchors list: {26, 27}, SBU connectlist: {34, 35}
+EMIGEN_charged_primitive, Anchors list: {19, 21}, SBU connectlist: {19, 21}
+EMIGEN_charged_primitive, Anchors list: {3, 37, 39}, SBU connectlist: {33, 3, 31}
+EMIGEN_charged_primitive, Anchors list: {2, 38}, SBU connectlist: {32, 2}
+EMIGEN_charged_primitive, Anchors list: {1, 37, 38}, SBU connectlist: {32, 1, 31}
+EMIGEN_charged_primitive, Anchors list: {0, 37}, SBU connectlist: {0, 31}
+EMIGEN_charged_primitive, Anchors list: {34, 36}, SBU connectlist: {28, 30}
+EMIGEN_charged_primitive, Anchors list: {33, 36}, SBU connectlist: {27, 30}
+EMIGEN_charged_primitive, Anchors list: {32, 36}, SBU connectlist: {26, 30}
+EMIGEN_charged_primitive, Anchors list: {35, 39}, SBU connectlist: {33, 29}
+EMIGEN_charged_primitive, Anchors list: {17, 20}, SBU connectlist: {17, 20}
+EMIGEN_charged_primitive, Anchors list: {20, 15}, SBU connectlist: {20, 15}
+EMIGEN_charged_primitive, Anchors list: {20, 13}, SBU connectlist: {20, 13}
+EMIGEN_charged_primitive, Anchors list: {25, 18}, SBU connectlist: {25, 18}
+EMIGEN_charged_primitive, Anchors list: {16, 24, 18}, SBU connectlist: {16, 24, 18}
+EMIGEN_charged_primitive, Anchors list: {16, 22}, SBU connectlist: {16, 22}
+EMIGEN_charged_primitive, Anchors list: {18, 14, 23}, SBU connectlist: {18, 14, 23}
+EMIGEN_charged_primitive, Anchors list: {16, 21, 14}, SBU connectlist: {16, 21, 14}
+EMIGEN_charged_primitive, Anchors list: {19, 14}, SBU connectlist: {19, 14}
+EMIGEN_charged_primitive, Anchors list: {17, 12}, SBU connectlist: {17, 12}
+EMIGEN_charged_primitive, Anchors list: {17, 10, 15}, SBU connectlist: {17, 10, 15}
+EMIGEN_charged_primitive, Anchors list: {8, 17, 13}, SBU connectlist: {8, 17, 13}
+EMIGEN_charged_primitive, Anchors list: {9, 15}, SBU connectlist: {9, 15}
+EMIGEN_charged_primitive, Anchors list: {15, 13, 7}, SBU connectlist: {15, 13, 7}
+EMIGEN_charged_primitive, Anchors list: {13, 6}, SBU connectlist: {13, 6}
+EMIGEN_charged_primitive, Anchors list: {18, 11}, SBU connectlist: {18, 11}
+EMIGEN_charged_primitive, Anchors list: {16, 11}, SBU connectlist: {16, 11}
+EMIGEN_charged_primitive, Anchors list: {11, 14}, SBU connectlist: {11, 14}
+EMIGEN_charged_primitive, Anchors list: {10, 12}, SBU connectlist: {10, 12}
+EMIGEN_charged_primitive, Anchors list: {4, 5}, SBU connectlist: {4, 5}
+EMIGEN_charged_primitive, Anchors list: {9, 10}, SBU connectlist: {9, 10}
+EMIGEN_charged_primitive, Anchors list: {8, 12}, SBU connectlist: {8, 12}
+EMIGEN_charged_primitive, Anchors list: {2, 4}, SBU connectlist: {2, 4}
+EMIGEN_charged_primitive, Anchors list: {3, 5}, SBU connectlist: {3, 5}
+EMIGEN_charged_primitive, Anchors list: {8, 10, 7}, SBU connectlist: {8, 10, 7}
+EMIGEN_charged_primitive, Anchors list: {1, 3, 4}, SBU connectlist: {1, 3, 4}
+EMIGEN_charged_primitive, Anchors list: {8, 6}, SBU connectlist: {8, 6}
+EMIGEN_charged_primitive, Anchors list: {9, 7}, SBU connectlist: {9, 7}
+EMIGEN_charged_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}
+EMIGEN_charged_primitive, Anchors list: {0, 3}, SBU connectlist: {0, 3}
+EMIGEN_charged_primitive, Anchors list: {6, 7}, SBU connectlist: {6, 7}
+EMIGEN_charged_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+EMIGEN_charged_primitive, Anchors list: {5, 39}, SBU connectlist: {33, 5}
+EMIGEN_charged_primitive, Anchors list: {4, 38, 39}, SBU connectlist: {32, 33, 4}

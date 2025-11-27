@@ -1,0 +1,1 @@
+feature_folders/YATDUV_clean/zeo++/YATDUV_clean_pd.txt    9.16363 5.74685  9.13669

@@ -1,0 +1,36 @@
+QOXFIU_clean_primitive, Anchors list: {245}, SBU connectlist: {14}
+QOXFIU_clean_primitive, Anchors list: {244}, SBU connectlist: {15}
+QOXFIU_clean_primitive, Anchors list: {256, 259}, SBU connectlist: {0}
+QOXFIU_clean_primitive, Anchors list: {257, 258}, SBU connectlist: {1}
+QOXFIU_clean_primitive, Anchors list: {256, 259}, SBU connectlist: {0}
+QOXFIU_clean_primitive, Anchors list: {257, 258}, SBU connectlist: {1}
+QOXFIU_clean_primitive, Anchors list: {259}, SBU connectlist: {0}
+QOXFIU_clean_primitive, Anchors list: {258}, SBU connectlist: {1}
+QOXFIU_clean_primitive, Anchors list: {88}, SBU connectlist: {0}
+QOXFIU_clean_primitive, Anchors list: {89}, SBU connectlist: {1}
+QOXFIU_clean_primitive, Anchors list: {257, 90}, SBU connectlist: {1, 2}
+QOXFIU_clean_primitive, Anchors list: {256, 91}, SBU connectlist: {0, 3}
+QOXFIU_clean_primitive, Anchors list: {255}, SBU connectlist: {19}
+QOXFIU_clean_primitive, Anchors list: {254}, SBU connectlist: {18}
+QOXFIU_clean_primitive, Anchors list: {249, 253}, SBU connectlist: {17}
+QOXFIU_clean_primitive, Anchors list: {248, 252}, SBU connectlist: {16}
+QOXFIU_clean_primitive, Anchors list: {99, 251}, SBU connectlist: {19, 11}
+QOXFIU_clean_primitive, Anchors list: {98, 250}, SBU connectlist: {10, 18}
+QOXFIU_clean_primitive, Anchors list: {251, 255}, SBU connectlist: {19}
+QOXFIU_clean_primitive, Anchors list: {250, 254}, SBU connectlist: {18}
+QOXFIU_clean_primitive, Anchors list: {249, 253}, SBU connectlist: {17}
+QOXFIU_clean_primitive, Anchors list: {248, 252}, SBU connectlist: {16}
+QOXFIU_clean_primitive, Anchors list: {253, 93}, SBU connectlist: {17, 5}
+QOXFIU_clean_primitive, Anchors list: {92, 252}, SBU connectlist: {16, 4}
+QOXFIU_clean_primitive, Anchors list: {251, 255}, SBU connectlist: {19}
+QOXFIU_clean_primitive, Anchors list: {250, 254}, SBU connectlist: {18}
+QOXFIU_clean_primitive, Anchors list: {249}, SBU connectlist: {17}
+QOXFIU_clean_primitive, Anchors list: {248}, SBU connectlist: {16}
+QOXFIU_clean_primitive, Anchors list: {245, 246}, SBU connectlist: {14}
+QOXFIU_clean_primitive, Anchors list: {244, 247}, SBU connectlist: {15}
+QOXFIU_clean_primitive, Anchors list: {245, 246}, SBU connectlist: {14}
+QOXFIU_clean_primitive, Anchors list: {244, 247}, SBU connectlist: {15}
+QOXFIU_clean_primitive, Anchors list: {100, 247}, SBU connectlist: {12, 15}
+QOXFIU_clean_primitive, Anchors list: {101, 246}, SBU connectlist: {13, 14}
+QOXFIU_clean_primitive, Anchors list: {102}, SBU connectlist: {14}
+QOXFIU_clean_primitive, Anchors list: {103}, SBU connectlist: {15}

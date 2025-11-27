@@ -1,0 +1,6 @@
+HAJLEK_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+HAJLEK_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+HAJLEK_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+HAJLEK_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+HAJLEK_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+HAJLEK_clean_primitive, Anchors list: {0}, SBU connectlist: {0}

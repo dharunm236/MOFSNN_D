@@ -1,0 +1,3 @@
+@ feature_folders/OKIPUU_clean/zeo++/OKIPUU_clean_sa.txt Unitcell_volume: 11129.5   Density: 1.38188   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 230.228 NASA_m^2/cm^3: 206.863 NASA_m^2/g: 149.697
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 28.8553  28.6671  29.4572  28.8377  28.9853  28.7546  29.1268  27.5437  

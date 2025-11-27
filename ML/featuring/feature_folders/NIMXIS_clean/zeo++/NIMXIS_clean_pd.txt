@@ -1,0 +1,1 @@
+feature_folders/NIMXIS_clean/zeo++/NIMXIS_clean_pd.txt    10.63837 6.01154  10.63837

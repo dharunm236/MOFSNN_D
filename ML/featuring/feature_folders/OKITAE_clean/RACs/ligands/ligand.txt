@@ -1,0 +1,1 @@
+OKITAE_clean_primitive3, Anchors list: {1, 3, 6}, SBU connectlist: {1}

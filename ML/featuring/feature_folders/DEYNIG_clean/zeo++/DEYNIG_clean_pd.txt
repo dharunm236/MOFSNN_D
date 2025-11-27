@@ -1,0 +1,1 @@
+feature_folders/DEYNIG_clean/zeo++/DEYNIG_clean_pd.txt    4.67091 3.76726  4.63755

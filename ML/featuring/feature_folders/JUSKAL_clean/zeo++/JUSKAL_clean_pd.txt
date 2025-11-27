@@ -1,0 +1,1 @@
+feature_folders/JUSKAL_clean/zeo++/JUSKAL_clean_pd.txt    5.98148 5.50358  5.98148

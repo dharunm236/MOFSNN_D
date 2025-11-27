@@ -1,0 +1,1 @@
+feature_folders/OQETEK_clean/zeo++/OQETEK_clean_pd.txt    9.22928 8.86311  9.22928

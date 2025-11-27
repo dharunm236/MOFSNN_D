@@ -1,0 +1,1 @@
+feature_folders/AGUTUS_clean/zeo++/AGUTUS_clean_pd.txt    3.68088 2.53188  3.66885

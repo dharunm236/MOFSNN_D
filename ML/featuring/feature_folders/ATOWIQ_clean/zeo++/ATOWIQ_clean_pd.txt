@@ -1,0 +1,1 @@
+feature_folders/ATOWIQ_clean/zeo++/ATOWIQ_clean_pd.txt    9.54888 7.69493  9.54888

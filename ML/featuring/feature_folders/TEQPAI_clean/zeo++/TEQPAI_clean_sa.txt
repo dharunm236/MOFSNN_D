@@ -1,0 +1,3 @@
+@ feature_folders/TEQPAI_clean/zeo++/TEQPAI_clean_sa.txt Unitcell_volume: 5803.96   Density: 1.19067   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 598.539 NASA_m^2/cm^3: 1031.26 NASA_m^2/g: 866.117
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 149.822  151.111  148.172  149.433  

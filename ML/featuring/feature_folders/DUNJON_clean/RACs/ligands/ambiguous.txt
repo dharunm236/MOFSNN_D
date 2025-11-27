@@ -1,0 +1,16 @@
+DUNJON_clean_primitive, Anchors list: {25, 3}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {24, 2}, SBU connectlist: {0} set to be ligand
+DUNJON_clean_primitive, Anchors list: {13, 23}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {12, 22}, SBU connectlist: {0} set to be ligand
+DUNJON_clean_primitive, Anchors list: {9, 19}, SBU connectlist: {0} set to be ligand
+DUNJON_clean_primitive, Anchors list: {8, 18}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {29, 7}, SBU connectlist: {0} set to be ligand
+DUNJON_clean_primitive, Anchors list: {28, 6}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {1, 289, 291, 292, 296, 233, 235, 236, 241, 27, 30, 286}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {0, 288, 290, 287, 293, 232, 297, 234, 237, 240, 26, 31}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {259, 262, 265, 267, 15, 16, 274, 21, 278, 281, 283, 284}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {258, 263, 264, 266, 14, 17, 275, 20, 279, 280, 282, 285}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {256, 260, 11, 269, 14, 271, 272, 17, 277, 250, 253, 255}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {257, 261, 10, 268, 270, 15, 16, 273, 276, 251, 252, 254}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {0, 5, 295, 298, 301, 238, 303, 242, 245, 247, 248, 31}, SBU connectlist: {0} set to be linker
+DUNJON_clean_primitive, Anchors list: {1, 4, 294, 299, 300, 302, 239, 243, 244, 246, 249, 30}, SBU connectlist: {0} set to be linker

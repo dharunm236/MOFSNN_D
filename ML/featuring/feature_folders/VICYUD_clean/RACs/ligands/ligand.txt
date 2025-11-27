@@ -1,0 +1,2 @@
+VICYUD_clean_primitive6, Anchors list: {5}, SBU connectlist: {5}
+VICYUD_clean_primitive5, Anchors list: {2}, SBU connectlist: {2}

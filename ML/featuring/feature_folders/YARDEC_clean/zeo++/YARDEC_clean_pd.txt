@@ -1,0 +1,1 @@
+feature_folders/YARDEC_clean/zeo++/YARDEC_clean_pd.txt    4.66636 3.48033  4.66636

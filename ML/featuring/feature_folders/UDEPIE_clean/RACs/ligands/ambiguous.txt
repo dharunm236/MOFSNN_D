@@ -1,0 +1,8 @@
+UDEPIE_clean_primitive, Anchors list: {32}, SBU connectlist: {0} set to be linker
+UDEPIE_clean_primitive, Anchors list: {38}, SBU connectlist: {6} set to be linker
+UDEPIE_clean_primitive, Anchors list: {35}, SBU connectlist: {3} set to be ligand
+UDEPIE_clean_primitive, Anchors list: {33}, SBU connectlist: {1} set to be linker
+UDEPIE_clean_primitive, Anchors list: {39}, SBU connectlist: {7} set to be linker
+UDEPIE_clean_primitive, Anchors list: {36}, SBU connectlist: {4} set to be ligand
+UDEPIE_clean_primitive, Anchors list: {37}, SBU connectlist: {5} set to be ligand
+UDEPIE_clean_primitive, Anchors list: {34}, SBU connectlist: {2} set to be ligand

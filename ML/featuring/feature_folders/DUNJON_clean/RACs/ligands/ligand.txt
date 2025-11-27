@@ -1,0 +1,12 @@
+DUNJON_clean_primitive22, Anchors list: {24, 2}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {18}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {19}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {28}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {29}, SBU connectlist: {0}
+DUNJON_clean_primitive16, Anchors list: {12, 22}, SBU connectlist: {0}
+DUNJON_clean_primitive15, Anchors list: {9, 19}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {12}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {13}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {2}, SBU connectlist: {0}
+DUNJON_clean_primitive, Anchors list: {3}, SBU connectlist: {0}
+DUNJON_clean_primitive9, Anchors list: {29, 7}, SBU connectlist: {0}

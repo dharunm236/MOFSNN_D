@@ -1,0 +1,3 @@
+@ feature_folders/KUGCOF_clean/zeo++/KUGCOF_clean_pov.txt Unitcell_volume: 800.592   Density: 2.84923   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 177.811 PONAV_Volume_fraction: 0.2221 PONAV_cm^3/g: 0.0779508
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/KUGCOF_clean/zeo++/KUGCOF_clean_pov.txt	2.84923	1.86	10000	0	0.0024	0	0.2221	0.2231	0.5548

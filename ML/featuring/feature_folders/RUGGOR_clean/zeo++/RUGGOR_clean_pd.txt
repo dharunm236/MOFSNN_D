@@ -1,0 +1,1 @@
+feature_folders/RUGGOR_clean/zeo++/RUGGOR_clean_pd.txt    3.80224 2.91459  3.77953

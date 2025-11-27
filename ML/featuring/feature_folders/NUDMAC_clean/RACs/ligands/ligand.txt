@@ -1,0 +1,4 @@
+NUDMAC_clean_primitive, Anchors list: {48, 29, 45, 46}, SBU connectlist: {9, 3, 4, 6}
+NUDMAC_clean_primitive, Anchors list: {49, 44, 28, 47}, SBU connectlist: {8, 2, 5, 7}
+NUDMAC_clean_primitive, Anchors list: {48, 43, 44, 46}, SBU connectlist: {1, 2, 4, 6}
+NUDMAC_clean_primitive, Anchors list: {49, 42, 45, 47}, SBU connectlist: {0, 3, 5, 7}

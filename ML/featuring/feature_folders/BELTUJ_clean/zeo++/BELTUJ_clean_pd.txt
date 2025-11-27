@@ -1,0 +1,1 @@
+feature_folders/BELTUJ_clean/zeo++/BELTUJ_clean_pd.txt    5.64744 4.19690  5.58219

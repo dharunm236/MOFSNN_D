@@ -1,0 +1,3 @@
+@ feature_folders/YUHHIU_clean/zeo++/YUHHIU_clean_sa.txt Unitcell_volume: 959.455   Density: 0.81756   ASA_A^2: 155.125 ASA_m^2/cm^3: 1616.81 ASA_m^2/g: 1977.6 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 155.125  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

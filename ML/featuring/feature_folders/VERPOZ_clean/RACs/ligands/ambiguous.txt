@@ -1,0 +1,12 @@
+VERPOZ_clean_primitive, Anchors list: {347, 348}, SBU connectlist: {5} set to be ligand
+VERPOZ_clean_primitive, Anchors list: {346, 349}, SBU connectlist: {4} set to be linker
+VERPOZ_clean_primitive, Anchors list: {353, 348}, SBU connectlist: {5} set to be ligand
+VERPOZ_clean_primitive, Anchors list: {352, 349}, SBU connectlist: {4} set to be linker
+VERPOZ_clean_primitive, Anchors list: {354, 357}, SBU connectlist: {6} set to be ligand
+VERPOZ_clean_primitive, Anchors list: {355, 356}, SBU connectlist: {7} set to be linker
+VERPOZ_clean_primitive, Anchors list: {354, 350}, SBU connectlist: {6} set to be ligand
+VERPOZ_clean_primitive, Anchors list: {355, 351}, SBU connectlist: {7} set to be linker
+VERPOZ_clean_primitive, Anchors list: {356, 351}, SBU connectlist: {7} set to be ligand
+VERPOZ_clean_primitive, Anchors list: {357, 350}, SBU connectlist: {6} set to be ligand
+VERPOZ_clean_primitive, Anchors list: {352, 346}, SBU connectlist: {4} set to be ligand
+VERPOZ_clean_primitive, Anchors list: {353, 347}, SBU connectlist: {5} set to be ligand

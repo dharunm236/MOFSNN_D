@@ -1,0 +1,1 @@
+feature_folders/FOXNIQ_clean/zeo++/FOXNIQ_clean_pd.txt    5.68172 4.34787  5.68172

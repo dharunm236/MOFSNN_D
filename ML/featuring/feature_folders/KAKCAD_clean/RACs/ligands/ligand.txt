@@ -1,0 +1,8 @@
+KAKCAD_clean_primitive, Anchors list: {416, 345, 335}, SBU connectlist: {1}
+KAKCAD_clean_primitive, Anchors list: {344, 417, 334}, SBU connectlist: {0}
+KAKCAD_clean_primitive, Anchors list: {417, 332, 313}, SBU connectlist: {0, 2}
+KAKCAD_clean_primitive, Anchors list: {416, 312, 333}, SBU connectlist: {1, 3}
+KAKCAD_clean_primitive, Anchors list: {409, 234, 255}, SBU connectlist: {6, 7}
+KAKCAD_clean_primitive, Anchors list: {408, 235, 254}, SBU connectlist: {8, 4}
+KAKCAD_clean_primitive, Anchors list: {408, 233, 223}, SBU connectlist: {4}
+KAKCAD_clean_primitive, Anchors list: {232, 409, 222}, SBU connectlist: {6}

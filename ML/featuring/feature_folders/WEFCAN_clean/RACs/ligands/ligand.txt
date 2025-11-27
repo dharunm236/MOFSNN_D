@@ -1,0 +1,4 @@
+WEFCAN_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+WEFCAN_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+WEFCAN_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+WEFCAN_clean_primitive, Anchors list: {1}, SBU connectlist: {1}

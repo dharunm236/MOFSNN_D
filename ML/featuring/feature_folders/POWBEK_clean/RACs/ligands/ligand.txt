@@ -1,0 +1,1 @@
+POWBEK_clean_primitive1, Anchors list: {64, 65, 66, 48, 49, 56, 57, 58, 59, 60, 61}, SBU connectlist: {0}

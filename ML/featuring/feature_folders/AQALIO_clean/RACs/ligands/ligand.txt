@@ -1,0 +1,4 @@
+AQALIO_clean_primitive, Anchors list: {19, 17, 10, 3}, SBU connectlist: {19, 17, 10, 3}
+AQALIO_clean_primitive, Anchors list: {8, 16, 2, 18}, SBU connectlist: {8, 16, 2, 18}
+AQALIO_clean_primitive, Anchors list: {1, 15, 13, 7}, SBU connectlist: {1, 15, 13, 7}
+AQALIO_clean_primitive, Anchors list: {0, 12, 5, 14}, SBU connectlist: {0, 12, 5, 14}

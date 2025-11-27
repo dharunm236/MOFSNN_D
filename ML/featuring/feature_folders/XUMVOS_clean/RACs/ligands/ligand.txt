@@ -1,0 +1,2 @@
+XUMVOS_clean_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0}
+XUMVOS_clean_primitive, Anchors list: {0, 1, 6, 7}, SBU connectlist: {0}

@@ -1,0 +1,1 @@
+feature_folders/AGONAM_clean/zeo++/AGONAM_clean_pd.txt    5.63222 4.90729  5.59904

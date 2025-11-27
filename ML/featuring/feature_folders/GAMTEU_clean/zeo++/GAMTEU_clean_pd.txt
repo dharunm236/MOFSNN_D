@@ -1,0 +1,1 @@
+feature_folders/GAMTEU_clean/zeo++/GAMTEU_clean_pd.txt    4.96917 3.20315  4.96917

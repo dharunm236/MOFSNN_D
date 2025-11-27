@@ -1,0 +1,1 @@
+feature_folders/MAGVOG19_clean/zeo++/MAGVOG19_clean_pd.txt    3.80360 3.08426  3.80360

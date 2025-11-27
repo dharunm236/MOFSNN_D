@@ -1,0 +1,3 @@
+@ feature_folders/VIWLAQ_clean/zeo++/VIWLAQ_clean_pov.txt Unitcell_volume: 4810.6   Density: 1.43716   POAV_A^3: 1717.39 POAV_Volume_fraction: 0.357 POAV_cm^3/g: 0.248407 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/VIWLAQ_clean/zeo++/VIWLAQ_clean_pov.txt	1.43716	1.86	10000	0.0708	0	0.357	0	0.2192	0.4238

@@ -1,0 +1,1 @@
+feature_folders/FAGQAI_clean/zeo++/FAGQAI_clean_pd.txt    13.59961 8.61395  13.58955

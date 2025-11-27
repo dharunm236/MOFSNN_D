@@ -1,0 +1,3 @@
+@ feature_folders/XAKZUF_clean/zeo++/XAKZUF_clean_pov.txt Unitcell_volume: 14474.2   Density: 0.885336   POAV_A^3: 5783.88 POAV_Volume_fraction: 0.3996 POAV_cm^3/g: 0.451354 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XAKZUF_clean/zeo++/XAKZUF_clean_pov.txt	0.885336	1.86	10000	0.1608	0	0.3996	0	0.223	0.3774

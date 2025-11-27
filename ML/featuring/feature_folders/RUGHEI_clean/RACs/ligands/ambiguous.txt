@@ -1,0 +1,3 @@
+RUGHEI_clean_primitive, Anchors list: {12}, SBU connectlist: {0} set to be linker
+RUGHEI_clean_primitive, Anchors list: {12}, SBU connectlist: {0} set to be linker
+RUGHEI_clean_primitive, Anchors list: {12}, SBU connectlist: {0} set to be ligand

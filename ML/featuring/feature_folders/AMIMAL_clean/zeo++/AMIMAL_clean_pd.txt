@@ -1,0 +1,1 @@
+feature_folders/AMIMAL_clean/zeo++/AMIMAL_clean_pd.txt    11.07211 9.50667  11.06415

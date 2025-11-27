@@ -1,0 +1,3 @@
+@ feature_folders/FUWYAY_clean/zeo++/FUWYAY_clean_sa.txt Unitcell_volume: 1028.06   Density: 1.98354   ASA_A^2: 19.9042 ASA_m^2/cm^3: 193.61 ASA_m^2/g: 97.6085 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 10.0585  9.84566  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

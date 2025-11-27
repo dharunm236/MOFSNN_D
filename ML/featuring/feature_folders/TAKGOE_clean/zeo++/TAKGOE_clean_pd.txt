@@ -1,0 +1,1 @@
+feature_folders/TAKGOE_clean/zeo++/TAKGOE_clean_pd.txt    10.52480 9.55919  10.52480

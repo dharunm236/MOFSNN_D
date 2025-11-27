@@ -1,0 +1,3 @@
+@ feature_folders/IKOSOQ_clean/zeo++/IKOSOQ_clean_pov.txt Unitcell_volume: 7878.19   Density: 1.04558   POAV_A^3: 1054.1 POAV_Volume_fraction: 0.1338 POAV_cm^3/g: 0.127967 PONAV_A^3: 293.857 PONAV_Volume_fraction: 0.0373 PONAV_cm^3/g: 0.0356739
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/IKOSOQ_clean/zeo++/IKOSOQ_clean_pov.txt	1.04558	1.86	10000	0.0108	0.0021	0.1338	0.0373	0.3584	0.4705

@@ -1,0 +1,1 @@
+feature_folders/XOTSEG_clean/zeo++/XOTSEG_clean_pd.txt    8.78779 6.45971  8.72981

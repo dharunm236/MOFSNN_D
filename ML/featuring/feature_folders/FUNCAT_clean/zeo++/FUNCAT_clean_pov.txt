@@ -1,0 +1,3 @@
+@ feature_folders/FUNCAT_clean/zeo++/FUNCAT_clean_pov.txt Unitcell_volume: 3290.12   Density: 0.930198   POAV_A^3: 1451.93 POAV_Volume_fraction: 0.4413 POAV_cm^3/g: 0.474415 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FUNCAT_clean/zeo++/FUNCAT_clean_pov.txt	0.930198	1.86	10000	0.1628	0	0.4413	0	0.1713	0.3874

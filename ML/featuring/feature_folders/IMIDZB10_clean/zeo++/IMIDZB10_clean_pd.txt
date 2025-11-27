@@ -1,0 +1,1 @@
+feature_folders/IMIDZB10_clean/zeo++/IMIDZB10_clean_pd.txt    11.74163 3.30574  11.73876

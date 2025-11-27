@@ -1,0 +1,8 @@
+TAGTUT_clean_primitive, Anchors list: {289, 291, 293}, SBU connectlist: {1, 3, 5}
+TAGTUT_clean_primitive, Anchors list: {288, 290, 292}, SBU connectlist: {0, 2, 4}
+TAGTUT_clean_primitive, Anchors list: {288, 305, 307}, SBU connectlist: {0, 17, 19}
+TAGTUT_clean_primitive, Anchors list: {304, 289, 306}, SBU connectlist: {16, 1, 18}
+TAGTUT_clean_primitive, Anchors list: {297, 299, 295}, SBU connectlist: {9, 11, 7}
+TAGTUT_clean_primitive, Anchors list: {296, 298, 294}, SBU connectlist: {8, 10, 6}
+TAGTUT_clean_primitive, Anchors list: {299, 301, 303}, SBU connectlist: {11, 13, 15}
+TAGTUT_clean_primitive, Anchors list: {298, 300, 302}, SBU connectlist: {10, 12, 14}

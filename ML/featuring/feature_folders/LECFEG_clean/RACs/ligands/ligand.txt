@@ -1,0 +1,1 @@
+LECFEG_clean_primitive15, Anchors list: {2, 3, 15}, SBU connectlist: {2}

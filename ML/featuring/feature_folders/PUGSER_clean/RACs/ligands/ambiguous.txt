@@ -1,0 +1,4 @@
+PUGSER_clean_primitive, Anchors list: {14, 15}, SBU connectlist: {1} set to be linker
+PUGSER_clean_primitive, Anchors list: {8, 9}, SBU connectlist: {3} set to be ligand
+PUGSER_clean_primitive, Anchors list: {6, 7}, SBU connectlist: {2} set to be ligand
+PUGSER_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be ligand

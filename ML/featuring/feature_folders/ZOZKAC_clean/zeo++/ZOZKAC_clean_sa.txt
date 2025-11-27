@@ -1,0 +1,3 @@
+@ feature_folders/ZOZKAC_clean/zeo++/ZOZKAC_clean_sa.txt Unitcell_volume: 1927.93   Density: 1.50938   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 18.4049 NASA_m^2/cm^3: 95.4643 NASA_m^2/g: 63.2474
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 4.28867  0.0477783  4.63864  0.0302824  4.40328  4.98028  0.0159261  0  

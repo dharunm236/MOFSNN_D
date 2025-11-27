@@ -1,0 +1,1 @@
+feature_folders/GEFZAU_clean/zeo++/GEFZAU_clean_pd.txt    6.43441 5.82304  6.39876

@@ -1,0 +1,1 @@
+feature_folders/VAGTAA01_clean/zeo++/VAGTAA01_clean_pd.txt    5.66546 4.41929  5.58729

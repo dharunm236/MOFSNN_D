@@ -1,0 +1,3 @@
+@ feature_folders/SANHIB_clean/zeo++/SANHIB_clean_sa.txt Unitcell_volume: 1816.18   Density: 1.59136   ASA_A^2: 181.956 ASA_m^2/cm^3: 1001.86 ASA_m^2/g: 629.564 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 181.956  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

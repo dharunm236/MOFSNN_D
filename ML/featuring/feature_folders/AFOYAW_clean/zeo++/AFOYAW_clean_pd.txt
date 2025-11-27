@@ -1,0 +1,1 @@
+feature_folders/AFOYAW_clean/zeo++/AFOYAW_clean_pd.txt    5.94533 4.22739  5.91011

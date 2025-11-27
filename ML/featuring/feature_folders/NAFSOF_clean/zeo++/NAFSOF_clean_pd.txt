@@ -1,0 +1,1 @@
+feature_folders/NAFSOF_clean/zeo++/NAFSOF_clean_pd.txt    10.41329 8.31839  10.41311

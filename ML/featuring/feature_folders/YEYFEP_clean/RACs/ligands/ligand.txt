@@ -1,0 +1,8 @@
+YEYFEP_clean_primitive, Anchors list: {1, 60, 6, 7}, SBU connectlist: {8, 1, 14, 7}
+YEYFEP_clean_primitive, Anchors list: {0, 1, 18, 7}, SBU connectlist: {0, 1, 13, 8}
+YEYFEP_clean_primitive, Anchors list: {0, 53, 6, 7}, SBU connectlist: {0, 8, 15, 7}
+YEYFEP_clean_primitive, Anchors list: {0, 1, 11, 6}, SBU connectlist: {0, 1, 10, 7}
+YEYFEP_clean_primitive, Anchors list: {3, 4, 5, 46}, SBU connectlist: {11, 4, 5, 6}
+YEYFEP_clean_primitive, Anchors list: {2, 4, 5, 39}, SBU connectlist: {9, 3, 5, 6}
+YEYFEP_clean_primitive, Anchors list: {32, 2, 3, 5}, SBU connectlist: {2, 3, 4, 6}
+YEYFEP_clean_primitive, Anchors list: {25, 2, 3, 4}, SBU connectlist: {12, 3, 4, 5}

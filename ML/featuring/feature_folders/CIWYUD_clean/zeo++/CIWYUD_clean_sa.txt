@@ -1,0 +1,3 @@
+@ feature_folders/CIWYUD_clean/zeo++/CIWYUD_clean_sa.txt Unitcell_volume: 1267.65   Density: 1.41213   ASA_A^2: 141.841 ASA_m^2/cm^3: 1118.93 ASA_m^2/g: 792.375 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 141.841  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

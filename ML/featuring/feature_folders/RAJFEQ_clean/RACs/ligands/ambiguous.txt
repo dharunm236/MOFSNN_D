@@ -1,0 +1,4 @@
+RAJFEQ_clean_primitive, Anchors list: {33, 28, 30, 31}, SBU connectlist: {0} set to be linker
+RAJFEQ_clean_primitive, Anchors list: {32, 29, 30, 31}, SBU connectlist: {0} set to be linker
+RAJFEQ_clean_primitive, Anchors list: {32, 33, 29, 31}, SBU connectlist: {0} set to be linker
+RAJFEQ_clean_primitive, Anchors list: {32, 33, 28, 30}, SBU connectlist: {0} set to be linker

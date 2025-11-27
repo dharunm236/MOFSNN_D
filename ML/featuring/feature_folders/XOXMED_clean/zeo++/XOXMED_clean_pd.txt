@@ -1,0 +1,1 @@
+feature_folders/XOXMED_clean/zeo++/XOXMED_clean_pd.txt    15.20269 12.48764  14.68508

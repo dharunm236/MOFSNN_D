@@ -1,0 +1,1 @@
+feature_folders/DOPHOH_clean/zeo++/DOPHOH_clean_pd.txt    12.13653 5.63082  11.74989

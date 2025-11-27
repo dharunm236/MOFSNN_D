@@ -1,0 +1,1 @@
+feature_folders/OSAVUA_clean/zeo++/OSAVUA_clean_pd.txt    5.76862 5.59566  5.76862

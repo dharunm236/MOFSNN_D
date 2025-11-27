@@ -1,0 +1,2 @@
+VEHRIL_clean_primitive, Anchors list: {2, 11, 14}, SBU connectlist: {3}
+VEHRIL_clean_primitive, Anchors list: {32, 29, 5}, SBU connectlist: {2}

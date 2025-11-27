@@ -1,0 +1,3 @@
+@ feature_folders/PIZRUN_clean/zeo++/PIZRUN_clean_sa.txt Unitcell_volume: 3064.64   Density: 1.2127   ASA_A^2: 289.395 ASA_m^2/cm^3: 944.304 ASA_m^2/g: 778.681 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 144.268  145.127  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

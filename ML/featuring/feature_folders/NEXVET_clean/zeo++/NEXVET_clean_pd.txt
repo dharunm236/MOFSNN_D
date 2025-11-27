@@ -1,0 +1,1 @@
+feature_folders/NEXVET_clean/zeo++/NEXVET_clean_pd.txt    15.02777 7.94668  15.02777

@@ -1,0 +1,20 @@
+VERPOZ_clean_primitive, Anchors list: {344, 347}, SBU connectlist: {2, 5}
+VERPOZ_clean_primitive, Anchors list: {346, 342}, SBU connectlist: {0, 4}
+VERPOZ_clean_primitive, Anchors list: {357, 343}, SBU connectlist: {1, 6}
+VERPOZ_clean_primitive, Anchors list: {345, 356}, SBU connectlist: {3, 7}
+VERPOZ_clean_primitive25, Anchors list: {347, 348}, SBU connectlist: {5}
+VERPOZ_clean_primitive, Anchors list: {344, 353}, SBU connectlist: {2, 5}
+VERPOZ_clean_primitive, Anchors list: {352, 342}, SBU connectlist: {0, 4}
+VERPOZ_clean_primitive, Anchors list: {345, 355}, SBU connectlist: {3, 7}
+VERPOZ_clean_primitive, Anchors list: {354, 343}, SBU connectlist: {1, 6}
+VERPOZ_clean_primitive, Anchors list: {344, 348}, SBU connectlist: {2, 5}
+VERPOZ_clean_primitive, Anchors list: {349, 342}, SBU connectlist: {0, 4}
+VERPOZ_clean_primitive, Anchors list: {350, 343}, SBU connectlist: {1, 6}
+VERPOZ_clean_primitive, Anchors list: {345, 351}, SBU connectlist: {3, 7}
+VERPOZ_clean_primitive15, Anchors list: {353, 348}, SBU connectlist: {5}
+VERPOZ_clean_primitive13, Anchors list: {354, 357}, SBU connectlist: {6}
+VERPOZ_clean_primitive11, Anchors list: {354, 350}, SBU connectlist: {6}
+VERPOZ_clean_primitive7, Anchors list: {356, 351}, SBU connectlist: {7}
+VERPOZ_clean_primitive6, Anchors list: {357, 350}, SBU connectlist: {6}
+VERPOZ_clean_primitive5, Anchors list: {352, 346}, SBU connectlist: {4}
+VERPOZ_clean_primitive4, Anchors list: {353, 347}, SBU connectlist: {5}

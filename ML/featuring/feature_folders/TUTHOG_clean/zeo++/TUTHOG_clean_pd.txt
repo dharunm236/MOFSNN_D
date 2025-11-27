@@ -1,0 +1,1 @@
+feature_folders/TUTHOG_clean/zeo++/TUTHOG_clean_pd.txt    7.58539 5.94334  7.57652

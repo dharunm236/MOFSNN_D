@@ -1,0 +1,2 @@
+XUCSOF_clean_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+XUCSOF_clean_primitive, Anchors list: {8}, SBU connectlist: {8} set to be ligand

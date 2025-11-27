@@ -1,0 +1,1 @@
+feature_folders/GAMTUK_clean/zeo++/GAMTUK_clean_pd.txt    3.76828 2.72919  3.76828

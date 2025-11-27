@@ -1,0 +1,1 @@
+feature_folders/WECBAJ_clean/zeo++/WECBAJ_clean_pd.txt    4.17403 3.26885  3.77500

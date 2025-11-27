@@ -1,0 +1,4 @@
+GIQYOV_clean_primitive, Anchors list: {1, 12, 33}, SBU connectlist: {1, 10, 3}
+GIQYOV_clean_primitive, Anchors list: {0, 10, 31}, SBU connectlist: {0, 8, 13}
+GIQYOV_clean_primitive, Anchors list: {0, 32, 29}, SBU connectlist: {0, 2, 11}
+GIQYOV_clean_primitive, Anchors list: {1, 11, 14}, SBU connectlist: {1, 12, 9}

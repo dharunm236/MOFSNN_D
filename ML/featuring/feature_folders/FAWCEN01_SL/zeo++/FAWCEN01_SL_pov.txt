@@ -1,0 +1,3 @@
+@ feature_folders/FAWCEN01_SL/zeo++/FAWCEN01_SL_pov.txt Unitcell_volume: 2418.64   Density: 0.937507   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 1127.57 PONAV_Volume_fraction: 0.4662 PONAV_cm^3/g: 0.497276
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FAWCEN01_SL/zeo++/FAWCEN01_SL_pov.txt	0.937507	1.86	10000	0	0.1426	0	0.4662	0.1682	0.3656

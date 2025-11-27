@@ -1,0 +1,4 @@
+KUMBOL_clean_primitive5, Anchors list: {3}, SBU connectlist: {3}
+KUMBOL_clean_primitive4, Anchors list: {1}, SBU connectlist: {1}
+KUMBOL_clean_primitive3, Anchors list: {0}, SBU connectlist: {0}
+KUMBOL_clean_primitive1, Anchors list: {2}, SBU connectlist: {2}

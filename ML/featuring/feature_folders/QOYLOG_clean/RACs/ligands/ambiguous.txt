@@ -1,0 +1,2 @@
+QOYLOG_clean_primitive, Anchors list: {28, 29, 30}, SBU connectlist: {0} set to be linker
+QOYLOG_clean_primitive, Anchors list: {28, 29, 30}, SBU connectlist: {0} set to be linker

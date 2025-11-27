@@ -1,0 +1,1 @@
+feature_folders/NEHGIS_clean/zeo++/NEHGIS_clean_pd.txt    5.24984 4.32668  5.24102

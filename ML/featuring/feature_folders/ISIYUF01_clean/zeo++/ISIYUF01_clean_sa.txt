@@ -1,0 +1,3 @@
+@ feature_folders/ISIYUF01_clean/zeo++/ISIYUF01_clean_sa.txt Unitcell_volume: 4664.1   Density: 1.97852   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 144.806 NASA_m^2/cm^3: 310.469 NASA_m^2/g: 156.919
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 20.5623  19.152  15.868  19.2145  16.2236  17.0112  19.7031  17.0711  

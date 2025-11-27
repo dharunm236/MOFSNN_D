@@ -1,0 +1,1 @@
+feature_folders/YOCDUR_clean/zeo++/YOCDUR_clean_pd.txt    9.69113 7.19502  9.66178

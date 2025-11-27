@@ -1,0 +1,3 @@
+@ feature_folders/HOXSAQ_clean/zeo++/HOXSAQ_clean_sa.txt Unitcell_volume: 1444.39   Density: 2.0699   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 16.5201 NASA_m^2/cm^3: 114.374 NASA_m^2/g: 55.2557
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 4.33332  4.54929  4.20149  3.43597  

@@ -1,0 +1,12 @@
+UWODAN_clean_primitive, Anchors list: {115, 92, 109}, SBU connectlist: {0, 19, 13}
+UWODAN_clean_primitive, Anchors list: {112, 108, 103}, SBU connectlist: {16, 11, 12}
+UWODAN_clean_primitive, Anchors list: {114, 93, 111}, SBU connectlist: {1, 18, 15}
+UWODAN_clean_primitive, Anchors list: {113, 110, 102}, SBU connectlist: {17, 10, 14}
+UWODAN_clean_primitive, Anchors list: {98, 115, 101}, SBU connectlist: {9, 19, 6}
+UWODAN_clean_primitive, Anchors list: {99, 100, 103}, SBU connectlist: {8, 11, 7}
+UWODAN_clean_primitive, Anchors list: {114, 99, 100}, SBU connectlist: {8, 18, 7}
+UWODAN_clean_primitive, Anchors list: {98, 101, 102}, SBU connectlist: {9, 10, 6}
+UWODAN_clean_primitive, Anchors list: {97, 93, 94}, SBU connectlist: {1, 2, 5}
+UWODAN_clean_primitive, Anchors list: {96, 113, 95}, SBU connectlist: {17, 3, 4}
+UWODAN_clean_primitive, Anchors list: {96, 92, 95}, SBU connectlist: {0, 3, 4}
+UWODAN_clean_primitive, Anchors list: {112, 97, 94}, SBU connectlist: {16, 2, 5}

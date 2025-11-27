@@ -1,0 +1,6 @@
+FUFTUX_clean_primitive11, Anchors list: {7}, SBU connectlist: {7}
+FUFTUX_clean_primitive10, Anchors list: {8}, SBU connectlist: {8}
+FUFTUX_clean_primitive7, Anchors list: {10}, SBU connectlist: {10}
+FUFTUX_clean_primitive6, Anchors list: {5}, SBU connectlist: {5}
+FUFTUX_clean_primitive5, Anchors list: {11}, SBU connectlist: {11}
+FUFTUX_clean_primitive0, Anchors list: {4}, SBU connectlist: {4}

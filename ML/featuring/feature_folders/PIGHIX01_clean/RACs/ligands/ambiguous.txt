@@ -1,0 +1,12 @@
+PIGHIX01_clean_primitive, Anchors list: {9}, SBU connectlist: {9} set to be linker
+PIGHIX01_clean_primitive, Anchors list: {8}, SBU connectlist: {8} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {6}, SBU connectlist: {6} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {7}, SBU connectlist: {7} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {4}, SBU connectlist: {4} set to be linker
+PIGHIX01_clean_primitive, Anchors list: {5}, SBU connectlist: {5} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {3}, SBU connectlist: {3} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+PIGHIX01_clean_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {11}, SBU connectlist: {11} set to be ligand
+PIGHIX01_clean_primitive, Anchors list: {10}, SBU connectlist: {10} set to be ligand

@@ -1,0 +1,3 @@
+@ feature_folders/ATICAH_clean/zeo++/ATICAH_clean_sa.txt Unitcell_volume: 1810.98   Density: 1.59515   ASA_A^2: 119.929 ASA_m^2/cm^3: 662.233 ASA_m^2/g: 415.155 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 59.6341  60.2949  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

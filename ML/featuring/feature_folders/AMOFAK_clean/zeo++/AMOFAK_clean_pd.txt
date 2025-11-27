@@ -1,0 +1,1 @@
+feature_folders/AMOFAK_clean/zeo++/AMOFAK_clean_pd.txt    8.38842 6.72694  8.33928

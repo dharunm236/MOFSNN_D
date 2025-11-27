@@ -1,0 +1,4 @@
+NENFAN_clean_primitive, Anchors list: {19, 13}, SBU connectlist: {9, 15}
+NENFAN_clean_primitive, Anchors list: {18, 12}, SBU connectlist: {8, 14}
+NENFAN_clean_primitive, Anchors list: {11, 5}, SBU connectlist: {1, 7}
+NENFAN_clean_primitive, Anchors list: {10, 4}, SBU connectlist: {0, 6}

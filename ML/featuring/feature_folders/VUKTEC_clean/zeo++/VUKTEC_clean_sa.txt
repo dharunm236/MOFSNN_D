@@ -1,0 +1,3 @@
+@ feature_folders/VUKTEC_clean/zeo++/VUKTEC_clean_sa.txt Unitcell_volume: 5020.83   Density: 1.41892   ASA_A^2: 306.23 ASA_m^2/cm^3: 609.919 ASA_m^2/g: 429.847 NASA_A^2: 32.1986 NASA_m^2/cm^3: 64.1299 NASA_m^2/g: 45.1963
+Number_of_channels: 1 Channel_surface_area_A^2: 306.23  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 15.2773  16.9213  

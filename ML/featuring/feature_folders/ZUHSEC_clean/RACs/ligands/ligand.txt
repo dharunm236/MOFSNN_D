@@ -1,0 +1,4 @@
+ZUHSEC_clean_primitive, Anchors list: {1, 37, 33}, SBU connectlist: {1}
+ZUHSEC_clean_primitive, Anchors list: {0, 32, 36}, SBU connectlist: {0}
+ZUHSEC_clean_primitive, Anchors list: {3, 43, 39}, SBU connectlist: {3}
+ZUHSEC_clean_primitive, Anchors list: {2, 42, 38}, SBU connectlist: {2}

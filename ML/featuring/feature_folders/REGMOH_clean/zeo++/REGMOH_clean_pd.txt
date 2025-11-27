@@ -1,0 +1,1 @@
+feature_folders/REGMOH_clean/zeo++/REGMOH_clean_pd.txt    5.75612 3.62037  5.73903

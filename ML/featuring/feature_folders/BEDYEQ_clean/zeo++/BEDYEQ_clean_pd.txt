@@ -1,0 +1,1 @@
+feature_folders/BEDYEQ_clean/zeo++/BEDYEQ_clean_pd.txt    33.05863 31.49051  33.05863

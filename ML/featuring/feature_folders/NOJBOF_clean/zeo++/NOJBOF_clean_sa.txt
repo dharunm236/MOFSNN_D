@@ -1,0 +1,3 @@
+@ feature_folders/NOJBOF_clean/zeo++/NOJBOF_clean_sa.txt Unitcell_volume: 2008.64   Density: 1.61963   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

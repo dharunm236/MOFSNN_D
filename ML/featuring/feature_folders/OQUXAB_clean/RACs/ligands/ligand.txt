@@ -1,0 +1,16 @@
+OQUXAB_clean_primitive, Anchors list: {130, 11, 132, 138}, SBU connectlist: {1, 5}
+OQUXAB_clean_primitive, Anchors list: {128, 129, 137, 11}, SBU connectlist: {1, 5}
+OQUXAB_clean_primitive, Anchors list: {120, 121, 11, 119}, SBU connectlist: {1, 5}
+OQUXAB_clean_primitive, Anchors list: {9, 106, 108, 114}, SBU connectlist: {0, 3}
+OQUXAB_clean_primitive, Anchors list: {104, 105, 113, 9}, SBU connectlist: {0, 3}
+OQUXAB_clean_primitive, Anchors list: {96, 97, 9, 95}, SBU connectlist: {0, 3}
+OQUXAB_clean_primitive, Anchors list: {115, 9, 107, 109}, SBU connectlist: {0, 3}
+OQUXAB_clean_primitive, Anchors list: {136, 10, 134, 135}, SBU connectlist: {1, 4}
+OQUXAB_clean_primitive, Anchors list: {100, 8, 98, 92}, SBU connectlist: {0, 2}
+OQUXAB_clean_primitive, Anchors list: {126, 10, 118, 127}, SBU connectlist: {1, 4}
+OQUXAB_clean_primitive, Anchors list: {10, 125, 123, 117}, SBU connectlist: {1, 4}
+OQUXAB_clean_primitive, Anchors list: {124, 122, 10, 116}, SBU connectlist: {1, 4}
+OQUXAB_clean_primitive, Anchors list: {112, 8, 110, 111}, SBU connectlist: {0, 2}
+OQUXAB_clean_primitive, Anchors list: {8, 102, 94, 103}, SBU connectlist: {0, 2}
+OQUXAB_clean_primitive, Anchors list: {8, 101, 99, 93}, SBU connectlist: {0, 2}
+OQUXAB_clean_primitive, Anchors list: {11, 131, 139, 133}, SBU connectlist: {1, 5}

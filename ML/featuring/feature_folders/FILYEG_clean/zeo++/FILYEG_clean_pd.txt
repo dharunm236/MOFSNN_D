@@ -1,0 +1,1 @@
+feature_folders/FILYEG_clean/zeo++/FILYEG_clean_pd.txt    7.61133 5.32870  7.60971

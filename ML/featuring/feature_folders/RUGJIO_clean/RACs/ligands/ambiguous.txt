@@ -1,0 +1,2 @@
+RUGJIO_clean_primitive, Anchors list: {32}, SBU connectlist: {0} set to be linker
+RUGJIO_clean_primitive, Anchors list: {33}, SBU connectlist: {1} set to be linker

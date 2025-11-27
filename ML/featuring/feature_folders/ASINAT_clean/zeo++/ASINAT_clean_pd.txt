@@ -1,0 +1,1 @@
+feature_folders/ASINAT_clean/zeo++/ASINAT_clean_pd.txt    9.76550 7.73483  9.76550

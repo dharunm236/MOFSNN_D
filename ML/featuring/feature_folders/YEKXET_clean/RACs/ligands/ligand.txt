@@ -1,0 +1,8 @@
+YEKXET_clean_primitive, Anchors list: {9, 7}, SBU connectlist: {9, 7}
+YEKXET_clean_primitive, Anchors list: {8, 10}, SBU connectlist: {8, 10}
+YEKXET_clean_primitive, Anchors list: {6, 7}, SBU connectlist: {6, 7}
+YEKXET_clean_primitive, Anchors list: {10, 11}, SBU connectlist: {10, 11}
+YEKXET_clean_primitive, Anchors list: {2, 4}, SBU connectlist: {2, 4}
+YEKXET_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+YEKXET_clean_primitive, Anchors list: {4, 5}, SBU connectlist: {4, 5}
+YEKXET_clean_primitive, Anchors list: {1, 3}, SBU connectlist: {1, 3}

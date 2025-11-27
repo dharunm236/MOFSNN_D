@@ -1,0 +1,1 @@
+feature_folders/MITGOL_clean/zeo++/MITGOL_clean_pd.txt    4.76638 3.82621  4.60043

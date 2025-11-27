@@ -1,0 +1,1 @@
+feature_folders/FUYCIN_clean/zeo++/FUYCIN_clean_pd.txt    11.38543 11.12419  11.37740

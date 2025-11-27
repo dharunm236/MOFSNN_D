@@ -1,0 +1,1 @@
+feature_folders/OGAQES_clean/zeo++/OGAQES_clean_pd.txt    3.50911 2.82622  3.50911

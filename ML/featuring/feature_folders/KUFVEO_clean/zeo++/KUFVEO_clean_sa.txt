@@ -1,0 +1,3 @@
+@ feature_folders/KUFVEO_clean/zeo++/KUFVEO_clean_sa.txt Unitcell_volume: 3396.67   Density: 1.1582   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 361.455 NASA_m^2/cm^3: 1064.15 NASA_m^2/g: 918.795
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 182.173  179.283  

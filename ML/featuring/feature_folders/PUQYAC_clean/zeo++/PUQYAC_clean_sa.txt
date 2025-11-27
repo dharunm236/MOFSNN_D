@@ -1,0 +1,3 @@
+@ feature_folders/PUQYAC_clean/zeo++/PUQYAC_clean_sa.txt Unitcell_volume: 3025.78   Density: 1.50028   ASA_A^2: 53.7044 ASA_m^2/cm^3: 177.49 ASA_m^2/g: 118.305 NASA_A^2: 63.0796 NASA_m^2/cm^3: 208.474 NASA_m^2/g: 138.957
+Number_of_channels: 1 Channel_surface_area_A^2: 53.7044  
+Number_of_pockets: 3 Pocket_surface_area_A^2: 21.229  20.9743  20.8764  

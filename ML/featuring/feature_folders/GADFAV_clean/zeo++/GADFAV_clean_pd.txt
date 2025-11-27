@@ -1,0 +1,1 @@
+feature_folders/GADFAV_clean/zeo++/GADFAV_clean_pd.txt    5.86008 4.67598  5.86008

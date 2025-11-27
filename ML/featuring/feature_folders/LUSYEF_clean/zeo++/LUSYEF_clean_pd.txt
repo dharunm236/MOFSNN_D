@@ -1,0 +1,1 @@
+feature_folders/LUSYEF_clean/zeo++/LUSYEF_clean_pd.txt    11.64235 5.79819  10.53178

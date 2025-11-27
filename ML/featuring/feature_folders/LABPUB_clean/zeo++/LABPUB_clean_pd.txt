@@ -1,0 +1,1 @@
+feature_folders/LABPUB_clean/zeo++/LABPUB_clean_pd.txt    5.35903 3.85156  5.35903

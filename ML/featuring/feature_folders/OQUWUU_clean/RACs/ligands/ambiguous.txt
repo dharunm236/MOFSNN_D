@@ -1,0 +1,8 @@
+OQUWUU_clean_primitive, Anchors list: {417, 419, 425, 427, 429, 431, 433, 435, 437, 439, 441, 443}, SBU connectlist: {5} set to be linker
+OQUWUU_clean_primitive, Anchors list: {416, 418, 424, 426, 428, 430, 432, 434, 436, 438, 440, 442}, SBU connectlist: {4} set to be linker
+OQUWUU_clean_primitive, Anchors list: {421, 423, 397, 399, 401, 403, 405, 407, 409, 411, 413, 415}, SBU connectlist: {5} set to be linker
+OQUWUU_clean_primitive, Anchors list: {420, 422, 396, 398, 400, 402, 404, 406, 408, 410, 412, 414}, SBU connectlist: {4} set to be linker
+OQUWUU_clean_primitive, Anchors list: {385, 387, 389, 391, 393, 395, 369, 371, 377, 379, 381, 383}, SBU connectlist: {3} set to be linker
+OQUWUU_clean_primitive, Anchors list: {384, 386, 388, 390, 392, 394, 368, 370, 376, 378, 380, 382}, SBU connectlist: {2} set to be ligand
+OQUWUU_clean_primitive, Anchors list: {353, 355, 357, 359, 361, 363, 365, 367, 373, 375, 349, 351}, SBU connectlist: {3} set to be linker
+OQUWUU_clean_primitive, Anchors list: {352, 354, 356, 358, 360, 362, 364, 366, 372, 374, 348, 350}, SBU connectlist: {2} set to be linker

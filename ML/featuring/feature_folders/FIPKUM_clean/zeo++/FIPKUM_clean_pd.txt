@@ -1,0 +1,1 @@
+feature_folders/FIPKUM_clean/zeo++/FIPKUM_clean_pd.txt    6.38814 4.75563  6.36831

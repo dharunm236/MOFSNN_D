@@ -1,0 +1,3 @@
+@ feature_folders/HAWREE_clean/zeo++/HAWREE_clean_sa.txt Unitcell_volume: 2681.54   Density: 1.29463   ASA_A^2: 150.823 ASA_m^2/cm^3: 562.449 ASA_m^2/g: 434.448 NASA_A^2: 79.1839 NASA_m^2/cm^3: 295.292 NASA_m^2/g: 228.091
+Number_of_channels: 1 Channel_surface_area_A^2: 150.823  
+Number_of_pockets: 6 Pocket_surface_area_A^2: 49.9938  27.5801  0.874542  0.0109359  0.708493  0.0159261  

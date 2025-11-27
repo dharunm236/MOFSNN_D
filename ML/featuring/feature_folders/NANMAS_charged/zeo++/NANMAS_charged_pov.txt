@@ -1,0 +1,3 @@
+@ feature_folders/NANMAS_charged/zeo++/NANMAS_charged_pov.txt Unitcell_volume: 4457.71   Density: 1.66713   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 402.531 PONAV_Volume_fraction: 0.0903 PONAV_cm^3/g: 0.054165
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/NANMAS_charged/zeo++/NANMAS_charged_pov.txt	1.66713	1.86	10000	0	0.0056	0	0.0903	0.3556	0.5541

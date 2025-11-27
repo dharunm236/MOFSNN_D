@@ -1,0 +1,3 @@
+@ feature_folders/JALCAD_clean/zeo++/JALCAD_clean_sa.txt Unitcell_volume: 9929.23   Density: 0.840589   ASA_A^2: 1378.61 ASA_m^2/cm^3: 1388.44 ASA_m^2/g: 1651.74 NASA_A^2: 477.778 NASA_m^2/cm^3: 481.183 NASA_m^2/g: 572.436
+Number_of_channels: 1 Channel_surface_area_A^2: 1378.61  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 240.428  237.35  

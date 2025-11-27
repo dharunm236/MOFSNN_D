@@ -1,0 +1,1 @@
+feature_folders/TOVKOG_clean/zeo++/TOVKOG_clean_pd.txt    22.84213 13.12826  22.38016

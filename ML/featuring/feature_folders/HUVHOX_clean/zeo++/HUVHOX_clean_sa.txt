@@ -1,0 +1,3 @@
+@ feature_folders/HUVHOX_clean/zeo++/HUVHOX_clean_sa.txt Unitcell_volume: 2481.53   Density: 1.48531   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 182.063 NASA_m^2/cm^3: 733.673 NASA_m^2/g: 493.954
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 45.4293  45.5595  46.0853  44.9891  

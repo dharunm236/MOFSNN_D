@@ -1,0 +1,6 @@
+PURNIB_clean_primitive, Anchors list: {192, 195, 199, 201, 202, 50, 51, 185, 186, 188, 190, 191}, SBU connectlist: {0} set to be linker
+PURNIB_clean_primitive, Anchors list: {193, 194, 196, 197, 198, 200, 203, 48, 49, 184, 187, 189}, SBU connectlist: {0} set to be linker
+PURNIB_clean_primitive, Anchors list: {53}, SBU connectlist: {0} set to be linker
+PURNIB_clean_primitive, Anchors list: {52}, SBU connectlist: {0} set to be linker
+PURNIB_clean_primitive, Anchors list: {54}, SBU connectlist: {0} set to be linker
+PURNIB_clean_primitive, Anchors list: {55}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,1 @@
+feature_folders/EQERAU_clean/zeo++/EQERAU_clean_pd.txt    8.66462 5.10134  8.65703

@@ -1,0 +1,12 @@
+BUKRUW03_clean_primitive22, Anchors list: {24, 23}, SBU connectlist: {4}
+BUKRUW03_clean_primitive21, Anchors list: {16, 23}, SBU connectlist: {4}
+BUKRUW03_clean_primitive19, Anchors list: {24, 16}, SBU connectlist: {4}
+BUKRUW03_clean_primitive17, Anchors list: {25, 18}, SBU connectlist: {6}
+BUKRUW03_clean_primitive14, Anchors list: {17, 25}, SBU connectlist: {6}
+BUKRUW03_clean_primitive12, Anchors list: {17, 18}, SBU connectlist: {6}
+BUKRUW03_clean_primitive10, Anchors list: {9, 10}, SBU connectlist: {0}
+BUKRUW03_clean_primitive9, Anchors list: {9, 2}, SBU connectlist: {0}
+BUKRUW03_clean_primitive7, Anchors list: {2, 10}, SBU connectlist: {0}
+BUKRUW03_clean_primitive5, Anchors list: {11, 4}, SBU connectlist: {2}
+BUKRUW03_clean_primitive2, Anchors list: {11, 3}, SBU connectlist: {2}
+BUKRUW03_clean_primitive0, Anchors list: {3, 4}, SBU connectlist: {2}

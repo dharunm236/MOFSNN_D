@@ -1,0 +1,8 @@
+WITJUG_clean_primitive, Anchors list: {8, 9, 5, 6}, SBU connectlist: {1} set to be linker
+WITJUG_clean_primitive, Anchors list: {1, 2, 12, 13}, SBU connectlist: {0} set to be linker
+WITJUG_clean_primitive, Anchors list: {11, 2, 3, 12}, SBU connectlist: {0} set to be linker
+WITJUG_clean_primitive, Anchors list: {11, 2, 3, 12}, SBU connectlist: {0} set to be linker
+WITJUG_clean_primitive, Anchors list: {8, 9, 5, 6}, SBU connectlist: {1} set to be linker
+WITJUG_clean_primitive, Anchors list: {9, 10, 4, 5}, SBU connectlist: {1} set to be linker
+WITJUG_clean_primitive, Anchors list: {9, 10, 4, 5}, SBU connectlist: {1} set to be linker
+WITJUG_clean_primitive, Anchors list: {1, 2, 12, 13}, SBU connectlist: {0} set to be linker

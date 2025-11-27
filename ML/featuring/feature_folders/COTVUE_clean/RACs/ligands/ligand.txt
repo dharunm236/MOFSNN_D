@@ -1,0 +1,4 @@
+COTVUE_clean_primitive, Anchors list: {51, 7}, SBU connectlist: {11, 7}
+COTVUE_clean_primitive, Anchors list: {42, 4}, SBU connectlist: {10, 4}
+COTVUE_clean_primitive, Anchors list: {25, 3}, SBU connectlist: {9, 3}
+COTVUE_clean_primitive, Anchors list: {0, 16}, SBU connectlist: {0, 8}

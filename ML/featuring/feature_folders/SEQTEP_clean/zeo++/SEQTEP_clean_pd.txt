@@ -1,0 +1,1 @@
+feature_folders/SEQTEP_clean/zeo++/SEQTEP_clean_pd.txt    7.69250 5.22397  7.68760

@@ -1,0 +1,3 @@
+@ feature_folders/FIBKEI_clean/zeo++/FIBKEI_clean_pov.txt Unitcell_volume: 7649.02   Density: 0.708252   POAV_A^3: 5109.55 POAV_Volume_fraction: 0.668 POAV_cm^3/g: 0.943168 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FIBKEI_clean/zeo++/FIBKEI_clean_pov.txt	0.708252	1.86	10000	0.2745	0	0.668	0	0.0796	0.2524

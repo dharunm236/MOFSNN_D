@@ -1,0 +1,1 @@
+feature_folders/TASXIW_clean/zeo++/TASXIW_clean_pd.txt    7.39302 4.84143  7.39181

@@ -1,0 +1,1 @@
+feature_folders/ETAXUT_clean/zeo++/ETAXUT_clean_pd.txt    12.87074 7.93671  12.87074

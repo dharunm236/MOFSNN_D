@@ -1,0 +1,3 @@
+@ feature_folders/OQUXIJ_clean/zeo++/OQUXIJ_clean_pov.txt Unitcell_volume: 6909.52   Density: 3.16115   POAV_A^3: 1025.37 POAV_Volume_fraction: 0.1484 POAV_cm^3/g: 0.046945 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/OQUXIJ_clean/zeo++/OQUXIJ_clean_pov.txt	3.16115	1.86	10000	0.0092	0	0.1484	0	0.3229	0.5287

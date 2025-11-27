@@ -1,0 +1,1 @@
+feature_folders/DOKHOB_clean/zeo++/DOKHOB_clean_pd.txt    5.82546 2.96288  5.81116

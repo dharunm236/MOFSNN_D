@@ -1,0 +1,1 @@
+feature_folders/TAKVAF_clean/zeo++/TAKVAF_clean_pd.txt    7.05679 6.94525  7.05679

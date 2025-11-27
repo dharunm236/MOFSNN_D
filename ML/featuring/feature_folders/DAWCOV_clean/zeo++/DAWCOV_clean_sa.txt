@@ -1,0 +1,3 @@
+@ feature_folders/DAWCOV_clean/zeo++/DAWCOV_clean_sa.txt Unitcell_volume: 3098.95   Density: 0.976829   ASA_A^2: 460.976 ASA_m^2/cm^3: 1487.53 ASA_m^2/g: 1522.81 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 460.976  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

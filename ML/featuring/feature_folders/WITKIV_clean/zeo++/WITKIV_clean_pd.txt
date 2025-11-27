@@ -1,0 +1,1 @@
+feature_folders/WITKIV_clean/zeo++/WITKIV_clean_pd.txt    20.46084 11.48372  20.46084

@@ -1,0 +1,3 @@
+@ feature_folders/XEGKOL_clean/zeo++/XEGKOL_clean_pov.txt Unitcell_volume: 5313.76   Density: 1.11832   POAV_A^3: 2257.82 POAV_Volume_fraction: 0.4249 POAV_cm^3/g: 0.379943 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XEGKOL_clean/zeo++/XEGKOL_clean_pov.txt	1.11832	1.86	10000	0.1172	0	0.4249	0	0.1719	0.4032

@@ -1,0 +1,2 @@
+YUZRAO_clean_primitive, Anchors list: {3, 5}, SBU connectlist: {3, 5}
+YUZRAO_clean_primitive, Anchors list: {0, 3}, SBU connectlist: {0, 3}

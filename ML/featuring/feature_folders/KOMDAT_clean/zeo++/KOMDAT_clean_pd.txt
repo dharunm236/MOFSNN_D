@@ -1,0 +1,1 @@
+feature_folders/KOMDAT_clean/zeo++/KOMDAT_clean_pd.txt    8.31487 7.41464  8.31487

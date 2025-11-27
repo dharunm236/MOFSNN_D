@@ -1,0 +1,61 @@
+MUZGAQ_clean_primitive, Anchors list: {17, 37, 21}, SBU connectlist: {17, 37, 21}
+MUZGAQ_clean_primitive, Anchors list: {24, 38, 23}, SBU connectlist: {24, 38, 23}
+MUZGAQ_clean_primitive, Anchors list: {25, 35, 31}, SBU connectlist: {25, 35, 31}
+MUZGAQ_clean_primitive, Anchors list: {16, 26, 20}, SBU connectlist: {16, 26, 20}
+MUZGAQ_clean_primitive, Anchors list: {34, 14, 30}, SBU connectlist: {34, 14, 30}
+MUZGAQ_clean_primitive, Anchors list: {27, 28, 13}, SBU connectlist: {27, 28, 13}
+MUZGAQ_clean_primitive, Anchors list: {24, 33, 23}, SBU connectlist: {24, 33, 23}
+MUZGAQ_clean_primitive, Anchors list: {34, 14, 22}, SBU connectlist: {34, 14, 22}
+MUZGAQ_clean_primitive, Anchors list: {17, 29, 21}, SBU connectlist: {17, 29, 21}
+MUZGAQ_clean_primitive, Anchors list: {0, 50, 46}, SBU connectlist: {0, 50, 46}
+MUZGAQ_clean_primitive, Anchors list: {26, 12, 20}, SBU connectlist: {26, 12, 20}
+MUZGAQ_clean_primitive, Anchors list: {18, 11, 22}, SBU connectlist: {18, 11, 22}
+MUZGAQ_clean_primitive, Anchors list: {48, 50, 47}, SBU connectlist: {48, 50, 47}
+MUZGAQ_clean_primitive, Anchors list: {0, 50, 44}, SBU connectlist: {0, 50, 44}
+MUZGAQ_clean_primitive, Anchors list: {30, 14, 22}, SBU connectlist: {30, 14, 22}
+MUZGAQ_clean_primitive, Anchors list: {0, 44, 46}, SBU connectlist: {0, 44, 46}
+MUZGAQ_clean_primitive, Anchors list: {18, 28, 13}, SBU connectlist: {18, 28, 13}
+MUZGAQ_clean_primitive, Anchors list: {25, 21, 15}, SBU connectlist: {25, 21, 15}
+MUZGAQ_clean_primitive, Anchors list: {18, 27, 13}, SBU connectlist: {18, 27, 13}
+MUZGAQ_clean_primitive, Anchors list: {16, 10, 19}, SBU connectlist: {16, 10, 19}
+MUZGAQ_clean_primitive, Anchors list: {16, 26, 12}, SBU connectlist: {16, 26, 12}
+MUZGAQ_clean_primitive, Anchors list: {16, 12, 20}, SBU connectlist: {16, 12, 20}
+MUZGAQ_clean_primitive, Anchors list: {9, 14, 7}, SBU connectlist: {9, 14, 7}
+MUZGAQ_clean_primitive, Anchors list: {8, 13, 6}, SBU connectlist: {8, 13, 6}
+MUZGAQ_clean_primitive, Anchors list: {8, 2, 10}, SBU connectlist: {8, 2, 10}
+MUZGAQ_clean_primitive, Anchors list: {8, 10, 3}, SBU connectlist: {8, 10, 3}
+MUZGAQ_clean_primitive, Anchors list: {1, 5, 7}, SBU connectlist: {1, 5, 7}
+MUZGAQ_clean_primitive, Anchors list: {10, 2, 3}, SBU connectlist: {10, 2, 3}
+MUZGAQ_clean_primitive95, Anchors list: {24}, SBU connectlist: {24}
+MUZGAQ_clean_primitive, Anchors list: {48, 49, 43}, SBU connectlist: {48, 49, 43}
+MUZGAQ_clean_primitive, Anchors list: {48, 41, 49}, SBU connectlist: {48, 41, 49}
+MUZGAQ_clean_primitive, Anchors list: {50, 44, 46}, SBU connectlist: {50, 44, 46}
+MUZGAQ_clean_primitive, Anchors list: {48, 41, 43}, SBU connectlist: {48, 41, 43}
+MUZGAQ_clean_primitive, Anchors list: {41, 43, 49}, SBU connectlist: {41, 43, 49}
+MUZGAQ_clean_primitive, Anchors list: {43, 45, 38}, SBU connectlist: {43, 45, 38}
+MUZGAQ_clean_primitive, Anchors list: {42, 44, 37}, SBU connectlist: {42, 44, 37}
+MUZGAQ_clean_primitive, Anchors list: {35, 39, 31}, SBU connectlist: {35, 39, 31}
+MUZGAQ_clean_primitive, Anchors list: {25, 35, 39}, SBU connectlist: {25, 35, 39}
+MUZGAQ_clean_primitive, Anchors list: {32, 41, 35}, SBU connectlist: {32, 41, 35}
+MUZGAQ_clean_primitive, Anchors list: {24, 33, 38}, SBU connectlist: {24, 33, 38}
+MUZGAQ_clean_primitive, Anchors list: {26, 36, 30}, SBU connectlist: {26, 36, 30}
+MUZGAQ_clean_primitive, Anchors list: {33, 38, 23}, SBU connectlist: {33, 38, 23}
+MUZGAQ_clean_primitive, Anchors list: {29, 37, 21}, SBU connectlist: {29, 37, 21}
+MUZGAQ_clean_primitive73, Anchors list: {27}, SBU connectlist: {27}
+MUZGAQ_clean_primitive, Anchors list: {40, 33, 29}, SBU connectlist: {40, 33, 29}
+MUZGAQ_clean_primitive, Anchors list: {25, 39, 31}, SBU connectlist: {25, 39, 31}
+MUZGAQ_clean_primitive, Anchors list: {34, 22, 30}, SBU connectlist: {34, 22, 30}
+MUZGAQ_clean_primitive, Anchors list: {17, 37, 29}, SBU connectlist: {17, 37, 29}
+MUZGAQ_clean_primitive, Anchors list: {18, 27, 28}, SBU connectlist: {18, 27, 28}
+MUZGAQ_clean_primitive, Anchors list: {8, 2, 3}, SBU connectlist: {8, 2, 3}
+MUZGAQ_clean_primitive, Anchors list: {51, 5, 7}, SBU connectlist: {51, 5, 7}
+MUZGAQ_clean_primitive, Anchors list: {1, 51, 7}, SBU connectlist: {1, 51, 7}
+MUZGAQ_clean_primitive, Anchors list: {1, 3, 4}, SBU connectlist: {1, 3, 4}
+MUZGAQ_clean_primitive, Anchors list: {1, 51, 5}, SBU connectlist: {1, 51, 5}
+MUZGAQ_clean_primitive51, Anchors list: {36}, SBU connectlist: {36}
+MUZGAQ_clean_primitive50, Anchors list: {49}, SBU connectlist: {49}
+MUZGAQ_clean_primitive42, Anchors list: {42}, SBU connectlist: {42}
+MUZGAQ_clean_primitive29, Anchors list: {9}, SBU connectlist: {9}
+MUZGAQ_clean_primitive17, Anchors list: {2}, SBU connectlist: {2}
+MUZGAQ_clean_primitive11, Anchors list: {15}, SBU connectlist: {15}
+MUZGAQ_clean_primitive0, Anchors list: {45}, SBU connectlist: {45}

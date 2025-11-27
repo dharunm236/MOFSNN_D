@@ -1,0 +1,2 @@
+HIQNUS_clean_primitive, Anchors list: {101}, SBU connectlist: {1} set to be linker
+HIQNUS_clean_primitive, Anchors list: {100}, SBU connectlist: {0} set to be linker

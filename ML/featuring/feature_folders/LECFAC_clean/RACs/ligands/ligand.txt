@@ -1,0 +1,1 @@
+LECFAC_clean_primitive14, Anchors list: {2, 3, 15}, SBU connectlist: {2}

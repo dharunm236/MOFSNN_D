@@ -1,0 +1,4 @@
+PURNEX_clean_primitive, Anchors list: {129, 131, 132, 134, 137, 139, 140, 143, 120, 123, 124, 126}, SBU connectlist: {0} set to be linker
+PURNEX_clean_primitive, Anchors list: {128, 130, 133, 135, 136, 138, 141, 142, 121, 122, 125, 127}, SBU connectlist: {0} set to be linker
+PURNEX_clean_primitive, Anchors list: {25}, SBU connectlist: {0} set to be linker
+PURNEX_clean_primitive, Anchors list: {24}, SBU connectlist: {0} set to be linker

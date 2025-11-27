@@ -1,0 +1,260 @@
+EMIGAJ_charged_primitive, Anchors list: {45, 79}, SBU connectlist: {45, 79}
+EMIGAJ_charged_primitive, Anchors list: {44, 78}, SBU connectlist: {44, 78}
+EMIGAJ_charged_primitive, Anchors list: {56, 58}, SBU connectlist: {56, 58}
+EMIGAJ_charged_primitive, Anchors list: {56, 55}, SBU connectlist: {56, 55}
+EMIGAJ_charged_primitive, Anchors list: {48, 81}, SBU connectlist: {48, 81}
+EMIGAJ_charged_primitive, Anchors list: {80, 47}, SBU connectlist: {80, 47}
+EMIGAJ_charged_primitive, Anchors list: {57, 75}, SBU connectlist: {57, 75}
+EMIGAJ_charged_primitive, Anchors list: {43, 77, 54}, SBU connectlist: {43, 77, 54}
+EMIGAJ_charged_primitive, Anchors list: {57, 74}, SBU connectlist: {57, 74}
+EMIGAJ_charged_primitive, Anchors list: {42, 76, 54}, SBU connectlist: {42, 76, 54}
+EMIGAJ_charged_primitive, Anchors list: {72, 53}, SBU connectlist: {72, 53}
+EMIGAJ_charged_primitive, Anchors list: {51, 68, 53}, SBU connectlist: {51, 68, 53}
+EMIGAJ_charged_primitive, Anchors list: {66, 52}, SBU connectlist: {66, 52}
+EMIGAJ_charged_primitive, Anchors list: {50, 69}, SBU connectlist: {50, 69}
+EMIGAJ_charged_primitive, Anchors list: {50, 52, 62}, SBU connectlist: {50, 52, 62}
+EMIGAJ_charged_primitive, Anchors list: {64, 51}, SBU connectlist: {64, 51}
+EMIGAJ_charged_primitive, Anchors list: {65, 49}, SBU connectlist: {65, 49}
+EMIGAJ_charged_primitive, Anchors list: {48, 71}, SBU connectlist: {48, 71}
+EMIGAJ_charged_primitive, Anchors list: {70, 47}, SBU connectlist: {70, 47}
+EMIGAJ_charged_primitive, Anchors list: {49, 61, 46}, SBU connectlist: {49, 61, 46}
+EMIGAJ_charged_primitive, Anchors list: {67, 47}, SBU connectlist: {67, 47}
+EMIGAJ_charged_primitive, Anchors list: {48, 63}, SBU connectlist: {48, 63}
+EMIGAJ_charged_primitive, Anchors list: {60, 46}, SBU connectlist: {60, 46}
+EMIGAJ_charged_primitive, Anchors list: {41, 59}, SBU connectlist: {41, 59}
+EMIGAJ_charged_primitive, Anchors list: {58, 43}, SBU connectlist: {58, 43}
+EMIGAJ_charged_primitive, Anchors list: {52, 45}, SBU connectlist: {52, 45}
+EMIGAJ_charged_primitive, Anchors list: {56, 42, 43}, SBU connectlist: {56, 42, 43}
+EMIGAJ_charged_primitive, Anchors list: {44, 53}, SBU connectlist: {44, 53}
+EMIGAJ_charged_primitive, Anchors list: {51, 44}, SBU connectlist: {51, 44}
+EMIGAJ_charged_primitive, Anchors list: {50, 45}, SBU connectlist: {50, 45}
+EMIGAJ_charged_primitive, Anchors list: {42, 55}, SBU connectlist: {42, 55}
+EMIGAJ_charged_primitive, Anchors list: {40, 54}, SBU connectlist: {40, 54}
+EMIGAJ_charged_primitive, Anchors list: {41, 49}, SBU connectlist: {41, 49}
+EMIGAJ_charged_primitive, Anchors list: {41, 46}, SBU connectlist: {41, 46}
+EMIGAJ_charged_primitive, Anchors list: {37, 39}, SBU connectlist: {37, 39}
+EMIGAJ_charged_primitive, Anchors list: {40, 43}, SBU connectlist: {40, 43}
+EMIGAJ_charged_primitive, Anchors list: {36, 39}, SBU connectlist: {36, 39}
+EMIGAJ_charged_primitive, Anchors list: {40, 42}, SBU connectlist: {40, 42}
+EMIGAJ_charged_primitive, Anchors list: {33, 38}, SBU connectlist: {33, 38}
+EMIGAJ_charged_primitive, Anchors list: {38, 30}, SBU connectlist: {38, 30}
+EMIGAJ_charged_primitive, Anchors list: {25, 39}, SBU connectlist: {25, 39}
+EMIGAJ_charged_primitive, Anchors list: {24, 37}, SBU connectlist: {24, 37}
+EMIGAJ_charged_primitive, Anchors list: {34, 28}, SBU connectlist: {34, 28}
+EMIGAJ_charged_primitive, Anchors list: {35, 29}, SBU connectlist: {35, 29}
+EMIGAJ_charged_primitive, Anchors list: {26, 35}, SBU connectlist: {26, 35}
+EMIGAJ_charged_primitive, Anchors list: {36, 37, 23}, SBU connectlist: {36, 37, 23}
+EMIGAJ_charged_primitive, Anchors list: {34, 27}, SBU connectlist: {34, 27}
+EMIGAJ_charged_primitive, Anchors list: {36, 21}, SBU connectlist: {36, 21}
+EMIGAJ_charged_primitive, Anchors list: {20, 38}, SBU connectlist: {20, 38}
+EMIGAJ_charged_primitive, Anchors list: {33, 19}, SBU connectlist: {33, 19}
+EMIGAJ_charged_primitive, Anchors list: {16, 31}, SBU connectlist: {16, 31}
+EMIGAJ_charged_primitive, Anchors list: {32, 12}, SBU connectlist: {32, 12}
+EMIGAJ_charged_primitive, Anchors list: {33, 18, 30}, SBU connectlist: {33, 18, 30}
+EMIGAJ_charged_primitive, Anchors list: {32, 9}, SBU connectlist: {32, 9}
+EMIGAJ_charged_primitive, Anchors list: {8, 31}, SBU connectlist: {8, 31}
+EMIGAJ_charged_primitive, Anchors list: {14, 30}, SBU connectlist: {14, 30}
+EMIGAJ_charged_primitive, Anchors list: {29, 15}, SBU connectlist: {29, 15}
+EMIGAJ_charged_primitive, Anchors list: {17, 27, 28}, SBU connectlist: {17, 27, 28}
+EMIGAJ_charged_primitive, Anchors list: {10, 28}, SBU connectlist: {10, 28}
+EMIGAJ_charged_primitive, Anchors list: {27, 13}, SBU connectlist: {27, 13}
+EMIGAJ_charged_primitive, Anchors list: {26, 11, 29}, SBU connectlist: {26, 11, 29}
+EMIGAJ_charged_primitive, Anchors list: {26, 7}, SBU connectlist: {26, 7}
+EMIGAJ_charged_primitive, Anchors list: {25, 3, 37}, SBU connectlist: {25, 3, 37}
+EMIGAJ_charged_primitive, Anchors list: {5, 22}, SBU connectlist: {5, 22}
+EMIGAJ_charged_primitive, Anchors list: {25, 2, 36}, SBU connectlist: {25, 2, 36}
+EMIGAJ_charged_primitive, Anchors list: {4, 22}, SBU connectlist: {4, 22}
+EMIGAJ_charged_primitive, Anchors list: {32, 159}, SBU connectlist: {32, 129}
+EMIGAJ_charged_primitive, Anchors list: {158, 31}, SBU connectlist: {128, 31}
+EMIGAJ_charged_primitive, Anchors list: {24, 23}, SBU connectlist: {24, 23}
+EMIGAJ_charged_primitive, Anchors list: {21, 23}, SBU connectlist: {21, 23}
+EMIGAJ_charged_primitive, Anchors list: {1, 35}, SBU connectlist: {1, 35}
+EMIGAJ_charged_primitive, Anchors list: {0, 34}, SBU connectlist: {0, 34}
+EMIGAJ_charged_primitive, Anchors list: {17, 13}, SBU connectlist: {17, 13}
+EMIGAJ_charged_primitive, Anchors list: {17, 10}, SBU connectlist: {17, 10}
+EMIGAJ_charged_primitive, Anchors list: {33, 155, 20}, SBU connectlist: {33, 20, 125}
+EMIGAJ_charged_primitive, Anchors list: {11, 15}, SBU connectlist: {11, 15}
+EMIGAJ_charged_primitive, Anchors list: {157, 6}, SBU connectlist: {6, 127}
+EMIGAJ_charged_primitive, Anchors list: {11, 7}, SBU connectlist: {11, 7}
+EMIGAJ_charged_primitive, Anchors list: {154, 20, 30}, SBU connectlist: {124, 20, 30}
+EMIGAJ_charged_primitive, Anchors list: {18, 19}, SBU connectlist: {18, 19}
+EMIGAJ_charged_primitive, Anchors list: {156, 6}, SBU connectlist: {126, 6}
+EMIGAJ_charged_primitive, Anchors list: {18, 14}, SBU connectlist: {18, 14}
+EMIGAJ_charged_primitive, Anchors list: {16, 152}, SBU connectlist: {16, 122}
+EMIGAJ_charged_primitive, Anchors list: {8, 16, 148}, SBU connectlist: {8, 16, 118}
+EMIGAJ_charged_primitive, Anchors list: {9, 149}, SBU connectlist: {9, 119}
+EMIGAJ_charged_primitive, Anchors list: {146, 12}, SBU connectlist: {116, 12}
+EMIGAJ_charged_primitive, Anchors list: {8, 144}, SBU connectlist: {8, 114}
+EMIGAJ_charged_primitive, Anchors list: {9, 12, 142}, SBU connectlist: {112, 9, 12}
+EMIGAJ_charged_primitive, Anchors list: {25, 153}, SBU connectlist: {25, 123}
+EMIGAJ_charged_primitive, Anchors list: {145, 5}, SBU connectlist: {115, 5}
+EMIGAJ_charged_primitive, Anchors list: {4, 5, 141}, SBU connectlist: {4, 5, 111}
+EMIGAJ_charged_primitive, Anchors list: {1, 29, 151}, SBU connectlist: {1, 29, 121}
+EMIGAJ_charged_primitive, Anchors list: {0, 28, 150}, SBU connectlist: {0, 28, 120}
+EMIGAJ_charged_primitive, Anchors list: {140, 4}, SBU connectlist: {4, 110}
+EMIGAJ_charged_primitive, Anchors list: {0, 27, 147}, SBU connectlist: {0, 27, 117}
+EMIGAJ_charged_primitive, Anchors list: {1, 26, 143}, SBU connectlist: {1, 26, 113}
+EMIGAJ_charged_primitive, Anchors list: {24, 3}, SBU connectlist: {24, 3}
+EMIGAJ_charged_primitive, Anchors list: {139, 22}, SBU connectlist: {109, 22}
+EMIGAJ_charged_primitive, Anchors list: {138, 157}, SBU connectlist: {108, 127}
+EMIGAJ_charged_primitive, Anchors list: {136, 156, 157}, SBU connectlist: {106, 126, 127}
+EMIGAJ_charged_primitive, Anchors list: {137, 20}, SBU connectlist: {107, 20}
+EMIGAJ_charged_primitive, Anchors list: {156, 135}, SBU connectlist: {105, 126}
+EMIGAJ_charged_primitive, Anchors list: {16, 133, 158}, SBU connectlist: {16, 128, 103}
+EMIGAJ_charged_primitive, Anchors list: {132, 12, 159}, SBU connectlist: {129, 12, 102}
+EMIGAJ_charged_primitive, Anchors list: {19, 155}, SBU connectlist: {19, 125}
+EMIGAJ_charged_primitive, Anchors list: {9, 131, 159}, SBU connectlist: {9, 129, 101}
+EMIGAJ_charged_primitive, Anchors list: {8, 130, 158}, SBU connectlist: {8, 100, 128}
+EMIGAJ_charged_primitive, Anchors list: {18, 155, 154}, SBU connectlist: {18, 124, 125}
+EMIGAJ_charged_primitive, Anchors list: {154, 14}, SBU connectlist: {124, 14}
+EMIGAJ_charged_primitive, Anchors list: {134, 6}, SBU connectlist: {104, 6}
+EMIGAJ_charged_primitive, Anchors list: {17, 147, 150}, SBU connectlist: {120, 17, 117}
+EMIGAJ_charged_primitive, Anchors list: {151, 15}, SBU connectlist: {121, 15}
+EMIGAJ_charged_primitive, Anchors list: {147, 13}, SBU connectlist: {117, 13}
+EMIGAJ_charged_primitive, Anchors list: {10, 150}, SBU connectlist: {120, 10}
+EMIGAJ_charged_primitive, Anchors list: {151, 11, 143}, SBU connectlist: {113, 11, 121}
+EMIGAJ_charged_primitive, Anchors list: {143, 7}, SBU connectlist: {113, 7}
+EMIGAJ_charged_primitive, Anchors list: {145, 141}, SBU connectlist: {115, 111}
+EMIGAJ_charged_primitive, Anchors list: {153, 3}, SBU connectlist: {123, 3}
+EMIGAJ_charged_primitive, Anchors list: {140, 141}, SBU connectlist: {110, 111}
+EMIGAJ_charged_primitive, Anchors list: {129, 139, 5}, SBU connectlist: {109, 99, 5}
+EMIGAJ_charged_primitive, Anchors list: {152, 148}, SBU connectlist: {122, 118}
+EMIGAJ_charged_primitive, Anchors list: {153, 2}, SBU connectlist: {2, 123}
+EMIGAJ_charged_primitive, Anchors list: {144, 148}, SBU connectlist: {114, 118}
+EMIGAJ_charged_primitive, Anchors list: {139, 4, 126}, SBU connectlist: {4, 109, 158}
+EMIGAJ_charged_primitive, Anchors list: {149, 142}, SBU connectlist: {112, 119}
+EMIGAJ_charged_primitive, Anchors list: {146, 142}, SBU connectlist: {112, 116}
+EMIGAJ_charged_primitive, Anchors list: {125, 159}, SBU connectlist: {129, 157}
+EMIGAJ_charged_primitive, Anchors list: {124, 158}, SBU connectlist: {128, 156}
+EMIGAJ_charged_primitive, Anchors list: {136, 138}, SBU connectlist: {106, 108}
+EMIGAJ_charged_primitive, Anchors list: {136, 135}, SBU connectlist: {105, 106}
+EMIGAJ_charged_primitive, Anchors list: {128, 1}, SBU connectlist: {1, 98}
+EMIGAJ_charged_primitive, Anchors list: {0, 127}, SBU connectlist: {0, 159}
+EMIGAJ_charged_primitive, Anchors list: {137, 155}, SBU connectlist: {107, 125}
+EMIGAJ_charged_primitive, Anchors list: {123, 157, 134}, SBU connectlist: {104, 155, 127}
+EMIGAJ_charged_primitive, Anchors list: {137, 154}, SBU connectlist: {107, 124}
+EMIGAJ_charged_primitive, Anchors list: {122, 156, 134}, SBU connectlist: {104, 154, 126}
+EMIGAJ_charged_primitive, Anchors list: {152, 133}, SBU connectlist: {122, 103}
+EMIGAJ_charged_primitive, Anchors list: {130, 148, 133}, SBU connectlist: {100, 118, 103}
+EMIGAJ_charged_primitive, Anchors list: {146, 132}, SBU connectlist: {116, 102}
+EMIGAJ_charged_primitive, Anchors list: {131, 149}, SBU connectlist: {101, 119}
+EMIGAJ_charged_primitive, Anchors list: {131, 132, 142}, SBU connectlist: {112, 101, 102}
+EMIGAJ_charged_primitive, Anchors list: {144, 130}, SBU connectlist: {114, 100}
+EMIGAJ_charged_primitive, Anchors list: {129, 145}, SBU connectlist: {115, 99}
+EMIGAJ_charged_primitive, Anchors list: {128, 151}, SBU connectlist: {121, 98}
+EMIGAJ_charged_primitive, Anchors list: {150, 127}, SBU connectlist: {120, 159}
+EMIGAJ_charged_primitive, Anchors list: {129, 141, 126}, SBU connectlist: {99, 158, 111}
+EMIGAJ_charged_primitive, Anchors list: {147, 127}, SBU connectlist: {117, 159}
+EMIGAJ_charged_primitive, Anchors list: {128, 143}, SBU connectlist: {113, 98}
+EMIGAJ_charged_primitive, Anchors list: {140, 126}, SBU connectlist: {158, 110}
+EMIGAJ_charged_primitive, Anchors list: {121, 139}, SBU connectlist: {153, 109}
+EMIGAJ_charged_primitive, Anchors list: {138, 123}, SBU connectlist: {155, 108}
+EMIGAJ_charged_primitive, Anchors list: {132, 125}, SBU connectlist: {157, 102}
+EMIGAJ_charged_primitive, Anchors list: {136, 122, 123}, SBU connectlist: {106, 155, 154}
+EMIGAJ_charged_primitive, Anchors list: {124, 133}, SBU connectlist: {156, 103}
+EMIGAJ_charged_primitive, Anchors list: {130, 124}, SBU connectlist: {156, 100}
+EMIGAJ_charged_primitive, Anchors list: {131, 125}, SBU connectlist: {101, 157}
+EMIGAJ_charged_primitive, Anchors list: {122, 135}, SBU connectlist: {105, 154}
+EMIGAJ_charged_primitive, Anchors list: {120, 134}, SBU connectlist: {104, 152}
+EMIGAJ_charged_primitive, Anchors list: {129, 121}, SBU connectlist: {153, 99}
+EMIGAJ_charged_primitive, Anchors list: {121, 126}, SBU connectlist: {153, 158}
+EMIGAJ_charged_primitive, Anchors list: {117, 119}, SBU connectlist: {149, 151}
+EMIGAJ_charged_primitive, Anchors list: {120, 123}, SBU connectlist: {152, 155}
+EMIGAJ_charged_primitive, Anchors list: {116, 119}, SBU connectlist: {148, 151}
+EMIGAJ_charged_primitive, Anchors list: {120, 122}, SBU connectlist: {152, 154}
+EMIGAJ_charged_primitive, Anchors list: {113, 118}, SBU connectlist: {145, 150}
+EMIGAJ_charged_primitive, Anchors list: {118, 110}, SBU connectlist: {150, 142}
+EMIGAJ_charged_primitive, Anchors list: {105, 119}, SBU connectlist: {137, 151}
+EMIGAJ_charged_primitive, Anchors list: {104, 117}, SBU connectlist: {136, 149}
+EMIGAJ_charged_primitive, Anchors list: {114, 109}, SBU connectlist: {146, 141}
+EMIGAJ_charged_primitive, Anchors list: {115, 108}, SBU connectlist: {147, 140}
+EMIGAJ_charged_primitive, Anchors list: {106, 115}, SBU connectlist: {138, 147}
+EMIGAJ_charged_primitive, Anchors list: {116, 117, 103}, SBU connectlist: {148, 149, 135}
+EMIGAJ_charged_primitive, Anchors list: {114, 107}, SBU connectlist: {146, 139}
+EMIGAJ_charged_primitive, Anchors list: {116, 101}, SBU connectlist: {148, 133}
+EMIGAJ_charged_primitive, Anchors list: {100, 118}, SBU connectlist: {132, 150}
+EMIGAJ_charged_primitive, Anchors list: {113, 99}, SBU connectlist: {145, 131}
+EMIGAJ_charged_primitive, Anchors list: {96, 111}, SBU connectlist: {96, 143}
+EMIGAJ_charged_primitive, Anchors list: {112, 92}, SBU connectlist: {144, 92}
+EMIGAJ_charged_primitive, Anchors list: {113, 98, 110}, SBU connectlist: {145, 130, 142}
+EMIGAJ_charged_primitive, Anchors list: {112, 89}, SBU connectlist: {144, 89}
+EMIGAJ_charged_primitive, Anchors list: {88, 111}, SBU connectlist: {88, 143}
+EMIGAJ_charged_primitive, Anchors list: {110, 94}, SBU connectlist: {142, 94}
+EMIGAJ_charged_primitive, Anchors list: {108, 95}, SBU connectlist: {140, 95}
+EMIGAJ_charged_primitive, Anchors list: {97, 107, 109}, SBU connectlist: {97, 139, 141}
+EMIGAJ_charged_primitive, Anchors list: {90, 109}, SBU connectlist: {90, 141}
+EMIGAJ_charged_primitive, Anchors list: {107, 93}, SBU connectlist: {139, 93}
+EMIGAJ_charged_primitive, Anchors list: {106, 91, 108}, SBU connectlist: {138, 91, 140}
+EMIGAJ_charged_primitive, Anchors list: {106, 87}, SBU connectlist: {138, 87}
+EMIGAJ_charged_primitive, Anchors list: {105, 83, 117}, SBU connectlist: {137, 83, 149}
+EMIGAJ_charged_primitive, Anchors list: {85, 102}, SBU connectlist: {85, 134}
+EMIGAJ_charged_primitive, Anchors list: {105, 82, 116}, SBU connectlist: {137, 82, 148}
+EMIGAJ_charged_primitive, Anchors list: {84, 102}, SBU connectlist: {84, 134}
+EMIGAJ_charged_primitive, Anchors list: {112, 79}, SBU connectlist: {144, 79}
+EMIGAJ_charged_primitive, Anchors list: {78, 111}, SBU connectlist: {78, 143}
+EMIGAJ_charged_primitive, Anchors list: {104, 103}, SBU connectlist: {136, 135}
+EMIGAJ_charged_primitive, Anchors list: {101, 103}, SBU connectlist: {133, 135}
+EMIGAJ_charged_primitive, Anchors list: {81, 115}, SBU connectlist: {81, 147}
+EMIGAJ_charged_primitive, Anchors list: {80, 114}, SBU connectlist: {80, 146}
+EMIGAJ_charged_primitive, Anchors list: {97, 93}, SBU connectlist: {97, 93}
+EMIGAJ_charged_primitive, Anchors list: {97, 90}, SBU connectlist: {97, 90}
+EMIGAJ_charged_primitive, Anchors list: {113, 75, 100}, SBU connectlist: {145, 75, 132}
+EMIGAJ_charged_primitive, Anchors list: {91, 95}, SBU connectlist: {91, 95}
+EMIGAJ_charged_primitive, Anchors list: {77, 86}, SBU connectlist: {77, 86}
+EMIGAJ_charged_primitive, Anchors list: {91, 87}, SBU connectlist: {91, 87}
+EMIGAJ_charged_primitive, Anchors list: {74, 100, 110}, SBU connectlist: {74, 132, 142}
+EMIGAJ_charged_primitive, Anchors list: {98, 99}, SBU connectlist: {130, 131}
+EMIGAJ_charged_primitive, Anchors list: {76, 86}, SBU connectlist: {76, 86}
+EMIGAJ_charged_primitive, Anchors list: {98, 94}, SBU connectlist: {130, 94}
+EMIGAJ_charged_primitive, Anchors list: {72, 96}, SBU connectlist: {72, 96}
+EMIGAJ_charged_primitive, Anchors list: {88, 68, 96}, SBU connectlist: {88, 68, 96}
+EMIGAJ_charged_primitive, Anchors list: {89, 69}, SBU connectlist: {89, 69}
+EMIGAJ_charged_primitive, Anchors list: {66, 92}, SBU connectlist: {66, 92}
+EMIGAJ_charged_primitive, Anchors list: {64, 88}, SBU connectlist: {64, 88}
+EMIGAJ_charged_primitive, Anchors list: {89, 92, 62}, SBU connectlist: {89, 92, 62}
+EMIGAJ_charged_primitive, Anchors list: {73, 105}, SBU connectlist: {73, 137}
+EMIGAJ_charged_primitive, Anchors list: {65, 85}, SBU connectlist: {65, 85}
+EMIGAJ_charged_primitive, Anchors list: {85, 84, 61}, SBU connectlist: {85, 84, 61}
+EMIGAJ_charged_primitive, Anchors list: {81, 108, 71}, SBU connectlist: {81, 140, 71}
+EMIGAJ_charged_primitive, Anchors list: {80, 109, 70}, SBU connectlist: {80, 141, 70}
+EMIGAJ_charged_primitive, Anchors list: {60, 84}, SBU connectlist: {60, 84}
+EMIGAJ_charged_primitive, Anchors list: {80, 107, 67}, SBU connectlist: {80, 67, 139}
+EMIGAJ_charged_primitive, Anchors list: {81, 106, 63}, SBU connectlist: {81, 138, 63}
+EMIGAJ_charged_primitive, Anchors list: {104, 83}, SBU connectlist: {136, 83}
+EMIGAJ_charged_primitive, Anchors list: {59, 102}, SBU connectlist: {59, 134}
+EMIGAJ_charged_primitive, Anchors list: {82, 83, 103}, SBU connectlist: {82, 83, 135}
+EMIGAJ_charged_primitive, Anchors list: {82, 101}, SBU connectlist: {82, 133}
+EMIGAJ_charged_primitive, Anchors list: {58, 77}, SBU connectlist: {58, 77}
+EMIGAJ_charged_primitive, Anchors list: {56, 76, 77}, SBU connectlist: {56, 76, 77}
+EMIGAJ_charged_primitive, Anchors list: {57, 100}, SBU connectlist: {57, 132}
+EMIGAJ_charged_primitive, Anchors list: {76, 55}, SBU connectlist: {76, 55}
+EMIGAJ_charged_primitive, Anchors list: {96, 53, 78}, SBU connectlist: {96, 53, 78}
+EMIGAJ_charged_primitive, Anchors list: {52, 92, 79}, SBU connectlist: {52, 92, 79}
+EMIGAJ_charged_primitive, Anchors list: {99, 75}, SBU connectlist: {75, 131}
+EMIGAJ_charged_primitive, Anchors list: {89, 50, 79}, SBU connectlist: {89, 50, 79}
+EMIGAJ_charged_primitive, Anchors list: {88, 51, 78}, SBU connectlist: {88, 51, 78}
+EMIGAJ_charged_primitive, Anchors list: {74, 75, 98}, SBU connectlist: {74, 75, 130}
+EMIGAJ_charged_primitive, Anchors list: {74, 94}, SBU connectlist: {74, 94}
+EMIGAJ_charged_primitive, Anchors list: {86, 54}, SBU connectlist: {86, 54}
+EMIGAJ_charged_primitive, Anchors list: {97, 67, 70}, SBU connectlist: {97, 67, 70}
+EMIGAJ_charged_primitive, Anchors list: {95, 71}, SBU connectlist: {95, 71}
+EMIGAJ_charged_primitive, Anchors list: {67, 93}, SBU connectlist: {67, 93}
+EMIGAJ_charged_primitive, Anchors list: {90, 70}, SBU connectlist: {90, 70}
+EMIGAJ_charged_primitive, Anchors list: {91, 71, 63}, SBU connectlist: {91, 71, 63}
+EMIGAJ_charged_primitive, Anchors list: {87, 63}, SBU connectlist: {87, 63}
+EMIGAJ_charged_primitive, Anchors list: {65, 61}, SBU connectlist: {65, 61}
+EMIGAJ_charged_primitive, Anchors list: {73, 83}, SBU connectlist: {73, 83}
+EMIGAJ_charged_primitive, Anchors list: {60, 61}, SBU connectlist: {60, 61}
+EMIGAJ_charged_primitive, Anchors list: {49, 59, 85}, SBU connectlist: {49, 59, 85}
+EMIGAJ_charged_primitive, Anchors list: {72, 68}, SBU connectlist: {72, 68}
+EMIGAJ_charged_primitive, Anchors list: {73, 82}, SBU connectlist: {73, 82}
+EMIGAJ_charged_primitive, Anchors list: {64, 68}, SBU connectlist: {64, 68}
+EMIGAJ_charged_primitive, Anchors list: {59, 84, 46}, SBU connectlist: {59, 84, 46}
+EMIGAJ_charged_primitive, Anchors list: {69, 62}, SBU connectlist: {69, 62}
+EMIGAJ_charged_primitive, Anchors list: {66, 62}, SBU connectlist: {66, 62}
+EMIGAJ_charged_primitive, Anchors list: {2, 3, 23}, SBU connectlist: {2, 3, 23}
+EMIGAJ_charged_primitive, Anchors list: {2, 21}, SBU connectlist: {2, 21}
+EMIGAJ_charged_primitive, Anchors list: {118}, SBU connectlist: {150}
+EMIGAJ_charged_primitive, Anchors list: {121}, SBU connectlist: {153}
+EMIGAJ_charged_primitive, Anchors list: {38}, SBU connectlist: {38}
+EMIGAJ_charged_primitive, Anchors list: {41}, SBU connectlist: {41}

@@ -1,0 +1,2 @@
+RUHCED_SL_primitive, Anchors list: {16, 17, 23}, SBU connectlist: {0, 1, 3}
+RUHCED_SL_primitive, Anchors list: {16, 17, 22}, SBU connectlist: {0, 1, 2}

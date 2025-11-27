@@ -1,0 +1,1 @@
+feature_folders/ROGSAI_clean/zeo++/ROGSAI_clean_pd.txt    7.24905 4.49621  7.24905

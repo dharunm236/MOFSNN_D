@@ -1,0 +1,1 @@
+feature_folders/FIDRIV_clean/zeo++/FIDRIV_clean_pd.txt    15.99327 15.90265  15.99327

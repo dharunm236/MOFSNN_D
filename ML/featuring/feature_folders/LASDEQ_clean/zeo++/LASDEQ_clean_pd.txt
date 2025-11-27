@@ -1,0 +1,1 @@
+feature_folders/LASDEQ_clean/zeo++/LASDEQ_clean_pd.txt    13.85310 8.72821  13.85310

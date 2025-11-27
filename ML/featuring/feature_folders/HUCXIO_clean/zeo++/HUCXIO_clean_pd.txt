@@ -1,0 +1,1 @@
+feature_folders/HUCXIO_clean/zeo++/HUCXIO_clean_pd.txt    6.71275 3.72691  6.70668

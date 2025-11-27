@@ -1,0 +1,1 @@
+feature_folders/HOJLID_clean/zeo++/HOJLID_clean_pd.txt    8.34950 5.13588  8.02255

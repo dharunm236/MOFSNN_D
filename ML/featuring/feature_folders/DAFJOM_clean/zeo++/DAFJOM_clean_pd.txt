@@ -1,0 +1,1 @@
+feature_folders/DAFJOM_clean/zeo++/DAFJOM_clean_pd.txt    8.84817 3.81935  8.16388

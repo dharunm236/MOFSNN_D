@@ -1,0 +1,2 @@
+XUBGUY_clean_primitive, Anchors list: {114, 115, 116, 117, 118, 119}, SBU connectlist: {0} set to be linker
+XUBGUY_clean_primitive, Anchors list: {114, 115, 116, 117, 118, 119}, SBU connectlist: {0} set to be linker

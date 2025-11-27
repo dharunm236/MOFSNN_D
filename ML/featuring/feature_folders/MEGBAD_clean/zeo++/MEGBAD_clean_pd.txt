@@ -1,0 +1,1 @@
+feature_folders/MEGBAD_clean/zeo++/MEGBAD_clean_pd.txt    9.51630 5.76215  9.51630

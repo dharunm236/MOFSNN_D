@@ -1,0 +1,1 @@
+feature_folders/ROCZOA_clean/zeo++/ROCZOA_clean_pd.txt    6.50748 5.24575  6.50748

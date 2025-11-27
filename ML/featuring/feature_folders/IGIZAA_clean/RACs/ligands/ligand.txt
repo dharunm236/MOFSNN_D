@@ -1,0 +1,53 @@
+IGIZAA_clean_primitive, Anchors list: {1, 2, 26, 98}, SBU connectlist: {1, 2, 26, 57}
+IGIZAA_clean_primitive, Anchors list: {8, 78, 13, 14}, SBU connectlist: {8, 58, 13, 14}
+IGIZAA_clean_primitive, Anchors list: {24, 96, 29, 30}, SBU connectlist: {24, 57, 29, 30}
+IGIZAA_clean_primitive, Anchors list: {80, 17, 10, 18}, SBU connectlist: {17, 10, 18, 58}
+IGIZAA_clean_primitive, Anchors list: {99, 28}, SBU connectlist: {56, 28}
+IGIZAA_clean_primitive, Anchors list: {81, 12}, SBU connectlist: {59, 12}
+IGIZAA_clean_primitive, Anchors list: {2, 26}, SBU connectlist: {2, 26}
+IGIZAA_clean_primitive, Anchors list: {10, 18}, SBU connectlist: {10, 18}
+IGIZAA_clean_primitive, Anchors list: {1, 26, 25, 95}, SBU connectlist: {56, 1, 26, 25}
+IGIZAA_clean_primitive, Anchors list: {24, 25, 30, 94}, SBU connectlist: {24, 25, 56, 30}
+IGIZAA_clean_primitive, Anchors list: {24, 29}, SBU connectlist: {24, 29}
+IGIZAA_clean_primitive, Anchors list: {27, 23}, SBU connectlist: {27, 23}
+IGIZAA_clean_primitive, Anchors list: {27, 22}, SBU connectlist: {27, 22}
+IGIZAA_clean_primitive, Anchors list: {90, 28}, SBU connectlist: {59, 28}
+IGIZAA_clean_primitive, Anchors list: {27, 92, 22, 23}, SBU connectlist: {59, 27, 22, 23}
+IGIZAA_clean_primitive, Anchors list: {93, 23}, SBU connectlist: {57, 23}
+IGIZAA_clean_primitive, Anchors list: {90, 21, 22}, SBU connectlist: {59, 21, 22}
+IGIZAA_clean_primitive, Anchors list: {25, 26, 91}, SBU connectlist: {25, 26, 57}
+IGIZAA_clean_primitive, Anchors list: {24, 88}, SBU connectlist: {24, 59}
+IGIZAA_clean_primitive, Anchors list: {24, 25, 20, 89}, SBU connectlist: {24, 25, 20, 57}
+IGIZAA_clean_primitive, Anchors list: {91, 19}, SBU connectlist: {57, 19}
+IGIZAA_clean_primitive, Anchors list: {25, 20}, SBU connectlist: {25, 20}
+IGIZAA_clean_primitive, Anchors list: {24, 20}, SBU connectlist: {24, 20}
+IGIZAA_clean_primitive, Anchors list: {18, 23}, SBU connectlist: {18, 23}
+IGIZAA_clean_primitive, Anchors list: {17, 87, 22, 23}, SBU connectlist: {17, 58, 22, 23}
+IGIZAA_clean_primitive, Anchors list: {86, 21, 14, 22}, SBU connectlist: {58, 21, 14, 22}
+IGIZAA_clean_primitive, Anchors list: {21, 13}, SBU connectlist: {21, 13}
+IGIZAA_clean_primitive, Anchors list: {82, 19}, SBU connectlist: {58, 19}
+IGIZAA_clean_primitive, Anchors list: {17, 18, 85, 23}, SBU connectlist: {17, 18, 59, 23}
+IGIZAA_clean_primitive, Anchors list: {21, 83, 13, 14}, SBU connectlist: {21, 59, 13, 14}
+IGIZAA_clean_primitive, Anchors list: {9, 10, 77, 17}, SBU connectlist: {9, 10, 59, 17}
+IGIZAA_clean_primitive, Anchors list: {8, 9, 76, 14}, SBU connectlist: {8, 9, 59, 14}
+IGIZAA_clean_primitive, Anchors list: {8, 13}, SBU connectlist: {8, 13}
+IGIZAA_clean_primitive, Anchors list: {11, 7}, SBU connectlist: {11, 7}
+IGIZAA_clean_primitive, Anchors list: {11, 6}, SBU connectlist: {11, 6}
+IGIZAA_clean_primitive, Anchors list: {72, 12}, SBU connectlist: {56, 12}
+IGIZAA_clean_primitive, Anchors list: {74, 11, 6, 7}, SBU connectlist: {56, 11, 6, 7}
+IGIZAA_clean_primitive, Anchors list: {75, 7}, SBU connectlist: {58, 7}
+IGIZAA_clean_primitive, Anchors list: {72, 5, 6}, SBU connectlist: {56, 5, 6}
+IGIZAA_clean_primitive, Anchors list: {73, 9, 10}, SBU connectlist: {9, 10, 58}
+IGIZAA_clean_primitive, Anchors list: {8, 70}, SBU connectlist: {8, 56}
+IGIZAA_clean_primitive, Anchors list: {8, 9, 4, 71}, SBU connectlist: {8, 9, 58, 4}
+IGIZAA_clean_primitive, Anchors list: {73, 3}, SBU connectlist: {58, 3}
+IGIZAA_clean_primitive, Anchors list: {9, 4}, SBU connectlist: {9, 4}
+IGIZAA_clean_primitive, Anchors list: {8, 4}, SBU connectlist: {8, 4}
+IGIZAA_clean_primitive, Anchors list: {2, 7}, SBU connectlist: {2, 7}
+IGIZAA_clean_primitive, Anchors list: {1, 69, 6, 7}, SBU connectlist: {1, 57, 6, 7}
+IGIZAA_clean_primitive, Anchors list: {68, 5, 6, 30}, SBU connectlist: {57, 5, 6, 30}
+IGIZAA_clean_primitive, Anchors list: {29, 5}, SBU connectlist: {29, 5}
+IGIZAA_clean_primitive, Anchors list: {64, 3}, SBU connectlist: {57, 3}
+IGIZAA_clean_primitive, Anchors list: {1, 2, 67, 7}, SBU connectlist: {56, 1, 2, 7}
+IGIZAA_clean_primitive, Anchors list: {65, 29, 5, 30}, SBU connectlist: {56, 29, 5, 30}
+IGIZAA_clean_primitive2, Anchors list: {76, 77, 79, 81, 83, 85, 88, 90, 92}, SBU connectlist: {59}

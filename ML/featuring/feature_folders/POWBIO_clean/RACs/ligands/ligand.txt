@@ -1,0 +1,10 @@
+POWBIO_clean_primitive, Anchors list: {0, 49}, SBU connectlist: {0, 2}
+POWBIO_clean_primitive, Anchors list: {1, 45}, SBU connectlist: {1, 2}
+POWBIO_clean_primitive, Anchors list: {1, 46}, SBU connectlist: {1, 2}
+POWBIO_clean_primitive, Anchors list: {0, 48}, SBU connectlist: {0, 2}
+POWBIO_clean_primitive, Anchors list: {1, 62}, SBU connectlist: {1, 2}
+POWBIO_clean_primitive, Anchors list: {1, 63}, SBU connectlist: {1, 2}
+POWBIO_clean_primitive, Anchors list: {0, 65}, SBU connectlist: {0, 2}
+POWBIO_clean_primitive, Anchors list: {1, 55}, SBU connectlist: {1, 2}
+POWBIO_clean_primitive, Anchors list: {0, 56}, SBU connectlist: {0, 2}
+POWBIO_clean_primitive, Anchors list: {0, 66}, SBU connectlist: {0, 2}

@@ -1,0 +1,4 @@
+OWIJIP_clean_primitive, Anchors list: {48, 49, 43}, SBU connectlist: {3, 4, 5}
+OWIJIP_clean_primitive, Anchors list: {48, 42, 50}, SBU connectlist: {2, 4, 6}
+OWIJIP_clean_primitive, Anchors list: {41, 51, 49}, SBU connectlist: {1, 5, 7}
+OWIJIP_clean_primitive, Anchors list: {40, 50, 51}, SBU connectlist: {0, 6, 7}

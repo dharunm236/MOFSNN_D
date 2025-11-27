@@ -1,0 +1,3 @@
+@ feature_folders/TEBWII_clean/zeo++/TEBWII_clean_sa.txt Unitcell_volume: 6932.27   Density: 0.966019   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 594.133 NASA_m^2/cm^3: 857.054 NASA_m^2/g: 887.202
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 139.184  146.185  4.86184  5.29875  141.274  146.728  5.55835  5.04149  

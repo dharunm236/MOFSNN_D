@@ -1,0 +1,1 @@
+feature_folders/DANVEU_clean/zeo++/DANVEU_clean_pd.txt    6.53986 2.57990  6.53986

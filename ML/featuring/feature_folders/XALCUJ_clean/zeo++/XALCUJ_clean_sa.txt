@@ -1,0 +1,3 @@
+@ feature_folders/XALCUJ_clean/zeo++/XALCUJ_clean_sa.txt Unitcell_volume: 14552.1   Density: 0.995838   ASA_A^2: 160.04 ASA_m^2/cm^3: 109.977 ASA_m^2/g: 110.436 NASA_A^2: 1286.28 NASA_m^2/cm^3: 883.911 NASA_m^2/g: 887.605
+Number_of_channels: 2 Channel_surface_area_A^2: 80.6074  79.4323  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 642.565  643.713  

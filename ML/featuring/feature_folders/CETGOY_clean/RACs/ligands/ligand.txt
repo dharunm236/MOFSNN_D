@@ -1,0 +1,2 @@
+CETGOY_clean_primitive9, Anchors list: {4, 5}, SBU connectlist: {2}
+CETGOY_clean_primitive0, Anchors list: {4, 5}, SBU connectlist: {2}

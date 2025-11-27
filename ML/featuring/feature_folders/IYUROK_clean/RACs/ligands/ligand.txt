@@ -1,0 +1,4 @@
+IYUROK_clean_primitive, Anchors list: {24, 27}, SBU connectlist: {0, 3}
+IYUROK_clean_primitive, Anchors list: {25, 26}, SBU connectlist: {1, 2}
+IYUROK_clean_primitive, Anchors list: {25, 27}, SBU connectlist: {1, 3}
+IYUROK_clean_primitive, Anchors list: {24, 26}, SBU connectlist: {0, 2}

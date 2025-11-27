@@ -1,0 +1,1 @@
+feature_folders/DAFYOB_clean/zeo++/DAFYOB_clean_pd.txt    10.03879 8.51696  10.02794

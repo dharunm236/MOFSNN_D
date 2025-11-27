@@ -1,0 +1,1 @@
+feature_folders/GOTNEK_clean/zeo++/GOTNEK_clean_pd.txt    6.67866 5.16927  6.53537

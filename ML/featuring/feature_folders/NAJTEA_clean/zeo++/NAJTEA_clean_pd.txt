@@ -1,0 +1,1 @@
+feature_folders/NAJTEA_clean/zeo++/NAJTEA_clean_pd.txt    5.95486 4.32240  5.94978

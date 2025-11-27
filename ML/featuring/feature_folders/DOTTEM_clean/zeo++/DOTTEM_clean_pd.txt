@@ -1,0 +1,1 @@
+feature_folders/DOTTEM_clean/zeo++/DOTTEM_clean_pd.txt    6.59462 6.27444  6.59462

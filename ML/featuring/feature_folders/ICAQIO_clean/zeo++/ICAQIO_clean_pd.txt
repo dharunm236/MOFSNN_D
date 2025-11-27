@@ -1,0 +1,1 @@
+feature_folders/ICAQIO_clean/zeo++/ICAQIO_clean_pd.txt    20.39112 7.95732  20.39112

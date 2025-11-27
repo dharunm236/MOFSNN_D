@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_YbH3(CO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51830000
+_cell_length_b   6.59612951
+_cell_length_c   6.59612951
+_cell_angle_alpha   64.98768664
+_cell_angle_beta   73.78488503
+_cell_angle_gamma   73.78488503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbH3(CO2)3
+_chemical_formula_sum   'Yb1 H3 C3 O6'
+_cell_volume   242.51295537
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.50000000  0.70800000  0.29200000  1
+  C  C1  1  0.03400000  0.69830000  0.82830000  1
+  C  C2  1  0.96600000  0.17170000  0.30170000  1
+  H  H3  1  0.50000000  0.57660000  0.42340000  1
+  H  H4  1  0.89200000  0.77790000  0.82590000  1
+  H  H5  1  0.10800000  0.17410000  0.22210000  1
+  O  O6  1  0.33400000  0.78130000  0.20430000  1
+  O  O7  1  0.88000000  0.32820000  0.36220000  1
+  O  O8  1  0.11400000  0.66860000  0.99260000  1
+  O  O9  1  0.88600000  0.00740000  0.33140000  1
+  O  O10  1  0.12000000  0.63780000  0.67180000  1
+  O  O11  1  0.66600000  0.79570000  0.21870000  1
+  Yb  Yb12  1  1.00000000  0.64300000  0.35700000  1

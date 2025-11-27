@@ -1,0 +1,3 @@
+@ feature_folders/ZETLER_clean/zeo++/ZETLER_clean_pov.txt Unitcell_volume: 2712.14   Density: 1.13583   POAV_A^3: 861.918 POAV_Volume_fraction: 0.3178 POAV_cm^3/g: 0.279796 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ZETLER_clean/zeo++/ZETLER_clean_pov.txt	1.13583	1.86	10000	0.0807	0	0.3178	0	0.1989	0.4833

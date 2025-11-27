@@ -1,0 +1,3 @@
+@ feature_folders/FOFHAK_clean/zeo++/FOFHAK_clean_pov.txt Unitcell_volume: 647.064   Density: 2.15496   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 159.372 PONAV_Volume_fraction: 0.2463 PONAV_cm^3/g: 0.114295
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FOFHAK_clean/zeo++/FOFHAK_clean_pov.txt	2.15496	1.86	10000	0	0.0032	0	0.2463	0.2261	0.5276

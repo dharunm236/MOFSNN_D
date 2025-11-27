@@ -1,0 +1,1 @@
+KAXFUM_clean_primitive, Anchors list: {0, 16, 15}, SBU connectlist: {0}

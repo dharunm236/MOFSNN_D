@@ -1,0 +1,3 @@
+@ feature_folders/BETFAJ_clean/zeo++/BETFAJ_clean_sa.txt Unitcell_volume: 2753.51   Density: 1.11108   ASA_A^2: 545.663 ASA_m^2/cm^3: 1981.7 ASA_m^2/g: 1783.57 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 545.663  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

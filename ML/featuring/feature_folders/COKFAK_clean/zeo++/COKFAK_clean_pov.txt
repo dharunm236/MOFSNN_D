@@ -1,0 +1,3 @@
+@ feature_folders/COKFAK_clean/zeo++/COKFAK_clean_pov.txt Unitcell_volume: 2650.28   Density: 1.05876   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 464.329 PONAV_Volume_fraction: 0.1752 PONAV_cm^3/g: 0.165476
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/COKFAK_clean/zeo++/COKFAK_clean_pov.txt	1.05876	1.86	10000	0	0.0113	0	0.1752	0.3054	0.5194

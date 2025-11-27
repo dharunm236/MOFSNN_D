@@ -1,0 +1,4 @@
+HAPGIR_clean_primitive, Anchors list: {1, 11}, SBU connectlist: {1, 2}
+HAPGIR_clean_primitive, Anchors list: {0, 10}, SBU connectlist: {0, 3}
+HAPGIR_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}
+HAPGIR_clean_primitive, Anchors list: {0, 3}, SBU connectlist: {0, 3}

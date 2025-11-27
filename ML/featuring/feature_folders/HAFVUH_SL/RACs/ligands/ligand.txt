@@ -1,0 +1,4 @@
+HAFVUH_SL_primitive, Anchors list: {53, 44, 45, 52}, SBU connectlist: {8, 9, 4, 5}
+HAFVUH_SL_primitive, Anchors list: {41, 52, 54, 47}, SBU connectlist: {8, 1, 10, 7}
+HAFVUH_SL_primitive, Anchors list: {40, 53, 46, 55}, SBU connectlist: {0, 9, 11, 6}
+HAFVUH_SL_primitive, Anchors list: {42, 43, 54, 55}, SBU connectlist: {10, 11, 2, 3}

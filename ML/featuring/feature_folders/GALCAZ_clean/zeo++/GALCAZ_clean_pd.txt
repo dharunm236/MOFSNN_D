@@ -1,0 +1,1 @@
+feature_folders/GALCAZ_clean/zeo++/GALCAZ_clean_pd.txt    7.51924 6.97754  7.50411

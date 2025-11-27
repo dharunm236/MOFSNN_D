@@ -1,0 +1,1 @@
+feature_folders/DOKBUC_clean/zeo++/DOKBUC_clean_pd.txt    3.46657 2.92437  3.46657

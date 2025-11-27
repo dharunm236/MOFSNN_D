@@ -1,0 +1,1 @@
+feature_folders/HAQRID_clean/zeo++/HAQRID_clean_pd.txt    8.33951 7.37618  8.30216

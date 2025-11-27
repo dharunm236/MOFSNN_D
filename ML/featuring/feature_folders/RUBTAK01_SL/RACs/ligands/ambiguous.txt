@@ -1,0 +1,6 @@
+RUBTAK01_SL_primitive, Anchors list: {1, 2, 3, 4}, SBU connectlist: {0} set to be linker
+RUBTAK01_SL_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker
+RUBTAK01_SL_primitive, Anchors list: {0, 2, 3, 5}, SBU connectlist: {0} set to be linker
+RUBTAK01_SL_primitive, Anchors list: {1, 2, 3, 4}, SBU connectlist: {0} set to be linker
+RUBTAK01_SL_primitive, Anchors list: {0, 2, 3, 5}, SBU connectlist: {0} set to be linker
+RUBTAK01_SL_primitive, Anchors list: {0, 1, 4, 5}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,3 @@
+@ feature_folders/ZEDROR_clean/zeo++/ZEDROR_clean_sa.txt Unitcell_volume: 3539.08   Density: 1.24486   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 142.749 NASA_m^2/cm^3: 403.351 NASA_m^2/g: 324.012
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 12 Pocket_surface_area_A^2: 6.99211  7.23347  1.65706  27.6975  26.6596  1.96751  6.89708  27.0288  1.2261  7.17511  26.5258  1.68891  

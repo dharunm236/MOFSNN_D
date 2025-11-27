@@ -1,0 +1,3 @@
+@ feature_folders/XUJPOI_clean/zeo++/XUJPOI_clean_pov.txt Unitcell_volume: 3802.92   Density: 1.23729   POAV_A^3: 1058.73 POAV_Volume_fraction: 0.2784 POAV_cm^3/g: 0.225008 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XUJPOI_clean/zeo++/XUJPOI_clean_pov.txt	1.23729	1.86	10000	0.0206	0	0.2784	0	0.282	0.4396

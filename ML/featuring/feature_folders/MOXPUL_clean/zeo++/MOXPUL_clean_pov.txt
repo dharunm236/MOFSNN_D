@@ -1,0 +1,3 @@
+@ feature_folders/MOXPUL_clean/zeo++/MOXPUL_clean_pov.txt Unitcell_volume: 6831.64   Density: 0.744524   POAV_A^3: 3679.52 POAV_Volume_fraction: 0.5386 POAV_cm^3/g: 0.723415 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/MOXPUL_clean/zeo++/MOXPUL_clean_pov.txt	0.744524	1.86	10000	0.2539	0	0.5386	0	0.1514	0.31

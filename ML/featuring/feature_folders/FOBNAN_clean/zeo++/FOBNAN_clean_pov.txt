@@ -1,0 +1,3 @@
+@ feature_folders/FOBNAN_clean/zeo++/FOBNAN_clean_pov.txt Unitcell_volume: 5682.56   Density: 0.867344   POAV_A^3: 3037.9 POAV_Volume_fraction: 0.5346 POAV_cm^3/g: 0.616365 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FOBNAN_clean/zeo++/FOBNAN_clean_pov.txt	0.867344	1.86	10000	0.1855	0	0.5346	0	0.132	0.3334

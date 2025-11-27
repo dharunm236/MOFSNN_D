@@ -1,0 +1,16 @@
+MACKAE_clean_primitive, Anchors list: {8, 5, 7}, SBU connectlist: {3}
+MACKAE_clean_primitive, Anchors list: {4, 6}, SBU connectlist: {2}
+MACKAE_clean_primitive, Anchors list: {8, 5}, SBU connectlist: {3}
+MACKAE_clean_primitive, Anchors list: {3, 6}, SBU connectlist: {2}
+MACKAE_clean_primitive, Anchors list: {5, 7}, SBU connectlist: {3}
+MACKAE_clean_primitive, Anchors list: {3, 4, 6}, SBU connectlist: {2}
+MACKAE_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {2}
+MACKAE_clean_primitive, Anchors list: {1, 9}, SBU connectlist: {0}
+MACKAE_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0}
+MACKAE_clean_primitive, Anchors list: {2, 11}, SBU connectlist: {1}
+MACKAE_clean_primitive, Anchors list: {0, 9}, SBU connectlist: {0}
+MACKAE_clean_primitive, Anchors list: {2, 10}, SBU connectlist: {1}
+MACKAE_clean_primitive, Anchors list: {0, 1, 9}, SBU connectlist: {0}
+MACKAE_clean_primitive, Anchors list: {10, 2, 11}, SBU connectlist: {1}
+MACKAE_clean_primitive, Anchors list: {10, 11}, SBU connectlist: {1}
+MACKAE_clean_primitive, Anchors list: {8, 7}, SBU connectlist: {3}

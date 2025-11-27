@@ -1,0 +1,1 @@
+feature_folders/GISZUF_clean/zeo++/GISZUF_clean_pd.txt    5.99168 5.07016  5.98067

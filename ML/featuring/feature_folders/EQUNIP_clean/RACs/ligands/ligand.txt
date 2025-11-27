@@ -1,0 +1,2 @@
+EQUNIP_clean_primitive, Anchors list: {147, 149, 150}, SBU connectlist: {3, 6, 7}
+EQUNIP_clean_primitive, Anchors list: {145, 146, 148}, SBU connectlist: {1, 2, 4}

@@ -1,0 +1,1 @@
+feature_folders/NUHQIS_clean/zeo++/NUHQIS_clean_pd.txt    6.54623 4.66095  6.54623

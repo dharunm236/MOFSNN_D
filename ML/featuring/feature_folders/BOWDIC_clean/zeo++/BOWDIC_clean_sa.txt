@@ -1,0 +1,3 @@
+@ feature_folders/BOWDIC_clean/zeo++/BOWDIC_clean_sa.txt Unitcell_volume: 9209.69   Density: 1.0069   ASA_A^2: 892.055 ASA_m^2/cm^3: 968.605 ASA_m^2/g: 961.964 NASA_A^2: 274.403 NASA_m^2/cm^3: 297.95 NASA_m^2/g: 295.907
+Number_of_channels: 2 Channel_surface_area_A^2: 483.618  408.437  
+Number_of_pockets: 4 Pocket_surface_area_A^2: 61.2339  75.327  75.3619  62.4802  

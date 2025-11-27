@@ -1,0 +1,1 @@
+feature_folders/MIHLAR_clean/zeo++/MIHLAR_clean_pd.txt    5.77868 4.92206  5.77868

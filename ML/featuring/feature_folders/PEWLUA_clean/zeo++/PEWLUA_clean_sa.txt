@@ -1,0 +1,3 @@
+@ feature_folders/PEWLUA_clean/zeo++/PEWLUA_clean_sa.txt Unitcell_volume: 21568.6   Density: 0.588936   ASA_A^2: 4666.89 ASA_m^2/cm^3: 2163.74 ASA_m^2/g: 3673.98 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 4666.89  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

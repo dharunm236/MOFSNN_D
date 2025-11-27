@@ -1,0 +1,4 @@
+CAXXEG_clean_primitive16, Anchors list: {9, 11, 5}, SBU connectlist: {3}
+CAXXEG_clean_primitive15, Anchors list: {10, 4, 6}, SBU connectlist: {2}
+CAXXEG_clean_primitive12, Anchors list: {2, 12}, SBU connectlist: {1}
+CAXXEG_clean_primitive11, Anchors list: {3, 13}, SBU connectlist: {0}

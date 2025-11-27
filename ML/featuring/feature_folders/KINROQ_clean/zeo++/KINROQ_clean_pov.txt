@@ -1,0 +1,3 @@
+@ feature_folders/KINROQ_clean/zeo++/KINROQ_clean_pov.txt Unitcell_volume: 10150.5   Density: 1.30206   POAV_A^3: 3944.47 POAV_Volume_fraction: 0.3886 POAV_cm^3/g: 0.29845 PONAV_A^3: 554.215 PONAV_Volume_fraction: 0.0546 PONAV_cm^3/g: 0.0419335
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/KINROQ_clean/zeo++/KINROQ_clean_pov.txt	1.30206	1.86	10000	0.1037	0.0124	0.3886	0.0546	0.2253	0.3315

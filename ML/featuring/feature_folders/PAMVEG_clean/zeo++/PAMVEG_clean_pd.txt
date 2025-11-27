@@ -1,0 +1,1 @@
+feature_folders/PAMVEG_clean/zeo++/PAMVEG_clean_pd.txt    4.06328 3.71255  4.05877

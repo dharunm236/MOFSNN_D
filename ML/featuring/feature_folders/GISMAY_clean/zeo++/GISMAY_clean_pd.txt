@@ -1,0 +1,1 @@
+feature_folders/GISMAY_clean/zeo++/GISMAY_clean_pd.txt    7.59422 5.54094  7.13554

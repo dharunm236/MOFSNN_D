@@ -1,0 +1,1 @@
+feature_folders/VAGMEX_clean/zeo++/VAGMEX_clean_pd.txt    15.28058 14.48863  15.28058

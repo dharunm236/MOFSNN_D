@@ -1,0 +1,6 @@
+JIWKUW_clean_primitive, Anchors list: {0, 7}, SBU connectlist: {0, 7}
+JIWKUW_clean_primitive, Anchors list: {0, 7}, SBU connectlist: {0, 7}
+JIWKUW_clean_primitive, Anchors list: {5, 6}, SBU connectlist: {5, 6}
+JIWKUW_clean_primitive, Anchors list: {5, 6}, SBU connectlist: {5, 6}
+JIWKUW_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}
+JIWKUW_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}

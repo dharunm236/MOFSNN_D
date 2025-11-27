@@ -1,0 +1,4 @@
+ZIGWUJ_clean_primitive, Anchors list: {8, 7}, SBU connectlist: {8, 7}
+ZIGWUJ_clean_primitive, Anchors list: {9, 10}, SBU connectlist: {9, 10}
+ZIGWUJ_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}
+ZIGWUJ_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}

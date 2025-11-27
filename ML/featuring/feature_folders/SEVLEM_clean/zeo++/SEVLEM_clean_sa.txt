@@ -1,0 +1,3 @@
+@ feature_folders/SEVLEM_clean/zeo++/SEVLEM_clean_sa.txt Unitcell_volume: 27031.9   Density: 0.963135   ASA_A^2: 5179.42 ASA_m^2/cm^3: 1916.04 ASA_m^2/g: 1989.38 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 5179.42  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

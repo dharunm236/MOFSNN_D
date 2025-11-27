@@ -1,0 +1,3 @@
+@ feature_folders/DOYHOQ_clean/zeo++/DOYHOQ_clean_pov.txt Unitcell_volume: 3123.63   Density: 0.987346   POAV_A^3: 1454.05 POAV_Volume_fraction: 0.4655 POAV_cm^3/g: 0.471466 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/DOYHOQ_clean/zeo++/DOYHOQ_clean_pov.txt	0.987346	1.86	10000	0.0685	0	0.4655	0	0.1755	0.359

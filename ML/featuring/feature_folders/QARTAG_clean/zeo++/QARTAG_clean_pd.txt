@@ -1,0 +1,1 @@
+feature_folders/QARTAG_clean/zeo++/QARTAG_clean_pd.txt    4.89851 3.02862  4.89851

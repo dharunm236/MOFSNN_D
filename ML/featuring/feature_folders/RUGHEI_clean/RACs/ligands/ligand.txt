@@ -1,0 +1,1 @@
+RUGHEI_clean_primitive0, Anchors list: {12}, SBU connectlist: {0}

@@ -1,0 +1,3 @@
+@ feature_folders/PALTON_clean/zeo++/PALTON_clean_sa.txt Unitcell_volume: 6746.54   Density: 0.723595   ASA_A^2: 1090.64 ASA_m^2/cm^3: 1616.6 ASA_m^2/g: 2234.12 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 3 Channel_surface_area_A^2: 956.163  66.5512  67.9295  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

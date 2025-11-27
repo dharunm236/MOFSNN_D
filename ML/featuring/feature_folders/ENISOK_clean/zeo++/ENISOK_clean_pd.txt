@@ -1,0 +1,1 @@
+feature_folders/ENISOK_clean/zeo++/ENISOK_clean_pd.txt    6.96834 4.54430  6.96834

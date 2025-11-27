@@ -1,0 +1,6 @@
+VAMQAE_clean_primitive, Anchors list: {29}, SBU connectlist: {5}
+VAMQAE_clean_primitive, Anchors list: {28}, SBU connectlist: {4}
+VAMQAE_clean_primitive, Anchors list: {27}, SBU connectlist: {3}
+VAMQAE_clean_primitive, Anchors list: {26}, SBU connectlist: {2}
+VAMQAE_clean_primitive, Anchors list: {25}, SBU connectlist: {1}
+VAMQAE_clean_primitive, Anchors list: {24}, SBU connectlist: {0}

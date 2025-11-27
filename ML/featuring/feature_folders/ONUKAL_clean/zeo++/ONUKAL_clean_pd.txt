@@ -1,0 +1,1 @@
+feature_folders/ONUKAL_clean/zeo++/ONUKAL_clean_pd.txt    5.66391 3.77450  5.65716

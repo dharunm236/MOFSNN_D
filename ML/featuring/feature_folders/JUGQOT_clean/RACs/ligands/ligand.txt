@@ -1,0 +1,2 @@
+JUGQOT_clean_primitive5, Anchors list: {2}, SBU connectlist: {2}
+JUGQOT_clean_primitive3, Anchors list: {1}, SBU connectlist: {1}

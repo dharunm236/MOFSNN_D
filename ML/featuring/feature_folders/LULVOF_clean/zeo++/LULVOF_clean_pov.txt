@@ -1,0 +1,3 @@
+@ feature_folders/LULVOF_clean/zeo++/LULVOF_clean_pov.txt Unitcell_volume: 3525.28   Density: 1.20763   POAV_A^3: 362.046 POAV_Volume_fraction: 0.1027 POAV_cm^3/g: 0.0850425 PONAV_A^3: 96.2401 PONAV_Volume_fraction: 0.0273 PONAV_cm^3/g: 0.0226062
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/LULVOF_clean/zeo++/LULVOF_clean_pov.txt	1.20763	1.86	10000	0.0072	0.0007	0.1027	0.0273	0.329	0.541

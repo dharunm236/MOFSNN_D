@@ -1,0 +1,3 @@
+@ feature_folders/RIWMUH_clean/zeo++/RIWMUH_clean_sa.txt Unitcell_volume: 4919.28   Density: 0.982459   ASA_A^2: 642.697 ASA_m^2/cm^3: 1306.49 ASA_m^2/g: 1329.81 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 4 Channel_surface_area_A^2: 104.143  216.493  217.376  104.684  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

@@ -1,0 +1,1 @@
+feature_folders/LENKIA_clean/zeo++/LENKIA_clean_pd.txt    11.49382 10.72802  11.47361

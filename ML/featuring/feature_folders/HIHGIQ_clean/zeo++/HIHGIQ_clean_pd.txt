@@ -1,0 +1,1 @@
+feature_folders/HIHGIQ_clean/zeo++/HIHGIQ_clean_pd.txt    7.45404 4.65300  7.00786

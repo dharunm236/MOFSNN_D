@@ -1,0 +1,1 @@
+ZIKCED_clean_primitive1, Anchors list: {232, 228}, SBU connectlist: {0}

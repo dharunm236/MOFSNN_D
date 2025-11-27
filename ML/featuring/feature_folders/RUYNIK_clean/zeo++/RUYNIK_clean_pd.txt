@@ -1,0 +1,1 @@
+feature_folders/RUYNIK_clean/zeo++/RUYNIK_clean_pd.txt    5.71975 3.68772  5.71640

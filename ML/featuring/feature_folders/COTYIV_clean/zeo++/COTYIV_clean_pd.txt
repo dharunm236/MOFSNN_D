@@ -1,0 +1,1 @@
+feature_folders/COTYIV_clean/zeo++/COTYIV_clean_pd.txt    9.63619 7.82841  9.63619

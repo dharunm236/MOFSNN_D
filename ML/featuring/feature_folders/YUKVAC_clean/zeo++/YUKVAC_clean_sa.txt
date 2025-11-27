@@ -1,0 +1,3 @@
+@ feature_folders/YUKVAC_clean/zeo++/YUKVAC_clean_sa.txt Unitcell_volume: 892.308   Density: 1.42099   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 10.6532 NASA_m^2/cm^3: 119.389 NASA_m^2/g: 84.0182
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 2.81381  2.58905  2.49893  2.7514  

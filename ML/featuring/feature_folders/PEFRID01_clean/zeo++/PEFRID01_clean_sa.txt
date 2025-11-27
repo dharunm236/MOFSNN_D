@@ -1,0 +1,3 @@
+@ feature_folders/PEFRID01_clean/zeo++/PEFRID01_clean_sa.txt Unitcell_volume: 5180.37   Density: 1.31717   ASA_A^2: 580.776 ASA_m^2/cm^3: 1121.11 ASA_m^2/g: 851.151 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 288.381  292.395  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

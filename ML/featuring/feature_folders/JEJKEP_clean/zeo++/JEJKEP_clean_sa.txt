@@ -1,0 +1,3 @@
+@ feature_folders/JEJKEP_clean/zeo++/JEJKEP_clean_sa.txt Unitcell_volume: 2497.93   Density: 1.42573   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 117.386 NASA_m^2/cm^3: 469.932 NASA_m^2/g: 329.607
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 28.9551  30.0074  29.5359  28.8875  

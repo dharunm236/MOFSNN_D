@@ -1,0 +1,4 @@
+UJAQAY_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+UJAQAY_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+UJAQAY_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+UJAQAY_clean_primitive, Anchors list: {4}, SBU connectlist: {4}

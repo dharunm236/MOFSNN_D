@@ -1,0 +1,5 @@
+ASECUY_clean_primitive, Anchors list: {193}, SBU connectlist: {1} set to be ligand
+ASECUY_clean_primitive, Anchors list: {192}, SBU connectlist: {0} set to be linker
+ASECUY_clean_primitive, Anchors list: {192}, SBU connectlist: {0} set to be ligand
+ASECUY_clean_primitive, Anchors list: {193}, SBU connectlist: {1} set to be linker
+Structure ASECUY_clean_primitive has extremely short ligands, check the outputs

@@ -1,0 +1,1 @@
+feature_folders/VUKSOL_clean/zeo++/VUKSOL_clean_pd.txt    5.74617 4.59937  5.73998

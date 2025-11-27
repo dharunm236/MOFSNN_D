@@ -1,0 +1,1 @@
+feature_folders/KARTAA_clean/zeo++/KARTAA_clean_pd.txt    6.20188 4.23592  6.04203

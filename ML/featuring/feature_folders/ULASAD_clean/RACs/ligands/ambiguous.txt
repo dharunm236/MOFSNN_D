@@ -1,0 +1,3 @@
+ULASAD_clean_primitive, Anchors list: {5}, SBU connectlist: {5} set to be ligand
+ULASAD_clean_primitive, Anchors list: {4}, SBU connectlist: {4} set to be linker
+Structure ULASAD_clean_primitive has extremely short ligands, check the outputs

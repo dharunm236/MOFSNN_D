@@ -1,0 +1,6 @@
+ITIPOS_clean_primitive, Anchors list: {8, 1, 40, 9}, SBU connectlist: {8, 1, 10, 9}
+ITIPOS_clean_primitive, Anchors list: {1, 10, 11, 52}, SBU connectlist: {1, 18, 12, 13}
+ITIPOS_clean_primitive, Anchors list: {0, 41, 6, 7}, SBU connectlist: {0, 11, 6, 7}
+ITIPOS_clean_primitive, Anchors list: {1, 61, 12, 13}, SBU connectlist: {1, 19, 14, 15}
+ITIPOS_clean_primitive, Anchors list: {0, 29, 4, 5}, SBU connectlist: {0, 16, 4, 5}
+ITIPOS_clean_primitive, Anchors list: {0, 2, 3, 20}, SBU connectlist: {0, 17, 2, 3}

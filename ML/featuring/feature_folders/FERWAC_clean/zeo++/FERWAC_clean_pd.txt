@@ -1,0 +1,1 @@
+feature_folders/FERWAC_clean/zeo++/FERWAC_clean_pd.txt    4.92077 3.87767  4.92014

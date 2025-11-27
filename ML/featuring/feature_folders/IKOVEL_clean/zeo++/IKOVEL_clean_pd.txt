@@ -1,0 +1,1 @@
+feature_folders/IKOVEL_clean/zeo++/IKOVEL_clean_pd.txt    15.92468 15.48078  15.89563

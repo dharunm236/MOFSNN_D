@@ -1,0 +1,1 @@
+feature_folders/AVEQID_clean/zeo++/AVEQID_clean_pd.txt    7.57594 6.24315  7.56540

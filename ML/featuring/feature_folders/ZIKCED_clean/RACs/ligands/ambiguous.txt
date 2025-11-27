@@ -1,0 +1,4 @@
+ZIKCED_clean_primitive, Anchors list: {235, 231}, SBU connectlist: {1} set to be linker
+ZIKCED_clean_primitive, Anchors list: {234, 230}, SBU connectlist: {0} set to be linker
+ZIKCED_clean_primitive, Anchors list: {232, 228}, SBU connectlist: {0} set to be ligand
+ZIKCED_clean_primitive, Anchors list: {233, 229}, SBU connectlist: {1} set to be linker

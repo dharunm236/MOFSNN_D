@@ -1,0 +1,3 @@
+@ feature_folders/RUPTED_clean/zeo++/RUPTED_clean_sa.txt Unitcell_volume: 3774.65   Density: 2.43056   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 55.0011 NASA_m^2/cm^3: 145.712 NASA_m^2/g: 59.9499
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 13.1486  0  13.8463  0  14.0046  0  14.0016  0  

@@ -1,0 +1,1 @@
+feature_folders/OSUGUG_clean/zeo++/OSUGUG_clean_pd.txt    5.23488 3.30874  5.06265

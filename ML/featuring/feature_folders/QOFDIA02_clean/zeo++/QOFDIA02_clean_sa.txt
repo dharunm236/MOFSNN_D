@@ -1,0 +1,3 @@
+@ feature_folders/QOFDIA02_clean/zeo++/QOFDIA02_clean_sa.txt Unitcell_volume: 4183.71   Density: 1.33425   ASA_A^2: 348.972 ASA_m^2/cm^3: 834.12 ASA_m^2/g: 625.16 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 175.888  173.084  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

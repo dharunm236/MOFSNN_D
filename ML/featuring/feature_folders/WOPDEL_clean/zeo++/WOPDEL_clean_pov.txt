@@ -1,0 +1,3 @@
+@ feature_folders/WOPDEL_clean/zeo++/WOPDEL_clean_pov.txt Unitcell_volume: 2511.17   Density: 1.20981   POAV_A^3: 308.371 POAV_Volume_fraction: 0.1228 POAV_cm^3/g: 0.101503 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/WOPDEL_clean/zeo++/WOPDEL_clean_pov.txt	1.20981	1.86	10000	0.0079	0	0.1228	0	0.3179	0.5593

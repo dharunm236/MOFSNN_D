@@ -1,0 +1,3 @@
+@ feature_folders/HUYJUG_clean/zeo++/HUYJUG_clean_pov.txt Unitcell_volume: 8150.56   Density: 0.936428   POAV_A^3: 2167.23 POAV_Volume_fraction: 0.2659 POAV_cm^3/g: 0.283951 PONAV_A^3: 341.509 PONAV_Volume_fraction: 0.0419 PONAV_cm^3/g: 0.0447445
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/HUYJUG_clean/zeo++/HUYJUG_clean_pov.txt	0.936428	1.86	10000	0.0831	0.0052	0.2659	0.0419	0.2745	0.4177

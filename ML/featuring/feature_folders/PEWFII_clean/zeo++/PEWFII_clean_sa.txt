@@ -1,0 +1,3 @@
+@ feature_folders/PEWFII_clean/zeo++/PEWFII_clean_sa.txt Unitcell_volume: 425.779   Density: 2.1516   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 14.5925 NASA_m^2/cm^3: 342.725 NASA_m^2/g: 159.288
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 1 Pocket_surface_area_A^2: 14.5925  

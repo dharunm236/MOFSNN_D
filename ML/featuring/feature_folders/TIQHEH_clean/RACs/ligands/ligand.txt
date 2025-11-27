@@ -1,0 +1,5 @@
+TIQHEH_clean_primitive, Anchors list: {1, 2, 4, 5}, SBU connectlist: {1, 2, 4, 5}
+TIQHEH_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0, 5}
+TIQHEH_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {3, 4}
+TIQHEH_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+TIQHEH_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2, 3}

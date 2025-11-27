@@ -1,0 +1,3 @@
+@ feature_folders/PAMVEG_clean/zeo++/PAMVEG_clean_pov.txt Unitcell_volume: 2030.95   Density: 1.30742   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 92.8145 PONAV_Volume_fraction: 0.0457 PONAV_cm^3/g: 0.0349543
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/PAMVEG_clean/zeo++/PAMVEG_clean_pov.txt	1.30742	1.86	10000	0	0.0005	0	0.0457	0.3848	0.5695

@@ -1,0 +1,9 @@
+FATQID_clean_primitive39, Anchors list: {3, 37, 39}, SBU connectlist: {1}
+FATQID_clean_primitive38, Anchors list: {2, 37, 39}, SBU connectlist: {1}
+FATQID_clean_primitive37, Anchors list: {1, 36, 38}, SBU connectlist: {0}
+FATQID_clean_primitive34, Anchors list: {5, 37}, SBU connectlist: {1}
+FATQID_clean_primitive33, Anchors list: {36, 4}, SBU connectlist: {0}
+FATQID_clean_primitive19, Anchors list: {7, 39}, SBU connectlist: {1}
+FATQID_clean_primitive18, Anchors list: {38, 6}, SBU connectlist: {0}
+FATQID_clean_primitive17, Anchors list: {3, 5, 7}, SBU connectlist: {1}
+FATQID_clean_primitive15, Anchors list: {2, 5, 7}, SBU connectlist: {1}

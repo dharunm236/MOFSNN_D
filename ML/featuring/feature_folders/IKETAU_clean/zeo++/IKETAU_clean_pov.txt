@@ -1,0 +1,3 @@
+@ feature_folders/IKETAU_clean/zeo++/IKETAU_clean_pov.txt Unitcell_volume: 758.846   Density: 1.55077   POAV_A^3: 305.436 POAV_Volume_fraction: 0.4025 POAV_cm^3/g: 0.259549 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/IKETAU_clean/zeo++/IKETAU_clean_pov.txt	1.55077	1.86	10000	0.0463	0	0.4025	0	0.1577	0.4398

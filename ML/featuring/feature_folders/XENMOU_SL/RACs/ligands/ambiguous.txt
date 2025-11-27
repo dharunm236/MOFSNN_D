@@ -1,0 +1,2 @@
+XENMOU_SL_primitive, Anchors list: {0, 1, 2, 3, 4}, SBU connectlist: {0} set to be linker
+XENMOU_SL_primitive, Anchors list: {0, 1, 2, 3, 4}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,1 @@
+feature_folders/NAJTAW_clean/zeo++/NAJTAW_clean_pd.txt    6.35237 4.99501  6.35106

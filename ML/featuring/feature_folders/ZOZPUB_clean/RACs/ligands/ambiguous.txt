@@ -1,0 +1,4 @@
+ZOZPUB_clean_primitive, Anchors list: {0, 2, 3}, SBU connectlist: {0} set to be linker
+ZOZPUB_clean_primitive, Anchors list: {0, 11, 12}, SBU connectlist: {0} set to be linker
+ZOZPUB_clean_primitive, Anchors list: {9, 10, 7}, SBU connectlist: {1} set to be linker
+ZOZPUB_clean_primitive, Anchors list: {4, 5, 7}, SBU connectlist: {1} set to be linker

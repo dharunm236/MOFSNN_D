@@ -1,0 +1,2 @@
+YUFLIW_clean_primitive, Anchors list: {33, 50, 53, 54}, SBU connectlist: {1, 2, 5, 6}
+YUFLIW_clean_primitive, Anchors list: {32, 51, 52, 55}, SBU connectlist: {0, 3, 4, 7}

@@ -1,0 +1,1 @@
+feature_folders/FIJDIM06_clean/zeo++/FIJDIM06_clean_pd.txt    5.98426 5.17875  5.98426

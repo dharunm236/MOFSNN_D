@@ -1,0 +1,1 @@
+feature_folders/DARJUD_clean/zeo++/DARJUD_clean_pd.txt    4.94517 3.22924  4.94517

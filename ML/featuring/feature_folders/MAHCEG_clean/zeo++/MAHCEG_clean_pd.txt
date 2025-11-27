@@ -1,0 +1,1 @@
+feature_folders/MAHCEG_clean/zeo++/MAHCEG_clean_pd.txt    18.51843 7.96609  18.51843

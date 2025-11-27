@@ -1,0 +1,1 @@
+feature_folders/DOQHEX_clean/zeo++/DOQHEX_clean_pd.txt    3.53605 3.13269  3.51284

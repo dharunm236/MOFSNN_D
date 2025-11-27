@@ -1,0 +1,1 @@
+VEDFOB_clean_primitive12, Anchors list: {1, 7}, SBU connectlist: {1}

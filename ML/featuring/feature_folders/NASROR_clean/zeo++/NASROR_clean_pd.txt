@@ -1,0 +1,1 @@
+feature_folders/NASROR_clean/zeo++/NASROR_clean_pd.txt    13.45794 4.99278  13.28030

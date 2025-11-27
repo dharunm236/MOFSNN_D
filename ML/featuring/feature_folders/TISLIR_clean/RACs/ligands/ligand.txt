@@ -1,0 +1,4 @@
+TISLIR_clean_primitive, Anchors list: {8, 4}, SBU connectlist: {8, 4}
+TISLIR_clean_primitive, Anchors list: {9, 5}, SBU connectlist: {9, 5}
+TISLIR_clean_primitive, Anchors list: {2, 6}, SBU connectlist: {2, 6}
+TISLIR_clean_primitive, Anchors list: {3, 7}, SBU connectlist: {3, 7}

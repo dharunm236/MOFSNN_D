@@ -1,0 +1,1 @@
+KIFXOO_clean_primitive3, Anchors list: {3}, SBU connectlist: {3}

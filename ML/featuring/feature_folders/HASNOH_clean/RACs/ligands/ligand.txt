@@ -1,0 +1,4 @@
+HASNOH_clean_primitive, Anchors list: {5, 12, 13}, SBU connectlist: {10, 5}
+HASNOH_clean_primitive, Anchors list: {15, 6, 14}, SBU connectlist: {11, 6}
+HASNOH_clean_primitive, Anchors list: {8, 1, 9}, SBU connectlist: {8, 1}
+HASNOH_clean_primitive, Anchors list: {11, 2, 10}, SBU connectlist: {9, 2}

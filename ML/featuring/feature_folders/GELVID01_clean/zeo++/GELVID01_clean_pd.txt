@@ -1,0 +1,1 @@
+feature_folders/GELVID01_clean/zeo++/GELVID01_clean_pd.txt    3.57256 2.40597  3.57256

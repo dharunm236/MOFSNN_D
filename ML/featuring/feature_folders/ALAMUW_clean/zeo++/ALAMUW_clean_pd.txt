@@ -1,0 +1,1 @@
+feature_folders/ALAMUW_clean/zeo++/ALAMUW_clean_pd.txt    11.92678 5.98269  11.92678

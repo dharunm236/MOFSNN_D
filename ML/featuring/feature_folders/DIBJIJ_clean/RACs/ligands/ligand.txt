@@ -1,0 +1,18 @@
+DIBJIJ_clean_primitive, Anchors list: {8, 4, 5, 71}, SBU connectlist: {10, 11, 6, 7}
+DIBJIJ_clean_primitive, Anchors list: {11, 2, 10, 13}, SBU connectlist: {19, 2, 18, 23}
+DIBJIJ_clean_primitive, Anchors list: {3, 4, 5, 6, 7, 8}, SBU connectlist: {3, 6, 7, 8, 9, 10}
+DIBJIJ_clean_primitive, Anchors list: {0, 2, 10, 12}, SBU connectlist: {0, 2, 18, 20}
+DIBJIJ_clean_primitive, Anchors list: {0, 1, 130, 9}, SBU connectlist: {0, 1, 4, 13}
+DIBJIJ_clean_primitive, Anchors list: {72, 3, 6, 7}, SBU connectlist: {8, 9, 3, 12}
+DIBJIJ_clean_primitive, Anchors list: {0, 1, 2, 9, 10, 11}, SBU connectlist: {0, 1, 2, 13, 18, 19}
+DIBJIJ_clean_primitive, Anchors list: {11, 1, 131, 9}, SBU connectlist: {1, 13, 19, 5}
+DIBJIJ_clean_primitive, Anchors list: {3, 52, 5, 7}, SBU connectlist: {9, 26, 3, 7}
+DIBJIJ_clean_primitive, Anchors list: {0, 9, 10, 104}, SBU connectlist: {0, 17, 18, 13}
+DIBJIJ_clean_primitive, Anchors list: {3, 4, 53, 6}, SBU connectlist: {8, 27, 3, 6}
+DIBJIJ_clean_primitive, Anchors list: {11, 9, 10, 99}, SBU connectlist: {18, 19, 13, 14}
+DIBJIJ_clean_primitive, Anchors list: {3, 4, 5, 36}, SBU connectlist: {3, 15, 6, 7}
+DIBJIJ_clean_primitive, Anchors list: {0, 1, 2, 44}, SBU connectlist: {0, 1, 2, 22}
+DIBJIJ_clean_primitive, Anchors list: {8, 107, 6, 7}, SBU connectlist: {8, 9, 10, 21}
+DIBJIJ_clean_primitive, Anchors list: {8, 90, 5, 7}, SBU connectlist: {24, 9, 10, 7}
+DIBJIJ_clean_primitive, Anchors list: {8, 91, 4, 6}, SBU connectlist: {8, 25, 10, 6}
+DIBJIJ_clean_primitive, Anchors list: {1, 2, 11, 39}, SBU connectlist: {16, 1, 2, 19}

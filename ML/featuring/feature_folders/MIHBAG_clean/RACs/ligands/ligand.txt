@@ -1,0 +1,12 @@
+MIHBAG_clean_primitive, Anchors list: {5}, SBU connectlist: {5}
+MIHBAG_clean_primitive, Anchors list: {4}, SBU connectlist: {4}
+MIHBAG_clean_primitive, Anchors list: {5}, SBU connectlist: {5}
+MIHBAG_clean_primitive, Anchors list: {4}, SBU connectlist: {4}
+MIHBAG_clean_primitive, Anchors list: {4}, SBU connectlist: {4}
+MIHBAG_clean_primitive, Anchors list: {5}, SBU connectlist: {5}
+MIHBAG_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+MIHBAG_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+MIHBAG_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+MIHBAG_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+MIHBAG_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+MIHBAG_clean_primitive, Anchors list: {0}, SBU connectlist: {0}

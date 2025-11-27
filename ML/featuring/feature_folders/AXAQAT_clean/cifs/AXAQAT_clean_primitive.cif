@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_FeAg2H4(C4N3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73400000
+_cell_length_b   7.11509051
+_cell_length_c   8.34762914
+_cell_angle_alpha   82.29433136
+_cell_angle_beta   73.54007445
+_cell_angle_gamma   61.75651109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAg2H4(C4N3)2
+_chemical_formula_sum   'Fe1 Ag2 H4 C8 N6'
+_cell_volume   337.90301938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.27782000  0.53396000  0.60150000  1
+  Ag  Ag1  1  0.81178000  0.46604000  0.60150000  1
+  C  C2  1  0.33380000  0.67980000  0.37630000  1
+  C  C3  1  0.01360000  0.32020000  0.37630000  1
+  C  C4  1  0.24240000  0.34700000  0.80910000  1
+  C  C5  1  0.58940000  0.65300000  0.80910000  1
+  C  C6  1  0.78630000  0.81840000  0.07840000  1
+  C  C7  1  0.60470000  0.18160000  0.07840000  1
+  C  C8  1  0.99570000  0.81720000  0.07710000  1
+  C  C9  1  0.81290000  0.18280000  0.07710000  1
+  Fe  Fe10  1  0.29870000  1.00000000  0.08200000  1
+  H  H11  1  0.81650000  0.31500000  0.07510000  1
+  H  H12  1  0.13150000  0.68500000  0.07510000  1
+  H  H13  1  0.78360000  0.68700000  0.07380000  1
+  H  H14  1  0.47060000  0.31300000  0.07380000  1
+  N  N15  1  0.00630000  0.00000000  0.07870000  1
+  N  N16  1  0.59210000  1.00000000  0.08590000  1
+  N  N17  1  0.25250000  0.22180000  0.90980000  1
+  N  N18  1  0.47430000  0.77820000  0.90980000  1
+  N  N19  1  0.12270000  0.21400000  0.25860000  1
+  N  N20  1  0.33670000  0.78600000  0.25860000  1

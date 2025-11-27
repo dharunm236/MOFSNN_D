@@ -1,0 +1,1 @@
+feature_folders/GESNOI_clean/zeo++/GESNOI_clean_pd.txt    6.43455 3.47347  6.43455

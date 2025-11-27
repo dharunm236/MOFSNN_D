@@ -1,0 +1,1 @@
+feature_folders/GAFROX_clean/zeo++/GAFROX_clean_pd.txt    10.39456 5.84121  10.39456

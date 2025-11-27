@@ -1,0 +1,1 @@
+feature_folders/RUHFIL_clean/zeo++/RUHFIL_clean_pd.txt    10.02064 8.75694  10.01897

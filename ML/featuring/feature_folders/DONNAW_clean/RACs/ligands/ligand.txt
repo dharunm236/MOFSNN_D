@@ -1,0 +1,4 @@
+DONNAW_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+DONNAW_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2, 3}
+DONNAW_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2, 3}
+DONNAW_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}

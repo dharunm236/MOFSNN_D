@@ -1,0 +1,8 @@
+VEPDEB_charged_primitive, Anchors list: {155}, SBU connectlist: {11}
+VEPDEB_charged_primitive, Anchors list: {156}, SBU connectlist: {12}
+VEPDEB_charged_primitive, Anchors list: {156}, SBU connectlist: {12}
+VEPDEB_charged_primitive, Anchors list: {155}, SBU connectlist: {11}
+VEPDEB_charged_primitive, Anchors list: {152}, SBU connectlist: {8}
+VEPDEB_charged_primitive, Anchors list: {151}, SBU connectlist: {7}
+VEPDEB_charged_primitive, Anchors list: {152}, SBU connectlist: {8}
+VEPDEB_charged_primitive, Anchors list: {151}, SBU connectlist: {7}

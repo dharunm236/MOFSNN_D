@@ -1,0 +1,2 @@
+YITHIU01_clean_primitive, Anchors list: {8, 10, 13}, SBU connectlist: {0, 2, 4}
+YITHIU01_clean_primitive, Anchors list: {9, 18, 21}, SBU connectlist: {1, 9, 7}

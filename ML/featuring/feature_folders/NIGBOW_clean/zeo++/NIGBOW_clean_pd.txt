@@ -1,0 +1,1 @@
+feature_folders/NIGBOW_clean/zeo++/NIGBOW_clean_pd.txt    11.80846 11.56903  11.80846

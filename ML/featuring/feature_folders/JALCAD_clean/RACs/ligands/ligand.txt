@@ -1,0 +1,8 @@
+JALCAD_clean_primitive, Anchors list: {11, 3, 7}, SBU connectlist: {11, 3, 7}
+JALCAD_clean_primitive, Anchors list: {2, 10, 6}, SBU connectlist: {2, 10, 6}
+JALCAD_clean_primitive, Anchors list: {1, 5, 9}, SBU connectlist: {1, 5, 9}
+JALCAD_clean_primitive, Anchors list: {0, 8, 4}, SBU connectlist: {0, 8, 4}
+JALCAD_clean_primitive, Anchors list: {19, 23, 15}, SBU connectlist: {19, 23, 15}
+JALCAD_clean_primitive, Anchors list: {18, 14, 22}, SBU connectlist: {18, 14, 22}
+JALCAD_clean_primitive, Anchors list: {17, 21, 13}, SBU connectlist: {17, 21, 13}
+JALCAD_clean_primitive, Anchors list: {16, 12, 20}, SBU connectlist: {16, 12, 20}

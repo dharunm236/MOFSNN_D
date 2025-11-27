@@ -1,0 +1,14 @@
+QUSQIG_clean_primitive23, Anchors list: {451}, SBU connectlist: {3}
+QUSQIG_clean_primitive22, Anchors list: {450}, SBU connectlist: {2}
+QUSQIG_clean_primitive21, Anchors list: {449}, SBU connectlist: {1}
+QUSQIG_clean_primitive20, Anchors list: {453}, SBU connectlist: {5}
+QUSQIG_clean_primitive19, Anchors list: {452}, SBU connectlist: {4}
+QUSQIG_clean_primitive18, Anchors list: {448}, SBU connectlist: {0}
+QUSQIG_clean_primitive17, Anchors list: {449}, SBU connectlist: {1}
+QUSQIG_clean_primitive16, Anchors list: {448}, SBU connectlist: {0}
+QUSQIG_clean_primitive15, Anchors list: {455}, SBU connectlist: {7}
+QUSQIG_clean_primitive9, Anchors list: {455}, SBU connectlist: {7}
+QUSQIG_clean_primitive8, Anchors list: {454}, SBU connectlist: {6}
+QUSQIG_clean_primitive7, Anchors list: {453}, SBU connectlist: {5}
+QUSQIG_clean_primitive6, Anchors list: {452}, SBU connectlist: {4}
+QUSQIG_clean_primitive0, Anchors list: {450}, SBU connectlist: {2}

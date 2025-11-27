@@ -1,0 +1,2 @@
+EXALIZ_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1} set to be linker
+EXALIZ_clean_primitive, Anchors list: {3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14}, SBU connectlist: {1} set to be linker

@@ -1,0 +1,3 @@
+@ feature_folders/POKGEC_clean/zeo++/POKGEC_clean_pov.txt Unitcell_volume: 3373.21   Density: 1.20216   POAV_A^3: 186.876 POAV_Volume_fraction: 0.0554 POAV_cm^3/g: 0.0460837 PONAV_A^3: 184.515 PONAV_Volume_fraction: 0.0547 PONAV_cm^3/g: 0.0455014
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/POKGEC_clean/zeo++/POKGEC_clean_pov.txt	1.20216	1.86	10000	0.0015	0.0026	0.0554	0.0547	0.3862	0.5037

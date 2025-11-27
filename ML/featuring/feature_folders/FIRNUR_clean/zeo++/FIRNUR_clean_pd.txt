@@ -1,0 +1,1 @@
+feature_folders/FIRNUR_clean/zeo++/FIRNUR_clean_pd.txt    6.62057 6.03585  6.61703

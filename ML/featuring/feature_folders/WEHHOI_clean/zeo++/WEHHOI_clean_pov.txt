@@ -1,0 +1,3 @@
+@ feature_folders/WEHHOI_clean/zeo++/WEHHOI_clean_pov.txt Unitcell_volume: 8511.76   Density: 0.81633   POAV_A^3: 4895.12 POAV_Volume_fraction: 0.5751 POAV_cm^3/g: 0.704495 PONAV_A^3: 314.084 PONAV_Volume_fraction: 0.0369 PONAV_cm^3/g: 0.0452023
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/WEHHOI_clean/zeo++/WEHHOI_clean_pov.txt	0.81633	1.86	10000	0.2317	0.0023	0.5751	0.0369	0.1055	0.2825

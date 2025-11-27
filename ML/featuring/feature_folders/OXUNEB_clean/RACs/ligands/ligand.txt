@@ -1,0 +1,4 @@
+OXUNEB_clean_primitive, Anchors list: {0, 59, 60}, SBU connectlist: {0, 6, 7}
+OXUNEB_clean_primitive, Anchors list: {1, 69, 70}, SBU connectlist: {8, 1, 9}
+OXUNEB_clean_primitive9, Anchors list: {14, 15, 18, 19, 23, 25}, SBU connectlist: {3}
+OXUNEB_clean_primitive6, Anchors list: {10, 12, 16, 17, 20, 21}, SBU connectlist: {3}

@@ -1,0 +1,3 @@
+@ feature_folders/XILSUI_clean/zeo++/XILSUI_clean_pov.txt Unitcell_volume: 2772.06   Density: 0.833153   POAV_A^3: 1433.98 POAV_Volume_fraction: 0.5173 POAV_cm^3/g: 0.620894 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/XILSUI_clean/zeo++/XILSUI_clean_pov.txt	0.833153	1.86	10000	0.1461	0	0.5173	0	0.1419	0.3408

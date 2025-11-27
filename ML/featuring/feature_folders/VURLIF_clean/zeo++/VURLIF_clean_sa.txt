@@ -1,0 +1,3 @@
+@ feature_folders/VURLIF_clean/zeo++/VURLIF_clean_sa.txt Unitcell_volume: 1905.17   Density: 0.953551   ASA_A^2: 435.717 ASA_m^2/cm^3: 2287.03 ASA_m^2/g: 2398.43 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 435.717  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

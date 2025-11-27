@@ -1,0 +1,4 @@
+QUTVIM_clean_primitive, Anchors list: {13}, SBU connectlist: {1}
+QUTVIM_clean_primitive, Anchors list: {12}, SBU connectlist: {0}
+QUTVIM_clean_primitive, Anchors list: {13}, SBU connectlist: {1}
+QUTVIM_clean_primitive, Anchors list: {12}, SBU connectlist: {0}

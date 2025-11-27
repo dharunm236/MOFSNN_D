@@ -1,0 +1,1 @@
+RUGJEK_clean_primitive0, Anchors list: {6}, SBU connectlist: {0}

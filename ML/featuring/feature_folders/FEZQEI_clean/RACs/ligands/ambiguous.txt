@@ -1,0 +1,6 @@
+FEZQEI_clean_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+FEZQEI_clean_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+FEZQEI_clean_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+FEZQEI_clean_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+FEZQEI_clean_primitive, Anchors list: {2}, SBU connectlist: {2} set to be linker
+FEZQEI_clean_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker

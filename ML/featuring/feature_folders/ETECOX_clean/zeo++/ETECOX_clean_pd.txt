@@ -1,0 +1,1 @@
+feature_folders/ETECOX_clean/zeo++/ETECOX_clean_pd.txt    10.33586 8.91862  10.33570

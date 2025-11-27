@@ -1,0 +1,1 @@
+feature_folders/PEVZAT_clean/zeo++/PEVZAT_clean_pd.txt    3.95096 3.16390  3.95096

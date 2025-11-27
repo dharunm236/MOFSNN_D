@@ -1,0 +1,3 @@
+@ feature_folders/HAFWIW_clean/zeo++/HAFWIW_clean_pov.txt Unitcell_volume: 5017.87   Density: 1.31519   POAV_A^3: 1972.52 POAV_Volume_fraction: 0.3931 POAV_cm^3/g: 0.298893 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/HAFWIW_clean/zeo++/HAFWIW_clean_pov.txt	1.31519	1.86	10000	0.0504	0	0.3931	0	0.2388	0.3681

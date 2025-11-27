@@ -1,0 +1,4 @@
+FAVGER_clean_primitive, Anchors list: {77, 68, 5}, SBU connectlist: {11, 5, 6}
+FAVGER_clean_primitive, Anchors list: {84, 93, 6}, SBU connectlist: {8, 12, 14}
+FAVGER_clean_primitive, Anchors list: {1, 20, 29}, SBU connectlist: {1, 13, 15}
+FAVGER_clean_primitive, Anchors list: {2, 36, 45}, SBU connectlist: {2, 10, 7}

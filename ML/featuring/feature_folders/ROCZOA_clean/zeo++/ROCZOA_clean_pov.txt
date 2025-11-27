@@ -1,0 +1,3 @@
+@ feature_folders/ROCZOA_clean/zeo++/ROCZOA_clean_pov.txt Unitcell_volume: 3485.63   Density: 0.958325   POAV_A^3: 2030.38 POAV_Volume_fraction: 0.5825 POAV_cm^3/g: 0.607831 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ROCZOA_clean/zeo++/ROCZOA_clean_pov.txt	0.958325	1.86	10000	0.1385	0	0.5825	0	0.1097	0.3078

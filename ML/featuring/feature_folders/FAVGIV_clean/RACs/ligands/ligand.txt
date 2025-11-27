@@ -1,0 +1,2 @@
+FAVGIV_clean_primitive, Anchors list: {43, 42, 3}, SBU connectlist: {3, 4, 5}
+FAVGIV_clean_primitive, Anchors list: {0, 12, 13}, SBU connectlist: {0, 6, 7}

@@ -1,0 +1,3 @@
+@ feature_folders/FIDRIV_clean/zeo++/FIDRIV_clean_pov.txt Unitcell_volume: 7933.29   Density: 0.698397   POAV_A^3: 4477.55 POAV_Volume_fraction: 0.5644 POAV_cm^3/g: 0.808136 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FIDRIV_clean/zeo++/FIDRIV_clean_pov.txt	0.698397	1.86	10000	0.3235	0	0.5644	0	0.141	0.2946

@@ -1,0 +1,1 @@
+feature_folders/NUCCEV_clean/zeo++/NUCCEV_clean_pd.txt    6.52615 3.99796  6.52615

@@ -1,0 +1,3 @@
+@ feature_folders/BETFEN_clean/zeo++/BETFEN_clean_pov.txt Unitcell_volume: 2778.19   Density: 1.07862   POAV_A^3: 1379.65 POAV_Volume_fraction: 0.4966 POAV_cm^3/g: 0.460405 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/BETFEN_clean/zeo++/BETFEN_clean_pov.txt	1.07862	1.86	10000	0.073	0	0.4966	0	0.1276	0.3758

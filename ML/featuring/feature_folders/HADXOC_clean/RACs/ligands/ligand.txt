@@ -1,0 +1,2 @@
+HADXOC_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0}
+HADXOC_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {0}

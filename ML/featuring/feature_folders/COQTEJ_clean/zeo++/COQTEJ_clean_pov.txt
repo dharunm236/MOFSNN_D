@@ -1,0 +1,3 @@
+@ feature_folders/COQTEJ_clean/zeo++/COQTEJ_clean_pov.txt Unitcell_volume: 6082.58   Density: 0.69781   POAV_A^3: 3600.28 POAV_Volume_fraction: 0.5919 POAV_cm^3/g: 0.848225 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/COQTEJ_clean/zeo++/COQTEJ_clean_pov.txt	0.69781	1.86	10000	0.1534	0	0.5919	0	0.1088	0.2993

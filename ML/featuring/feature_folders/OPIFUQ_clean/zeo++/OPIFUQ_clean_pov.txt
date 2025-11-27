@@ -1,0 +1,3 @@
+@ feature_folders/OPIFUQ_clean/zeo++/OPIFUQ_clean_pov.txt Unitcell_volume: 17236.7   Density: 0.790446   POAV_A^3: 8916.53 POAV_Volume_fraction: 0.5173 POAV_cm^3/g: 0.65444 PONAV_A^3: 2016.69 PONAV_Volume_fraction: 0.117 PONAV_cm^3/g: 0.148018
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/OPIFUQ_clean/zeo++/OPIFUQ_clean_pov.txt	0.790446	1.86	10000	0.3135	0.0396	0.5173	0.117	0.0883	0.2774

@@ -1,0 +1,4 @@
+IMEDOV_clean_primitive, Anchors list: {679}, SBU connectlist: {7} set to be linker
+IMEDOV_clean_primitive, Anchors list: {678}, SBU connectlist: {6} set to be linker
+IMEDOV_clean_primitive, Anchors list: {675}, SBU connectlist: {2} set to be linker
+IMEDOV_clean_primitive, Anchors list: {674}, SBU connectlist: {3} set to be linker

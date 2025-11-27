@@ -1,0 +1,3 @@
+@ feature_folders/ANONAT_manual/zeo++/ANONAT_manual_pov.txt Unitcell_volume: 2975.55   Density: 0.800823   POAV_A^3: 1817.17 POAV_Volume_fraction: 0.6107 POAV_cm^3/g: 0.762591 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ANONAT_manual/zeo++/ANONAT_manual_pov.txt	0.800823	1.86	10000	0.186	0	0.6107	0	0.0922	0.2971

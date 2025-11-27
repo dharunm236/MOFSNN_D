@@ -1,0 +1,2 @@
+GADDOH_clean_primitive, Anchors list: {0, 4, 5}, SBU connectlist: {0, 4, 5}
+GADDOH_clean_primitive, Anchors list: {1, 2, 3}, SBU connectlist: {1, 2, 3}

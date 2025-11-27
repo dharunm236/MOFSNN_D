@@ -1,0 +1,1 @@
+feature_folders/FAHPOV_clean/zeo++/FAHPOV_clean_pd.txt    15.83326 12.70856  15.83326

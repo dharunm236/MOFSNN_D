@@ -1,0 +1,1 @@
+feature_folders/FATQID_clean/zeo++/FATQID_clean_pd.txt    11.55199 8.55186  11.55199

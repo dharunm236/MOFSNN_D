@@ -1,0 +1,4 @@
+PUQHIT_SL_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+PUQHIT_SL_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+PUQHIT_SL_primitive, Anchors list: {0, 1}, SBU connectlist: {0} set to be linker
+PUQHIT_SL_primitive, Anchors list: {2, 3}, SBU connectlist: {0} set to be linker

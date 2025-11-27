@@ -1,0 +1,1 @@
+feature_folders/EPISOM_clean/zeo++/EPISOM_clean_pd.txt    12.63938 6.49016  12.61907

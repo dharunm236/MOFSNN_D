@@ -1,0 +1,1 @@
+feature_folders/FIZPOV_clean/zeo++/FIZPOV_clean_pd.txt    6.69877 5.40684  6.65609

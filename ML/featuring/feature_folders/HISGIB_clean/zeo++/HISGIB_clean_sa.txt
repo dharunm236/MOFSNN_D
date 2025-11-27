@@ -1,0 +1,3 @@
+@ feature_folders/HISGIB_clean/zeo++/HISGIB_clean_sa.txt Unitcell_volume: 989.826   Density: 1.46684   ASA_A^2: 72.8546 ASA_m^2/cm^3: 736.034 ASA_m^2/g: 501.781 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 72.8546  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

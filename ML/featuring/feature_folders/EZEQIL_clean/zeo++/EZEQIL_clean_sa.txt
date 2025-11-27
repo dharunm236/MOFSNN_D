@@ -1,0 +1,3 @@
+@ feature_folders/EZEQIL_clean/zeo++/EZEQIL_clean_sa.txt Unitcell_volume: 1602.08   Density: 1.17129   ASA_A^2: 138.416 ASA_m^2/cm^3: 863.979 ASA_m^2/g: 737.628 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 138.416  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

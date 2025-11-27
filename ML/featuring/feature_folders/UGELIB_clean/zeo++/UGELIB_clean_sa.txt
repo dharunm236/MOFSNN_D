@@ -1,0 +1,3 @@
+@ feature_folders/UGELIB_clean/zeo++/UGELIB_clean_sa.txt Unitcell_volume: 4866.67   Density: 1.90193   ASA_A^2: 549.782 ASA_m^2/cm^3: 1129.69 ASA_m^2/g: 593.968 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 276.158  273.624  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

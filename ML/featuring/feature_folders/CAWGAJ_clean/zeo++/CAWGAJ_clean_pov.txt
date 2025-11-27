@@ -1,0 +1,3 @@
+@ feature_folders/CAWGAJ_clean/zeo++/CAWGAJ_clean_pov.txt Unitcell_volume: 3546.69   Density: 2.00611   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 694.087 PONAV_Volume_fraction: 0.1957 PONAV_cm^3/g: 0.0975518
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/CAWGAJ_clean/zeo++/CAWGAJ_clean_pov.txt	2.00611	1.86	10000	0	0.0185	0	0.1957	0.3332	0.4711

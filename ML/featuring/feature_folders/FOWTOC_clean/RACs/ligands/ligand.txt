@@ -1,0 +1,11 @@
+FOWTOC_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+FOWTOC_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+FOWTOC_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+FOWTOC_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+FOWTOC_clean_primitive15, Anchors list: {3}, SBU connectlist: {3}
+FOWTOC_clean_primitive14, Anchors list: {2}, SBU connectlist: {2}
+FOWTOC_clean_primitive13, Anchors list: {1}, SBU connectlist: {1}
+FOWTOC_clean_primitive12, Anchors list: {2}, SBU connectlist: {2}
+FOWTOC_clean_primitive11, Anchors list: {0}, SBU connectlist: {0}
+FOWTOC_clean_primitive10, Anchors list: {1}, SBU connectlist: {1}
+FOWTOC_clean_primitive9, Anchors list: {3}, SBU connectlist: {3}

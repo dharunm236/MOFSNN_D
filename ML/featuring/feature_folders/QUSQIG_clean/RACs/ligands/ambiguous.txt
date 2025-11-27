@@ -1,0 +1,16 @@
+QUSQIG_clean_primitive, Anchors list: {451}, SBU connectlist: {3} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {450}, SBU connectlist: {2} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {449}, SBU connectlist: {1} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {453}, SBU connectlist: {5} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {452}, SBU connectlist: {4} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {448}, SBU connectlist: {0} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {449}, SBU connectlist: {1} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {448}, SBU connectlist: {0} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {455}, SBU connectlist: {7} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {454}, SBU connectlist: {6} set to be linker
+QUSQIG_clean_primitive, Anchors list: {455}, SBU connectlist: {7} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {454}, SBU connectlist: {6} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {453}, SBU connectlist: {5} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {452}, SBU connectlist: {4} set to be ligand
+QUSQIG_clean_primitive, Anchors list: {451}, SBU connectlist: {3} set to be linker
+QUSQIG_clean_primitive, Anchors list: {450}, SBU connectlist: {2} set to be ligand

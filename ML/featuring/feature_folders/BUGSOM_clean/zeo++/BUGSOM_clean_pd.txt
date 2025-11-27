@@ -1,0 +1,1 @@
+feature_folders/BUGSOM_clean/zeo++/BUGSOM_clean_pd.txt    4.69508 4.16375  4.68969

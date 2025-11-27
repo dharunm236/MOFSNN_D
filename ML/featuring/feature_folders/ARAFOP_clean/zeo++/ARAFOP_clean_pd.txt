@@ -1,0 +1,1 @@
+feature_folders/ARAFOP_clean/zeo++/ARAFOP_clean_pd.txt    5.65906 5.05710  5.65906

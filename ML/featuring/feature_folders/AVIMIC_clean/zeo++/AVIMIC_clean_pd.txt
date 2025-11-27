@@ -1,0 +1,1 @@
+feature_folders/AVIMIC_clean/zeo++/AVIMIC_clean_pd.txt    5.83114 5.68667  5.83040

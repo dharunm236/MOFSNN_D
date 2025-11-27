@@ -1,0 +1,21 @@
+YOJMAN_clean_primitive, Anchors list: {14, 30, 15}, SBU connectlist: {13} set to be ligand
+YOJMAN_clean_primitive, Anchors list: {32, 31}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {32, 29, 31}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {25, 26, 28}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {25, 26}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {27, 20, 21}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {25, 26, 19}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {20, 21}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {18, 20, 21}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {17, 14, 15}, SBU connectlist: {13} set to be ligand
+YOJMAN_clean_primitive, Anchors list: {14, 15}, SBU connectlist: {13} set to be ligand
+YOJMAN_clean_primitive, Anchors list: {32, 16, 31}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {160, 140, 142, 143, 146, 148, 150, 152, 154}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {137, 139, 141, 144, 145, 147, 149, 153, 155}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {128, 130, 131, 134, 136, 138, 120, 122, 126}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {129, 132, 133, 135, 115, 121, 123, 125, 127}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {104, 106, 107, 110, 112, 114, 116, 118, 124}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {103, 105, 108, 109, 173, 111, 113, 117, 119}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {161, 163, 165, 168, 169, 171, 151, 157, 159}, SBU connectlist: {13} set to be linker
+YOJMAN_clean_primitive, Anchors list: {162, 164, 102, 166, 167, 170, 172, 156, 158}, SBU connectlist: {13} set to be linker
+Structure YOJMAN_clean_primitive has extremely short ligands, check the outputs

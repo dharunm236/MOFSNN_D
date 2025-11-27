@@ -1,0 +1,8 @@
+QOSKAM_clean_primitive, Anchors list: {3, 70, 63}, SBU connectlist: {8, 3}
+QOSKAM_clean_primitive, Anchors list: {4, 61}, SBU connectlist: {25, 4}
+QOSKAM_clean_primitive, Anchors list: {3, 62}, SBU connectlist: {26, 3}
+QOSKAM_clean_primitive, Anchors list: {4, 53, 60}, SBU connectlist: {4, 23}
+QOSKAM_clean_primitive, Anchors list: {28, 21, 7}, SBU connectlist: {24, 7}
+QOSKAM_clean_primitive, Anchors list: {0, 103}, SBU connectlist: {0, 14}
+QOSKAM_clean_primitive, Anchors list: {20, 7}, SBU connectlist: {22, 7}
+QOSKAM_clean_primitive, Anchors list: {0, 102, 95}, SBU connectlist: {0, 27}

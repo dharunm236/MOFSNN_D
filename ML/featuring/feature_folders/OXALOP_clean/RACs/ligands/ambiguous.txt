@@ -1,0 +1,4 @@
+OXALOP_clean_primitive, Anchors list: {5}, SBU connectlist: {5} set to be ligand
+OXALOP_clean_primitive, Anchors list: {7}, SBU connectlist: {7} set to be ligand
+OXALOP_clean_primitive, Anchors list: {6}, SBU connectlist: {6} set to be ligand
+OXALOP_clean_primitive, Anchors list: {4}, SBU connectlist: {4} set to be ligand

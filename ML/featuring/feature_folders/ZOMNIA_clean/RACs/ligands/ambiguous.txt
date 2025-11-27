@@ -1,0 +1,1 @@
+ZOMNIA_clean_primitive, Anchors list: {15, 30, 39}, SBU connectlist: {0} set to be linker

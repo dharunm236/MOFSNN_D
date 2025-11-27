@@ -1,0 +1,1 @@
+feature_folders/AFOQUI_clean/zeo++/AFOQUI_clean_pd.txt    4.25618 2.99130  4.25618

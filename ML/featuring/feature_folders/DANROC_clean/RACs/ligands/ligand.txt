@@ -1,0 +1,3 @@
+DANROC_clean_primitive11, Anchors list: {136}, SBU connectlist: {4}
+DANROC_clean_primitive9, Anchors list: {132}, SBU connectlist: {0}
+DANROC_clean_primitive6, Anchors list: {140}, SBU connectlist: {8}

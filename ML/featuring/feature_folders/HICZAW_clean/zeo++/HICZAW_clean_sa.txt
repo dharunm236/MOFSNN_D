@@ -1,0 +1,3 @@
+@ feature_folders/HICZAW_clean/zeo++/HICZAW_clean_sa.txt Unitcell_volume: 2023.09   Density: 1.66988   ASA_A^2: 76.5132 ASA_m^2/cm^3: 378.2 ASA_m^2/g: 226.483 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 76.5132  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

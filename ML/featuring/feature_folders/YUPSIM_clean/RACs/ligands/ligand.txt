@@ -1,0 +1,4 @@
+YUPSIM_clean_primitive19, Anchors list: {5}, SBU connectlist: {5}
+YUPSIM_clean_primitive18, Anchors list: {4}, SBU connectlist: {4}
+YUPSIM_clean_primitive17, Anchors list: {3}, SBU connectlist: {3}
+YUPSIM_clean_primitive16, Anchors list: {2}, SBU connectlist: {2}

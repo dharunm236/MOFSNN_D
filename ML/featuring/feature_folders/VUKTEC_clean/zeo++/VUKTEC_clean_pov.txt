@@ -1,0 +1,3 @@
+@ feature_folders/VUKTEC_clean/zeo++/VUKTEC_clean_pov.txt Unitcell_volume: 5020.83   Density: 1.41892   POAV_A^3: 833.96 POAV_Volume_fraction: 0.1661 POAV_cm^3/g: 0.117061 PONAV_A^3: 131.546 PONAV_Volume_fraction: 0.0262 PONAV_cm^3/g: 0.0184648
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/VUKTEC_clean/zeo++/VUKTEC_clean_pov.txt	1.41892	1.86	10000	0.0159	0.0007	0.1661	0.0262	0.3026	0.5051

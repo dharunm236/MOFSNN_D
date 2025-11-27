@@ -1,0 +1,4 @@
+TAQGOK_clean_primitive, Anchors list: {73}, SBU connectlist: {1} set to be linker
+TAQGOK_clean_primitive, Anchors list: {72}, SBU connectlist: {0} set to be linker
+TAQGOK_clean_primitive, Anchors list: {73}, SBU connectlist: {1} set to be linker
+TAQGOK_clean_primitive, Anchors list: {72}, SBU connectlist: {0} set to be linker

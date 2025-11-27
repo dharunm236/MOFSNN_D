@@ -1,0 +1,1 @@
+feature_folders/HOXKIP_clean/zeo++/HOXKIP_clean_pd.txt    5.63987 3.43131  5.62859

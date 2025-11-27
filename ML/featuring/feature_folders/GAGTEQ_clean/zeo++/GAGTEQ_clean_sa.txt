@@ -1,0 +1,3 @@
+@ feature_folders/GAGTEQ_clean/zeo++/GAGTEQ_clean_sa.txt Unitcell_volume: 4374.89   Density: 1.64794   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 470.923 NASA_m^2/cm^3: 1076.42 NASA_m^2/g: 653.191
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 112.752  122.8  114.489  120.882  

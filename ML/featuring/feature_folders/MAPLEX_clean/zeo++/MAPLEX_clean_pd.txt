@@ -1,0 +1,1 @@
+feature_folders/MAPLEX_clean/zeo++/MAPLEX_clean_pd.txt    5.48941 3.74217  5.48675

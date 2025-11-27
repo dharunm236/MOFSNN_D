@@ -1,0 +1,4 @@
+HURGUX01_clean_primitive, Anchors list: {48, 4}, SBU connectlist: {4, 7}
+HURGUX01_clean_primitive, Anchors list: {59, 5}, SBU connectlist: {8, 5}
+HURGUX01_clean_primitive, Anchors list: {16, 1}, SBU connectlist: {1, 6}
+HURGUX01_clean_primitive, Anchors list: {2, 27}, SBU connectlist: {9, 2}

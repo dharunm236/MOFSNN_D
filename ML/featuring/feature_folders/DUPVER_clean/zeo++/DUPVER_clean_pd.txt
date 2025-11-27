@@ -1,0 +1,1 @@
+feature_folders/DUPVER_clean/zeo++/DUPVER_clean_pd.txt    9.90963 6.48139  9.90963

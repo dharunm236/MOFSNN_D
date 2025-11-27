@@ -1,0 +1,1 @@
+feature_folders/COXCUP_clean/zeo++/COXCUP_clean_pd.txt    3.89121 3.15638  3.88802

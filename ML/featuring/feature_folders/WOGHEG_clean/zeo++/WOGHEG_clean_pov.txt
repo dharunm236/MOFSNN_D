@@ -1,0 +1,3 @@
+@ feature_folders/WOGHEG_clean/zeo++/WOGHEG_clean_pov.txt Unitcell_volume: 999.136   Density: 1.24204   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 227.403 PONAV_Volume_fraction: 0.2276 PONAV_cm^3/g: 0.183247
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/WOGHEG_clean/zeo++/WOGHEG_clean_pov.txt	1.24204	1.86	10000	0	0.0084	0	0.2276	0.2788	0.4936

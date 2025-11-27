@@ -1,0 +1,1 @@
+feature_folders/HEGNIR_clean/zeo++/HEGNIR_clean_pd.txt    6.01675 4.74404  6.01675

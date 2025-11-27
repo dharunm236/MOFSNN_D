@@ -1,0 +1,3 @@
+@ feature_folders/VAPBIZ_clean/zeo++/VAPBIZ_clean_sa.txt Unitcell_volume: 3302.06   Density: 1.10539   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 226.364 NASA_m^2/cm^3: 685.524 NASA_m^2/g: 620.162
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 6 Pocket_surface_area_A^2: 94.1434  17.295  3.09486  91.1426  17.3745  3.31357  

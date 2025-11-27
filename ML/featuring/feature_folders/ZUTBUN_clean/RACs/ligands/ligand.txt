@@ -1,0 +1,4 @@
+ZUTBUN_clean_primitive, Anchors list: {9, 11}, SBU connectlist: {9, 11}
+ZUTBUN_clean_primitive, Anchors list: {8, 10}, SBU connectlist: {8, 10}
+ZUTBUN_clean_primitive, Anchors list: {5, 7}, SBU connectlist: {5, 7}
+ZUTBUN_clean_primitive, Anchors list: {4, 6}, SBU connectlist: {4, 6}

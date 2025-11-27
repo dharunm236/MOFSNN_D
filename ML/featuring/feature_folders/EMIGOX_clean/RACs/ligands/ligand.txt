@@ -1,0 +1,128 @@
+EMIGOX_clean_primitive, Anchors list: {74, 78, 63}, SBU connectlist: {64, 60, 79}
+EMIGOX_clean_primitive, Anchors list: {75, 63, 79}, SBU connectlist: {65, 61, 79}
+EMIGOX_clean_primitive, Anchors list: {73, 77, 62}, SBU connectlist: {59, 78, 63}
+EMIGOX_clean_primitive, Anchors list: {76, 62, 71}, SBU connectlist: {57, 62, 78}
+EMIGOX_clean_primitive, Anchors list: {75, 61}, SBU connectlist: {77, 61}
+EMIGOX_clean_primitive, Anchors list: {74, 61}, SBU connectlist: {60, 77}
+EMIGOX_clean_primitive, Anchors list: {72, 69}, SBU connectlist: {58, 55}
+EMIGOX_clean_primitive, Anchors list: {69, 70}, SBU connectlist: {56, 55}
+EMIGOX_clean_primitive, Anchors list: {73, 60}, SBU connectlist: {59, 76}
+EMIGOX_clean_primitive, Anchors list: {60, 71}, SBU connectlist: {57, 76}
+EMIGOX_clean_primitive, Anchors list: {65, 68}, SBU connectlist: {51, 54}
+EMIGOX_clean_primitive, Anchors list: {65, 67}, SBU connectlist: {51, 53}
+EMIGOX_clean_primitive, Anchors list: {64, 63}, SBU connectlist: {50, 79}
+EMIGOX_clean_primitive, Anchors list: {66, 62}, SBU connectlist: {52, 78}
+EMIGOX_clean_primitive, Anchors list: {57, 59}, SBU connectlist: {73, 75}
+EMIGOX_clean_primitive, Anchors list: {61, 63}, SBU connectlist: {77, 79}
+EMIGOX_clean_primitive, Anchors list: {56, 58}, SBU connectlist: {72, 74}
+EMIGOX_clean_primitive, Anchors list: {60, 62}, SBU connectlist: {76, 78}
+EMIGOX_clean_primitive, Anchors list: {57, 53}, SBU connectlist: {73, 69}
+EMIGOX_clean_primitive, Anchors list: {56, 55}, SBU connectlist: {72, 71}
+EMIGOX_clean_primitive, Anchors list: {52, 54}, SBU connectlist: {68, 70}
+EMIGOX_clean_primitive, Anchors list: {51, 54}, SBU connectlist: {67, 70}
+EMIGOX_clean_primitive, Anchors list: {48, 59}, SBU connectlist: {48, 75}
+EMIGOX_clean_primitive, Anchors list: {59, 46}, SBU connectlist: {75, 46}
+EMIGOX_clean_primitive, Anchors list: {49, 50}, SBU connectlist: {49, 66}
+EMIGOX_clean_primitive, Anchors list: {50, 47}, SBU connectlist: {66, 47}
+EMIGOX_clean_primitive, Anchors list: {58, 45}, SBU connectlist: {74, 45}
+EMIGOX_clean_primitive, Anchors list: {58, 44}, SBU connectlist: {74, 44}
+EMIGOX_clean_primitive, Anchors list: {48, 57, 43}, SBU connectlist: {48, 73, 43}
+EMIGOX_clean_primitive, Anchors list: {57, 42, 46}, SBU connectlist: {73, 42, 46}
+EMIGOX_clean_primitive, Anchors list: {40, 56, 44}, SBU connectlist: {40, 72, 44}
+EMIGOX_clean_primitive, Anchors list: {56, 41, 45}, SBU connectlist: {72, 41, 45}
+EMIGOX_clean_primitive, Anchors list: {51, 39}, SBU connectlist: {67, 39}
+EMIGOX_clean_primitive, Anchors list: {54, 38, 39}, SBU connectlist: {70, 38, 39}
+EMIGOX_clean_primitive, Anchors list: {52, 38}, SBU connectlist: {68, 38}
+EMIGOX_clean_primitive, Anchors list: {50, 36, 37}, SBU connectlist: {66, 36, 37}
+EMIGOX_clean_primitive, Anchors list: {49, 37}, SBU connectlist: {49, 37}
+EMIGOX_clean_primitive, Anchors list: {40, 55}, SBU connectlist: {40, 71}
+EMIGOX_clean_primitive, Anchors list: {36, 47}, SBU connectlist: {36, 47}
+EMIGOX_clean_primitive, Anchors list: {41, 55}, SBU connectlist: {41, 71}
+EMIGOX_clean_primitive, Anchors list: {42, 53}, SBU connectlist: {42, 69}
+EMIGOX_clean_primitive, Anchors list: {43, 53}, SBU connectlist: {43, 69}
+EMIGOX_clean_primitive, Anchors list: {34, 35, 54}, SBU connectlist: {34, 35, 70}
+EMIGOX_clean_primitive, Anchors list: {34, 52}, SBU connectlist: {34, 68}
+EMIGOX_clean_primitive, Anchors list: {51, 35}, SBU connectlist: {67, 35}
+EMIGOX_clean_primitive, Anchors list: {32, 48}, SBU connectlist: {32, 48}
+EMIGOX_clean_primitive, Anchors list: {73, 9}, SBU connectlist: {9, 59}
+EMIGOX_clean_primitive, Anchors list: {73, 10, 71}, SBU connectlist: {57, 10, 59}
+EMIGOX_clean_primitive, Anchors list: {71, 7}, SBU connectlist: {57, 7}
+EMIGOX_clean_primitive, Anchors list: {4, 68}, SBU connectlist: {4, 54}
+EMIGOX_clean_primitive, Anchors list: {67, 5}, SBU connectlist: {53, 5}
+EMIGOX_clean_primitive, Anchors list: {65, 4, 5}, SBU connectlist: {51, 4, 5}
+EMIGOX_clean_primitive, Anchors list: {66, 76}, SBU connectlist: {52, 62}
+EMIGOX_clean_primitive, Anchors list: {66, 77}, SBU connectlist: {52, 63}
+EMIGOX_clean_primitive, Anchors list: {64, 78}, SBU connectlist: {64, 50}
+EMIGOX_clean_primitive, Anchors list: {72, 3}, SBU connectlist: {58, 3}
+EMIGOX_clean_primitive, Anchors list: {64, 79}, SBU connectlist: {65, 50}
+EMIGOX_clean_primitive, Anchors list: {2, 70}, SBU connectlist: {56, 2}
+EMIGOX_clean_primitive, Anchors list: {2, 3, 69}, SBU connectlist: {2, 3, 55}
+EMIGOX_clean_primitive, Anchors list: {1, 67}, SBU connectlist: {1, 53}
+EMIGOX_clean_primitive, Anchors list: {0, 1, 65}, SBU connectlist: {0, 1, 51}
+EMIGOX_clean_primitive, Anchors list: {0, 68}, SBU connectlist: {0, 54}
+EMIGOX_clean_primitive, Anchors list: {48, 29, 46}, SBU connectlist: {48, 29, 46}
+EMIGOX_clean_primitive, Anchors list: {46, 30}, SBU connectlist: {46, 30}
+EMIGOX_clean_primitive, Anchors list: {33, 49}, SBU connectlist: {33, 49}
+EMIGOX_clean_primitive, Anchors list: {33, 50, 31}, SBU connectlist: {33, 66, 31}
+EMIGOX_clean_primitive, Anchors list: {47, 31}, SBU connectlist: {47, 31}
+EMIGOX_clean_primitive, Anchors list: {28, 44}, SBU connectlist: {28, 44}
+EMIGOX_clean_primitive, Anchors list: {27, 45}, SBU connectlist: {27, 45}
+EMIGOX_clean_primitive, Anchors list: {25, 44, 45}, SBU connectlist: {25, 44, 45}
+EMIGOX_clean_primitive, Anchors list: {26, 36}, SBU connectlist: {26, 36}
+EMIGOX_clean_primitive, Anchors list: {26, 37}, SBU connectlist: {26, 37}
+EMIGOX_clean_primitive, Anchors list: {24, 38}, SBU connectlist: {24, 38}
+EMIGOX_clean_primitive, Anchors list: {32, 43}, SBU connectlist: {32, 43}
+EMIGOX_clean_primitive, Anchors list: {24, 39}, SBU connectlist: {24, 39}
+EMIGOX_clean_primitive, Anchors list: {42, 30}, SBU connectlist: {42, 30}
+EMIGOX_clean_primitive, Anchors list: {42, 43, 29}, SBU connectlist: {42, 43, 29}
+EMIGOX_clean_primitive, Anchors list: {41, 27}, SBU connectlist: {41, 27}
+EMIGOX_clean_primitive, Anchors list: {40, 25, 41}, SBU connectlist: {40, 25, 41}
+EMIGOX_clean_primitive, Anchors list: {40, 28}, SBU connectlist: {40, 28}
+EMIGOX_clean_primitive, Anchors list: {34, 38, 23}, SBU connectlist: {34, 38, 23}
+EMIGOX_clean_primitive, Anchors list: {35, 39, 23}, SBU connectlist: {35, 39, 23}
+EMIGOX_clean_primitive, Anchors list: {33, 37, 22}, SBU connectlist: {33, 37, 22}
+EMIGOX_clean_primitive, Anchors list: {36, 22, 31}, SBU connectlist: {36, 22, 31}
+EMIGOX_clean_primitive, Anchors list: {35, 21}, SBU connectlist: {35, 21}
+EMIGOX_clean_primitive, Anchors list: {34, 21}, SBU connectlist: {34, 21}
+EMIGOX_clean_primitive, Anchors list: {32, 29}, SBU connectlist: {32, 29}
+EMIGOX_clean_primitive, Anchors list: {29, 30}, SBU connectlist: {29, 30}
+EMIGOX_clean_primitive, Anchors list: {33, 20}, SBU connectlist: {33, 20}
+EMIGOX_clean_primitive, Anchors list: {20, 31}, SBU connectlist: {20, 31}
+EMIGOX_clean_primitive, Anchors list: {25, 28}, SBU connectlist: {25, 28}
+EMIGOX_clean_primitive, Anchors list: {25, 27}, SBU connectlist: {25, 27}
+EMIGOX_clean_primitive, Anchors list: {24, 23}, SBU connectlist: {24, 23}
+EMIGOX_clean_primitive, Anchors list: {26, 22}, SBU connectlist: {26, 22}
+EMIGOX_clean_primitive, Anchors list: {17, 19}, SBU connectlist: {17, 19}
+EMIGOX_clean_primitive, Anchors list: {21, 23}, SBU connectlist: {21, 23}
+EMIGOX_clean_primitive, Anchors list: {16, 18}, SBU connectlist: {16, 18}
+EMIGOX_clean_primitive, Anchors list: {20, 22}, SBU connectlist: {20, 22}
+EMIGOX_clean_primitive, Anchors list: {17, 13}, SBU connectlist: {17, 13}
+EMIGOX_clean_primitive, Anchors list: {16, 15}, SBU connectlist: {16, 15}
+EMIGOX_clean_primitive, Anchors list: {12, 14}, SBU connectlist: {12, 14}
+EMIGOX_clean_primitive, Anchors list: {11, 14}, SBU connectlist: {11, 14}
+EMIGOX_clean_primitive, Anchors list: {8, 19}, SBU connectlist: {8, 19}
+EMIGOX_clean_primitive, Anchors list: {19, 6}, SBU connectlist: {19, 6}
+EMIGOX_clean_primitive, Anchors list: {9, 10}, SBU connectlist: {9, 10}
+EMIGOX_clean_primitive, Anchors list: {10, 7}, SBU connectlist: {10, 7}
+EMIGOX_clean_primitive, Anchors list: {18, 5}, SBU connectlist: {18, 5}
+EMIGOX_clean_primitive, Anchors list: {18, 4}, SBU connectlist: {18, 4}
+EMIGOX_clean_primitive, Anchors list: {8, 17, 3}, SBU connectlist: {8, 17, 3}
+EMIGOX_clean_primitive, Anchors list: {17, 2, 6}, SBU connectlist: {17, 2, 6}
+EMIGOX_clean_primitive, Anchors list: {0, 16, 4}, SBU connectlist: {0, 16, 4}
+EMIGOX_clean_primitive, Anchors list: {16, 1, 5}, SBU connectlist: {16, 1, 5}
+EMIGOX_clean_primitive, Anchors list: {11, 79}, SBU connectlist: {65, 11}
+EMIGOX_clean_primitive, Anchors list: {78, 14, 79}, SBU connectlist: {64, 65, 14}
+EMIGOX_clean_primitive, Anchors list: {12, 78}, SBU connectlist: {64, 12}
+EMIGOX_clean_primitive, Anchors list: {10, 76, 77}, SBU connectlist: {10, 62, 63}
+EMIGOX_clean_primitive, Anchors list: {9, 77}, SBU connectlist: {9, 63}
+EMIGOX_clean_primitive, Anchors list: {0, 15}, SBU connectlist: {0, 15}
+EMIGOX_clean_primitive, Anchors list: {76, 7}, SBU connectlist: {62, 7}
+EMIGOX_clean_primitive, Anchors list: {1, 15}, SBU connectlist: {1, 15}
+EMIGOX_clean_primitive, Anchors list: {2, 13}, SBU connectlist: {2, 13}
+EMIGOX_clean_primitive, Anchors list: {3, 13}, SBU connectlist: {3, 13}
+EMIGOX_clean_primitive, Anchors list: {74, 75, 14}, SBU connectlist: {60, 61, 14}
+EMIGOX_clean_primitive, Anchors list: {74, 12}, SBU connectlist: {12, 60}
+EMIGOX_clean_primitive, Anchors list: {75, 11}, SBU connectlist: {11, 61}
+EMIGOX_clean_primitive, Anchors list: {8, 72}, SBU connectlist: {8, 58}
+EMIGOX_clean_primitive, Anchors list: {8, 69, 6}, SBU connectlist: {8, 6, 55}
+EMIGOX_clean_primitive, Anchors list: {70, 6}, SBU connectlist: {56, 6}

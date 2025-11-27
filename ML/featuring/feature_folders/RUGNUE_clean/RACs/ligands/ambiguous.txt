@@ -1,0 +1,3 @@
+RUGNUE_clean_primitive, Anchors list: {12}, SBU connectlist: {0} set to be ligand
+RUGNUE_clean_primitive, Anchors list: {12}, SBU connectlist: {0} set to be linker
+RUGNUE_clean_primitive, Anchors list: {12}, SBU connectlist: {0} set to be ligand

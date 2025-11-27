@@ -1,0 +1,1 @@
+feature_folders/OSOTUN_clean/zeo++/OSOTUN_clean_pd.txt    6.48763 4.02902  6.48207

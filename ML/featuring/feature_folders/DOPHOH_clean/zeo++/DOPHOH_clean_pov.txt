@@ -1,0 +1,3 @@
+@ feature_folders/DOPHOH_clean/zeo++/DOPHOH_clean_pov.txt Unitcell_volume: 9975.88   Density: 0.985409   POAV_A^3: 4154.95 POAV_Volume_fraction: 0.4165 POAV_cm^3/g: 0.422667 PONAV_A^3: 1199.1 PONAV_Volume_fraction: 0.1202 PONAV_cm^3/g: 0.12198
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/DOPHOH_clean/zeo++/DOPHOH_clean_pov.txt	0.985409	1.86	10000	0.1722	0.0444	0.4165	0.1202	0.13	0.3333

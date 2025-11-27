@@ -1,0 +1,3 @@
+@ feature_folders/OKELOH_clean/zeo++/OKELOH_clean_pov.txt Unitcell_volume: 1718.86   Density: 0.903668   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 497.611 PONAV_Volume_fraction: 0.2895 PONAV_cm^3/g: 0.320361
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/OKELOH_clean/zeo++/OKELOH_clean_pov.txt	0.903668	1.86	10000	0	0.0063	0	0.2895	0.3386	0.3719

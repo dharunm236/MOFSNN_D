@@ -1,0 +1,4 @@
+HAFVOB_clean_primitive, Anchors list: {11, 6}, SBU connectlist: {11, 6}
+HAFVOB_clean_primitive, Anchors list: {10, 7}, SBU connectlist: {10, 7}
+HAFVOB_clean_primitive, Anchors list: {8, 5}, SBU connectlist: {8, 5}
+HAFVOB_clean_primitive, Anchors list: {9, 4}, SBU connectlist: {9, 4}

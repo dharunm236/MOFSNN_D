@@ -1,0 +1,1 @@
+feature_folders/GOMREG_clean/zeo++/GOMREG_clean_pd.txt    5.38381 3.63961  5.38381

@@ -1,0 +1,1 @@
+feature_folders/HUCWOT_clean/zeo++/HUCWOT_clean_pd.txt    6.74013 3.64795  6.73611

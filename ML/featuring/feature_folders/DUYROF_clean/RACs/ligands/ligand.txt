@@ -1,0 +1,48 @@
+DUYROF_clean_primitive, Anchors list: {8, 123}, SBU connectlist: {8, 27}
+DUYROF_clean_primitive, Anchors list: {9, 122}, SBU connectlist: {9, 26}
+DUYROF_clean_primitive, Anchors list: {165, 14}, SBU connectlist: {29, 14}
+DUYROF_clean_primitive, Anchors list: {151, 164, 15}, SBU connectlist: {28, 15}
+DUYROF_clean_primitive, Anchors list: {164, 15}, SBU connectlist: {28, 15}
+DUYROF_clean_primitive, Anchors list: {3, 116, 103}, SBU connectlist: {25, 3}
+DUYROF_clean_primitive, Anchors list: {2, 117, 102}, SBU connectlist: {24, 2}
+DUYROF_clean_primitive, Anchors list: {171, 20}, SBU connectlist: {20, 31}
+DUYROF_clean_primitive, Anchors list: {170, 21}, SBU connectlist: {21, 30}
+DUYROF_clean_primitive, Anchors list: {3, 189}, SBU connectlist: {3, 29}
+DUYROF_clean_primitive, Anchors list: {2, 188}, SBU connectlist: {2, 28}
+DUYROF_clean_primitive, Anchors list: {109, 5}, SBU connectlist: {27, 5}
+DUYROF_clean_primitive, Anchors list: {108, 4}, SBU connectlist: {26, 4}
+DUYROF_clean_primitive, Anchors list: {5, 111}, SBU connectlist: {25, 5}
+DUYROF_clean_primitive, Anchors list: {150, 165, 14}, SBU connectlist: {29, 14}
+DUYROF_clean_primitive, Anchors list: {17, 157}, SBU connectlist: {17, 31}
+DUYROF_clean_primitive, Anchors list: {16, 156}, SBU connectlist: {16, 30}
+DUYROF_clean_primitive, Anchors list: {17, 159}, SBU connectlist: {17, 28}
+DUYROF_clean_primitive, Anchors list: {16, 158}, SBU connectlist: {16, 29}
+DUYROF_clean_primitive, Anchors list: {1, 187}, SBU connectlist: {1, 31}
+DUYROF_clean_primitive, Anchors list: {0, 186}, SBU connectlist: {0, 30}
+DUYROF_clean_primitive, Anchors list: {185, 170, 21}, SBU connectlist: {21, 30}
+DUYROF_clean_primitive, Anchors list: {2, 117}, SBU connectlist: {24, 2}
+DUYROF_clean_primitive, Anchors list: {184, 171, 20}, SBU connectlist: {20, 31}
+DUYROF_clean_primitive, Anchors list: {3, 116}, SBU connectlist: {25, 3}
+DUYROF_clean_primitive, Anchors list: {11, 149}, SBU connectlist: {11, 29}
+DUYROF_clean_primitive, Anchors list: {177, 19}, SBU connectlist: {19, 30}
+DUYROF_clean_primitive, Anchors list: {176, 18}, SBU connectlist: {18, 31}
+DUYROF_clean_primitive, Anchors list: {19, 179}, SBU connectlist: {19, 29}
+DUYROF_clean_primitive, Anchors list: {178, 18}, SBU connectlist: {18, 28}
+DUYROF_clean_primitive, Anchors list: {4, 110}, SBU connectlist: {24, 4}
+DUYROF_clean_primitive, Anchors list: {101, 23}, SBU connectlist: {24, 23}
+DUYROF_clean_primitive, Anchors list: {100, 22}, SBU connectlist: {25, 22}
+DUYROF_clean_primitive, Anchors list: {99, 21}, SBU connectlist: {27, 21}
+DUYROF_clean_primitive, Anchors list: {98, 20}, SBU connectlist: {26, 20}
+DUYROF_clean_primitive, Anchors list: {10, 148}, SBU connectlist: {10, 28}
+DUYROF_clean_primitive, Anchors list: {9, 147}, SBU connectlist: {9, 31}
+DUYROF_clean_primitive, Anchors list: {8, 146}, SBU connectlist: {8, 30}
+DUYROF_clean_primitive, Anchors list: {141, 15}, SBU connectlist: {24, 15}
+DUYROF_clean_primitive, Anchors list: {140, 14}, SBU connectlist: {25, 14}
+DUYROF_clean_primitive, Anchors list: {139, 13}, SBU connectlist: {27, 13}
+DUYROF_clean_primitive, Anchors list: {138, 12}, SBU connectlist: {26, 12}
+DUYROF_clean_primitive, Anchors list: {129, 7}, SBU connectlist: {26, 7}
+DUYROF_clean_primitive, Anchors list: {128, 6}, SBU connectlist: {27, 6}
+DUYROF_clean_primitive, Anchors list: {131, 7}, SBU connectlist: {24, 7}
+DUYROF_clean_primitive, Anchors list: {130, 6}, SBU connectlist: {25, 6}
+DUYROF_clean_primitive, Anchors list: {9, 137, 122}, SBU connectlist: {9, 26}
+DUYROF_clean_primitive, Anchors list: {8, 123, 136}, SBU connectlist: {8, 27}

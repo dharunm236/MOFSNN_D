@@ -1,0 +1,1 @@
+feature_folders/WASTUG_clean/zeo++/WASTUG_clean_pd.txt    10.46560 7.25807  10.12341

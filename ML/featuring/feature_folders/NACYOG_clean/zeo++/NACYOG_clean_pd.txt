@@ -1,0 +1,1 @@
+feature_folders/NACYOG_clean/zeo++/NACYOG_clean_pd.txt    5.74941 4.06197  5.74941

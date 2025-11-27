@@ -1,0 +1,3 @@
+@ feature_folders/GIRYEN_clean/zeo++/GIRYEN_clean_sa.txt Unitcell_volume: 2247.87   Density: 1.49644   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 31.8511 NASA_m^2/cm^3: 141.695 NASA_m^2/g: 94.6882
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 16.0733  0  15.746  0.0318522  

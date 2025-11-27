@@ -1,0 +1,1 @@
+feature_folders/MASZUD_clean/zeo++/MASZUD_clean_pd.txt    6.16395 3.77069  6.13045

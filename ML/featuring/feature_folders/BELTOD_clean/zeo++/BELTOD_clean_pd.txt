@@ -1,0 +1,1 @@
+feature_folders/BELTOD_clean/zeo++/BELTOD_clean_pd.txt    5.92256 4.27878  5.82865

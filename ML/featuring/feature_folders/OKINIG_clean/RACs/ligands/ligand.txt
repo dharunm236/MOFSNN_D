@@ -1,0 +1,2 @@
+OKINIG_clean_primitive, Anchors list: {8, 49, 48, 11}, SBU connectlist: {8, 11, 14, 15}
+OKINIG_clean_primitive, Anchors list: {2, 5, 14, 15}, SBU connectlist: {16, 17, 2, 5}

@@ -1,0 +1,4 @@
+QUFXIZ_clean_primitive, Anchors list: {189}, SBU connectlist: {1}
+QUFXIZ_clean_primitive, Anchors list: {188}, SBU connectlist: {0}
+QUFXIZ_clean_primitive, Anchors list: {191}, SBU connectlist: {3}
+QUFXIZ_clean_primitive, Anchors list: {190}, SBU connectlist: {2}

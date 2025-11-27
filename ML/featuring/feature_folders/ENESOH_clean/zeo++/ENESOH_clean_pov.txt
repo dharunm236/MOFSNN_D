@@ -1,0 +1,3 @@
+@ feature_folders/ENESOH_clean/zeo++/ENESOH_clean_pov.txt Unitcell_volume: 9807.94   Density: 0.639206   POAV_A^3: 5924.98 POAV_Volume_fraction: 0.6041 POAV_cm^3/g: 0.945079 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ENESOH_clean/zeo++/ENESOH_clean_pov.txt	0.639206	1.86	10000	0.195	0	0.6041	0	0.1327	0.2632

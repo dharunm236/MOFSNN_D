@@ -1,0 +1,2 @@
+QUNWAZ_clean_primitive, Anchors list: {1, 2}, SBU connectlist: {1, 2}
+QUNWAZ_clean_primitive, Anchors list: {2, 3}, SBU connectlist: {2, 3}

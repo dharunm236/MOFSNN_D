@@ -1,0 +1,4 @@
+WECBAJ_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+WECBAJ_clean_primitive, Anchors list: {7}, SBU connectlist: {9}
+WECBAJ_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+WECBAJ_clean_primitive, Anchors list: {6}, SBU connectlist: {8}

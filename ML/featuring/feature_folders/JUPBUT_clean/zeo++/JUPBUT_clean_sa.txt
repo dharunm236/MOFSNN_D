@@ -1,0 +1,3 @@
+@ feature_folders/JUPBUT_clean/zeo++/JUPBUT_clean_sa.txt Unitcell_volume: 971.533   Density: 1.47358   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 44.2069 NASA_m^2/cm^3: 455.023 NASA_m^2/g: 308.787
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 21.7722  22.4348  

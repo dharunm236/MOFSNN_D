@@ -1,0 +1,3 @@
+@ feature_folders/GISMAY_clean/zeo++/GISMAY_clean_pov.txt Unitcell_volume: 13763.1   Density: 1.15475   POAV_A^3: 3197.17 POAV_Volume_fraction: 0.2323 POAV_cm^3/g: 0.201168 PONAV_A^3: 568.416 PONAV_Volume_fraction: 0.0413 PONAV_cm^3/g: 0.0357652
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/GISMAY_clean/zeo++/GISMAY_clean_pov.txt	1.15475	1.86	10000	0.0609	0.0092	0.2323	0.0413	0.2794	0.447

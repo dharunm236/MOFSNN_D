@@ -1,0 +1,1 @@
+feature_folders/TUFTAR_clean/zeo++/TUFTAR_clean_pd.txt    3.78507 2.73276  3.78507

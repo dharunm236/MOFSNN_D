@@ -1,0 +1,1 @@
+feature_folders/RUGGIL_clean/zeo++/RUGGIL_clean_pd.txt    3.82645 2.93279  3.82645

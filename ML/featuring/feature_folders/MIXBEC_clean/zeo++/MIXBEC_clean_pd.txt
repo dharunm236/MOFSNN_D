@@ -1,0 +1,1 @@
+feature_folders/MIXBEC_clean/zeo++/MIXBEC_clean_pd.txt    12.40444 6.44402  12.40444

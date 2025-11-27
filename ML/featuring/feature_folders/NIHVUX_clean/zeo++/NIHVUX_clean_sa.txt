@@ -1,0 +1,3 @@
+@ feature_folders/NIHVUX_clean/zeo++/NIHVUX_clean_sa.txt Unitcell_volume: 4565.49   Density: 3.18911   ASA_A^2: 365.795 ASA_m^2/cm^3: 801.218 ASA_m^2/g: 251.236 NASA_A^2: 33.8355 NASA_m^2/cm^3: 74.1114 NASA_m^2/g: 23.2389
+Number_of_channels: 1 Channel_surface_area_A^2: 365.795  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 17.3808  16.4547  

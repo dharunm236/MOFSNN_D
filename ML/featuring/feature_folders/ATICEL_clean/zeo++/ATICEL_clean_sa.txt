@@ -1,0 +1,3 @@
+@ feature_folders/ATICEL_clean/zeo++/ATICEL_clean_sa.txt Unitcell_volume: 1794.35   Density: 1.60993   ASA_A^2: 110.435 ASA_m^2/cm^3: 615.463 ASA_m^2/g: 382.291 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 55.2098  55.2256  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

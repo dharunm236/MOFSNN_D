@@ -1,0 +1,1 @@
+feature_folders/ALANAD_clean/zeo++/ALANAD_clean_pd.txt    8.58064 5.80940  8.55518

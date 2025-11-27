@@ -1,0 +1,3 @@
+@ feature_folders/DIVMUR_clean/zeo++/DIVMUR_clean_sa.txt Unitcell_volume: 1295.79   Density: 2.26692   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 7.99624 NASA_m^2/cm^3: 61.7096 NASA_m^2/g: 27.2218
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 0.129207  1.8311  0.0861379  0.100494  2.05609  1.83918  1.81047  0.143563  

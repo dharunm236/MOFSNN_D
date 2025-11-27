@@ -1,0 +1,1 @@
+feature_folders/DIPMAS_clean/zeo++/DIPMAS_clean_pd.txt    5.87796 4.78268  5.87796

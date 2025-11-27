@@ -1,0 +1,4 @@
+IFUNUU_clean_primitive, Anchors list: {1, 18}, SBU connectlist: {1, 5}
+IFUNUU_clean_primitive, Anchors list: {3, 22}, SBU connectlist: {3, 7}
+IFUNUU_clean_primitive, Anchors list: {0, 13}, SBU connectlist: {0, 6}
+IFUNUU_clean_primitive, Anchors list: {17, 2}, SBU connectlist: {2, 4}

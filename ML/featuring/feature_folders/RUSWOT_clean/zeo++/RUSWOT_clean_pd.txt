@@ -1,0 +1,1 @@
+feature_folders/RUSWOT_clean/zeo++/RUSWOT_clean_pd.txt    6.47922 3.93218  5.85511

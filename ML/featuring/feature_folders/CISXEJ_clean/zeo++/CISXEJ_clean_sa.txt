@@ -1,0 +1,3 @@
+@ feature_folders/CISXEJ_clean/zeo++/CISXEJ_clean_sa.txt Unitcell_volume: 9753.63   Density: 0.998279   ASA_A^2: 725.691 ASA_m^2/cm^3: 744.021 ASA_m^2/g: 745.303 NASA_A^2: 51.2278 NASA_m^2/cm^3: 52.5217 NASA_m^2/g: 52.6122
+Number_of_channels: 2 Channel_surface_area_A^2: 365.338  360.353  
+Number_of_pockets: 8 Pocket_surface_area_A^2: 11.6787  5.50242  8.10881  0.0328077  5.27208  12.1721  8.43051  0.0302824  

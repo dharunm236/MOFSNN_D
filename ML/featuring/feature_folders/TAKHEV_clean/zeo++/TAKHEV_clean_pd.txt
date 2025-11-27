@@ -1,0 +1,1 @@
+feature_folders/TAKHEV_clean/zeo++/TAKHEV_clean_pd.txt    10.20812 9.46941  10.20812

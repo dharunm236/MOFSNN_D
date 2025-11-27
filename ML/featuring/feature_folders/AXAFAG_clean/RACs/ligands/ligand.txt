@@ -1,0 +1,8 @@
+AXAFAG_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+AXAFAG_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+AXAFAG_clean_primitive, Anchors list: {11}, SBU connectlist: {5}
+AXAFAG_clean_primitive, Anchors list: {10}, SBU connectlist: {4}
+AXAFAG_clean_primitive, Anchors list: {13}, SBU connectlist: {7}
+AXAFAG_clean_primitive, Anchors list: {12}, SBU connectlist: {6}
+AXAFAG_clean_primitive, Anchors list: {23}, SBU connectlist: {9}
+AXAFAG_clean_primitive, Anchors list: {22}, SBU connectlist: {8}

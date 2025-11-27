@@ -1,0 +1,4 @@
+KOJTOU_clean_primitive, Anchors list: {12, 5, 6, 14}, SBU connectlist: {2} set to be ligand
+KOJTOU_clean_primitive, Anchors list: {15, 4, 13, 7}, SBU connectlist: {3} set to be ligand
+KOJTOU_clean_primitive, Anchors list: {0, 8, 2, 11}, SBU connectlist: {0} set to be linker
+KOJTOU_clean_primitive, Anchors list: {1, 10, 3, 9}, SBU connectlist: {1} set to be linker

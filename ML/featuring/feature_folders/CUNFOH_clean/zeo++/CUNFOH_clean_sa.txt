@@ -1,0 +1,3 @@
+@ feature_folders/CUNFOH_clean/zeo++/CUNFOH_clean_sa.txt Unitcell_volume: 2833.53   Density: 1.63668   ASA_A^2: 451.77 ASA_m^2/cm^3: 1594.37 ASA_m^2/g: 974.153 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 451.77  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

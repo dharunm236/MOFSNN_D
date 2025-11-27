@@ -1,0 +1,3 @@
+@ feature_folders/TIQGUW_clean/zeo++/TIQGUW_clean_sa.txt Unitcell_volume: 1868.49   Density: 1.57704   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 33.4117 NASA_m^2/cm^3: 178.816 NASA_m^2/g: 113.387
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 3 Pocket_surface_area_A^2: 4.95688  23.2106  5.24419  

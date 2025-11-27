@@ -1,0 +1,4 @@
+XUYXAR_clean_primitive7, Anchors list: {4}, SBU connectlist: {4}
+XUYXAR_clean_primitive4, Anchors list: {0}, SBU connectlist: {0}
+XUYXAR_clean_primitive2, Anchors list: {3}, SBU connectlist: {3}
+XUYXAR_clean_primitive0, Anchors list: {7}, SBU connectlist: {7}

@@ -1,0 +1,1 @@
+feature_folders/LUMYOJ_clean/zeo++/LUMYOJ_clean_pd.txt    5.96959 4.51837  5.96959

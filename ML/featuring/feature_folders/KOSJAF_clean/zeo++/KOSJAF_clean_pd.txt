@@ -1,0 +1,1 @@
+feature_folders/KOSJAF_clean/zeo++/KOSJAF_clean_pd.txt    10.99192 9.84925  10.99192

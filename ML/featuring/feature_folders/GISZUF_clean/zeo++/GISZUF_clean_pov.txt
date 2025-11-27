@@ -1,0 +1,3 @@
+@ feature_folders/GISZUF_clean/zeo++/GISZUF_clean_pov.txt Unitcell_volume: 6369.35   Density: 1.31215   POAV_A^3: 910.817 POAV_Volume_fraction: 0.143 POAV_cm^3/g: 0.108981 PONAV_A^3: 384.072 PONAV_Volume_fraction: 0.0603 PONAV_cm^3/g: 0.045955
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/GISZUF_clean/zeo++/GISZUF_clean_pov.txt	1.31215	1.86	10000	0.0271	0.0024	0.143	0.0603	0.3141	0.4826

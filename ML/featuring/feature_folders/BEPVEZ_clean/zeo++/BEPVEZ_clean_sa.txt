@@ -1,0 +1,3 @@
+@ feature_folders/BEPVEZ_clean/zeo++/BEPVEZ_clean_sa.txt Unitcell_volume: 1475.62   Density: 1.26954   ASA_A^2: 107.837 ASA_m^2/cm^3: 730.793 ASA_m^2/g: 575.635 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 107.837  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

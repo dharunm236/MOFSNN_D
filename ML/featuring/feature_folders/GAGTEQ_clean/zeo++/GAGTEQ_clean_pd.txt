@@ -1,0 +1,1 @@
+feature_folders/GAGTEQ_clean/zeo++/GAGTEQ_clean_pd.txt    5.66879 3.38600  5.63921

@@ -1,0 +1,4 @@
+GOVHOQ_clean_primitive, Anchors list: {19}, SBU connectlist: {19}
+GOVHOQ_clean_primitive, Anchors list: {10}, SBU connectlist: {10}
+GOVHOQ_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+GOVHOQ_clean_primitive, Anchors list: {9}, SBU connectlist: {9}

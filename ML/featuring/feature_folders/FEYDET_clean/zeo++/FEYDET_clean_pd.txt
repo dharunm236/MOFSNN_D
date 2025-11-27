@@ -1,0 +1,1 @@
+feature_folders/FEYDET_clean/zeo++/FEYDET_clean_pd.txt    5.38974 4.62167  5.36661

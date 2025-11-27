@@ -1,0 +1,1 @@
+feature_folders/MIXBAY_clean/zeo++/MIXBAY_clean_pd.txt    11.01618 7.37024  9.92306

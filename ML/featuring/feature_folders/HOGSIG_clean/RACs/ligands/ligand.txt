@@ -1,0 +1,2 @@
+HOGSIG_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0, 2}
+HOGSIG_clean_primitive, Anchors list: {0, 2}, SBU connectlist: {0, 2}

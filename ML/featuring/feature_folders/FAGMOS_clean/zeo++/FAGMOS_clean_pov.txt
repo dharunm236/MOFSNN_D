@@ -1,0 +1,3 @@
+@ feature_folders/FAGMOS_clean/zeo++/FAGMOS_clean_pov.txt Unitcell_volume: 4097.36   Density: 1.11657   POAV_A^3: 361.797 POAV_Volume_fraction: 0.0883 POAV_cm^3/g: 0.0790817 PONAV_A^3: 394.985 PONAV_Volume_fraction: 0.0964 PONAV_cm^3/g: 0.0863361
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/FAGMOS_clean/zeo++/FAGMOS_clean_pov.txt	1.11657	1.86	10000	0.0038	0.0041	0.0883	0.0964	0.3309	0.4844

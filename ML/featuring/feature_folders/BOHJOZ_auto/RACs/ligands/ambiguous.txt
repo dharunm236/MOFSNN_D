@@ -1,0 +1,6 @@
+BOHJOZ_auto_primitive, Anchors list: {73, 74, 75, 77}, SBU connectlist: {0} set to be linker
+BOHJOZ_auto_primitive, Anchors list: {72, 74, 75, 76}, SBU connectlist: {0} set to be linker
+BOHJOZ_auto_primitive, Anchors list: {73, 74, 75, 77}, SBU connectlist: {0} set to be linker
+BOHJOZ_auto_primitive, Anchors list: {72, 74, 75, 76}, SBU connectlist: {0} set to be linker
+BOHJOZ_auto_primitive, Anchors list: {72, 73, 76, 77}, SBU connectlist: {0} set to be linker
+BOHJOZ_auto_primitive, Anchors list: {72, 73, 76, 77}, SBU connectlist: {0} set to be linker

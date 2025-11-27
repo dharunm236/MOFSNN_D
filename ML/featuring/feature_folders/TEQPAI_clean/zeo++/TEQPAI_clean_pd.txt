@@ -1,0 +1,1 @@
+feature_folders/TEQPAI_clean/zeo++/TEQPAI_clean_pd.txt    6.00734 3.70386  5.68806

@@ -1,0 +1,8 @@
+COTVIS_clean_primitive, Anchors list: {50, 4}, SBU connectlist: {6}
+COTVIS_clean_primitive, Anchors list: {33, 3}, SBU connectlist: {4}
+COTVIS_clean_primitive, Anchors list: {3, 31}, SBU connectlist: {11, 4}
+COTVIS_clean_primitive, Anchors list: {67, 7}, SBU connectlist: {5}
+COTVIS_clean_primitive, Anchors list: {65, 7}, SBU connectlist: {3, 5}
+COTVIS_clean_primitive, Anchors list: {4, 52}, SBU connectlist: {9, 6}
+COTVIS_clean_primitive, Anchors list: {0, 18}, SBU connectlist: {0, 8}
+COTVIS_clean_primitive, Anchors list: {0, 16}, SBU connectlist: {0}

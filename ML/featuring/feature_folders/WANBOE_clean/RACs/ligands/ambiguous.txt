@@ -1,0 +1,10 @@
+WANBOE_clean_primitive, Anchors list: {41, 42, 49, 82, 86, 94}, SBU connectlist: {12} set to be linker
+WANBOE_clean_primitive, Anchors list: {40, 43, 48, 81, 87, 95}, SBU connectlist: {12} set to be ligand
+WANBOE_clean_primitive, Anchors list: {69, 71, 72, 77, 78, 85}, SBU connectlist: {12} set to be ligand
+WANBOE_clean_primitive, Anchors list: {67, 68, 70, 54, 61, 62}, SBU connectlist: {13} set to be linker
+WANBOE_clean_primitive, Anchors list: {74, 75, 80, 83, 88, 93}, SBU connectlist: {12} set to be ligand
+WANBOE_clean_primitive, Anchors list: {73, 76, 79, 84, 89, 92}, SBU connectlist: {12} set to be linker
+WANBOE_clean_primitive, Anchors list: {66, 47, 50, 55, 60, 63}, SBU connectlist: {13} set to be linker
+WANBOE_clean_primitive, Anchors list: {64, 65, 46, 51, 56, 59}, SBU connectlist: {13} set to be linker
+WANBOE_clean_primitive, Anchors list: {96, 99, 44, 52, 58, 91}, SBU connectlist: {13} set to be linker
+WANBOE_clean_primitive, Anchors list: {97, 98, 45, 53, 57, 90}, SBU connectlist: {13} set to be linker

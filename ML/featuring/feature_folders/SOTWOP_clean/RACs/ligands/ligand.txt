@@ -1,0 +1,2 @@
+SOTWOP_clean_primitive5, Anchors list: {0}, SBU connectlist: {0}
+SOTWOP_clean_primitive4, Anchors list: {3}, SBU connectlist: {3}

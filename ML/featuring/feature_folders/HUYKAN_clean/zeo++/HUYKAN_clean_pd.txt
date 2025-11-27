@@ -1,0 +1,1 @@
+feature_folders/HUYKAN_clean/zeo++/HUYKAN_clean_pd.txt    9.77773 6.64666  9.76991

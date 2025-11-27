@@ -1,0 +1,3 @@
+@ feature_folders/MAXHOJ01_clean/zeo++/MAXHOJ01_clean_pov.txt Unitcell_volume: 1511.3   Density: 2.30216   POAV_A^3: 370.723 POAV_Volume_fraction: 0.2453 POAV_cm^3/g: 0.106552 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/MAXHOJ01_clean/zeo++/MAXHOJ01_clean_pov.txt	2.30216	1.86	10000	0.0721	0	0.2453	0	0.2374	0.5173

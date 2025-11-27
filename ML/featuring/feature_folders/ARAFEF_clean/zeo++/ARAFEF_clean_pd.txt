@@ -1,0 +1,1 @@
+feature_folders/ARAFEF_clean/zeo++/ARAFEF_clean_pd.txt    8.89599 8.63109  8.89599

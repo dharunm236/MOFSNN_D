@@ -1,0 +1,1 @@
+feature_folders/HUZSOL_clean/zeo++/HUZSOL_clean_pd.txt    9.96894 8.00393  9.96894

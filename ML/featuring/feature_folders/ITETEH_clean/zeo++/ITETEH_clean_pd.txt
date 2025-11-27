@@ -1,0 +1,1 @@
+feature_folders/ITETEH_clean/zeo++/ITETEH_clean_pd.txt    3.58044 2.59044  3.57626

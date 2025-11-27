@@ -1,0 +1,1 @@
+feature_folders/DANROC_clean/zeo++/DANROC_clean_pd.txt    8.96971 3.15193  8.22270

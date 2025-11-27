@@ -1,0 +1,1 @@
+feature_folders/IKOSOQ_clean/zeo++/IKOSOQ_clean_pd.txt    5.18747 4.15785  5.18700

@@ -1,0 +1,1 @@
+feature_folders/AFITEP_clean/zeo++/AFITEP_clean_pd.txt    4.64022 4.09997  4.63375

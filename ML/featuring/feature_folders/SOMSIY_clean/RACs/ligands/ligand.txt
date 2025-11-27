@@ -1,0 +1,2 @@
+SOMSIY_clean_primitive, Anchors list: {12, 13}, SBU connectlist: {0, 1}
+SOMSIY_clean_primitive, Anchors list: {12, 13}, SBU connectlist: {0, 1}

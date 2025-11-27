@@ -1,0 +1,1 @@
+feature_folders/SOMFAC_clean/zeo++/SOMFAC_clean_pd.txt    6.70637 6.34214  6.70637

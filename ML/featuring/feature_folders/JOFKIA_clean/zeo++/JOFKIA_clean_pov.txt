@@ -1,0 +1,3 @@
+@ feature_folders/JOFKIA_clean/zeo++/JOFKIA_clean_pov.txt Unitcell_volume: 1196.59   Density: 1.57886   POAV_A^3: 350.958 POAV_Volume_fraction: 0.2933 POAV_cm^3/g: 0.185767 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/JOFKIA_clean/zeo++/JOFKIA_clean_pov.txt	1.57886	1.86	10000	0.0468	0	0.2933	0	0.2311	0.4756

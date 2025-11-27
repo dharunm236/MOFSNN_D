@@ -1,0 +1,4 @@
+YUWHOO_SL_primitive, Anchors list: {0}, SBU connectlist: {0}
+YUWHOO_SL_primitive, Anchors list: {1}, SBU connectlist: {1}
+YUWHOO_SL_primitive, Anchors list: {0}, SBU connectlist: {0}
+YUWHOO_SL_primitive, Anchors list: {1}, SBU connectlist: {1}

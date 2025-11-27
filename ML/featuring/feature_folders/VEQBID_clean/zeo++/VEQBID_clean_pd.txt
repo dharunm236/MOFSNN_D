@@ -1,0 +1,1 @@
+feature_folders/VEQBID_clean/zeo++/VEQBID_clean_pd.txt    6.52256 4.92100  6.52175

@@ -1,0 +1,8 @@
+GUWDUY_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+GUWDUY_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+GUWDUY_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+GUWDUY_clean_primitive, Anchors list: {1}, SBU connectlist: {1}
+GUWDUY_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+GUWDUY_clean_primitive, Anchors list: {0, 1}, SBU connectlist: {0, 1}
+GUWDUY_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+GUWDUY_clean_primitive, Anchors list: {1}, SBU connectlist: {1}

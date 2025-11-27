@@ -1,0 +1,1 @@
+feature_folders/CAQCAZ_clean/zeo++/CAQCAZ_clean_pd.txt    6.29148 5.67839  6.28950

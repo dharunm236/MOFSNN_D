@@ -1,0 +1,3 @@
+@ feature_folders/OYIVOI_clean/zeo++/OYIVOI_clean_sa.txt Unitcell_volume: 710.921   Density: 1.34386   ASA_A^2: 64.2639 ASA_m^2/cm^3: 903.953 ASA_m^2/g: 672.652 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 64.2639  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

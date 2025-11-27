@@ -1,0 +1,3 @@
+@ feature_folders/ZITWIK_clean/zeo++/ZITWIK_clean_sa.txt Unitcell_volume: 537.266   Density: 1.47411   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 26.1999 NASA_m^2/cm^3: 487.651 NASA_m^2/g: 330.81
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 13.0634  13.1365  

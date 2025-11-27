@@ -1,0 +1,3 @@
+@ feature_folders/ALUJUN_clean/zeo++/ALUJUN_clean_sa.txt Unitcell_volume: 830.874   Density: 1.33934   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 37.0048 NASA_m^2/cm^3: 445.371 NASA_m^2/g: 332.529
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 1 Pocket_surface_area_A^2: 37.0048  

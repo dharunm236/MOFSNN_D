@@ -1,0 +1,1 @@
+feature_folders/ECIWOC_clean/zeo++/ECIWOC_clean_pd.txt    5.05411 4.78500  5.05411

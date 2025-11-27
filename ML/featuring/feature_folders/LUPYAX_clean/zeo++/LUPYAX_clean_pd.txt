@@ -1,0 +1,1 @@
+feature_folders/LUPYAX_clean/zeo++/LUPYAX_clean_pd.txt    7.54991 6.34938  7.51808

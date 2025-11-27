@@ -1,0 +1,1 @@
+feature_folders/GAPNOD_clean/zeo++/GAPNOD_clean_pd.txt    6.65124 4.84535  6.64220

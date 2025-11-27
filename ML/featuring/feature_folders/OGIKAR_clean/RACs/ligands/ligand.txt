@@ -1,0 +1,8 @@
+OGIKAR_clean_primitive, Anchors list: {18}, SBU connectlist: {18}
+OGIKAR_clean_primitive, Anchors list: {17}, SBU connectlist: {17}
+OGIKAR_clean_primitive, Anchors list: {11}, SBU connectlist: {11}
+OGIKAR_clean_primitive, Anchors list: {12}, SBU connectlist: {12}
+OGIKAR_clean_primitive, Anchors list: {6}, SBU connectlist: {6}
+OGIKAR_clean_primitive, Anchors list: {5}, SBU connectlist: {5}
+OGIKAR_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+OGIKAR_clean_primitive, Anchors list: {23}, SBU connectlist: {23}

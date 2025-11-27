@@ -1,0 +1,1 @@
+feature_folders/OVICUS_clean/zeo++/OVICUS_clean_pd.txt    5.88829 5.24435  5.88829

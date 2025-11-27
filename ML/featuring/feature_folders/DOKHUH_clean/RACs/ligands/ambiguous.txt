@@ -1,0 +1,4 @@
+DOKHUH_clean_primitive, Anchors list: {67}, SBU connectlist: {3} set to be linker
+DOKHUH_clean_primitive, Anchors list: {66}, SBU connectlist: {2} set to be linker
+DOKHUH_clean_primitive, Anchors list: {65}, SBU connectlist: {1} set to be ligand
+DOKHUH_clean_primitive, Anchors list: {64}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,3 @@
+@ feature_folders/LADQOZ_clean/zeo++/LADQOZ_clean_pov.txt Unitcell_volume: 3312.04   Density: 1.14467   POAV_A^3: 571.989 POAV_Volume_fraction: 0.1727 POAV_cm^3/g: 0.150873 PONAV_A^3: 556.422 PONAV_Volume_fraction: 0.168 PONAV_cm^3/g: 0.146767
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/LADQOZ_clean/zeo++/LADQOZ_clean_pov.txt	1.14467	1.86	10000	0.0344	0.0337	0.1727	0.168	0.2233	0.436

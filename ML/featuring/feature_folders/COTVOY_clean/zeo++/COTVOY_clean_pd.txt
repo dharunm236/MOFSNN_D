@@ -1,0 +1,1 @@
+feature_folders/COTVOY_clean/zeo++/COTVOY_clean_pd.txt    5.88006 4.17812  5.72292

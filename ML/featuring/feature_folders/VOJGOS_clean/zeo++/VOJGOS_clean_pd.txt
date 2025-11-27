@@ -1,0 +1,1 @@
+feature_folders/VOJGOS_clean/zeo++/VOJGOS_clean_pd.txt    6.19531 5.32268  6.19531

@@ -1,0 +1,4 @@
+TEWFOS_clean_primitive, Anchors list: {123}, SBU connectlist: {3} set to be linker
+TEWFOS_clean_primitive, Anchors list: {122}, SBU connectlist: {2} set to be linker
+TEWFOS_clean_primitive, Anchors list: {120}, SBU connectlist: {0} set to be linker
+TEWFOS_clean_primitive, Anchors list: {121}, SBU connectlist: {1} set to be linker

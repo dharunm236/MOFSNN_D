@@ -1,0 +1,1 @@
+feature_folders/LACBID_clean/zeo++/LACBID_clean_pd.txt    10.30751 6.64309  10.30751

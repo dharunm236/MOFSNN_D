@@ -1,0 +1,1 @@
+feature_folders/PARKUQ01_clean/zeo++/PARKUQ01_clean_pd.txt    6.68047 5.19792  6.65893

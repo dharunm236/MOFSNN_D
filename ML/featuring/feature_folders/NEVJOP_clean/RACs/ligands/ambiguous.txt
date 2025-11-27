@@ -1,0 +1,2 @@
+NEVJOP_clean_primitive, Anchors list: {0, 5}, SBU connectlist: {0} set to be ligand
+NEVJOP_clean_primitive, Anchors list: {11, 6}, SBU connectlist: {3} set to be linker

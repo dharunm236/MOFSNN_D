@@ -1,0 +1,3 @@
+@ feature_folders/HAZGOF08_clean_h/zeo++/HAZGOF08_clean_h_sa.txt Unitcell_volume: 1549.83   Density: 1.2477   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 1.11249 NASA_m^2/cm^3: 7.17813 NASA_m^2/g: 5.75308
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 0.321389  0.14429  0.337315  0.309497  

@@ -1,0 +1,4 @@
+IXEJOL_clean_primitive, Anchors list: {22}, SBU connectlist: {11}
+IXEJOL_clean_primitive, Anchors list: {25}, SBU connectlist: {13}
+IXEJOL_clean_primitive, Anchors list: {6}, SBU connectlist: {1}
+IXEJOL_clean_primitive, Anchors list: {9}, SBU connectlist: {7}

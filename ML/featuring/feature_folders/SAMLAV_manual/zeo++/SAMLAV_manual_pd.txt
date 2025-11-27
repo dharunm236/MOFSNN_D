@@ -1,0 +1,1 @@
+feature_folders/SAMLAV_manual/zeo++/SAMLAV_manual_pd.txt    5.80959 3.99278  5.75161

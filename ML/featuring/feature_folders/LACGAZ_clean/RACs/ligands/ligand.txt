@@ -1,0 +1,2 @@
+LACGAZ_clean_primitive3, Anchors list: {2}, SBU connectlist: {2}
+LACGAZ_clean_primitive2, Anchors list: {3}, SBU connectlist: {3}

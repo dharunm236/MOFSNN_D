@@ -1,0 +1,1 @@
+feature_folders/QIRYAS_clean/zeo++/QIRYAS_clean_pd.txt    6.80431 4.28089  6.79255

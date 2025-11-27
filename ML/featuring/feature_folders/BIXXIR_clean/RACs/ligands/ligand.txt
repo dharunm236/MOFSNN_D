@@ -1,0 +1,17 @@
+BIXXIR_clean_primitive, Anchors list: {1, 28}, SBU connectlist: {1, 9}
+BIXXIR_clean_primitive, Anchors list: {0, 29}, SBU connectlist: {0, 8}
+BIXXIR_clean_primitive, Anchors list: {46, 7}, SBU connectlist: {8, 7}
+BIXXIR_clean_primitive, Anchors list: {41, 4}, SBU connectlist: {8, 4}
+BIXXIR_clean_primitive, Anchors list: {6, 47}, SBU connectlist: {9, 6}
+BIXXIR_clean_primitive, Anchors list: {40, 5}, SBU connectlist: {9, 5}
+BIXXIR_clean_primitive, Anchors list: {45, 5}, SBU connectlist: {8, 5}
+BIXXIR_clean_primitive, Anchors list: {4, 44}, SBU connectlist: {9, 4}
+BIXXIR_clean_primitive, Anchors list: {43, 7}, SBU connectlist: {9, 7}
+BIXXIR_clean_primitive, Anchors list: {42, 6}, SBU connectlist: {8, 6}
+BIXXIR_clean_primitive, Anchors list: {34, 3}, SBU connectlist: {8, 3}
+BIXXIR_clean_primitive, Anchors list: {2, 35}, SBU connectlist: {9, 2}
+BIXXIR_clean_primitive, Anchors list: {1, 33}, SBU connectlist: {8, 1}
+BIXXIR_clean_primitive, Anchors list: {0, 32}, SBU connectlist: {0, 9}
+BIXXIR_clean_primitive, Anchors list: {3, 31}, SBU connectlist: {9, 3}
+BIXXIR_clean_primitive, Anchors list: {2, 30}, SBU connectlist: {8, 2}
+BIXXIR_clean_primitive1, Anchors list: {32, 35, 36, 39, 40, 43, 44, 47, 48, 27, 28, 31}, SBU connectlist: {9}

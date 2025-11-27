@@ -1,0 +1,1 @@
+feature_folders/LUBNAZ_clean/zeo++/LUBNAZ_clean_pd.txt    8.26903 7.03637  8.26032

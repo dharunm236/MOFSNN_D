@@ -1,0 +1,1 @@
+feature_folders/FUSMOW_clean/zeo++/FUSMOW_clean_pd.txt    10.54817 9.56428  10.54817

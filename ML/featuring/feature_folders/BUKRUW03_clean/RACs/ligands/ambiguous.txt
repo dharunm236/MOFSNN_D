@@ -1,0 +1,12 @@
+BUKRUW03_clean_primitive, Anchors list: {24, 23}, SBU connectlist: {4} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {16, 23}, SBU connectlist: {4} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {24, 16}, SBU connectlist: {4} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {25, 18}, SBU connectlist: {6} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {17, 25}, SBU connectlist: {6} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {17, 18}, SBU connectlist: {6} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {9, 10}, SBU connectlist: {0} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {9, 2}, SBU connectlist: {0} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {2, 10}, SBU connectlist: {0} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {11, 4}, SBU connectlist: {2} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {11, 3}, SBU connectlist: {2} set to be ligand
+BUKRUW03_clean_primitive, Anchors list: {3, 4}, SBU connectlist: {2} set to be ligand

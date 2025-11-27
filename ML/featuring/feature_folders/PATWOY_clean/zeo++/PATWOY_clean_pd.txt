@@ -1,0 +1,1 @@
+feature_folders/PATWOY_clean/zeo++/PATWOY_clean_pd.txt    7.80785 6.68696  7.80785

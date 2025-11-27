@@ -1,0 +1,3 @@
+@ feature_folders/KOZSID_clean/zeo++/KOZSID_clean_pov.txt Unitcell_volume: 2879.33   Density: 1.21403   POAV_A^3: 210.767 POAV_Volume_fraction: 0.0732 POAV_cm^3/g: 0.0602951 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/KOZSID_clean/zeo++/KOZSID_clean_pov.txt	1.21403	1.86	10000	0.0069	0	0.0732	0	0.359	0.5678

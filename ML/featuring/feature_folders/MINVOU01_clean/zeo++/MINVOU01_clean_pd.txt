@@ -1,0 +1,1 @@
+feature_folders/MINVOU01_clean/zeo++/MINVOU01_clean_pd.txt    6.54649 6.26803  6.54649

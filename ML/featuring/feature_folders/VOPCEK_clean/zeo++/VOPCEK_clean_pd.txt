@@ -1,0 +1,1 @@
+feature_folders/VOPCEK_clean/zeo++/VOPCEK_clean_pd.txt    5.95460 5.24928  5.95460

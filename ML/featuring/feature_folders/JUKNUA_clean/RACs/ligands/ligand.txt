@@ -1,0 +1,4 @@
+JUKNUA_clean_primitive, Anchors list: {204, 207}, SBU connectlist: {4, 7}
+JUKNUA_clean_primitive, Anchors list: {205, 206}, SBU connectlist: {5, 6}
+JUKNUA_clean_primitive, Anchors list: {204, 207}, SBU connectlist: {4, 7}
+JUKNUA_clean_primitive, Anchors list: {205, 206}, SBU connectlist: {5, 6}

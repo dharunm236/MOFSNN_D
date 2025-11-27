@@ -1,0 +1,2 @@
+OTAQAD_clean_primitive, Anchors list: {48, 49}, SBU connectlist: {0, 1}
+OTAQAD_clean_primitive, Anchors list: {48, 49}, SBU connectlist: {0, 1}

@@ -1,0 +1,1 @@
+feature_folders/ALUREF_clean/zeo++/ALUREF_clean_pd.txt    6.83050 3.71719  6.52820

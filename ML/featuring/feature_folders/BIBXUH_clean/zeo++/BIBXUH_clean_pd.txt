@@ -1,0 +1,1 @@
+feature_folders/BIBXUH_clean/zeo++/BIBXUH_clean_pd.txt    14.73899 5.12647  14.73899

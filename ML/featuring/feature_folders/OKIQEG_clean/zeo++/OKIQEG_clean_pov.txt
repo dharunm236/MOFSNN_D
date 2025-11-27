@@ -1,0 +1,3 @@
+@ feature_folders/OKIQEG_clean/zeo++/OKIQEG_clean_pov.txt Unitcell_volume: 2536.57   Density: 1.53026   POAV_A^3: 392.154 POAV_Volume_fraction: 0.1546 POAV_cm^3/g: 0.101028 PONAV_A^3: 204.955 PONAV_Volume_fraction: 0.0808 PONAV_cm^3/g: 0.0528014
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/OKIQEG_clean/zeo++/OKIQEG_clean_pov.txt	1.53026	1.86	10000	0.0135	0.0017	0.1546	0.0808	0.2636	0.501

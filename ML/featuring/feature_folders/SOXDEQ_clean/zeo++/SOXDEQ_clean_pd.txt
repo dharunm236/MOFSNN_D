@@ -1,0 +1,1 @@
+feature_folders/SOXDEQ_clean/zeo++/SOXDEQ_clean_pd.txt    7.82825 4.19616  7.82511

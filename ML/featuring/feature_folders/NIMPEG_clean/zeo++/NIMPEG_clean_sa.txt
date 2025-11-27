@@ -1,0 +1,3 @@
+@ feature_folders/NIMPEG_clean/zeo++/NIMPEG_clean_sa.txt Unitcell_volume: 4009.14   Density: 0.735505   ASA_A^2: 846.989 ASA_m^2/cm^3: 2112.65 ASA_m^2/g: 2872.37 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 846.989  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

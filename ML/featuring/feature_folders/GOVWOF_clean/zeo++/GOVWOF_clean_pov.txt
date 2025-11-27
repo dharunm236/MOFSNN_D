@@ -1,0 +1,3 @@
+@ feature_folders/GOVWOF_clean/zeo++/GOVWOF_clean_pov.txt Unitcell_volume: 9985.99   Density: 0.794433   POAV_A^3: 5905.72 POAV_Volume_fraction: 0.5914 POAV_cm^3/g: 0.74443 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/GOVWOF_clean/zeo++/GOVWOF_clean_pov.txt	0.794433	1.86	10000	0.2635	0	0.5914	0	0.1028	0.3058

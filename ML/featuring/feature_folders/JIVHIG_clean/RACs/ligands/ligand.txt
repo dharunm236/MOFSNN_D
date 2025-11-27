@@ -1,0 +1,12 @@
+JIVHIG_clean_primitive, Anchors list: {2, 11, 7}, SBU connectlist: {2, 11, 7}
+JIVHIG_clean_primitive, Anchors list: {10, 3, 6}, SBU connectlist: {10, 3, 6}
+JIVHIG_clean_primitive, Anchors list: {8, 1, 6}, SBU connectlist: {8, 1, 6}
+JIVHIG_clean_primitive, Anchors list: {0, 9, 7}, SBU connectlist: {0, 9, 7}
+JIVHIG_clean_primitive, Anchors list: {0, 9, 4}, SBU connectlist: {0, 9, 4}
+JIVHIG_clean_primitive, Anchors list: {8, 1, 5}, SBU connectlist: {8, 1, 5}
+JIVHIG_clean_primitive, Anchors list: {10, 3, 5}, SBU connectlist: {10, 3, 5}
+JIVHIG_clean_primitive, Anchors list: {2, 11, 4}, SBU connectlist: {2, 11, 4}
+JIVHIG_clean_primitive, Anchors list: {0, 2, 4}, SBU connectlist: {0, 2, 4}
+JIVHIG_clean_primitive, Anchors list: {1, 3, 5}, SBU connectlist: {1, 3, 5}
+JIVHIG_clean_primitive, Anchors list: {8, 10, 6}, SBU connectlist: {8, 10, 6}
+JIVHIG_clean_primitive, Anchors list: {9, 11, 7}, SBU connectlist: {9, 11, 7}

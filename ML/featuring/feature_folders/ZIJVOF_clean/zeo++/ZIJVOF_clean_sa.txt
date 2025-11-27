@@ -1,0 +1,3 @@
+@ feature_folders/ZIJVOF_clean/zeo++/ZIJVOF_clean_sa.txt Unitcell_volume: 2185.54   Density: 1.22582   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 149.255 NASA_m^2/cm^3: 682.922 NASA_m^2/g: 557.116
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 36.2126  38.1535  38.4357  36.4535  

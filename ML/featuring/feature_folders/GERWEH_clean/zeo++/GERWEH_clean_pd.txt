@@ -1,0 +1,1 @@
+feature_folders/GERWEH_clean/zeo++/GERWEH_clean_pd.txt    9.16761 6.64251  9.16761

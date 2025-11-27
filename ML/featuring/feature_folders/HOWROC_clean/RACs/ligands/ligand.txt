@@ -1,0 +1,12 @@
+HOWROC_clean_primitive, Anchors list: {81, 13, 78, 17}, SBU connectlist: {10, 15}
+HOWROC_clean_primitive, Anchors list: {104, 108, 21, 22}, SBU connectlist: {21}
+HOWROC_clean_primitive, Anchors list: {18, 99, 21, 111}, SBU connectlist: {16, 21, 23}
+HOWROC_clean_primitive, Anchors list: {80, 16, 12, 79}, SBU connectlist: {11, 14}
+HOWROC_clean_primitive, Anchors list: {98, 19, 20, 110}, SBU connectlist: {17, 20, 22}
+HOWROC_clean_primitive, Anchors list: {105, 20, 109, 23}, SBU connectlist: {20}
+HOWROC_clean_primitive, Anchors list: {33, 3, 4, 45}, SBU connectlist: {0, 2, 19}
+HOWROC_clean_primitive, Anchors list: {32, 2, 44, 5}, SBU connectlist: {1, 18, 3}
+HOWROC_clean_primitive, Anchors list: {64, 11, 63, 7}, SBU connectlist: {9, 5}
+HOWROC_clean_primitive, Anchors list: {62, 65, 10, 6}, SBU connectlist: {8, 4}
+HOWROC_clean_primitive, Anchors list: {1, 2, 35, 39}, SBU connectlist: {1}
+HOWROC_clean_primitive, Anchors list: {0, 34, 3, 38}, SBU connectlist: {0}

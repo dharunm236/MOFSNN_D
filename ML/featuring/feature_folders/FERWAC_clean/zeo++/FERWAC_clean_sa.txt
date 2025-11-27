@@ -1,0 +1,3 @@
+@ feature_folders/FERWAC_clean/zeo++/FERWAC_clean_sa.txt Unitcell_volume: 2043.38   Density: 1.42345   ASA_A^2: 178.447 ASA_m^2/cm^3: 873.292 ASA_m^2/g: 613.503 NASA_A^2: 0.175187 NASA_m^2/cm^3: 0.857341 NASA_m^2/g: 0.602297
+Number_of_channels: 1 Channel_surface_area_A^2: 178.447  
+Number_of_pockets: 1 Pocket_surface_area_A^2: 0.175187  

@@ -1,0 +1,4 @@
+UTOTUT_clean_primitive, Anchors list: {0, 2, 4}, SBU connectlist: {0} set to be linker
+UTOTUT_clean_primitive, Anchors list: {1, 3, 7}, SBU connectlist: {1} set to be linker
+UTOTUT_clean_primitive, Anchors list: {0, 4, 6}, SBU connectlist: {0} set to be ligand
+UTOTUT_clean_primitive, Anchors list: {3, 5, 7}, SBU connectlist: {1} set to be linker

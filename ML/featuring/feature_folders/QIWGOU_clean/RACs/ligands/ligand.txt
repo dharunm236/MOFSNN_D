@@ -1,0 +1,4 @@
+QIWGOU_clean_primitive, Anchors list: {8, 12}, SBU connectlist: {8, 20}
+QIWGOU_clean_primitive, Anchors list: {11, 15}, SBU connectlist: {19, 23}
+QIWGOU_clean_primitive, Anchors list: {3, 7}, SBU connectlist: {3, 7}
+QIWGOU_clean_primitive, Anchors list: {0, 4}, SBU connectlist: {0, 4}

@@ -1,0 +1,3 @@
+@ feature_folders/MAGBAZ_clean/zeo++/MAGBAZ_clean_sa.txt Unitcell_volume: 2128.24   Density: 0.9596   ASA_A^2: 383.949 ASA_m^2/cm^3: 1804.07 ASA_m^2/g: 1880.02 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 191.763  192.186  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

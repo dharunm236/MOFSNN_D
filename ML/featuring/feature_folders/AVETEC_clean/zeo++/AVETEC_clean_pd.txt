@@ -1,0 +1,1 @@
+feature_folders/AVETEC_clean/zeo++/AVETEC_clean_pd.txt    5.68258 3.49386  5.66579

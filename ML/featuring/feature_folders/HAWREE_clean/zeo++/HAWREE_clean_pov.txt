@@ -1,0 +1,3 @@
+@ feature_folders/HAWREE_clean/zeo++/HAWREE_clean_pov.txt Unitcell_volume: 2681.54   Density: 1.29463   POAV_A^3: 445.136 POAV_Volume_fraction: 0.166 POAV_cm^3/g: 0.128222 PONAV_A^3: 281.562 PONAV_Volume_fraction: 0.105 PONAV_cm^3/g: 0.0811045
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/HAWREE_clean/zeo++/HAWREE_clean_pov.txt	1.29463	1.86	10000	0.0176	0.0073	0.166	0.105	0.2405	0.4885

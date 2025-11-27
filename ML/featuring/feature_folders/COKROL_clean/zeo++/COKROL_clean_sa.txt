@@ -1,0 +1,3 @@
+@ feature_folders/COKROL_clean/zeo++/COKROL_clean_sa.txt Unitcell_volume: 2806.71   Density: 1.20027   ASA_A^2: 124.064 ASA_m^2/cm^3: 442.026 ASA_m^2/g: 368.272 NASA_A^2: 114.346 NASA_m^2/cm^3: 407.401 NASA_m^2/g: 339.424
+Number_of_channels: 2 Channel_surface_area_A^2: 61.2382  62.826  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 56.7869  57.559  

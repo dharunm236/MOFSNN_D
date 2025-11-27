@@ -1,0 +1,4 @@
+BEKSAM_clean_primitive, Anchors list: {8, 9, 5}, SBU connectlist: {5, 6, 7}
+BEKSAM_clean_primitive, Anchors list: {4, 6, 7}, SBU connectlist: {8, 9, 4}
+BEKSAM_clean_primitive, Anchors list: {2, 3, 5}, SBU connectlist: {2, 3, 5}
+BEKSAM_clean_primitive, Anchors list: {0, 1, 4}, SBU connectlist: {0, 1, 4}

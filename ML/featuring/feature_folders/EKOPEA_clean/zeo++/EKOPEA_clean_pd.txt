@@ -1,0 +1,1 @@
+feature_folders/EKOPEA_clean/zeo++/EKOPEA_clean_pd.txt    5.53973 5.19735  5.53836

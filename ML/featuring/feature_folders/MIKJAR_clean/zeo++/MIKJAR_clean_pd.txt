@@ -1,0 +1,1 @@
+feature_folders/MIKJAR_clean/zeo++/MIKJAR_clean_pd.txt    5.99502 4.85131  5.99502

@@ -1,0 +1,1 @@
+feature_folders/TUKCOT_clean/zeo++/TUKCOT_clean_pd.txt    5.03348 3.75359  4.98119

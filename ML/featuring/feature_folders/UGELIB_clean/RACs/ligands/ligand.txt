@@ -1,0 +1,16 @@
+UGELIB_clean_primitive, Anchors list: {29, 21}, SBU connectlist: {29, 21}
+UGELIB_clean_primitive, Anchors list: {20, 28}, SBU connectlist: {20, 28}
+UGELIB_clean_primitive, Anchors list: {25, 27}, SBU connectlist: {25, 27}
+UGELIB_clean_primitive, Anchors list: {24, 26}, SBU connectlist: {24, 26}
+UGELIB_clean_primitive, Anchors list: {21, 23}, SBU connectlist: {21, 23}
+UGELIB_clean_primitive, Anchors list: {20, 22}, SBU connectlist: {20, 22}
+UGELIB_clean_primitive, Anchors list: {27, 19}, SBU connectlist: {27, 19}
+UGELIB_clean_primitive, Anchors list: {18, 26}, SBU connectlist: {18, 26}
+UGELIB_clean_primitive, Anchors list: {13, 5}, SBU connectlist: {13, 5}
+UGELIB_clean_primitive, Anchors list: {4, 12}, SBU connectlist: {4, 12}
+UGELIB_clean_primitive, Anchors list: {9, 11}, SBU connectlist: {9, 11}
+UGELIB_clean_primitive, Anchors list: {8, 10}, SBU connectlist: {8, 10}
+UGELIB_clean_primitive, Anchors list: {5, 7}, SBU connectlist: {5, 7}
+UGELIB_clean_primitive, Anchors list: {4, 6}, SBU connectlist: {4, 6}
+UGELIB_clean_primitive, Anchors list: {11, 3}, SBU connectlist: {11, 3}
+UGELIB_clean_primitive, Anchors list: {2, 10}, SBU connectlist: {2, 10}

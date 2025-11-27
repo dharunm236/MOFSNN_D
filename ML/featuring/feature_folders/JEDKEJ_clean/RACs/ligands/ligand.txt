@@ -1,0 +1,30 @@
+JEDKEJ_clean_primitive, Anchors list: {7}, SBU connectlist: {11}
+JEDKEJ_clean_primitive, Anchors list: {7}, SBU connectlist: {11}
+JEDKEJ_clean_primitive, Anchors list: {6}, SBU connectlist: {10}
+JEDKEJ_clean_primitive, Anchors list: {6}, SBU connectlist: {10}
+JEDKEJ_clean_primitive, Anchors list: {3}, SBU connectlist: {5}
+JEDKEJ_clean_primitive, Anchors list: {2}, SBU connectlist: {4}
+JEDKEJ_clean_primitive, Anchors list: {3}, SBU connectlist: {5}
+JEDKEJ_clean_primitive, Anchors list: {2}, SBU connectlist: {4}
+JEDKEJ_clean_primitive, Anchors list: {3}, SBU connectlist: {5}
+JEDKEJ_clean_primitive, Anchors list: {2}, SBU connectlist: {4}
+JEDKEJ_clean_primitive, Anchors list: {3}, SBU connectlist: {5}
+JEDKEJ_clean_primitive, Anchors list: {2}, SBU connectlist: {4}
+JEDKEJ_clean_primitive, Anchors list: {7}, SBU connectlist: {11}
+JEDKEJ_clean_primitive, Anchors list: {6}, SBU connectlist: {10}
+JEDKEJ_clean_primitive, Anchors list: {7}, SBU connectlist: {11}
+JEDKEJ_clean_primitive, Anchors list: {6}, SBU connectlist: {10}
+JEDKEJ_clean_primitive, Anchors list: {4}, SBU connectlist: {8}
+JEDKEJ_clean_primitive, Anchors list: {5}, SBU connectlist: {9}
+JEDKEJ_clean_primitive, Anchors list: {5}, SBU connectlist: {9}
+JEDKEJ_clean_primitive, Anchors list: {4}, SBU connectlist: {8}
+JEDKEJ_clean_primitive, Anchors list: {4}, SBU connectlist: {8}
+JEDKEJ_clean_primitive, Anchors list: {5}, SBU connectlist: {9}
+JEDKEJ_clean_primitive, Anchors list: {5}, SBU connectlist: {9}
+JEDKEJ_clean_primitive, Anchors list: {4}, SBU connectlist: {8}
+JEDKEJ_clean_primitive11, Anchors list: {121, 15}, SBU connectlist: {17}
+JEDKEJ_clean_primitive8, Anchors list: {74, 12}, SBU connectlist: {14}
+JEDKEJ_clean_primitive6, Anchors list: {8, 48}, SBU connectlist: {12}
+JEDKEJ_clean_primitive5, Anchors list: {19, 147}, SBU connectlist: {19}
+JEDKEJ_clean_primitive3, Anchors list: {11, 67}, SBU connectlist: {7}
+JEDKEJ_clean_primitive0, Anchors list: {16, 128}, SBU connectlist: {2}

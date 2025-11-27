@@ -1,0 +1,4 @@
+UHAXUW_clean_primitive, Anchors list: {0}, SBU connectlist: {0}
+UHAXUW_clean_primitive, Anchors list: {2}, SBU connectlist: {2}
+UHAXUW_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+UHAXUW_clean_primitive, Anchors list: {1}, SBU connectlist: {1}

@@ -1,0 +1,3 @@
+@ feature_folders/KOXGIP_clean/zeo++/KOXGIP_clean_sa.txt Unitcell_volume: 2249.43   Density: 1.0195   ASA_A^2: 251.498 ASA_m^2/cm^3: 1118.05 ASA_m^2/g: 1096.67 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 251.498  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

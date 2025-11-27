@@ -1,0 +1,1 @@
+FUWFIO_clean_primitive15, Anchors list: {2, 4, 5}, SBU connectlist: {1}

@@ -1,0 +1,1 @@
+feature_folders/IDAGOL_clean/zeo++/IDAGOL_clean_pd.txt    3.78397 3.22954  3.77208

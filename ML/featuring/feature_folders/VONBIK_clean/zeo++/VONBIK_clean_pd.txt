@@ -1,0 +1,1 @@
+feature_folders/VONBIK_clean/zeo++/VONBIK_clean_pd.txt    4.80212 3.01348  4.80212

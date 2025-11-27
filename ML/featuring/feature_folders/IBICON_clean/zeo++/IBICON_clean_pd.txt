@@ -1,0 +1,1 @@
+feature_folders/IBICON_clean/zeo++/IBICON_clean_pd.txt    10.09822 9.93984  10.09822

@@ -1,0 +1,1 @@
+feature_folders/DADLOM_clean/zeo++/DADLOM_clean_pd.txt    18.69079 17.36648  18.68521

@@ -1,0 +1,2 @@
+DAFYAN_clean_primitive, Anchors list: {3, 4, 5}, SBU connectlist: {3, 4, 5}
+DAFYAN_clean_primitive, Anchors list: {0, 1, 2}, SBU connectlist: {0, 1, 2}

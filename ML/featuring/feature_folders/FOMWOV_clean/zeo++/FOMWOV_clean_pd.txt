@@ -1,0 +1,1 @@
+feature_folders/FOMWOV_clean/zeo++/FOMWOV_clean_pd.txt    7.38475 4.51511  7.37990

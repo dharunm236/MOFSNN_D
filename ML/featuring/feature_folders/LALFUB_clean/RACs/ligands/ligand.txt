@@ -1,0 +1,2 @@
+LALFUB_clean_primitive, Anchors list: {0, 9, 3}, SBU connectlist: {0, 3, 5}
+LALFUB_clean_primitive, Anchors list: {8, 1, 2}, SBU connectlist: {1, 2, 4}

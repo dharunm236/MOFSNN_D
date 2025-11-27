@@ -1,0 +1,3 @@
+@ feature_folders/COVYIX_clean/zeo++/COVYIX_clean_sa.txt Unitcell_volume: 1679.72   Density: 1.88268   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 0.334965 NASA_m^2/cm^3: 1.99417 NASA_m^2/g: 1.05922
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 0.226281  0.108684  

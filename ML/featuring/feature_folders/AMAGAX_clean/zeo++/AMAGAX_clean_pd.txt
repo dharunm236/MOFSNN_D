@@ -1,0 +1,1 @@
+feature_folders/AMAGAX_clean/zeo++/AMAGAX_clean_pd.txt    6.93247 6.09510  6.93247

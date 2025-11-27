@@ -1,0 +1,2 @@
+OCOKUP_clean_primitive, Anchors list: {3}, SBU connectlist: {3}
+OCOKUP_clean_primitive, Anchors list: {0}, SBU connectlist: {0}

@@ -1,0 +1,4 @@
+PIWRAQ_clean_primitive, Anchors list: {0, 33, 37}, SBU connectlist: {0, 5}
+PIWRAQ_clean_primitive, Anchors list: {1, 18, 27}, SBU connectlist: {1, 11, 12}
+PIWRAQ_clean_primitive, Anchors list: {2, 54, 63}, SBU connectlist: {2, 13, 14}
+PIWRAQ_clean_primitive, Anchors list: {48, 3, 44}, SBU connectlist: {10, 3}

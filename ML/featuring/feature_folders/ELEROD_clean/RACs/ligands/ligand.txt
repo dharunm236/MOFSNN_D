@@ -1,0 +1,2 @@
+ELEROD_clean_primitive, Anchors list: {15}, SBU connectlist: {4}
+ELEROD_clean_primitive, Anchors list: {6}, SBU connectlist: {4}

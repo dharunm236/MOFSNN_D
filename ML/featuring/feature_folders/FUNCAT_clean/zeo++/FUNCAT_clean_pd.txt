@@ -1,0 +1,1 @@
+feature_folders/FUNCAT_clean/zeo++/FUNCAT_clean_pd.txt    9.48773 8.77545  9.48773

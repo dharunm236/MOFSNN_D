@@ -1,0 +1,2 @@
+KORMOV_clean_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker
+KORMOV_clean_primitive, Anchors list: {0, 1, 2, 3}, SBU connectlist: {0} set to be linker

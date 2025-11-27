@@ -1,0 +1,1 @@
+feature_folders/ADUWIH_clean/zeo++/ADUWIH_clean_pd.txt    9.28386 6.55138  8.73065

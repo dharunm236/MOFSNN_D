@@ -1,0 +1,3 @@
+@ feature_folders/CISXEJ_clean/zeo++/CISXEJ_clean_pov.txt Unitcell_volume: 9753.63   Density: 0.998279   POAV_A^3: 1951.7 POAV_Volume_fraction: 0.2001 POAV_cm^3/g: 0.200445 PONAV_A^3: 137.526 PONAV_Volume_fraction: 0.0141 PONAV_cm^3/g: 0.0141243
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/CISXEJ_clean/zeo++/CISXEJ_clean_pov.txt	0.998279	1.86	10000	0.0487	0.0004	0.2001	0.0141	0.3218	0.464

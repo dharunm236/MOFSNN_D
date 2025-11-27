@@ -1,0 +1,8 @@
+EHUCOA_clean_primitive, Anchors list: {9}, SBU connectlist: {7}
+EHUCOA_clean_primitive, Anchors list: {8}, SBU connectlist: {6}
+EHUCOA_clean_primitive, Anchors list: {7}, SBU connectlist: {9}
+EHUCOA_clean_primitive, Anchors list: {6}, SBU connectlist: {8}
+EHUCOA_clean_primitive, Anchors list: {9}, SBU connectlist: {7}
+EHUCOA_clean_primitive, Anchors list: {8}, SBU connectlist: {6}
+EHUCOA_clean_primitive, Anchors list: {7}, SBU connectlist: {9}
+EHUCOA_clean_primitive, Anchors list: {6}, SBU connectlist: {8}

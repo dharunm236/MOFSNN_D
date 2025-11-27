@@ -1,0 +1,3 @@
+@ feature_folders/KAKBUW_clean/zeo++/KAKBUW_clean_pov.txt Unitcell_volume: 9049.17   Density: 0.947498   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 2924.69 PONAV_Volume_fraction: 0.3232 PONAV_cm^3/g: 0.341109
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/KAKBUW_clean/zeo++/KAKBUW_clean_pov.txt	0.947498	1.86	10000	0	0.1085	0	0.3232	0.2478	0.429

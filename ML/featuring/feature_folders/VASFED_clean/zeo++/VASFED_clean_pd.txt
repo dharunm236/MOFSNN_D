@@ -1,0 +1,1 @@
+feature_folders/VASFED_clean/zeo++/VASFED_clean_pd.txt    5.86586 4.56127  5.86586

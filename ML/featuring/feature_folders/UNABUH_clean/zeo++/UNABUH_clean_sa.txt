@@ -1,0 +1,3 @@
+@ feature_folders/UNABUH_clean/zeo++/UNABUH_clean_sa.txt Unitcell_volume: 1491.33   Density: 1.54893   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 7.20352 NASA_m^2/cm^3: 48.3027 NASA_m^2/g: 31.1846
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 1.8569  1.84973  1.67425  1.82264  

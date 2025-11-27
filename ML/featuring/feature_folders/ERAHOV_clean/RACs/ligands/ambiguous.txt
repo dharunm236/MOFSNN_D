@@ -1,0 +1,5 @@
+ERAHOV_clean_primitive, Anchors list: {1}, SBU connectlist: {1} set to be ligand
+ERAHOV_clean_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+ERAHOV_clean_primitive, Anchors list: {1}, SBU connectlist: {1} set to be linker
+ERAHOV_clean_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+Structure ERAHOV_clean_primitive has extremely short ligands, check the outputs

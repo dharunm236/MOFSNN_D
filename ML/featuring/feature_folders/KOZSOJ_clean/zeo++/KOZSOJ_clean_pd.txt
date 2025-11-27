@@ -1,0 +1,1 @@
+feature_folders/KOZSOJ_clean/zeo++/KOZSOJ_clean_pd.txt    5.58135 3.74628  5.58135
