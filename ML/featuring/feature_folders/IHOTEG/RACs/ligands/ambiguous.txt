@@ -1,0 +1,16 @@
+IHOTEG, Anchors list: {353, 425, 374}, SBU connectlist: {10} set to be ligand
+IHOTEG, Anchors list: {352, 424, 375}, SBU connectlist: {11} set to be linker
+IHOTEG, Anchors list: {352, 457, 406}, SBU connectlist: {11} set to be linker
+IHOTEG, Anchors list: {456, 353, 407}, SBU connectlist: {10} set to be ligand
+IHOTEG, Anchors list: {428, 325, 374}, SBU connectlist: {10} set to be ligand
+IHOTEG, Anchors list: {324, 429, 375}, SBU connectlist: {11} set to be linker
+IHOTEG, Anchors list: {428, 356, 407}, SBU connectlist: {10} set to be ligand
+IHOTEG, Anchors list: {357, 406, 429}, SBU connectlist: {11} set to be linker
+IHOTEG, Anchors list: {114, 93, 165}, SBU connectlist: {5} set to be linker
+IHOTEG, Anchors list: {115, 164, 92}, SBU connectlist: {4} set to be linker
+IHOTEG, Anchors list: {146, 92, 197}, SBU connectlist: {4} set to be linker
+IHOTEG, Anchors list: {147, 196, 93}, SBU connectlist: {5} set to be linker
+IHOTEG, Anchors list: {168, 65, 114}, SBU connectlist: {5} set to be linker
+IHOTEG, Anchors list: {64, 169, 115}, SBU connectlist: {4} set to be linker
+IHOTEG, Anchors list: {96, 147, 168}, SBU connectlist: {5} set to be linker
+IHOTEG, Anchors list: {97, 146, 169}, SBU connectlist: {4} set to be linker

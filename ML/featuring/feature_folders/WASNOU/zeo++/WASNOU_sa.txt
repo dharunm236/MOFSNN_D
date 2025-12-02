@@ -1,0 +1,3 @@
+@ feature_folders/WASNOU/zeo++/WASNOU_sa.txt Unitcell_volume: 2432   Density: 1.16461   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 68.5492 NASA_m^2/cm^3: 281.863 NASA_m^2/g: 242.024
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 5 Pocket_surface_area_A^2: 0.450824  21.1052  0.500734  23.8942  22.5983  

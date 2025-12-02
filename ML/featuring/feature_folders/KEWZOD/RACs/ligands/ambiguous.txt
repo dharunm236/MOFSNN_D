@@ -1,0 +1,4 @@
+KEWZOD, Anchors list: {105}, SBU connectlist: {0} set to be linker
+KEWZOD, Anchors list: {76}, SBU connectlist: {2} set to be linker
+KEWZOD, Anchors list: {71}, SBU connectlist: {3} set to be linker
+KEWZOD, Anchors list: {42}, SBU connectlist: {1} set to be linker

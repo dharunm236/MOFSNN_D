@@ -1,0 +1,4 @@
+CIKCEG, Anchors list: {71}, SBU connectlist: {1} set to be linker
+CIKCEG, Anchors list: {14}, SBU connectlist: {0} set to be linker
+CIKCEG, Anchors list: {71}, SBU connectlist: {1} set to be linker
+CIKCEG, Anchors list: {14}, SBU connectlist: {0} set to be linker

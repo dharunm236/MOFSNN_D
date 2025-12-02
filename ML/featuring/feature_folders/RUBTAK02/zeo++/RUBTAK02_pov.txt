@@ -1,0 +1,3 @@
+@ feature_folders/RUBTAK02/zeo++/RUBTAK02_pov.txt Unitcell_volume: 2231.28   Density: 1.23541   POAV_A^3: 972.836 POAV_Volume_fraction: 0.436 POAV_cm^3/g: 0.352918 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/RUBTAK02/zeo++/RUBTAK02_pov.txt	1.23541	1.86	10000	0.0744	0	0.436	0	0.156	0.408

@@ -1,0 +1,6 @@
+mil-125-nh2, Anchors list: {88, 48, 47, 87}, SBU connectlist: {0} set to be linker
+mil-125-nh2, Anchors list: {104, 48, 30, 87}, SBU connectlist: {0} set to be linker
+mil-125-nh2, Anchors list: {88, 105, 47, 31}, SBU connectlist: {0} set to be linker
+mil-125-nh2, Anchors list: {104, 105, 30, 31}, SBU connectlist: {0} set to be linker
+mil-125-nh2, Anchors list: {88, 105, 47, 31}, SBU connectlist: {0} set to be linker
+mil-125-nh2, Anchors list: {104, 48, 30, 87}, SBU connectlist: {0} set to be linker

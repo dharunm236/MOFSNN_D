@@ -1,0 +1,5 @@
+RARYUF, Anchors list: {186}, SBU connectlist: {13} set to be ligand
+RARYUF, Anchors list: {299}, SBU connectlist: {4} set to be linker
+RARYUF, Anchors list: {137}, SBU connectlist: {1} set to be linker
+RARYUF, Anchors list: {24}, SBU connectlist: {11} set to be linker
+Structure RARYUF has extremely short ligands, check the outputs

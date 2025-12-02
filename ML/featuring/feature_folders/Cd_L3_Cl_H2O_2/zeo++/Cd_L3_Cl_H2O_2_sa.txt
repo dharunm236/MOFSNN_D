@@ -1,0 +1,3 @@
+@ feature_folders/Cd_L3_Cl_H2O_2/zeo++/Cd_L3_Cl_H2O_2_sa.txt Unitcell_volume: 712.463   Density: 1.66454   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

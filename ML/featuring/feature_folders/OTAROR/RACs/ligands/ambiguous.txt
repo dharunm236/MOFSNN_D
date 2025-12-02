@@ -1,0 +1,2 @@
+OTAROR, Anchors list: {279}, SBU connectlist: {3} set to be linker
+OTAROR, Anchors list: {32}, SBU connectlist: {0} set to be linker

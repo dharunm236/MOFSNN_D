@@ -1,0 +1,6 @@
+TAVQAJ, Anchors list: {144}, SBU connectlist: {3}
+TAVQAJ, Anchors list: {116}, SBU connectlist: {13}
+TAVQAJ, Anchors list: {56}, SBU connectlist: {15}
+TAVQAJ, Anchors list: {116}, SBU connectlist: {13}
+TAVQAJ, Anchors list: {144}, SBU connectlist: {3}
+TAVQAJ, Anchors list: {83}, SBU connectlist: {11}

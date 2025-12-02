@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/IRMOF-1-40'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/IRMOF-1-40'
 _cell_length_a 25.86584
 _cell_length_b 25.86584
 _cell_length_c 25.86584
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label

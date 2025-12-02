@@ -1,0 +1,2 @@
+HIFGUA, Anchors list: {95}, SBU connectlist: {1}
+HIFGUA, Anchors list: {12}, SBU connectlist: {0}

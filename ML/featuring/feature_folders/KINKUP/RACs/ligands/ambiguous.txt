@@ -1,0 +1,3 @@
+KINKUP, Anchors list: {107}, SBU connectlist: {1} set to be linker
+KINKUP, Anchors list: {100}, SBU connectlist: {2} set to be linker
+KINKUP, Anchors list: {116}, SBU connectlist: {0} set to be linker

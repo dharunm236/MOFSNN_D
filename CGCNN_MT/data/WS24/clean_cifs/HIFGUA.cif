@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/HIFGUA'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/HIFGUA'
 _cell_length_a 10.54700
 _cell_length_b 11.23504
 _cell_length_c 14.59900
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -95,7 +95,7 @@ C        0.646   0.3776   0.6543     C
 C       0.6473   0.2614   0.8057     C
 C       0.6495      0.0   0.2103     C
 H       0.6568      0.0   0.7722     H
-N       0.6742      1.0   0.1153     N
+N       0.6742      0.0   0.1153     N
 H       0.7177      0.0   0.2411     H
 H       0.7238   0.6338   0.3835     H
 H        0.737   0.7584   0.4105     H

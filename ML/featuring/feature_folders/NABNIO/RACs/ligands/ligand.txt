@@ -1,0 +1,4 @@
+NABNIO, Anchors list: {28}, SBU connectlist: {2}
+NABNIO, Anchors list: {283}, SBU connectlist: {1}
+NABNIO, Anchors list: {184}, SBU connectlist: {0}
+NABNIO, Anchors list: {127}, SBU connectlist: {3}

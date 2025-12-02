@@ -1,0 +1,3 @@
+@ feature_folders/FIVYOZ/zeo++/FIVYOZ_sa.txt Unitcell_volume: 1498.95   Density: 1.47072   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 22.6992 NASA_m^2/cm^3: 151.434 NASA_m^2/g: 102.966
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 5.47882  5.60315  5.62362  5.99357  

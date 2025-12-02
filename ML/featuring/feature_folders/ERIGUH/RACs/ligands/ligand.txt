@@ -1,0 +1,4 @@
+ERIGUH, Anchors list: {109}, SBU connectlist: {3}
+ERIGUH, Anchors list: {20}, SBU connectlist: {2}
+ERIGUH, Anchors list: {66}, SBU connectlist: {0}
+ERIGUH, Anchors list: {155}, SBU connectlist: {1}

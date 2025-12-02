@@ -1,0 +1,8 @@
+WAZPOE, Anchors list: {42}, SBU connectlist: {3}
+WAZPOE, Anchors list: {33, 44, 45}, SBU connectlist: {0, 4, 5}
+WAZPOE, Anchors list: {33}, SBU connectlist: {0}
+WAZPOE, Anchors list: {42, 30, 31}, SBU connectlist: {3, 6, 7}
+WAZPOE, Anchors list: {33}, SBU connectlist: {0}
+WAZPOE, Anchors list: {42}, SBU connectlist: {3}
+WAZPOE, Anchors list: {33, 6}, SBU connectlist: {0, 2}
+WAZPOE, Anchors list: {42, 69}, SBU connectlist: {1, 3}

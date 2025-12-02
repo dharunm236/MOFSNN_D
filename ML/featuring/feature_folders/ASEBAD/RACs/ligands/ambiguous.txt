@@ -1,0 +1,2 @@
+ASEBAD, Anchors list: {61}, SBU connectlist: {1} set to be ligand
+ASEBAD, Anchors list: {60}, SBU connectlist: {0} set to be ligand

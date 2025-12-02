@@ -1,0 +1,4 @@
+YAHPON, Anchors list: {301}, SBU connectlist: {7}
+YAHPON, Anchors list: {102}, SBU connectlist: {2}
+YAHPON, Anchors list: {391}, SBU connectlist: {3}
+YAHPON, Anchors list: {12}, SBU connectlist: {6}

@@ -1,0 +1,6 @@
+PETWOC, Anchors list: {93, 28, 29, 92}, SBU connectlist: {0} set to be linker
+PETWOC, Anchors list: {27, 28, 93, 94}, SBU connectlist: {0} set to be linker
+PETWOC, Anchors list: {27, 92, 29, 94}, SBU connectlist: {0} set to be linker
+PETWOC, Anchors list: {27, 28, 93, 94}, SBU connectlist: {0} set to be linker
+PETWOC, Anchors list: {27, 92, 29, 94}, SBU connectlist: {0} set to be linker
+PETWOC, Anchors list: {28, 29, 92, 93}, SBU connectlist: {0} set to be linker

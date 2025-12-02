@@ -1,0 +1,5 @@
+ELOZUC, Anchors list: {422}, SBU connectlist: {21} set to be ligand
+ELOZUC, Anchors list: {216}, SBU connectlist: {39} set to be ligand
+ELOZUC, Anchors list: {209}, SBU connectlist: {35} set to be ligand
+ELOZUC, Anchors list: {3}, SBU connectlist: {1} set to be ligand
+Structure ELOZUC has extremely short ligands, check the outputs

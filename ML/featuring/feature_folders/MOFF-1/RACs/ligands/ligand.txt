@@ -1,0 +1,8 @@
+MOFF-1, Anchors list: {209, 243}, SBU connectlist: {12, 15}
+MOFF-1, Anchors list: {208, 242}, SBU connectlist: {10, 14}
+MOFF-1, Anchors list: {163, 197}, SBU connectlist: {5, 7}
+MOFF-1, Anchors list: {162, 196}, SBU connectlist: {4, 6}
+MOFF-1, Anchors list: {113, 79}, SBU connectlist: {9, 13}
+MOFF-1, Anchors list: {112, 78}, SBU connectlist: {8, 11}
+MOFF-1, Anchors list: {33, 67}, SBU connectlist: {1, 3}
+MOFF-1, Anchors list: {32, 66}, SBU connectlist: {0, 2}

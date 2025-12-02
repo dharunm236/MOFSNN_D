@@ -1,0 +1,1 @@
+Bio-MOF-14, (min_max_linker_length,max_min_linker_length): 2 , 2

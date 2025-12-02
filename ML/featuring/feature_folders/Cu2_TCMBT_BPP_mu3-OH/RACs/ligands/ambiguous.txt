@@ -1,0 +1,4 @@
+Cu2_TCMBT_BPP_mu3-OH, Anchors list: {9, 114, 133}, SBU connectlist: {0} set to be linker
+Cu2_TCMBT_BPP_mu3-OH, Anchors list: {10, 29, 134}, SBU connectlist: {0} set to be linker
+Cu2_TCMBT_BPP_mu3-OH, Anchors list: {10, 133, 134}, SBU connectlist: {0} set to be linker
+Cu2_TCMBT_BPP_mu3-OH, Anchors list: {9, 10, 133}, SBU connectlist: {0} set to be linker

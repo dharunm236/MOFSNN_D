@@ -1,0 +1,4 @@
+HUXHUF, Anchors list: {181}, SBU connectlist: {5} set to be linker
+HUXHUF, Anchors list: {180}, SBU connectlist: {0} set to be linker
+HUXHUF, Anchors list: {91}, SBU connectlist: {2} set to be linker
+HUXHUF, Anchors list: {90}, SBU connectlist: {4} set to be linker

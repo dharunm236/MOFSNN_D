@@ -1,0 +1,1 @@
+feature_folders/WUPVAG/zeo++/WUPVAG_pd.txt    19.19655 13.72976  19.18937

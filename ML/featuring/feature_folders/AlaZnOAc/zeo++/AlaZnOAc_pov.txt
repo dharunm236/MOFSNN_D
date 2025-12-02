@@ -1,0 +1,3 @@
+@ feature_folders/AlaZnOAc/zeo++/AlaZnOAc_pov.txt Unitcell_volume: 2716.49   Density: 1.10993   POAV_A^3: 691.619 POAV_Volume_fraction: 0.2546 POAV_cm^3/g: 0.229383 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/AlaZnOAc/zeo++/AlaZnOAc_pov.txt	1.10993	1.86	10000	0.0766	0	0.2546	0	0.3	0.4454

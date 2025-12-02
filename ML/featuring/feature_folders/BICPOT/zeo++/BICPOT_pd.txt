@@ -1,0 +1,1 @@
+feature_folders/BICPOT/zeo++/BICPOT_pd.txt    7.30922 6.53578  7.30655

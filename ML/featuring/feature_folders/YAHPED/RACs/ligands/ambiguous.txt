@@ -1,0 +1,4 @@
+YAHPED, Anchors list: {19}, SBU connectlist: {3} set to be ligand
+YAHPED, Anchors list: {18}, SBU connectlist: {2} set to be ligand
+YAHPED, Anchors list: {145}, SBU connectlist: {1} set to be ligand
+YAHPED, Anchors list: {144}, SBU connectlist: {0} set to be linker

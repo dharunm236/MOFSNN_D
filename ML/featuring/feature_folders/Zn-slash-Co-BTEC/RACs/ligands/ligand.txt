@@ -1,0 +1,16 @@
+Zn-slash-Co-BTEC, Anchors list: {228}, SBU connectlist: {3}
+Zn-slash-Co-BTEC, Anchors list: {299}, SBU connectlist: {8}
+Zn-slash-Co-BTEC, Anchors list: {118}, SBU connectlist: {14}
+Zn-slash-Co-BTEC, Anchors list: {228}, SBU connectlist: {3}
+Zn-slash-Co-BTEC, Anchors list: {232}, SBU connectlist: {6}
+Zn-slash-Co-BTEC, Anchors list: {294}, SBU connectlist: {4}
+Zn-slash-Co-BTEC, Anchors list: {123}, SBU connectlist: {13}
+Zn-slash-Co-BTEC, Anchors list: {232}, SBU connectlist: {6}
+Zn-slash-Co-BTEC, Anchors list: {123}, SBU connectlist: {13}
+Zn-slash-Co-BTEC, Anchors list: {56}, SBU connectlist: {12}
+Zn-slash-Co-BTEC, Anchors list: {118}, SBU connectlist: {14}
+Zn-slash-Co-BTEC, Anchors list: {299}, SBU connectlist: {8}
+Zn-slash-Co-BTEC, Anchors list: {56}, SBU connectlist: {12}
+Zn-slash-Co-BTEC, Anchors list: {52}, SBU connectlist: {10}
+Zn-slash-Co-BTEC, Anchors list: {294}, SBU connectlist: {4}
+Zn-slash-Co-BTEC, Anchors list: {52}, SBU connectlist: {10}

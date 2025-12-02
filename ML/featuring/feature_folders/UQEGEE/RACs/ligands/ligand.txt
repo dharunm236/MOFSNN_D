@@ -1,0 +1,26 @@
+UQEGEE71, Anchors list: {928, 931, 940, 684, 941, 685, 656, 657, 401, 400, 408, 411}, SBU connectlist: {0}
+UQEGEE70, Anchors list: {36, 39, 46, 1582, 47, 1583, 1554, 1555, 1299, 1298, 1308, 1311}, SBU connectlist: {3}
+UQEGEE69, Anchors list: {932, 935, 942, 686, 943, 687, 658, 659, 403, 402, 412, 415}, SBU connectlist: {1}
+UQEGEE68, Anchors list: {306, 675, 1039}, SBU connectlist: {1}
+UQEGEE67, Anchors list: {673, 307, 1038}, SBU connectlist: {1}
+UQEGEE66, Anchors list: {304, 1037, 671}, SBU connectlist: {0}
+UQEGEE64, Anchors list: {305, 1036, 669}, SBU connectlist: {0}
+UQEGEE61, Anchors list: {32, 35, 44, 1580, 45, 1581, 1552, 1296, 1297, 1553, 1304, 1307}, SBU connectlist: {2}
+UQEGEE58, Anchors list: {1202, 1573, 143}, SBU connectlist: {3}
+UQEGEE57, Anchors list: {1571, 1203, 142}, SBU connectlist: {3}
+UQEGEE56, Anchors list: {1200, 1565, 141}, SBU connectlist: {2}
+UQEGEE55, Anchors list: {1201, 1563, 140}, SBU connectlist: {2}
+UQEGEE53, Anchors list: {1650, 591}, SBU connectlist: {9}
+UQEGEE52, Anchors list: {1651, 590}, SBU connectlist: {9}
+UQEGEE51, Anchors list: {1648, 589}, SBU connectlist: {8}
+UQEGEE50, Anchors list: {1649, 588}, SBU connectlist: {8}
+UQEGEE45, Anchors list: {1380, 1383, 1390, 1134, 1391, 1135, 1106, 851, 1107, 850, 860, 863}, SBU connectlist: {5}
+UQEGEE44, Anchors list: {1376, 1379, 1388, 1132, 1389, 1133, 1104, 1105, 848, 849, 856, 859}, SBU connectlist: {4}
+UQEGEE43, Anchors list: {1122, 755, 1486}, SBU connectlist: {5}
+UQEGEE42, Anchors list: {1120, 754, 1487}, SBU connectlist: {5}
+UQEGEE41, Anchors list: {753, 1484, 1118}, SBU connectlist: {4}
+UQEGEE40, Anchors list: {752, 1116, 1485}, SBU connectlist: {4}
+UQEGEE37, Anchors list: {1202, 143}, SBU connectlist: {3}
+UQEGEE36, Anchors list: {1203, 142}, SBU connectlist: {3}
+UQEGEE35, Anchors list: {1200, 141}, SBU connectlist: {2}
+UQEGEE34, Anchors list: {1201, 140}, SBU connectlist: {2}

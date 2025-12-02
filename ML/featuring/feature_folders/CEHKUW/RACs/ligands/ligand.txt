@@ -1,0 +1,8 @@
+CEHKUW, Anchors list: {268}, SBU connectlist: {6}
+CEHKUW, Anchors list: {269}, SBU connectlist: {7}
+CEHKUW, Anchors list: {66}, SBU connectlist: {0}
+CEHKUW, Anchors list: {67}, SBU connectlist: {1}
+CEHKUW, Anchors list: {100}, SBU connectlist: {9}
+CEHKUW, Anchors list: {99}, SBU connectlist: {8}
+CEHKUW, Anchors list: {236}, SBU connectlist: {11}
+CEHKUW, Anchors list: {235}, SBU connectlist: {10}

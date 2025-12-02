@@ -1,0 +1,16 @@
+CAWZUX, Anchors list: {314, 279}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {232, 491}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {276, 197}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {314, 235}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {232, 197}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {58}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {314}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {197}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {453}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {488, 453}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {488, 235}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {20, 279}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {58, 23}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {276, 23}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {20, 453}, SBU connectlist: {0} set to be linker
+CAWZUX, Anchors list: {58, 491}, SBU connectlist: {0} set to be linker

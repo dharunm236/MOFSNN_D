@@ -1,0 +1,4 @@
+SIFVAG, Anchors list: {90, 70}, SBU connectlist: {5, 6}
+SIFVAG, Anchors list: {226, 244}, SBU connectlist: {8, 4}
+SIFVAG, Anchors list: {225, 245}, SBU connectlist: {9, 2}
+SIFVAG, Anchors list: {89, 71}, SBU connectlist: {3, 7}

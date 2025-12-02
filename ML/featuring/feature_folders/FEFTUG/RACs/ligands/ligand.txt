@@ -1,0 +1,2 @@
+FEFTUG, Anchors list: {50}, SBU connectlist: {1}
+FEFTUG, Anchors list: {49}, SBU connectlist: {0}

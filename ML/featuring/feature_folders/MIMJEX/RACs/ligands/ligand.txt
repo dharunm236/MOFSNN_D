@@ -1,0 +1,4 @@
+MIMJEX, Anchors list: {142}, SBU connectlist: {3}
+MIMJEX, Anchors list: {185}, SBU connectlist: {4}
+MIMJEX, Anchors list: {21}, SBU connectlist: {7}
+MIMJEX, Anchors list: {306}, SBU connectlist: {5}

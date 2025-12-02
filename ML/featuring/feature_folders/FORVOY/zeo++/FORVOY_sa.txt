@@ -1,0 +1,3 @@
+@ feature_folders/FORVOY/zeo++/FORVOY_sa.txt Unitcell_volume: 3490.57   Density: 1.27193   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 163.122 NASA_m^2/cm^3: 467.322 NASA_m^2/g: 367.413
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 40.72  41.0798  40.7766  40.5456  

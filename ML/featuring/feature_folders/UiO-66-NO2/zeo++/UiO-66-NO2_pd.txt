@@ -1,0 +1,1 @@
+feature_folders/UiO-66-NO2/zeo++/UiO-66-NO2_pd.txt    7.58487 3.81091  7.56760

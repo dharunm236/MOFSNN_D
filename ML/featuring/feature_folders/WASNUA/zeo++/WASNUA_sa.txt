@@ -1,0 +1,3 @@
+@ feature_folders/WASNUA/zeo++/WASNUA_sa.txt Unitcell_volume: 2997.38   Density: 1.37604   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 5.01123 NASA_m^2/cm^3: 16.7187 NASA_m^2/g: 12.1499
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 1.29125  1.22973  1.14909  1.34116  

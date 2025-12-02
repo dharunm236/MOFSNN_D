@@ -1,0 +1,4 @@
+ELOZUC32, Anchors list: {422}, SBU connectlist: {21}
+ELOZUC25, Anchors list: {216}, SBU connectlist: {39}
+ELOZUC22, Anchors list: {209}, SBU connectlist: {35}
+ELOZUC8, Anchors list: {3}, SBU connectlist: {1}

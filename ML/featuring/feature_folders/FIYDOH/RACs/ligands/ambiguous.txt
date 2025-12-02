@@ -1,0 +1,6 @@
+FIYDOH, Anchors list: {75}, SBU connectlist: {0} set to be linker
+FIYDOH, Anchors list: {0, 73}, SBU connectlist: {0} set to be linker
+FIYDOH, Anchors list: {74, 75}, SBU connectlist: {0} set to be linker
+FIYDOH, Anchors list: {74, 75}, SBU connectlist: {0} set to be linker
+FIYDOH, Anchors list: {0, 73}, SBU connectlist: {0} set to be linker
+FIYDOH, Anchors list: {0}, SBU connectlist: {0} set to be linker

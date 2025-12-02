@@ -1,0 +1,2 @@
+HOMRAD, Anchors list: {193, 66, 166, 137, 169, 145, 113, 116, 216, 89, 92, 190}, SBU connectlist: {2} set to be linker
+HOMRAD, Anchors list: {257, 4, 230, 233, 75, 207, 49, 52, 278, 25, 28, 254}, SBU connectlist: {0} set to be linker

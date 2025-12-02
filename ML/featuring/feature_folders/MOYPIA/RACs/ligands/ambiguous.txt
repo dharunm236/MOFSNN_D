@@ -1,0 +1,2 @@
+MOYPIA, Anchors list: {89}, SBU connectlist: {0} set to be ligand
+MOYPIA, Anchors list: {127}, SBU connectlist: {1} set to be ligand

@@ -1,0 +1,4 @@
+UNABIV, Anchors list: {103}, SBU connectlist: {2}
+UNABIV, Anchors list: {100}, SBU connectlist: {0}
+UNABIV, Anchors list: {181}, SBU connectlist: {1}
+UNABIV, Anchors list: {22}, SBU connectlist: {3}

@@ -1,0 +1,4 @@
+mil-125-ti, Anchors list: {105, 106, 133, 134}, SBU connectlist: {1} set to be linker
+mil-125-ti, Anchors list: {48, 49, 190, 191}, SBU connectlist: {0} set to be linker
+mil-125-ti, Anchors list: {74, 75, 164, 165}, SBU connectlist: {1} set to be linker
+mil-125-ti, Anchors list: {17, 18, 221, 222}, SBU connectlist: {0} set to be linker

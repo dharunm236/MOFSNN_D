@@ -1,0 +1,4 @@
+TEWFUY, Anchors list: {122}, SBU connectlist: {2} set to be linker
+TEWFUY, Anchors list: {123}, SBU connectlist: {3} set to be linker
+TEWFUY, Anchors list: {0}, SBU connectlist: {0} set to be linker
+TEWFUY, Anchors list: {1}, SBU connectlist: {1} set to be linker

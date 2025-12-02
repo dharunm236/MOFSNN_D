@@ -1,0 +1,6 @@
+NU-1000-SALI-916, Anchors list: {459}, SBU connectlist: {2}
+NU-1000-SALI-915, Anchors list: {460}, SBU connectlist: {2}
+NU-1000-SALI-98, Anchors list: {310}, SBU connectlist: {2}
+NU-1000-SALI-96, Anchors list: {308}, SBU connectlist: {2}
+NU-1000-SALI-93, Anchors list: {778}, SBU connectlist: {0}
+NU-1000-SALI-90, Anchors list: {772}, SBU connectlist: {0}

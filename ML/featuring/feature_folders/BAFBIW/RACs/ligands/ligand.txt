@@ -1,0 +1,2 @@
+BAFBIW, Anchors list: {207}, SBU connectlist: {0}
+BAFBIW, Anchors list: {60}, SBU connectlist: {1}

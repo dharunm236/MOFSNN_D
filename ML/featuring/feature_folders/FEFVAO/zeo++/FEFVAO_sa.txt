@@ -1,0 +1,3 @@
+@ feature_folders/FEFVAO/zeo++/FEFVAO_sa.txt Unitcell_volume: 2090.16   Density: 1.18445   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 44.6413 NASA_m^2/cm^3: 213.579 NASA_m^2/g: 180.319
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 6 Pocket_surface_area_A^2: 1.41806  20.3234  1.03721  1.48367  19.133  1.24595  

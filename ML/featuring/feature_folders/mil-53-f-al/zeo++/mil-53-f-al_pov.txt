@@ -1,0 +1,3 @@
+@ feature_folders/mil-53-f-al/zeo++/mil-53-f-al_pov.txt Unitcell_volume: 1356.74   Density: 1.10195   POAV_A^3: 544.869 POAV_Volume_fraction: 0.4016 POAV_cm^3/g: 0.364445 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/mil-53-f-al/zeo++/mil-53-f-al_pov.txt	1.10195	1.86	10000	0.0794	0	0.4016	0	0.1671	0.4313

@@ -1,0 +1,4 @@
+PURNIB, Anchors list: {160, 224, 227, 233, 250, 139, 273, 179, 185, 186, 253, 159}, SBU connectlist: {1} set to be linker
+PURNIB, Anchors list: {161, 225, 226, 232, 138, 251, 272, 178, 184, 187, 252, 158}, SBU connectlist: {1} set to be linker
+PURNIB, Anchors list: {389, 390, 69, 363, 364, 46, 49, 20, 23, 29, 343, 383}, SBU connectlist: {0} set to be linker
+PURNIB, Anchors list: {388, 68, 391, 362, 365, 47, 48, 21, 22, 342, 28, 382}, SBU connectlist: {0} set to be linker

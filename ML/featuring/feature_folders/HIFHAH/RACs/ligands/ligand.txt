@@ -1,0 +1,8 @@
+HIFHAH, Anchors list: {335}, SBU connectlist: {3}
+HIFHAH, Anchors list: {334}, SBU connectlist: {2}
+HIFHAH, Anchors list: {289}, SBU connectlist: {1}
+HIFHAH, Anchors list: {288}, SBU connectlist: {0}
+HIFHAH, Anchors list: {81}, SBU connectlist: {5}
+HIFHAH, Anchors list: {80}, SBU connectlist: {4}
+HIFHAH, Anchors list: {127}, SBU connectlist: {7}
+HIFHAH, Anchors list: {126}, SBU connectlist: {6}

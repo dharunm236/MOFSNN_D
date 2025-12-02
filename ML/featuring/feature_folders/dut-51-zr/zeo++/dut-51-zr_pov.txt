@@ -1,0 +1,3 @@
+@ feature_folders/dut-51-zr/zeo++/dut-51-zr_pov.txt Unitcell_volume: 124735   Density: 0.617471   POAV_A^3: 84707.3 POAV_Volume_fraction: 0.6791 POAV_cm^3/g: 1.09981 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/dut-51-zr/zeo++/dut-51-zr_pov.txt	0.617471	1.86	10000	0.4565	0	0.6791	0	0.1292	0.1917

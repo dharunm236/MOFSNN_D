@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/EJIQIZ'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/EJIQIZ'
 _cell_length_a 13.05000
 _cell_length_b 13.05000
 _cell_length_c 16.29920
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -73,7 +73,7 @@ C       0.3035    0.412   0.2076     C
 H       0.3166   0.2138   0.3926     H
 C       0.3182   0.4103   0.2939     C
 H       0.3212   0.9311   0.3502     H
-O      0.33333  0.66667   0.8196     O
+O     0.33333333 0.66666667   0.8196     O
 C        0.345   0.1921   0.5105     C
 H       0.3559   0.9528   0.2126     H
 C       0.3573   0.4922   0.4718     C
@@ -158,7 +158,7 @@ C       0.6388   0.8055   0.5729     C
 C       0.6427   0.5078   0.5282     C
 H       0.6441   0.0472   0.7874     H
 C        0.655   0.8079   0.4895     C
-O      0.66667  0.33333   0.1804     O
+O     0.66666667 0.33333333   0.1804     O
 H       0.6788   0.0689   0.6498     H
 C       0.6818   0.5897   0.7061     C
 H       0.6834   0.7862   0.6074     H

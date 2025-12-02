@@ -1,0 +1,4 @@
+PURNEX, Anchors list: {96, 194, 102, 136, 105, 143, 177, 115, 149, 154, 187, 188}, SBU connectlist: {1} set to be linker
+PURNEX, Anchors list: {97, 195, 103, 104, 137, 142, 176, 114, 148, 186, 155, 189}, SBU connectlist: {1} set to be linker
+PURNEX, Anchors list: {33, 259, 5, 10, 43, 44, 240, 50, 246, 280, 249, 287}, SBU connectlist: {0} set to be linker
+PURNEX, Anchors list: {32, 258, 4, 42, 11, 45, 241, 51, 247, 248, 281, 286}, SBU connectlist: {0} set to be linker

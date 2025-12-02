@@ -1,0 +1,3 @@
+@ feature_folders/Zn2_2-6-NDC_2_2-2-dimethyl-BPY/zeo++/Zn2_2-6-NDC_2_2-2-dimethyl-BPY_pov.txt Unitcell_volume: 4314.31   Density: 1.14447   POAV_A^3: 1167.02 POAV_Volume_fraction: 0.2705 POAV_cm^3/g: 0.236353 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/Zn2_2-6-NDC_2_2-2-dimethyl-BPY/zeo++/Zn2_2-6-NDC_2_2-2-dimethyl-BPY_pov.txt	1.14447	1.86	10000	0.0285	0	0.2705	0	0.2607	0.4688

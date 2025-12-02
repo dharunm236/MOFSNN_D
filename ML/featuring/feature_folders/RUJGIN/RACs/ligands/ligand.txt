@@ -1,0 +1,4 @@
+RUJGIN, Anchors list: {44, 53, 60}, SBU connectlist: {3, 4, 5}
+RUJGIN, Anchors list: {36, 61, 60}, SBU connectlist: {0, 2, 4}
+RUJGIN, Anchors list: {61, 36, 37}, SBU connectlist: {0, 1, 2}
+RUJGIN, Anchors list: {53, 44, 37}, SBU connectlist: {1, 3, 5}

@@ -1,0 +1,2 @@
+QOXFAK02, Anchors list: {6}, SBU connectlist: {0} set to be linker
+QOXFAK02, Anchors list: {51}, SBU connectlist: {0} set to be linker

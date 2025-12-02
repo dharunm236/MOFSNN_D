@@ -1,0 +1,4 @@
+VOFSOA, Anchors list: {139, 100}, SBU connectlist: {1, 4}
+VOFSOA, Anchors list: {178, 139}, SBU connectlist: {3, 4}
+VOFSOA, Anchors list: {0, 239}, SBU connectlist: {0, 2}
+VOFSOA, Anchors list: {0, 39}, SBU connectlist: {0, 5}

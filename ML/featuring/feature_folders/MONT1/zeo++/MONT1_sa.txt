@@ -1,0 +1,3 @@
+@ feature_folders/MONT1/zeo++/MONT1_sa.txt Unitcell_volume: 17210.7   Density: 1.34558   ASA_A^2: 749.453 ASA_m^2/cm^3: 435.457 ASA_m^2/g: 323.62 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 4 Channel_surface_area_A^2: 184.02  188.221  188.347  188.865  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

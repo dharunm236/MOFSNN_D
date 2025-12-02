@@ -1,0 +1,3 @@
+WUHCUZ, Anchors list: {1002, 1003, 1006, 999}, SBU connectlist: {0} set to be linker
+WUHCUZ, Anchors list: {656, 1002, 1003, 1335}, SBU connectlist: {0} set to be linker
+WUHCUZ, Anchors list: {656, 1335, 1006, 999}, SBU connectlist: {0} set to be linker

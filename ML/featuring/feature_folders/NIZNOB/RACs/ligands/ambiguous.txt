@@ -1,0 +1,16 @@
+NIZNOB, Anchors list: {0, 363, 424}, SBU connectlist: {0} set to be linker
+NIZNOB, Anchors list: {352, 6, 423}, SBU connectlist: {6} set to be linker
+NIZNOB, Anchors list: {465, 283, 357}, SBU connectlist: {1} set to be linker
+NIZNOB, Anchors list: {280, 442, 360}, SBU connectlist: {5} set to be ligand
+NIZNOB, Anchors list: {319, 501, 423}, SBU connectlist: {6} set to be linker
+NIZNOB, Anchors list: {424, 488, 317}, SBU connectlist: {0} set to be linker
+NIZNOB, Anchors list: {257, 419, 357}, SBU connectlist: {1} set to be linker
+NIZNOB, Anchors list: {360, 420, 255}, SBU connectlist: {5} set to be ligand
+NIZNOB, Anchors list: {96, 258, 158}, SBU connectlist: {2} set to be linker
+NIZNOB, Anchors list: {155, 260, 95}, SBU connectlist: {4} set to be ligand
+NIZNOB, Anchors list: {91, 27, 198}, SBU connectlist: {3} set to be linker
+NIZNOB, Anchors list: {196, 14, 92}, SBU connectlist: {7} set to be ligand
+NIZNOB, Anchors list: {73, 155, 235}, SBU connectlist: {4} set to be ligand
+NIZNOB, Anchors list: {232, 50, 158}, SBU connectlist: {2} set to be linker
+NIZNOB, Anchors list: {163, 92, 509}, SBU connectlist: {7} set to be ligand
+NIZNOB, Anchors list: {152, 91, 515}, SBU connectlist: {3} set to be linker

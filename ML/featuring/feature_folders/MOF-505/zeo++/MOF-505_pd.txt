@@ -1,0 +1,1 @@
+feature_folders/MOF-505/zeo++/MOF-505_pd.txt    10.04119 3.56280  10.04119

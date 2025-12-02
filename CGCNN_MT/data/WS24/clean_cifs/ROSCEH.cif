@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/ROSCEH'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/ROSCEH'
 _cell_length_a 14.29900
 _cell_length_b 19.03100
 _cell_length_c 19.31940
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -115,8 +115,8 @@ H       0.3142   0.7204   0.2532     H
 H       0.3142   0.7796   0.7468     H
 C       0.3147  0.64236  0.98532     C
 C       0.3147  0.85764  0.01468     C
-H       0.3333   0.6515   0.8874     H
-H       0.3333   0.8485   0.1126     H
+H     0.33333333   0.6515   0.8874     H
+H     0.33333333   0.8485   0.1126     H
 Co     0.33339  0.17211   0.7662    Co
 Co     0.33339  0.32789   0.2338    Co
 C       0.3342  0.09987  0.01114     C
@@ -239,10 +239,10 @@ C       0.6547  0.17669  0.25152     C
 C       0.6547  0.32331  0.74848     C
 C       0.6658  0.59987  0.01114     C
 C       0.6658  0.90013  0.98886     C
-Co     0.66661  0.67211   0.7662    Co
-Co     0.66661  0.82789   0.2338    Co
-H       0.6667   0.1515   0.8874     H
-H       0.6667   0.3485   0.1126     H
+H     0.66666667   0.1515   0.8874     H
+H     0.66666667   0.3485   0.1126     H
+Co    0.66666667  0.67211   0.7662    Co
+Co    0.66666667  0.82789   0.2338    Co
 C       0.6853  0.14236  0.98532     C
 C       0.6853  0.35764  0.01468     C
 H       0.6858   0.2204   0.2532     H

@@ -1,0 +1,3 @@
+@ feature_folders/UQEGEE/zeo++/UQEGEE_sa.txt Unitcell_volume: 22531.4   Density: 2.10966   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 59.5917 NASA_m^2/cm^3: 26.4483 NASA_m^2/g: 12.5367
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 32 Pocket_surface_area_A^2: 1.8076  1.77967  1.76187  1.65553  1.88468  1.84277  1.98908  1.74307  1.73885  1.92354  1.52032  2.18239  1.97717  1.7654  2.25282  1.98054  2.03188  1.83184  2.0871  1.71447  1.87829  1.48473  1.89613  1.9766  2.1143  1.89494  1.97042  2.00458  1.56841  1.68551  1.81257  1.83463  

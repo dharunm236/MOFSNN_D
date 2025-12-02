@@ -1,0 +1,2 @@
+UGOFUT, Anchors list: {24}, SBU connectlist: {2} set to be ligand
+UGOFUT, Anchors list: {110}, SBU connectlist: {3} set to be linker

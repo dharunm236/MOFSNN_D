@@ -1,0 +1,3 @@
+@ feature_folders/CAU-10-OCH3/zeo++/CAU-10-OCH3_sa.txt Unitcell_volume: 4822.9   Density: 1.30628   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 159.177 NASA_m^2/cm^3: 330.044 NASA_m^2/g: 252.66
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 39.4875  40.5559  39.1368  39.9964  

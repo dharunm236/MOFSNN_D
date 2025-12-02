@@ -1,0 +1,1 @@
+feature_folders/MOF-841/zeo++/MOF-841_pd.txt    9.59365 3.89139  9.59365

@@ -1,0 +1,2 @@
+UQEGII, Anchors list: {192, 132, 133, 109, 110, 77, 178, 146, 214, 215, 247, 191}, SBU connectlist: {1} set to be linker
+UQEGII, Anchors list: {32, 33, 291, 292, 268, 269, 236, 305, 19, 55, 56, 88}, SBU connectlist: {0} set to be linker

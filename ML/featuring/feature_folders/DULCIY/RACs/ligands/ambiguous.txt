@@ -1,0 +1,2 @@
+DULCIY, Anchors list: {31}, SBU connectlist: {1} set to be linker
+DULCIY, Anchors list: {76}, SBU connectlist: {0} set to be linker

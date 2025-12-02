@@ -1,0 +1,4 @@
+RUWXOX, Anchors list: {42}, SBU connectlist: {0}
+RUWXOX, Anchors list: {42}, SBU connectlist: {0}
+RUWXOX, Anchors list: {71}, SBU connectlist: {1}
+RUWXOX, Anchors list: {71}, SBU connectlist: {1}

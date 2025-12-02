@@ -1,0 +1,4 @@
+HIFHIP, Anchors list: {80}, SBU connectlist: {0}
+HIFHIP, Anchors list: {136}, SBU connectlist: {3}
+HIFHIP, Anchors list: {210}, SBU connectlist: {2}
+HIFHIP, Anchors list: {6}, SBU connectlist: {1}

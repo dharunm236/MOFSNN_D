@@ -1,0 +1,3 @@
+@ feature_folders/QARCET/zeo++/QARCET_pov.txt Unitcell_volume: 3019.67   Density: 1.43101   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 533.577 PONAV_Volume_fraction: 0.1767 PONAV_cm^3/g: 0.123479
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/QARCET/zeo++/QARCET_pov.txt	1.43101	1.86	10000	0	0.0191	0	0.1767	0.267	0.5563

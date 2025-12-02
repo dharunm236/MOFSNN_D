@@ -1,0 +1,2 @@
+WAZPOE, Anchors list: {42}, SBU connectlist: {3} set to be linker
+WAZPOE, Anchors list: {33}, SBU connectlist: {0} set to be linker

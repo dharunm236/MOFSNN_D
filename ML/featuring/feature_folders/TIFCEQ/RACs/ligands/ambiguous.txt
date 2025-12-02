@@ -1,0 +1,3 @@
+TIFCEQ, Anchors list: {168, 165}, SBU connectlist: {13} set to be ligand
+TIFCEQ, Anchors list: {73, 76}, SBU connectlist: {7} set to be ligand
+Structure TIFCEQ has extremely short ligands, check the outputs

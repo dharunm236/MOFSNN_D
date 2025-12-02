@@ -1,0 +1,3 @@
+@ feature_folders/Ni2_C2O4_L16_2/zeo++/Ni2_C2O4_L16_2_pov.txt Unitcell_volume: 4499.61   Density: 1.11886   POAV_A^3: 1447.52 POAV_Volume_fraction: 0.3217 POAV_cm^3/g: 0.287524 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/Ni2_C2O4_L16_2/zeo++/Ni2_C2O4_L16_2_pov.txt	1.11886	1.86	10000	0.061	0	0.3217	0	0.2219	0.4564

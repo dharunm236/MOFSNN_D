@@ -1,0 +1,3 @@
+@ feature_folders/ZIF-90/zeo++/ZIF-90_sa.txt Unitcell_volume: 5152.21   Density: 0.972769   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 695.52 NASA_m^2/cm^3: 1349.95 NASA_m^2/g: 1387.74
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 347.292  348.228  

@@ -1,0 +1,4 @@
+YUQMUU, Anchors list: {56, 45}, SBU connectlist: {0, 3}
+YUQMUU, Anchors list: {49, 52}, SBU connectlist: {1, 2}
+YUQMUU, Anchors list: {56, 45}, SBU connectlist: {0, 3}
+YUQMUU, Anchors list: {49, 52}, SBU connectlist: {1, 2}

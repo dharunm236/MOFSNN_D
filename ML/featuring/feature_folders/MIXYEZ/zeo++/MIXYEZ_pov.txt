@@ -1,0 +1,3 @@
+@ feature_folders/MIXYEZ/zeo++/MIXYEZ_pov.txt Unitcell_volume: 1684.09   Density: 1.1181   POAV_A^3: 435.338 POAV_Volume_fraction: 0.2585 POAV_cm^3/g: 0.231196 PONAV_A^3: 41.0919 PONAV_Volume_fraction: 0.0244 PONAV_cm^3/g: 0.0218228
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/MIXYEZ/zeo++/MIXYEZ_pov.txt	1.1181	1.86	10000	0.0131	0.0002	0.2585	0.0244	0.2565	0.4606

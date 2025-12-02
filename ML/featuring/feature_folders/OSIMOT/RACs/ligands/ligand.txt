@@ -1,0 +1,8 @@
+OSIMOT, Anchors list: {344}, SBU connectlist: {12}
+OSIMOT, Anchors list: {310}, SBU connectlist: {33}
+OSIMOT, Anchors list: {81}, SBU connectlist: {7}
+OSIMOT, Anchors list: {310}, SBU connectlist: {33}
+OSIMOT, Anchors list: {344}, SBU connectlist: {12}
+OSIMOT, Anchors list: {81}, SBU connectlist: {7}
+OSIMOT, Anchors list: {47}, SBU connectlist: {27}
+OSIMOT, Anchors list: {47}, SBU connectlist: {27}

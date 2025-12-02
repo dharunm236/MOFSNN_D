@@ -1,0 +1,4 @@
+HEBJEF, Anchors list: {0, 2}, SBU connectlist: {0, 2}
+HEBJEF, Anchors list: {0, 180}, SBU connectlist: {0, 4}
+HEBJEF, Anchors list: {161, 91}, SBU connectlist: {1, 3}
+HEBJEF, Anchors list: {91, 21}, SBU connectlist: {3, 5}

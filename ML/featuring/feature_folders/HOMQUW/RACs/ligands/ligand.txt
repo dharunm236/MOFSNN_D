@@ -1,0 +1,2 @@
+HOMQUW17, Anchors list: {320, 449, 419, 391, 491, 332, 272, 467, 342, 472, 539, 350}, SBU connectlist: {0}
+HOMQUW16, Anchors list: {128, 98, 227, 197, 8, 75, 205, 80, 275, 215, 56, 156}, SBU connectlist: {3}

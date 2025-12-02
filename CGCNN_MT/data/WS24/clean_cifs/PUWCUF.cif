@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/PUWCUF'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/PUWCUF'
 _cell_length_a 15.74500
 _cell_length_b 16.90700
 _cell_length_c 18.16700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -89,9 +89,9 @@ C       0.2128   0.6764   0.6282     C
 C       0.2128   0.8236   0.1282     C
 H       0.2321   0.5678   0.5788     H
 H       0.2321   0.9322   0.0788     H
-H       0.2327   0.5629   0.6667     H
+H       0.2327   0.5629 0.66666667     H
 H       0.2327   0.9371   0.1667     H
-H       0.2673   0.0629   0.6667     H
+H       0.2673   0.0629 0.66666667     H
 H       0.2673   0.4371   0.1667     H
 H       0.2679   0.0678   0.5788     H
 H       0.2679   0.4322   0.0788     H
@@ -234,9 +234,9 @@ C       0.7128   0.8236   0.3718     C
 H       0.7321   0.5678   0.9212     H
 H       0.7321   0.9322   0.4212     H
 H       0.7327   0.5629   0.8333     H
-H       0.7327   0.9371   0.3333     H
+H       0.7327   0.9371 0.33333333     H
 H       0.7673   0.0629   0.8333     H
-H       0.7673   0.4371   0.3333     H
+H       0.7673   0.4371 0.33333333     H
 H       0.7679   0.0678   0.9212     H
 H       0.7679   0.4322   0.4212     H
 C       0.7872   0.1764   0.8718     C

@@ -1,0 +1,4 @@
+HUXHUF01, Anchors list: {214}, SBU connectlist: {4} set to be ligand
+HUXHUF01, Anchors list: {215}, SBU connectlist: {5} set to be ligand
+HUXHUF01, Anchors list: {73}, SBU connectlist: {2} set to be linker
+HUXHUF01, Anchors list: {72}, SBU connectlist: {1} set to be linker

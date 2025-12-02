@@ -1,0 +1,48 @@
+QITHAC, Anchors list: {911}, SBU connectlist: {5}
+QITHAC, Anchors list: {1323, 1335}, SBU connectlist: {38, 47}
+QITHAC, Anchors list: {1322, 1334}, SBU connectlist: {44, 37}
+QITHAC, Anchors list: {1283}, SBU connectlist: {1}
+QITHAC, Anchors list: {1282}, SBU connectlist: {0}
+QITHAC, Anchors list: {1297}, SBU connectlist: {7}
+QITHAC, Anchors list: {1296}, SBU connectlist: {6}
+QITHAC, Anchors list: {936, 924}, SBU connectlist: {35, 12}
+QITHAC, Anchors list: {937, 925}, SBU connectlist: {36, 13}
+QITHAC, Anchors list: {963}, SBU connectlist: {23}
+QITHAC, Anchors list: {962}, SBU connectlist: {22}
+QITHAC, Anchors list: {1283, 1277}, SBU connectlist: {1, 30}
+QITHAC, Anchors list: {1282, 1276}, SBU connectlist: {0, 45}
+QITHAC, Anchors list: {963, 951}, SBU connectlist: {42, 23}
+QITHAC, Anchors list: {962, 950}, SBU connectlist: {46, 22}
+QITHAC, Anchors list: {910}, SBU connectlist: {4}
+QITHAC, Anchors list: {925}, SBU connectlist: {13}
+QITHAC, Anchors list: {924}, SBU connectlist: {12}
+QITHAC, Anchors list: {905, 911}, SBU connectlist: {3, 5}
+QITHAC, Anchors list: {904, 910}, SBU connectlist: {2, 4}
+QITHAC, Anchors list: {579, 591}, SBU connectlist: {27, 21}
+QITHAC, Anchors list: {578, 590}, SBU connectlist: {26, 20}
+QITHAC, Anchors list: {591}, SBU connectlist: {27}
+QITHAC, Anchors list: {590}, SBU connectlist: {26}
+QITHAC, Anchors list: {553, 565}, SBU connectlist: {34, 43}
+QITHAC, Anchors list: {552, 564}, SBU connectlist: {33, 41}
+QITHAC, Anchors list: {539}, SBU connectlist: {11}
+QITHAC, Anchors list: {538}, SBU connectlist: {10}
+QITHAC, Anchors list: {553}, SBU connectlist: {34}
+QITHAC, Anchors list: {552}, SBU connectlist: {33}
+QITHAC, Anchors list: {539, 533}, SBU connectlist: {9, 11}
+QITHAC, Anchors list: {538, 532}, SBU connectlist: {8, 10}
+QITHAC, Anchors list: {219, 207}, SBU connectlist: {25, 29}
+QITHAC, Anchors list: {218, 206}, SBU connectlist: {24, 28}
+QITHAC, Anchors list: {219}, SBU connectlist: {29}
+QITHAC, Anchors list: {218}, SBU connectlist: {28}
+QITHAC, Anchors list: {192, 180}, SBU connectlist: {18, 39}
+QITHAC, Anchors list: {193, 181}, SBU connectlist: {40, 19}
+QITHAC, Anchors list: {167}, SBU connectlist: {32}
+QITHAC, Anchors list: {166}, SBU connectlist: {31}
+QITHAC, Anchors list: {1297, 1309}, SBU connectlist: {15, 7}
+QITHAC, Anchors list: {1296, 1308}, SBU connectlist: {6, 14}
+QITHAC, Anchors list: {1335}, SBU connectlist: {47}
+QITHAC, Anchors list: {1334}, SBU connectlist: {44}
+QITHAC, Anchors list: {161, 167}, SBU connectlist: {32, 17}
+QITHAC, Anchors list: {160, 166}, SBU connectlist: {16, 31}
+QITHAC, Anchors list: {181}, SBU connectlist: {40}
+QITHAC, Anchors list: {180}, SBU connectlist: {39}

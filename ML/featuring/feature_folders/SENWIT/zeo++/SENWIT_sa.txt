@@ -1,0 +1,3 @@
+@ feature_folders/SENWIT/zeo++/SENWIT_sa.txt Unitcell_volume: 2865.33   Density: 0.783284   ASA_A^2: 698.981 ASA_m^2/cm^3: 2439.45 ASA_m^2/g: 3114.38 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 698.981  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

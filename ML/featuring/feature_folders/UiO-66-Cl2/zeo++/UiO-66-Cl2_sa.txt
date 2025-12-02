@@ -1,0 +1,3 @@
+@ feature_folders/UiO-66-Cl2/zeo++/UiO-66-Cl2_sa.txt Unitcell_volume: 2233.64   Density: 1.54439   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 174.332 NASA_m^2/cm^3: 780.484 NASA_m^2/g: 505.367
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 3 Pocket_surface_area_A^2: 84.722  59.788  29.8218  

@@ -1,0 +1,16 @@
+MOF-841, Anchors list: {95}, SBU connectlist: {1}
+MOF-841, Anchors list: {270}, SBU connectlist: {0}
+MOF-841, Anchors list: {239}, SBU connectlist: {0}
+MOF-841, Anchors list: {52}, SBU connectlist: {0}
+MOF-841, Anchors list: {165}, SBU connectlist: {1}
+MOF-841, Anchors list: {196}, SBU connectlist: {1}
+MOF-841, Anchors list: {126}, SBU connectlist: {1}
+MOF-841, Anchors list: {21}, SBU connectlist: {0}
+MOF-841, Anchors list: {52}, SBU connectlist: {0}
+MOF-841, Anchors list: {239}, SBU connectlist: {0}
+MOF-841, Anchors list: {126}, SBU connectlist: {1}
+MOF-841, Anchors list: {21}, SBU connectlist: {0}
+MOF-841, Anchors list: {165}, SBU connectlist: {1}
+MOF-841, Anchors list: {196}, SBU connectlist: {1}
+MOF-841, Anchors list: {95}, SBU connectlist: {1}
+MOF-841, Anchors list: {270}, SBU connectlist: {0}

@@ -1,0 +1,3 @@
+@ feature_folders/ACOGAB/zeo++/ACOGAB_sa.txt Unitcell_volume: 2660.54   Density: 1.15458   ASA_A^2: 250.789 ASA_m^2/cm^3: 942.625 ASA_m^2/g: 816.426 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 124.556  126.233  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

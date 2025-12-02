@@ -1,0 +1,8 @@
+CUTKIM, Anchors list: {125}, SBU connectlist: {7} set to be ligand
+CUTKIM, Anchors list: {124}, SBU connectlist: {6} set to be ligand
+CUTKIM, Anchors list: {251}, SBU connectlist: {5} set to be ligand
+CUTKIM, Anchors list: {250}, SBU connectlist: {4} set to be ligand
+CUTKIM, Anchors list: {321}, SBU connectlist: {1} set to be linker
+CUTKIM, Anchors list: {320}, SBU connectlist: {0} set to be linker
+CUTKIM, Anchors list: {54}, SBU connectlist: {2} set to be ligand
+CUTKIM, Anchors list: {55}, SBU connectlist: {3} set to be ligand

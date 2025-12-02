@@ -1,0 +1,4 @@
+CUTKOS3, Anchors list: {186}, SBU connectlist: {2}
+CUTKOS2, Anchors list: {187}, SBU connectlist: {3}
+CUTKOS1, Anchors list: {51}, SBU connectlist: {1}
+CUTKOS0, Anchors list: {50}, SBU connectlist: {0}

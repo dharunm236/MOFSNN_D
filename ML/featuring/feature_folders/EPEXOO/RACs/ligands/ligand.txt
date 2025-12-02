@@ -1,0 +1,4 @@
+EPEXOO, Anchors list: {259}, SBU connectlist: {0}
+EPEXOO, Anchors list: {210}, SBU connectlist: {1}
+EPEXOO, Anchors list: {444}, SBU connectlist: {2}
+EPEXOO, Anchors list: {25}, SBU connectlist: {5}

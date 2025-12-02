@@ -1,0 +1,3 @@
+@ feature_folders/AWEDUC/zeo++/AWEDUC_sa.txt Unitcell_volume: 3333.86   Density: 1.1435   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 119.434 NASA_m^2/cm^3: 358.244 NASA_m^2/g: 313.286
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 6 Pocket_surface_area_A^2: 55.5208  2.35897  3.36155  53.2805  1.88851  3.02326  

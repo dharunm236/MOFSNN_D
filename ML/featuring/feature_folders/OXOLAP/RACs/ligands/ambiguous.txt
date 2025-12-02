@@ -1,0 +1,12 @@
+OXOLAP, Anchors list: {264, 265, 395, 396}, SBU connectlist: {0} set to be linker
+OXOLAP, Anchors list: {264, 396, 397, 263}, SBU connectlist: {0} set to be linker
+OXOLAP, Anchors list: {265, 395, 397, 263}, SBU connectlist: {0} set to be linker
+OXOLAP, Anchors list: {59, 60, 190, 191}, SBU connectlist: {1} set to be linker
+OXOLAP, Anchors list: {192, 58, 59, 191}, SBU connectlist: {1} set to be linker
+OXOLAP, Anchors list: {192, 58, 60, 190}, SBU connectlist: {1} set to be linker
+OXOLAP, Anchors list: {264, 396, 397, 263}, SBU connectlist: {0} set to be linker
+OXOLAP, Anchors list: {265, 395, 397, 263}, SBU connectlist: {0} set to be linker
+OXOLAP, Anchors list: {264, 265, 395, 396}, SBU connectlist: {0} set to be linker
+OXOLAP, Anchors list: {59, 60, 190, 191}, SBU connectlist: {1} set to be linker
+OXOLAP, Anchors list: {192, 58, 60, 190}, SBU connectlist: {1} set to be linker
+OXOLAP, Anchors list: {192, 58, 59, 191}, SBU connectlist: {1} set to be linker

@@ -1,0 +1,3 @@
+@ feature_folders/SEFNIB/zeo++/SEFNIB_sa.txt Unitcell_volume: 2221.85   Density: 1.18302   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 28.2482 NASA_m^2/cm^3: 127.138 NASA_m^2/g: 107.469
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 12 Pocket_surface_area_A^2: 6.99865  0.0159261  0.0109359  7.5086  0  0.0109359  0  6.74904  6.94323  0  0.0109359  0  

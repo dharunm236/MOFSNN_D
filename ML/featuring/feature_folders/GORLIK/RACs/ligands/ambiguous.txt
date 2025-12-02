@@ -1,0 +1,4 @@
+GORLIK, Anchors list: {171}, SBU connectlist: {5} set to be ligand
+GORLIK, Anchors list: {17}, SBU connectlist: {3} set to be ligand
+GORLIK, Anchors list: {137}, SBU connectlist: {2} set to be ligand
+GORLIK, Anchors list: {291}, SBU connectlist: {1} set to be ligand

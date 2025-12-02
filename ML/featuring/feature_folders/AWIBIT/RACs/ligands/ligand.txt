@@ -1,0 +1,8 @@
+AWIBIT, Anchors list: {425}, SBU connectlist: {5}
+AWIBIT, Anchors list: {421}, SBU connectlist: {4}
+AWIBIT, Anchors list: {322}, SBU connectlist: {0}
+AWIBIT, Anchors list: {318}, SBU connectlist: {15}
+AWIBIT, Anchors list: {173}, SBU connectlist: {9}
+AWIBIT, Anchors list: {177}, SBU connectlist: {10}
+AWIBIT, Anchors list: {74}, SBU connectlist: {6}
+AWIBIT, Anchors list: {70}, SBU connectlist: {1}

@@ -1,0 +1,3 @@
+@ feature_folders/Zn2L4/zeo++/Zn2L4_pov.txt Unitcell_volume: 983.856   Density: 1.54929   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 128.196 PONAV_Volume_fraction: 0.1303 PONAV_cm^3/g: 0.0841028
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/Zn2L4/zeo++/Zn2L4_pov.txt	1.54929	1.86	10000	0	0.0015	0	0.1303	0.3765	0.4932

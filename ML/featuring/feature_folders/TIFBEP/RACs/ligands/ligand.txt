@@ -1,0 +1,12 @@
+TIFBEP, Anchors list: {211}, SBU connectlist: {13}
+TIFBEP, Anchors list: {224}, SBU connectlist: {19}
+TIFBEP, Anchors list: {75, 140}, SBU connectlist: {8, 9}
+TIFBEP, Anchors list: {132}, SBU connectlist: {4}
+TIFBEP, Anchors list: {167}, SBU connectlist: {22}
+TIFBEP, Anchors list: {75}, SBU connectlist: {9}
+TIFBEP, Anchors list: {224, 159}, SBU connectlist: {17, 19}
+TIFBEP, Anchors list: {88}, SBU connectlist: {14}
+TIFBEP, Anchors list: {2, 211}, SBU connectlist: {0, 13}
+TIFBEP, Anchors list: {4}, SBU connectlist: {1}
+TIFBEP, Anchors list: {295}, SBU connectlist: {23}
+TIFBEP, Anchors list: {88, 297}, SBU connectlist: {25, 14}

@@ -1,0 +1,23 @@
+HIQKID, Anchors list: {1, 23, 135}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {0, 23, 135}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {81, 106, 58}, SBU connectlist: {1} set to be ligand
+HIQKID, Anchors list: {80, 106, 58}, SBU connectlist: {1} set to be ligand
+HIQKID, Anchors list: {81, 55, 103}, SBU connectlist: {1} set to be ligand
+HIQKID, Anchors list: {81, 106, 103}, SBU connectlist: {1} set to be linker
+HIQKID, Anchors list: {80, 106, 103}, SBU connectlist: {1} set to be ligand
+HIQKID, Anchors list: {1, 138, 135}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {0, 138, 135}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {80, 55, 103}, SBU connectlist: {1} set to be ligand
+HIQKID, Anchors list: {26, 138}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {23, 135}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {58, 103, 106, 55}, SBU connectlist: {1} set to be linker
+HIQKID, Anchors list: {81, 58, 55}, SBU connectlist: {1} set to be linker
+HIQKID, Anchors list: {80, 58, 55}, SBU connectlist: {1} set to be ligand
+HIQKID, Anchors list: {1, 26, 23}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {0, 26, 23}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {103, 55}, SBU connectlist: {1} set to be linker
+HIQKID, Anchors list: {135, 26, 138, 23}, SBU connectlist: {0} set to be linker
+HIQKID, Anchors list: {58, 106}, SBU connectlist: {1} set to be linker
+HIQKID, Anchors list: {1, 138, 26}, SBU connectlist: {0} set to be ligand
+HIQKID, Anchors list: {0, 138, 26}, SBU connectlist: {0} set to be ligand
+Structure HIQKID has extremely short ligands, check the outputs

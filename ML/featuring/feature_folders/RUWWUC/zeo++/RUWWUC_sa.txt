@@ -1,0 +1,3 @@
+@ feature_folders/RUWWUC/zeo++/RUWWUC_sa.txt Unitcell_volume: 977.348   Density: 1.54997   ASA_A^2: 58.9591 ASA_m^2/cm^3: 603.256 ASA_m^2/g: 389.205 NASA_A^2: 0.6848 NASA_m^2/cm^3: 7.00672 NASA_m^2/g: 4.52055
+Number_of_channels: 1 Channel_surface_area_A^2: 58.9591  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 0.367508  0.317292  

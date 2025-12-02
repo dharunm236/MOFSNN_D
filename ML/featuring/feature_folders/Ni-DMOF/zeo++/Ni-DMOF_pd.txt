@@ -1,0 +1,1 @@
+feature_folders/Ni-DMOF/zeo++/Ni-DMOF_pd.txt    9.58577 7.63411  9.54817

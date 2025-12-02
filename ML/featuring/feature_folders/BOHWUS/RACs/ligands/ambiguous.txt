@@ -1,0 +1,13 @@
+BOHWUS, Anchors list: {18, 396, 21}, SBU connectlist: {0} set to be linker
+BOHWUS, Anchors list: {17, 397, 22}, SBU connectlist: {1} set to be linker
+BOHWUS, Anchors list: {19, 20, 398}, SBU connectlist: {2} set to be linker
+BOHWUS, Anchors list: {253, 254, 255}, SBU connectlist: {3} set to be linker
+BOHWUS, Anchors list: {254, 221, 220, 253, 222, 255}, SBU connectlist: {3} set to be linker
+BOHWUS, Anchors list: {220, 221, 222}, SBU connectlist: {3} set to be ligand
+BOHWUS, Anchors list: {456, 83, 455}, SBU connectlist: {2} set to be linker
+BOHWUS, Anchors list: {458, 84, 453}, SBU connectlist: {1} set to be linker
+BOHWUS, Anchors list: {457, 85, 454}, SBU connectlist: {0} set to be linker
+BOHWUS, Anchors list: {455, 456, 398, 83, 19, 20}, SBU connectlist: {2} set to be linker
+BOHWUS, Anchors list: {454, 457, 396, 18, 85, 21}, SBU connectlist: {0} set to be linker
+BOHWUS, Anchors list: {453, 458, 397, 17, 84, 22}, SBU connectlist: {1} set to be linker
+Structure BOHWUS has extremely short ligands, check the outputs

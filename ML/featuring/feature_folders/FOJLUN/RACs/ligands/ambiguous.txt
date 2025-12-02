@@ -1,0 +1,4 @@
+FOJLUN, Anchors list: {266}, SBU connectlist: {1} set to be linker
+FOJLUN, Anchors list: {73}, SBU connectlist: {0} set to be linker
+FOJLUN, Anchors list: {252}, SBU connectlist: {2} set to be linker
+FOJLUN, Anchors list: {87}, SBU connectlist: {3} set to be linker

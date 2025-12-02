@@ -1,0 +1,4 @@
+COYCEZ, Anchors list: {177}, SBU connectlist: {2}
+COYCEZ, Anchors list: {176}, SBU connectlist: {0}
+COYCEZ, Anchors list: {63}, SBU connectlist: {3}
+COYCEZ, Anchors list: {62}, SBU connectlist: {1}

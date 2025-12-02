@@ -1,0 +1,3 @@
+@ feature_folders/ERIGUH/zeo++/ERIGUH_sa.txt Unitcell_volume: 2367.65   Density: 1.24628   ASA_A^2: 142.556 ASA_m^2/cm^3: 602.099 ASA_m^2/g: 483.118 NASA_A^2: 0.125285 NASA_m^2/cm^3: 0.529152 NASA_m^2/g: 0.424586
+Number_of_channels: 2 Channel_surface_area_A^2: 70.2169  72.3393  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 0.0815414  0.0437435  

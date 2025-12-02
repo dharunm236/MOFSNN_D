@@ -1,0 +1,4 @@
+CIKCIK, Anchors list: {51}, SBU connectlist: {0} set to be linker
+CIKCIK, Anchors list: {28}, SBU connectlist: {1} set to be ligand
+CIKCIK, Anchors list: {28}, SBU connectlist: {1} set to be linker
+CIKCIK, Anchors list: {51}, SBU connectlist: {0} set to be linker

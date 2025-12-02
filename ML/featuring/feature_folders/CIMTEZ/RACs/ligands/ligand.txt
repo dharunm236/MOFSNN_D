@@ -1,0 +1,8 @@
+CIMTEZ, Anchors list: {1203}, SBU connectlist: {9}
+CIMTEZ, Anchors list: {825}, SBU connectlist: {13}
+CIMTEZ, Anchors list: {824}, SBU connectlist: {12}
+CIMTEZ, Anchors list: {1202}, SBU connectlist: {7}
+CIMTEZ, Anchors list: {527}, SBU connectlist: {1}
+CIMTEZ, Anchors list: {526}, SBU connectlist: {0}
+CIMTEZ, Anchors list: {149}, SBU connectlist: {5}
+CIMTEZ, Anchors list: {148}, SBU connectlist: {4}

@@ -1,0 +1,3 @@
+@ feature_folders/VOFTAN/zeo++/VOFTAN_pov.txt Unitcell_volume: 5302.98   Density: 1.35004   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 180.301 PONAV_Volume_fraction: 0.034 PONAV_cm^3/g: 0.0251844
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/VOFTAN/zeo++/VOFTAN_pov.txt	1.35004	1.86	10000	0	0.0016	0	0.034	0.366	0.6

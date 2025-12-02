@@ -1,0 +1,6 @@
+UiO-66-SO3H, Anchors list: {117, 44, 45, 119}, SBU connectlist: {0} set to be linker
+UiO-66-SO3H, Anchors list: {118, 44, 46, 119}, SBU connectlist: {0} set to be linker
+UiO-66-SO3H, Anchors list: {46, 44, 118, 119}, SBU connectlist: {0} set to be linker
+UiO-66-SO3H, Anchors list: {45, 44, 117, 119}, SBU connectlist: {0} set to be linker
+UiO-66-SO3H, Anchors list: {46, 45, 117, 118}, SBU connectlist: {0} set to be linker
+UiO-66-SO3H, Anchors list: {117, 118, 45, 46}, SBU connectlist: {0} set to be linker

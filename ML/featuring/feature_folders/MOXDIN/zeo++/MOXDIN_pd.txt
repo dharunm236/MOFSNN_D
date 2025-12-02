@@ -1,0 +1,1 @@
+feature_folders/MOXDIN/zeo++/MOXDIN_pd.txt    6.88486 5.60834  6.65506

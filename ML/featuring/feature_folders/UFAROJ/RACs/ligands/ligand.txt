@@ -1,0 +1,4 @@
+UFAROJ, Anchors list: {253}, SBU connectlist: {12}
+UFAROJ, Anchors list: {85}, SBU connectlist: {8}
+UFAROJ, Anchors list: {253}, SBU connectlist: {12}
+UFAROJ, Anchors list: {85}, SBU connectlist: {8}

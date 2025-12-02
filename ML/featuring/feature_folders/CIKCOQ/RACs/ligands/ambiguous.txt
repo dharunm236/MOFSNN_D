@@ -1,0 +1,4 @@
+CIKCOQ, Anchors list: {62}, SBU connectlist: {1} set to be linker
+CIKCOQ, Anchors list: {17}, SBU connectlist: {0} set to be ligand
+CIKCOQ, Anchors list: {17}, SBU connectlist: {0} set to be linker
+CIKCOQ, Anchors list: {62}, SBU connectlist: {1} set to be linker

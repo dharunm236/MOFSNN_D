@@ -1,0 +1,4 @@
+HOMQUW, Anchors list: {1, 354, 489, 330, 430, 402, 372, 501, 471, 282, 349, 479}, SBU connectlist: {1} set to be linker
+HOMQUW, Anchors list: {320, 449, 419, 391, 491, 332, 272, 467, 342, 472, 539, 350}, SBU connectlist: {0} set to be ligand
+HOMQUW, Anchors list: {128, 98, 227, 197, 8, 75, 205, 80, 275, 215, 56, 156}, SBU connectlist: {3} set to be ligand
+HOMQUW, Anchors list: {193, 546, 68, 198, 265, 76, 46, 175, 145, 117, 217, 58}, SBU connectlist: {2} set to be linker

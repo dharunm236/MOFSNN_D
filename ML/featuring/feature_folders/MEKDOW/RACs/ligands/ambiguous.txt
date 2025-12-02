@@ -1,0 +1,4 @@
+MEKDOW, Anchors list: {23}, SBU connectlist: {3} set to be linker
+MEKDOW, Anchors list: {60}, SBU connectlist: {2} set to be linker
+MEKDOW, Anchors list: {65}, SBU connectlist: {0} set to be linker
+MEKDOW, Anchors list: {18}, SBU connectlist: {1} set to be linker

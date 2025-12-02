@@ -1,0 +1,6 @@
+AlaZnOAc, Anchors list: {178}, SBU connectlist: {0}
+AlaZnOAc, Anchors list: {106}, SBU connectlist: {2}
+AlaZnOAc, Anchors list: {75}, SBU connectlist: {3}
+AlaZnOAc, Anchors list: {110}, SBU connectlist: {4}
+AlaZnOAc, Anchors list: {79}, SBU connectlist: {5}
+AlaZnOAc, Anchors list: {7}, SBU connectlist: {1}

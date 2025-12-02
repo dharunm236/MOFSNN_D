@@ -1,0 +1,3 @@
+HACDOH, Anchors list: {126}, SBU connectlist: {2}
+HACDOH, Anchors list: {8}, SBU connectlist: {1}
+HACDOH, Anchors list: {7}, SBU connectlist: {0}

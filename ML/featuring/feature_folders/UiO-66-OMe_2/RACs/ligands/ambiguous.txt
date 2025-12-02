@@ -1,0 +1,6 @@
+UiO-66-OMe_2, Anchors list: {58, 59, 141, 142}, SBU connectlist: {0} set to be linker
+UiO-66-OMe_2, Anchors list: {57, 58, 141, 143}, SBU connectlist: {0} set to be linker
+UiO-66-OMe_2, Anchors list: {57, 59, 142, 143}, SBU connectlist: {0} set to be linker
+UiO-66-OMe_2, Anchors list: {58, 59, 141, 142}, SBU connectlist: {0} set to be linker
+UiO-66-OMe_2, Anchors list: {57, 58, 141, 143}, SBU connectlist: {0} set to be linker
+UiO-66-OMe_2, Anchors list: {57, 59, 142, 143}, SBU connectlist: {0} set to be linker

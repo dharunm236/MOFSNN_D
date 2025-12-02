@@ -1,0 +1,12 @@
+FIVYUF, Anchors list: {232, 26, 242}, SBU connectlist: {25, 13, 22}
+FIVYUF, Anchors list: {130, 164, 98}, SBU connectlist: {0, 17, 18}
+FIVYUF, Anchors list: {100, 78, 135}, SBU connectlist: {19, 4, 6}
+FIVYUF, Anchors list: {26, 91, 68}, SBU connectlist: {1, 13, 14}
+FIVYUF, Anchors list: {156, 212, 167}, SBU connectlist: {11, 21, 15}
+FIVYUF, Anchors list: {97, 157, 102}, SBU connectlist: {16, 20, 28}
+FIVYUF, Anchors list: {208, 204, 157}, SBU connectlist: {10, 28, 5}
+FIVYUF, Anchors list: {16, 212, 20}, SBU connectlist: {8, 11, 12}
+FIVYUF, Anchors list: {80, 98, 51}, SBU connectlist: {9, 27, 17}
+FIVYUF, Anchors list: {41, 5, 78}, SBU connectlist: {2, 6, 23}
+FIVYUF, Anchors list: {144, 123, 175}, SBU connectlist: {24, 26, 7}
+FIVYUF, Anchors list: {222, 198, 175}, SBU connectlist: {24, 3, 29}

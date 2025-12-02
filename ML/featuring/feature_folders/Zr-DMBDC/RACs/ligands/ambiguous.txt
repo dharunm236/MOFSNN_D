@@ -1,0 +1,6 @@
+Zr-DMBDC, Anchors list: {88, 41, 40, 87}, SBU connectlist: {0} set to be linker
+Zr-DMBDC, Anchors list: {88, 89, 40, 39}, SBU connectlist: {0} set to be linker
+Zr-DMBDC, Anchors list: {89, 41, 39, 87}, SBU connectlist: {0} set to be linker
+Zr-DMBDC, Anchors list: {88, 41, 40, 87}, SBU connectlist: {0} set to be linker
+Zr-DMBDC, Anchors list: {89, 41, 39, 87}, SBU connectlist: {0} set to be linker
+Zr-DMBDC, Anchors list: {88, 89, 40, 39}, SBU connectlist: {0} set to be linker

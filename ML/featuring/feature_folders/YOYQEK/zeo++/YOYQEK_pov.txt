@@ -1,0 +1,3 @@
+@ feature_folders/YOYQEK/zeo++/YOYQEK_pov.txt Unitcell_volume: 3472.93   Density: 1.12644   POAV_A^3: 730.704 POAV_Volume_fraction: 0.2104 POAV_cm^3/g: 0.186782 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/YOYQEK/zeo++/YOYQEK_pov.txt	1.12644	1.86	10000	0.0307	0	0.2104	0	0.2977	0.4919

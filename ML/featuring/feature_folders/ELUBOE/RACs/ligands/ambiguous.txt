@@ -1,0 +1,2 @@
+ELUBOE, Anchors list: {176, 103}, SBU connectlist: {0} set to be ligand
+ELUBOE, Anchors list: {65, 138}, SBU connectlist: {0} set to be ligand

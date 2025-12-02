@@ -1,0 +1,1 @@
+feature_folders/CAU-10-NO2/zeo++/CAU-10-NO2_pd.txt    6.05509 3.22723  5.95220

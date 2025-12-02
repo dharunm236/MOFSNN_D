@@ -1,0 +1,3 @@
+@ feature_folders/AZAVOO/zeo++/AZAVOO_pov.txt Unitcell_volume: 5528.53   Density: 1.01321   POAV_A^3: 471.584 POAV_Volume_fraction: 0.0853 POAV_cm^3/g: 0.084188 PONAV_A^3: 764.596 PONAV_Volume_fraction: 0.1383 PONAV_cm^3/g: 0.136497
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/AZAVOO/zeo++/AZAVOO_pov.txt	1.01321	1.86	10000	0.007	0.0099	0.0853	0.1383	0.3081	0.4683

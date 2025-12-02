@@ -1,0 +1,4 @@
+SOSFUD, Anchors list: {641}, SBU connectlist: {0}
+SOSFUD, Anchors list: {203}, SBU connectlist: {4}
+SOSFUD, Anchors list: {281}, SBU connectlist: {12}
+SOSFUD, Anchors list: {563}, SBU connectlist: {9}

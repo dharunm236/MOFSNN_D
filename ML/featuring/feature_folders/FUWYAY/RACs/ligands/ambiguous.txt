@@ -1,0 +1,4 @@
+FUWYAY, Anchors list: {0, 34, 23}, SBU connectlist: {0} set to be linker
+FUWYAY, Anchors list: {1, 35, 15}, SBU connectlist: {1} set to be linker
+FUWYAY, Anchors list: {1, 35, 54}, SBU connectlist: {1} set to be ligand
+FUWYAY, Anchors list: {0, 34, 46}, SBU connectlist: {0} set to be linker

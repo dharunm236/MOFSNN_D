@@ -1,0 +1,3 @@
+@ feature_folders/MAKGEN/zeo++/MAKGEN_sa.txt Unitcell_volume: 8034.2   Density: 1.80108   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 32.1885 NASA_m^2/cm^3: 40.0644 NASA_m^2/g: 22.2447
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 8 Pocket_surface_area_A^2: 4.04696  4.00412  3.91613  3.85368  3.68181  4.19747  4.25003  4.23833  

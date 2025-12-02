@@ -1,0 +1,6 @@
+ValZnFor, Anchors list: {119}, SBU connectlist: {4}
+ValZnFor, Anchors list: {196}, SBU connectlist: {1}
+ValZnFor, Anchors list: {115}, SBU connectlist: {0}
+ValZnFor, Anchors list: {84}, SBU connectlist: {3}
+ValZnFor, Anchors list: {88}, SBU connectlist: {2}
+ValZnFor, Anchors list: {7}, SBU connectlist: {5}

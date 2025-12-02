@@ -1,0 +1,1 @@
+feature_folders/MOF-804/zeo++/MOF-804_pd.txt    7.58487 3.14236  7.58487

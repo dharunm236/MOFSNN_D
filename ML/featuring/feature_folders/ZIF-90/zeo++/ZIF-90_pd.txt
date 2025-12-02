@@ -1,0 +1,1 @@
+feature_folders/ZIF-90/zeo++/ZIF-90_pd.txt    11.01062 3.57085  11.01062

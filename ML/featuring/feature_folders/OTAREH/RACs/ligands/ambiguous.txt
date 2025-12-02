@@ -1,0 +1,8 @@
+OTAREH, Anchors list: {89}, SBU connectlist: {6} set to be linker
+OTAREH, Anchors list: {88}, SBU connectlist: {5} set to be linker
+OTAREH, Anchors list: {54}, SBU connectlist: {3} set to be linker
+OTAREH, Anchors list: {55}, SBU connectlist: {1} set to be linker
+OTAREH, Anchors list: {568}, SBU connectlist: {4} set to be linker
+OTAREH, Anchors list: {569}, SBU connectlist: {0} set to be linker
+OTAREH, Anchors list: {535}, SBU connectlist: {2} set to be ligand
+OTAREH, Anchors list: {534}, SBU connectlist: {7} set to be linker

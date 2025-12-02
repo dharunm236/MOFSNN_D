@@ -1,0 +1,4 @@
+FOPPIJ01, Anchors list: {43}, SBU connectlist: {2} set to be ligand
+FOPPIJ01, Anchors list: {104}, SBU connectlist: {0} set to be ligand
+FOPPIJ01, Anchors list: {30}, SBU connectlist: {3} set to be ligand
+FOPPIJ01, Anchors list: {117}, SBU connectlist: {1} set to be ligand

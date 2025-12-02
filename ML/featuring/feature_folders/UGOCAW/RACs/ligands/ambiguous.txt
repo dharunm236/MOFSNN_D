@@ -1,0 +1,13 @@
+UGOCAW, Anchors list: {652}, SBU connectlist: {27} set to be linker
+UGOCAW, Anchors list: {653}, SBU connectlist: {29} set to be linker
+UGOCAW, Anchors list: {651}, SBU connectlist: {26} set to be linker
+UGOCAW, Anchors list: {218}, SBU connectlist: {39} set to be linker
+UGOCAW, Anchors list: {217}, SBU connectlist: {38} set to be linker
+UGOCAW, Anchors list: {216}, SBU connectlist: {36} set to be linker
+UGOCAW, Anchors list: {3}, SBU connectlist: {5} set to be linker
+UGOCAW, Anchors list: {867}, SBU connectlist: {43} set to be linker
+UGOCAW, Anchors list: {0}, SBU connectlist: {0} set to be linker
+UGOCAW, Anchors list: {864}, SBU connectlist: {42} set to be linker
+UGOCAW, Anchors list: {863}, SBU connectlist: {47} set to be linker
+UGOCAW, Anchors list: {860}, SBU connectlist: {46} set to be linker
+Structure UGOCAW has extremely short ligands, check the outputs

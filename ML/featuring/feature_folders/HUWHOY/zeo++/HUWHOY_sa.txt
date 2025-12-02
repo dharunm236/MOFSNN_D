@@ -1,0 +1,3 @@
+@ feature_folders/HUWHOY/zeo++/HUWHOY_sa.txt Unitcell_volume: 3911.01   Density: 0.950744   ASA_A^2: 592.601 ASA_m^2/cm^3: 1515.21 ASA_m^2/g: 1593.71 NASA_A^2: 0.295429 NASA_m^2/cm^3: 0.755378 NASA_m^2/g: 0.794513
+Number_of_channels: 1 Channel_surface_area_A^2: 592.601  
+Number_of_pockets: 2 Pocket_surface_area_A^2: 0.107448  0.187981  

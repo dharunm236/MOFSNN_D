@@ -1,0 +1,12 @@
+COYBUO, Anchors list: {193, 201, 223}, SBU connectlist: {9, 2}
+COYBUO, Anchors list: {150}, SBU connectlist: {2}
+COYBUO, Anchors list: {168, 196, 174}, SBU connectlist: {0, 4}
+COYBUO, Anchors list: {125}, SBU connectlist: {3}
+COYBUO, Anchors list: {107, 101, 79}, SBU connectlist: {1, 5}
+COYBUO, Anchors list: {217, 194, 226}, SBU connectlist: {0}
+COYBUO, Anchors list: {74, 52, 82}, SBU connectlist: {8, 3}
+COYBUO, Anchors list: {81, 49, 58}, SBU connectlist: {1}
+COYBUO, Anchors list: {26, 51, 28}, SBU connectlist: {3, 7}
+COYBUO, Anchors list: {9}, SBU connectlist: {1}
+COYBUO, Anchors list: {266}, SBU connectlist: {0}
+COYBUO, Anchors list: {224, 249, 247}, SBU connectlist: {2, 6}

@@ -1,0 +1,8 @@
+IHOTAC27, Anchors list: {124, 469, 366}, SBU connectlist: {3}
+IHOTAC25, Anchors list: {126, 364, 470}, SBU connectlist: {1}
+IHOTAC23, Anchors list: {226, 243}, SBU connectlist: {0}
+IHOTAC20, Anchors list: {364, 477, 126}, SBU connectlist: {1}
+IHOTAC18, Anchors list: {254, 271}, SBU connectlist: {3}
+IHOTAC17, Anchors list: {272, 253}, SBU connectlist: {1}
+IHOTAC9, Anchors list: {477, 470}, SBU connectlist: {1}
+IHOTAC8, Anchors list: {469, 478}, SBU connectlist: {3}

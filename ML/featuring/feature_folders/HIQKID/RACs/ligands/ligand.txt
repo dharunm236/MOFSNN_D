@@ -1,0 +1,16 @@
+HIQKID29, Anchors list: {1, 23, 135}, SBU connectlist: {0}
+HIQKID28, Anchors list: {0, 23, 135}, SBU connectlist: {0}
+HIQKID27, Anchors list: {81, 106, 58}, SBU connectlist: {1}
+HIQKID26, Anchors list: {80, 106, 58}, SBU connectlist: {1}
+HIQKID25, Anchors list: {81, 55, 103}, SBU connectlist: {1}
+HIQKID23, Anchors list: {80, 106, 103}, SBU connectlist: {1}
+HIQKID21, Anchors list: {1, 138, 135}, SBU connectlist: {0}
+HIQKID20, Anchors list: {0, 138, 135}, SBU connectlist: {0}
+HIQKID16, Anchors list: {80, 55, 103}, SBU connectlist: {1}
+HIQKID15, Anchors list: {26, 138}, SBU connectlist: {0}
+HIQKID14, Anchors list: {23, 135}, SBU connectlist: {0}
+HIQKID11, Anchors list: {80, 58, 55}, SBU connectlist: {1}
+HIQKID8, Anchors list: {1, 26, 23}, SBU connectlist: {0}
+HIQKID7, Anchors list: {0, 26, 23}, SBU connectlist: {0}
+HIQKID1, Anchors list: {1, 138, 26}, SBU connectlist: {0}
+HIQKID0, Anchors list: {0, 138, 26}, SBU connectlist: {0}

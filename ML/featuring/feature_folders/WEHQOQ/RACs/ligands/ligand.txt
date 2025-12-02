@@ -1,0 +1,4 @@
+WEHQOQ, Anchors list: {127}, SBU connectlist: {3}
+WEHQOQ, Anchors list: {18}, SBU connectlist: {2}
+WEHQOQ, Anchors list: {16}, SBU connectlist: {0}
+WEHQOQ, Anchors list: {129}, SBU connectlist: {1}

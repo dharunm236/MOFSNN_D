@@ -1,0 +1,4 @@
+GORLIK5, Anchors list: {171}, SBU connectlist: {5}
+GORLIK4, Anchors list: {17}, SBU connectlist: {3}
+GORLIK3, Anchors list: {137}, SBU connectlist: {2}
+GORLIK2, Anchors list: {291}, SBU connectlist: {1}

@@ -1,0 +1,4 @@
+FOPPIJ015, Anchors list: {43}, SBU connectlist: {2}
+FOPPIJ012, Anchors list: {104}, SBU connectlist: {0}
+FOPPIJ011, Anchors list: {30}, SBU connectlist: {3}
+FOPPIJ010, Anchors list: {117}, SBU connectlist: {1}

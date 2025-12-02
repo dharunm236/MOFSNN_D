@@ -1,0 +1,8 @@
+QOKWIY, Anchors list: {177}, SBU connectlist: {3}
+QOKWIY, Anchors list: {246}, SBU connectlist: {7}
+QOKWIY, Anchors list: {259}, SBU connectlist: {1}
+QOKWIY, Anchors list: {162}, SBU connectlist: {0}
+QOKWIY, Anchors list: {303}, SBU connectlist: {2}
+QOKWIY, Anchors list: {118}, SBU connectlist: {6}
+QOKWIY, Anchors list: {369}, SBU connectlist: {4}
+QOKWIY, Anchors list: {52}, SBU connectlist: {5}

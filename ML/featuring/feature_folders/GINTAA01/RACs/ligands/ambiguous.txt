@@ -1,0 +1,4 @@
+GINTAA01, Anchors list: {46}, SBU connectlist: {2} set to be linker
+GINTAA01, Anchors list: {47}, SBU connectlist: {3} set to be linker
+GINTAA01, Anchors list: {145}, SBU connectlist: {1} set to be linker
+GINTAA01, Anchors list: {144}, SBU connectlist: {0} set to be linker

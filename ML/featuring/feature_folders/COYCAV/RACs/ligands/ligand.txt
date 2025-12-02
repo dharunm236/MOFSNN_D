@@ -1,0 +1,8 @@
+COYCAV, Anchors list: {81}, SBU connectlist: {0}
+COYCAV, Anchors list: {82}, SBU connectlist: {0}
+COYCAV, Anchors list: {106}, SBU connectlist: {3}
+COYCAV, Anchors list: {63}, SBU connectlist: {2}
+COYCAV, Anchors list: {69}, SBU connectlist: {2}
+COYCAV, Anchors list: {93}, SBU connectlist: {1}
+COYCAV, Anchors list: {112}, SBU connectlist: {3}
+COYCAV, Anchors list: {94}, SBU connectlist: {1}

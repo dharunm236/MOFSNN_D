@@ -1,0 +1,1 @@
+feature_folders/ZnPO3/zeo++/ZnPO3_pd.txt    10.18444 9.32362  10.18444

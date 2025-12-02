@@ -1,0 +1,8 @@
+BIQHIU, Anchors list: {173}, SBU connectlist: {12}
+BIQHIU, Anchors list: {105}, SBU connectlist: {11}
+BIQHIU, Anchors list: {146}, SBU connectlist: {15}
+BIQHIU, Anchors list: {49}, SBU connectlist: {13}
+BIQHIU, Anchors list: {22}, SBU connectlist: {19}
+BIQHIU, Anchors list: {173}, SBU connectlist: {12}
+BIQHIU, Anchors list: {90}, SBU connectlist: {9}
+BIQHIU, Anchors list: {22}, SBU connectlist: {19}

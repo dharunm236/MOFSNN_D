@@ -1,0 +1,2 @@
+NAGQOC02, Anchors list: {51}, SBU connectlist: {2}
+NAGQOC02, Anchors list: {15}, SBU connectlist: {0}

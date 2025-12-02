@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/YOYPUZ'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/YOYPUZ'
 _cell_length_a 17.08800
 _cell_length_b 17.08800
 _cell_length_c 13.89200
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -85,8 +85,8 @@ H       0.3221   0.3446    0.932     H
 H       0.3221   0.9775    0.568     H
 C       0.3257   0.1073    0.393     C
 C       0.3257   0.2184    0.107     C
-Co     0.33333  0.66667  0.60186    Co
-Co     0.33333  0.66667  0.89814    Co
+Co    0.33333333 0.66666667  0.60186    Co
+Co    0.33333333 0.66666667  0.89814    Co
 N      0.33374  0.56034  0.51429     N
 N      0.33374   0.7734  0.98571     N
 C         0.34   0.4339  0.47197     C
@@ -195,8 +195,8 @@ C         0.66   0.0939  0.97197     C
 C         0.66   0.5661  0.52803     C
 N      0.66626   0.2266  0.01429     N
 N      0.66626  0.43966  0.48571     N
-Co     0.66667  0.33333  0.10186    Co
-Co     0.66667  0.33333  0.39814    Co
+Co    0.66666667 0.33333333  0.10186    Co
+Co    0.66666667 0.33333333  0.39814    Co
 C       0.6743   0.7816    0.893     C
 C       0.6743   0.8927    0.607     C
 H       0.6779   0.0225    0.432     H

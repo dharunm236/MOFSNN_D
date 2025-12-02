@@ -1,0 +1,13 @@
+XAPGIH22, Anchors list: {379}, SBU connectlist: {7}
+XAPGIH21, Anchors list: {444}, SBU connectlist: {8}
+XAPGIH20, Anchors list: {194}, SBU connectlist: {4}
+XAPGIH19, Anchors list: {379}, SBU connectlist: {7}
+XAPGIH17, Anchors list: {385, 226, 259, 295, 169, 205, 269, 180, 469, 470, 415}, SBU connectlist: {2}
+XAPGIH15, Anchors list: {444}, SBU connectlist: {8}
+XAPGIH14, Anchors list: {629}, SBU connectlist: {9}
+XAPGIH13, Anchors list: {444}, SBU connectlist: {8}
+XAPGIH11, Anchors list: {379}, SBU connectlist: {7}
+XAPGIH9, Anchors list: {194}, SBU connectlist: {4}
+XAPGIH4, Anchors list: {629}, SBU connectlist: {9}
+XAPGIH2, Anchors list: {629}, SBU connectlist: {9}
+XAPGIH0, Anchors list: {194}, SBU connectlist: {4}

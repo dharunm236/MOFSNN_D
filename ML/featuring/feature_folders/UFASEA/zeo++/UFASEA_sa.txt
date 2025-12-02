@@ -1,0 +1,3 @@
+@ feature_folders/UFASEA/zeo++/UFASEA_sa.txt Unitcell_volume: 4118.02   Density: 1.84634   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 10.461 NASA_m^2/cm^3: 25.403 NASA_m^2/g: 13.7585
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 20 Pocket_surface_area_A^2: 0.641662  1.01812  0.713125  0.459307  0.95362  0.803947  0  0.15792  0.696945  0.775869  0.59734  0  0.907803  0.857835  0.354939  0.676658  0.0861379  0  0.744918  0.0148705  

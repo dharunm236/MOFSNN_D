@@ -1,0 +1,4 @@
+XICXOY, Anchors list: {143}, SBU connectlist: {3} set to be linker
+XICXOY, Anchors list: {142}, SBU connectlist: {2} set to be linker
+XICXOY, Anchors list: {81}, SBU connectlist: {1} set to be linker
+XICXOY, Anchors list: {80}, SBU connectlist: {0} set to be linker

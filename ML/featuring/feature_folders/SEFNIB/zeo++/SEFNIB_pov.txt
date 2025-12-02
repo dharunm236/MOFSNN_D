@@ -1,0 +1,3 @@
+@ feature_folders/SEFNIB/zeo++/SEFNIB_pov.txt Unitcell_volume: 2221.85   Density: 1.18302   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 151.308 PONAV_Volume_fraction: 0.0681 PONAV_cm^3/g: 0.0575645
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/SEFNIB/zeo++/SEFNIB_pov.txt	1.18302	1.86	10000	0	0.0009	0	0.0681	0.4126	0.5193

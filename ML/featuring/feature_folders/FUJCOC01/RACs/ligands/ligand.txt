@@ -1,0 +1,2 @@
+FUJCOC0111, Anchors list: {156}, SBU connectlist: {6}
+FUJCOC0110, Anchors list: {51}, SBU connectlist: {5}

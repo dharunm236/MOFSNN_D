@@ -1,0 +1,1 @@
+feature_folders/ZIF-7/zeo++/ZIF-7_pd.txt    5.58824 2.40354  5.48447

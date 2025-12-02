@@ -1,0 +1,4 @@
+IHOTEG60, Anchors list: {353, 425, 374}, SBU connectlist: {10}
+IHOTEG52, Anchors list: {456, 353, 407}, SBU connectlist: {10}
+IHOTEG49, Anchors list: {428, 325, 374}, SBU connectlist: {10}
+IHOTEG47, Anchors list: {428, 356, 407}, SBU connectlist: {10}

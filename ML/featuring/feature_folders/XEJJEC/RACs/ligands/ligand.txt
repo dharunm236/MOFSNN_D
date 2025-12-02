@@ -1,0 +1,2 @@
+XEJJEC3, Anchors list: {38}, SBU connectlist: {1}
+XEJJEC2, Anchors list: {33}, SBU connectlist: {0}

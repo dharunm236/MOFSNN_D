@@ -1,0 +1,4 @@
+FOJLUN, Anchors list: {252}, SBU connectlist: {2}
+FOJLUN, Anchors list: {87}, SBU connectlist: {3}
+FOJLUN, Anchors list: {73}, SBU connectlist: {0}
+FOJLUN, Anchors list: {266}, SBU connectlist: {1}

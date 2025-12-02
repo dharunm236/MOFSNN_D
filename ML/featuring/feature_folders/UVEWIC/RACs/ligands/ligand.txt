@@ -1,0 +1,8 @@
+UVEWIC, Anchors list: {44}, SBU connectlist: {8}
+UVEWIC, Anchors list: {31}, SBU connectlist: {11}
+UVEWIC, Anchors list: {70}, SBU connectlist: {4}
+UVEWIC, Anchors list: {5}, SBU connectlist: {2}
+UVEWIC, Anchors list: {31}, SBU connectlist: {11}
+UVEWIC, Anchors list: {44}, SBU connectlist: {8}
+UVEWIC, Anchors list: {70}, SBU connectlist: {4}
+UVEWIC, Anchors list: {5}, SBU connectlist: {2}

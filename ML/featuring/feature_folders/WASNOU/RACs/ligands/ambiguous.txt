@@ -1,0 +1,4 @@
+WASNOU, Anchors list: {92}, SBU connectlist: {2} set to be linker
+WASNOU, Anchors list: {142}, SBU connectlist: {3} set to be linker
+WASNOU, Anchors list: {0}, SBU connectlist: {0} set to be linker
+WASNOU, Anchors list: {42}, SBU connectlist: {1} set to be linker

@@ -1,0 +1,4 @@
+MOFF-2, Anchors list: {147, 155}, SBU connectlist: {3} set to be linker
+MOFF-2, Anchors list: {146, 154}, SBU connectlist: {2} set to be ligand
+MOFF-2, Anchors list: {297, 5}, SBU connectlist: {1} set to be linker
+MOFF-2, Anchors list: {296, 4}, SBU connectlist: {0} set to be linker

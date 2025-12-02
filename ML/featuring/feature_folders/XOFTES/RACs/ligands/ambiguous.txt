@@ -1,0 +1,2 @@
+XOFTES, Anchors list: {164, 7, 144, 240, 222}, SBU connectlist: {0} set to be linker
+XOFTES, Anchors list: {7, 103, 240, 83, 25}, SBU connectlist: {0} set to be linker

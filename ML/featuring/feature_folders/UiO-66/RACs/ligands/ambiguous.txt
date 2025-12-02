@@ -1,0 +1,6 @@
+UiO-66, Anchors list: {93, 28, 29, 94}, SBU connectlist: {0} set to be linker
+UiO-66, Anchors list: {27, 28, 94, 95}, SBU connectlist: {0} set to be linker
+UiO-66, Anchors list: {27, 93, 29, 95}, SBU connectlist: {0} set to be linker
+UiO-66, Anchors list: {27, 28, 94, 95}, SBU connectlist: {0} set to be linker
+UiO-66, Anchors list: {29, 27, 93, 95}, SBU connectlist: {0} set to be linker
+UiO-66, Anchors list: {29, 28, 93, 94}, SBU connectlist: {0} set to be linker

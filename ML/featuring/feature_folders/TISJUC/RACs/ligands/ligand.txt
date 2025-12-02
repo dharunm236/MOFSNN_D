@@ -1,0 +1,2 @@
+TISJUC5, Anchors list: {101}, SBU connectlist: {1}
+TISJUC4, Anchors list: {158}, SBU connectlist: {2}

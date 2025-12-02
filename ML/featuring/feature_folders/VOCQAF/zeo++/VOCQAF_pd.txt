@@ -1,0 +1,1 @@
+feature_folders/VOCQAF/zeo++/VOCQAF_pd.txt    4.95925 3.73408  4.95925

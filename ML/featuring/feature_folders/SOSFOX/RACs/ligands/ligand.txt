@@ -1,0 +1,4 @@
+SOSFOX, Anchors list: {456, 406}, SBU connectlist: {2, 4}
+SOSFOX, Anchors list: {388, 438}, SBU connectlist: {0, 14}
+SOSFOX, Anchors list: {389, 439}, SBU connectlist: {1, 15}
+SOSFOX, Anchors list: {457, 407}, SBU connectlist: {3, 5}

@@ -1,0 +1,3 @@
+@ feature_folders/ROSCEH/zeo++/ROSCEH_pov.txt Unitcell_volume: 4575.39   Density: 1.08673   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 272.693 PONAV_Volume_fraction: 0.0596 PONAV_cm^3/g: 0.0548433
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ROSCEH/zeo++/ROSCEH_pov.txt	1.08673	1.86	10000	0	0.0047	0	0.0596	0.4431	0.4973

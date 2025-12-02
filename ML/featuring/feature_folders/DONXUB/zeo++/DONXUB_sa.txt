@@ -1,0 +1,3 @@
+@ feature_folders/DONXUB/zeo++/DONXUB_sa.txt Unitcell_volume: 5743.85   Density: 1.44854   ASA_A^2: 210.439 ASA_m^2/cm^3: 366.373 ASA_m^2/g: 252.926 NASA_A^2: 56.9055 NASA_m^2/cm^3: 99.072 NASA_m^2/g: 68.3944
+Number_of_channels: 2 Channel_surface_area_A^2: 106.22  104.22  
+Number_of_pockets: 8 Pocket_surface_area_A^2: 7.32892  7.87638  7.49093  6.48241  6.54731  6.18113  7.45546  7.54299  

@@ -1,0 +1,8 @@
+BIQHEQ, Anchors list: {34}, SBU connectlist: {1}
+BIQHEQ, Anchors list: {29}, SBU connectlist: {8}
+BIQHEQ, Anchors list: {13}, SBU connectlist: {5}
+BIQHEQ, Anchors list: {8}, SBU connectlist: {4}
+BIQHEQ, Anchors list: {34}, SBU connectlist: {1}
+BIQHEQ, Anchors list: {29}, SBU connectlist: {8}
+BIQHEQ, Anchors list: {13}, SBU connectlist: {5}
+BIQHEQ, Anchors list: {8}, SBU connectlist: {4}

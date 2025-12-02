@@ -1,0 +1,4 @@
+CUNFIB, Anchors list: {112, 128}, SBU connectlist: {0} set to be linker
+CUNFIB, Anchors list: {107, 91}, SBU connectlist: {3} set to be linker
+CUNFIB, Anchors list: {201, 217}, SBU connectlist: {1} set to be linker
+CUNFIB, Anchors list: {2, 18}, SBU connectlist: {2} set to be linker

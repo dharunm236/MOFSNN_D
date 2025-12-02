@@ -1,0 +1,2 @@
+AWIBEP, Anchors list: {77}, SBU connectlist: {0}
+AWIBEP, Anchors list: {14}, SBU connectlist: {1}

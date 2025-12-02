@@ -1,0 +1,4 @@
+Zn6_IDC_4_OH_2_HPRZ_2, Anchors list: {121, 93}, SBU connectlist: {8, 10}
+Zn6_IDC_4_OH_2_HPRZ_2, Anchors list: {90, 62}, SBU connectlist: {9, 11}
+Zn6_IDC_4_OH_2_HPRZ_2, Anchors list: {154, 182}, SBU connectlist: {4, 7}
+Zn6_IDC_4_OH_2_HPRZ_2, Anchors list: {1, 29}, SBU connectlist: {0, 6}

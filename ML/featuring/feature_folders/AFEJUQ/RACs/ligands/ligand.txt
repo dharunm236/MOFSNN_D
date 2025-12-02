@@ -1,0 +1,4 @@
+AFEJUQ, Anchors list: {142}, SBU connectlist: {2}
+AFEJUQ, Anchors list: {143}, SBU connectlist: {3}
+AFEJUQ, Anchors list: {44}, SBU connectlist: {0}
+AFEJUQ, Anchors list: {45}, SBU connectlist: {1}

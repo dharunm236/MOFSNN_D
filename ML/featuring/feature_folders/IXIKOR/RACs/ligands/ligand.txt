@@ -1,0 +1,8 @@
+IXIKOR, Anchors list: {191}, SBU connectlist: {7}
+IXIKOR, Anchors list: {190}, SBU connectlist: {6}
+IXIKOR, Anchors list: {113}, SBU connectlist: {5}
+IXIKOR, Anchors list: {112}, SBU connectlist: {4}
+IXIKOR, Anchors list: {39}, SBU connectlist: {1}
+IXIKOR, Anchors list: {38}, SBU connectlist: {0}
+IXIKOR, Anchors list: {265}, SBU connectlist: {3}
+IXIKOR, Anchors list: {264}, SBU connectlist: {2}

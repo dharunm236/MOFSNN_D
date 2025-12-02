@@ -1,0 +1,1 @@
+feature_folders/GUVCOP/zeo++/GUVCOP_pd.txt    5.74545 3.94509  5.74323

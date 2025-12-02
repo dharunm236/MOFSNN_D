@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/TIZYIM'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/TIZYIM'
 _cell_length_a 16.41960
 _cell_length_b 16.41960
 _cell_length_c  7.66960
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -105,8 +105,8 @@ C       0.3208   0.4039   0.3873     C
 C       0.3208   0.9169   0.8873     C
 C        0.321    0.099    0.558     C
 C        0.321    0.222    0.058     C
-Eu     0.33333  0.66667   0.3108    Eu
-Eu     0.33333  0.66667   0.8108    Eu
+Eu    0.33333333 0.66666667   0.3108    Eu
+Eu    0.33333333 0.66666667   0.8108    Eu
 C       0.3373      0.0    0.797     C
 C       0.3373   0.3373    0.297     C
 H       0.3422   0.3598   0.8971     H
@@ -183,8 +183,8 @@ H       0.6578   0.0176   0.8971     H
 H       0.6578   0.6402   0.3971     H
 C       0.6627      0.0    0.297     C
 C       0.6627   0.6627    0.797     C
-Eu     0.66667  0.33333   0.3108    Eu
-Eu     0.66667  0.33333   0.8108    Eu
+Eu    0.66666667 0.33333333   0.3108    Eu
+Eu    0.66666667 0.33333333   0.8108    Eu
 C        0.679    0.778    0.558     C
 C        0.679    0.901    0.058     C
 C       0.6792   0.0831   0.3873     C

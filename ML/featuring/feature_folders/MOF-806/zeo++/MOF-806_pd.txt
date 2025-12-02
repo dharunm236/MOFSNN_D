@@ -1,0 +1,1 @@
+feature_folders/MOF-806/zeo++/MOF-806_pd.txt    12.38541 6.56135  12.38541

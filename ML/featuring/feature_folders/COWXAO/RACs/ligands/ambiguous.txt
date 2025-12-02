@@ -1,0 +1,4 @@
+COWXAO, Anchors list: {23}, SBU connectlist: {3} set to be linker
+COWXAO, Anchors list: {45}, SBU connectlist: {2} set to be ligand
+COWXAO, Anchors list: {200}, SBU connectlist: {0} set to be linker
+COWXAO, Anchors list: {178}, SBU connectlist: {1} set to be linker

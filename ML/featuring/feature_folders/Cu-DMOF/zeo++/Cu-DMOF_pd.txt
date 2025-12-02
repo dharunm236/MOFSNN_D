@@ -1,0 +1,1 @@
+feature_folders/Cu-DMOF/zeo++/Cu-DMOF_pd.txt    9.59093 7.63413  9.59070

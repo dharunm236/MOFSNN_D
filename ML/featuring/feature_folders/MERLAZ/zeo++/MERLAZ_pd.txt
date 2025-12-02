@@ -1,0 +1,1 @@
+feature_folders/MERLAZ/zeo++/MERLAZ_pd.txt    25.86551 23.18559  25.85215

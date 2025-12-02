@@ -1,0 +1,12 @@
+CAYCIQ, Anchors list: {320, 371, 404}, SBU connectlist: {5} set to be ligand
+CAYCIQ, Anchors list: {54, 75, 174}, SBU connectlist: {3} set to be ligand
+CAYCIQ, Anchors list: {77, 55, 175}, SBU connectlist: {4} set to be ligand
+CAYCIQ, Anchors list: {176, 56, 76}, SBU connectlist: {5} set to be ligand
+CAYCIQ, Anchors list: {369, 403, 319}, SBU connectlist: {4} set to be ligand
+CAYCIQ, Anchors list: {318, 402, 370}, SBU connectlist: {3} set to be ligand
+CAYCIQ, Anchors list: {43, 11, 95}, SBU connectlist: {2} set to be ligand
+CAYCIQ, Anchors list: {10, 44, 94}, SBU connectlist: {1} set to be ligand
+CAYCIQ, Anchors list: {9, 42, 93}, SBU connectlist: {0} set to be linker
+CAYCIQ, Anchors list: {338, 239, 359}, SBU connectlist: {2} set to be ligand
+CAYCIQ, Anchors list: {337, 357, 237}, SBU connectlist: {0} set to be ligand
+CAYCIQ, Anchors list: {336, 358, 238}, SBU connectlist: {1} set to be ligand

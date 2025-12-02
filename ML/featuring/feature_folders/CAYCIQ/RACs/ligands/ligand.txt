@@ -1,0 +1,11 @@
+CAYCIQ11, Anchors list: {320, 371, 404}, SBU connectlist: {5}
+CAYCIQ10, Anchors list: {54, 75, 174}, SBU connectlist: {3}
+CAYCIQ9, Anchors list: {77, 55, 175}, SBU connectlist: {4}
+CAYCIQ8, Anchors list: {176, 56, 76}, SBU connectlist: {5}
+CAYCIQ7, Anchors list: {369, 403, 319}, SBU connectlist: {4}
+CAYCIQ6, Anchors list: {318, 402, 370}, SBU connectlist: {3}
+CAYCIQ5, Anchors list: {43, 11, 95}, SBU connectlist: {2}
+CAYCIQ4, Anchors list: {10, 44, 94}, SBU connectlist: {1}
+CAYCIQ2, Anchors list: {338, 239, 359}, SBU connectlist: {2}
+CAYCIQ1, Anchors list: {337, 357, 237}, SBU connectlist: {0}
+CAYCIQ0, Anchors list: {336, 358, 238}, SBU connectlist: {1}

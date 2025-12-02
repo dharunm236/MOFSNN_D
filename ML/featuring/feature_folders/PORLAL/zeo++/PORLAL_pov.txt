@@ -1,0 +1,3 @@
+@ feature_folders/PORLAL/zeo++/PORLAL_pov.txt Unitcell_volume: 4539.51   Density: 1.10001   POAV_A^3: 1796.74 POAV_Volume_fraction: 0.3958 POAV_cm^3/g: 0.359813 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/PORLAL/zeo++/PORLAL_pov.txt	1.10001	1.86	10000	0.1643	0	0.3958	0	0.1765	0.4277

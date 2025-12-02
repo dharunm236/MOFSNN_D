@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/LOQSUG'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/LOQSUG'
 _cell_length_a 24.12050
 _cell_length_b 24.12050
 _cell_length_c 24.12050
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -80,7 +80,7 @@ H       0.0616   0.5616   0.5149     H
 C       0.0637   0.7001   0.7153     C
 C       0.0642   0.9028   0.7023     C
 C        0.071   0.4721   0.6043     C
-H        0.072   0.8349   0.3333     H
+H        0.072   0.8349 0.33333333     H
 H       0.0728   0.0469   0.7353     H
 C       0.0732   0.2026    0.722     C
 H       0.0741   0.9263   0.2365     H
@@ -299,7 +299,7 @@ H       0.3305   0.5137   0.6356     H
 H       0.3311   0.2589   0.4491     H
 C        0.332   0.0576   0.7933     C
 C       0.3332   0.9803   0.7047     C
-H       0.3333    0.072   0.8349     H
+H     0.33333333    0.072   0.8349     H
 H       0.3349    0.572   0.8333     H
 H       0.3366   0.1386    0.786     H
 O       0.3373   0.9502   0.9474     O
@@ -739,7 +739,7 @@ H       0.8311   0.9491   0.7589     H
 C        0.832   0.2933   0.5576     C
 C       0.8332   0.2047   0.4803     C
 H       0.8333   0.3349    0.572     H
-H       0.8349   0.3333    0.072     H
+H       0.8349 0.33333333    0.072     H
 H       0.8366    0.286   0.6386     H
 O       0.8373   0.4474   0.4502     O
 H       0.8375   0.3288   0.9722     H

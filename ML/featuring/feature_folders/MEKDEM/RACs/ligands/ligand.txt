@@ -1,0 +1,4 @@
+MEKDEM, Anchors list: {5}, SBU connectlist: {0}
+MEKDEM, Anchors list: {136}, SBU connectlist: {1}
+MEKDEM, Anchors list: {26}, SBU connectlist: {1}
+MEKDEM, Anchors list: {115}, SBU connectlist: {0}

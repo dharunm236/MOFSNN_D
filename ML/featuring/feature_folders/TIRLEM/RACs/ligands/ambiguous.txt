@@ -1,0 +1,4 @@
+TIRLEM, Anchors list: {49, 34, 47}, SBU connectlist: {0} set to be linker
+TIRLEM, Anchors list: {34, 19, 21}, SBU connectlist: {0} set to be linker
+TIRLEM, Anchors list: {34, 19}, SBU connectlist: {0} set to be linker
+TIRLEM, Anchors list: {49, 34}, SBU connectlist: {0} set to be linker

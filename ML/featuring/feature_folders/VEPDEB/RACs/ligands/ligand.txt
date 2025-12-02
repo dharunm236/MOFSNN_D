@@ -1,0 +1,8 @@
+VEPDEB, Anchors list: {237}, SBU connectlist: {4}
+VEPDEB, Anchors list: {238}, SBU connectlist: {5}
+VEPDEB, Anchors list: {112}, SBU connectlist: {7}
+VEPDEB, Anchors list: {111}, SBU connectlist: {8}
+VEPDEB, Anchors list: {238}, SBU connectlist: {5}
+VEPDEB, Anchors list: {237}, SBU connectlist: {4}
+VEPDEB, Anchors list: {112}, SBU connectlist: {7}
+VEPDEB, Anchors list: {111}, SBU connectlist: {8}

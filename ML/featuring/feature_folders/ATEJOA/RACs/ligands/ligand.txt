@@ -1,0 +1,4 @@
+ATEJOA4, Anchors list: {19}, SBU connectlist: {1}
+ATEJOA3, Anchors list: {120}, SBU connectlist: {0}
+ATEJOA2, Anchors list: {120}, SBU connectlist: {0}
+ATEJOA0, Anchors list: {19}, SBU connectlist: {1}

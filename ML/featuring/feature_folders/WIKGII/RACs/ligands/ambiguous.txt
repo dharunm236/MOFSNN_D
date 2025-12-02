@@ -1,0 +1,8 @@
+WIKGII, Anchors list: {401, 305, 323, 395}, SBU connectlist: {1} set to be linker
+WIKGII, Anchors list: {296, 371, 268, 367}, SBU connectlist: {3} set to be linker
+WIKGII, Anchors list: {88, 163, 92, 191}, SBU connectlist: {2} set to be linker
+WIKGII, Anchors list: {64, 154, 58, 136}, SBU connectlist: {0} set to be linker
+WIKGII, Anchors list: {296, 371, 268, 367}, SBU connectlist: {3} set to be linker
+WIKGII, Anchors list: {401, 323, 395, 305}, SBU connectlist: {1} set to be linker
+WIKGII, Anchors list: {88, 163, 92, 191}, SBU connectlist: {2} set to be linker
+WIKGII, Anchors list: {64, 58, 136, 154}, SBU connectlist: {0} set to be linker

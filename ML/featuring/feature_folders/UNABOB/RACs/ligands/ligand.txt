@@ -1,0 +1,8 @@
+UNABOB, Anchors list: {125}, SBU connectlist: {3}
+UNABOB, Anchors list: {63}, SBU connectlist: {0}
+UNABOB, Anchors list: {64}, SBU connectlist: {0}
+UNABOB, Anchors list: {83}, SBU connectlist: {3}
+UNABOB, Anchors list: {46}, SBU connectlist: {2}
+UNABOB, Anchors list: {130}, SBU connectlist: {1}
+UNABOB, Anchors list: {102}, SBU connectlist: {1}
+UNABOB, Anchors list: {17}, SBU connectlist: {2}

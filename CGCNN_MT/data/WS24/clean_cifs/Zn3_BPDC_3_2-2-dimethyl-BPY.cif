@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/Zn3_BPDC_3_2-2-dimethyl-BPY'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/Zn3_BPDC_3_2-2-dimethyl-BPY'
 _cell_length_a 14.58620
 _cell_length_b 18.06830
 _cell_length_c 24.84630
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -68,7 +68,7 @@ H     0.106586  0.07174 0.711938     H
 C      0.10698  0.70895  0.26844     C
 C      0.10905  0.06994  0.18832     C
 C      0.11035  0.13144  0.22124     C
-O      0.11444  0.81112  0.66672     O
+O      0.11444  0.81112 0.66666667     O
 H      0.11525 0.161687 0.869881     H
 H     0.116689 0.516828 0.504518     H
 O      0.11764  0.30834 0.3795118     O
@@ -397,7 +397,7 @@ C      0.88215  0.28024  0.87974     C
 O      0.88244  0.69174 0.6204918     O
 H     0.883311 0.483172 0.495482     H
 H      0.88475 0.838313 0.130119     H
-O      0.88564  0.18892  0.33332     O
+O      0.88564  0.18892 0.33333333     O
 C      0.88975  0.86864  0.77884     C
 C      0.89105  0.93014  0.81172     C
 C      0.89318  0.29115  0.73164     C

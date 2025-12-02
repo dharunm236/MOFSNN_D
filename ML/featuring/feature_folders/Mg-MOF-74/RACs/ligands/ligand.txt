@@ -1,0 +1,18 @@
+Mg-MOF-74, Anchors list: {306, 307, 308, 309, 310}, SBU connectlist: {64, 67, 72, 61, 62}
+Mg-MOF-74, Anchors list: {401, 402, 403, 404, 405}, SBU connectlist: {16, 17, 20, 21, 24}
+Mg-MOF-74, Anchors list: {409, 410, 411}, SBU connectlist: {26, 27, 30}
+Mg-MOF-74, Anchors list: {314, 315, 316, 317, 318}, SBU connectlist: {69, 70, 71, 44, 46}
+Mg-MOF-74, Anchors list: {296, 297, 298, 295}, SBU connectlist: {42, 51, 54, 55}
+Mg-MOF-74, Anchors list: {275, 276}, SBU connectlist: {18, 19}
+Mg-MOF-74, Anchors list: {265, 266, 267}, SBU connectlist: {10, 6, 7}
+Mg-MOF-74, Anchors list: {168, 165, 166, 167}, SBU connectlist: {50, 53, 38, 39}
+Mg-MOF-74, Anchors list: {172, 173, 174, 175}, SBU connectlist: {56, 57, 58, 59}
+Mg-MOF-74, Anchors list: {258, 259, 260, 261}, SBU connectlist: {0, 1, 2, 3}
+Mg-MOF-74, Anchors list: {156, 157}, SBU connectlist: {34, 31}
+Mg-MOF-74, Anchors list: {136, 137, 134, 135}, SBU connectlist: {11, 12, 13, 14}
+Mg-MOF-74, Anchors list: {122, 123, 124, 125, 126}, SBU connectlist: {66, 43, 47, 48, 49}
+Mg-MOF-74, Anchors list: {21, 22, 23}, SBU connectlist: {25, 22, 23}
+Mg-MOF-74, Anchors list: {27, 28, 29, 30, 31}, SBU connectlist: {32, 33, 35, 28, 29}
+Mg-MOF-74, Anchors list: {114, 115, 116, 117, 118}, SBU connectlist: {65, 68, 45, 60, 63}
+Mg-MOF-74, Anchors list: {9, 10, 11, 12, 13}, SBU connectlist: {4, 5, 8, 9, 15}
+Mg-MOF-74, Anchors list: {419, 420, 421, 422, 423}, SBU connectlist: {36, 37, 40, 41, 52}

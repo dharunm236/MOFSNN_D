@@ -1,0 +1,4 @@
+ONUQUK, Anchors list: {102}, SBU connectlist: {0} set to be linker
+ONUQUK, Anchors list: {113}, SBU connectlist: {3} set to be linker
+ONUQUK, Anchors list: {210}, SBU connectlist: {1} set to be ligand
+ONUQUK, Anchors list: {5}, SBU connectlist: {2} set to be ligand

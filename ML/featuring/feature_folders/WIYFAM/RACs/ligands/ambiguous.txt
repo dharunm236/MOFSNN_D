@@ -1,0 +1,4 @@
+WIYFAM, Anchors list: {49, 99, 97, 47}, SBU connectlist: {1} set to be linker
+WIYFAM, Anchors list: {48, 98, 96, 46}, SBU connectlist: {0} set to be linker
+WIYFAM, Anchors list: {49, 99, 97, 47}, SBU connectlist: {1} set to be linker
+WIYFAM, Anchors list: {48, 98, 96, 46}, SBU connectlist: {0} set to be linker

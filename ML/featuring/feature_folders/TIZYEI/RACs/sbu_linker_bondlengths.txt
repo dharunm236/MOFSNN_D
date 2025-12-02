@@ -1,0 +1,4 @@
+Mean bond length: 2.5271088497131213
+Mean scaled bond length: 0.939445669038335
+Stdev bond length: 0.08771924258459642
+Stdev scaled bond length: 0.032609383860444756

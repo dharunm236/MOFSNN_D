@@ -1,0 +1,1 @@
+Structure OSIMOT has extremely short ligands, check the outputs

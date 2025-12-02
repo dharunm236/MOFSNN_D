@@ -1,0 +1,8 @@
+HOMRAD, Anchors list: {235}, SBU connectlist: {4}
+HOMRAD, Anchors list: {188}, SBU connectlist: {5}
+HOMRAD, Anchors list: {94}, SBU connectlist: {1}
+HOMRAD, Anchors list: {47}, SBU connectlist: {3}
+HOMRAD, Anchors list: {235}, SBU connectlist: {4}
+HOMRAD, Anchors list: {188}, SBU connectlist: {5}
+HOMRAD, Anchors list: {47}, SBU connectlist: {3}
+HOMRAD, Anchors list: {94}, SBU connectlist: {1}

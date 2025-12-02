@@ -1,0 +1,3 @@
+@ feature_folders/DANVAQ/zeo++/DANVAQ_sa.txt Unitcell_volume: 7978.18   Density: 1.5186   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 557.272 NASA_m^2/cm^3: 698.495 NASA_m^2/g: 459.959
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 16 Pocket_surface_area_A^2: 41.2167  41.5985  41.6285  41.6465  37.1324  42.0088  41.3556  17.6985  38.0183  17.2512  40.8026  41.998  39.0041  18.4387  18.1472  39.3261  

@@ -1,0 +1,4 @@
+FUJCOC01, Anchors list: {156}, SBU connectlist: {6} set to be ligand
+FUJCOC01, Anchors list: {51}, SBU connectlist: {5} set to be ligand
+FUJCOC01, Anchors list: {52}, SBU connectlist: {2} set to be linker
+FUJCOC01, Anchors list: {155}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,6 @@
+YEZKIZ5, Anchors list: {77}, SBU connectlist: {0}
+YEZKIZ4, Anchors list: {77}, SBU connectlist: {0}
+YEZKIZ3, Anchors list: {146}, SBU connectlist: {0}
+YEZKIZ2, Anchors list: {8}, SBU connectlist: {0}
+YEZKIZ1, Anchors list: {8}, SBU connectlist: {0}
+YEZKIZ0, Anchors list: {146}, SBU connectlist: {0}

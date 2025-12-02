@@ -1,0 +1,2 @@
+Pb2_p-PDA_PTPTP_22, Anchors list: {54}, SBU connectlist: {1}
+Pb2_p-PDA_PTPTP_21, Anchors list: {43}, SBU connectlist: {0}

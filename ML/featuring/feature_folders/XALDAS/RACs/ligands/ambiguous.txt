@@ -1,0 +1,4 @@
+XALDAS, Anchors list: {188, 236, 214, 215}, SBU connectlist: {2} set to be linker
+XALDAS, Anchors list: {309, 282, 283, 261}, SBU connectlist: {0} set to be linker
+XALDAS, Anchors list: {116, 117, 95, 143}, SBU connectlist: {3} set to be linker
+XALDAS, Anchors list: {48, 49, 22, 70}, SBU connectlist: {1} set to be linker

@@ -1,0 +1,4 @@
+TOVGAO, Anchors list: {307, 399}, SBU connectlist: {4} set to be ligand
+TOVGAO, Anchors list: {304, 399}, SBU connectlist: {4} set to be ligand
+TOVGAO, Anchors list: {399, 303}, SBU connectlist: {4} set to be ligand
+TOVGAO, Anchors list: {300, 399}, SBU connectlist: {4} set to be ligand

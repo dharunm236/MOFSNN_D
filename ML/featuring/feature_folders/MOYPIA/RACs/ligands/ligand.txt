@@ -1,0 +1,2 @@
+MOYPIA3, Anchors list: {89}, SBU connectlist: {0}
+MOYPIA2, Anchors list: {127}, SBU connectlist: {1}

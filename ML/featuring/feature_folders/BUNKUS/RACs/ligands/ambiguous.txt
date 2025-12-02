@@ -1,0 +1,6 @@
+BUNKUS, Anchors list: {30, 31}, SBU connectlist: {1} set to be ligand
+BUNKUS, Anchors list: {33, 35}, SBU connectlist: {2} set to be linker
+BUNKUS, Anchors list: {32, 34}, SBU connectlist: {0} set to be linker
+BUNKUS, Anchors list: {641, 639}, SBU connectlist: {2} set to be linker
+BUNKUS, Anchors list: {640, 638}, SBU connectlist: {0} set to be linker
+BUNKUS, Anchors list: {636, 637}, SBU connectlist: {1} set to be ligand

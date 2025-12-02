@@ -1,0 +1,4 @@
+mil-140b, Anchors list: {80, 111}, SBU connectlist: {1} set to be linker
+mil-140b, Anchors list: {81, 110}, SBU connectlist: {1} set to be linker
+mil-140b, Anchors list: {177, 14}, SBU connectlist: {0} set to be linker
+mil-140b, Anchors list: {176, 15}, SBU connectlist: {0} set to be linker

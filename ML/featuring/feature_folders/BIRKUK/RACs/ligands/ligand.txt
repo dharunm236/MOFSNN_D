@@ -1,0 +1,4 @@
+BIRKUK, Anchors list: {133}, SBU connectlist: {3}
+BIRKUK, Anchors list: {176}, SBU connectlist: {0}
+BIRKUK, Anchors list: {45}, SBU connectlist: {2}
+BIRKUK, Anchors list: {1}, SBU connectlist: {1}

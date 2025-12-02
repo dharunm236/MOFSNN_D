@@ -1,0 +1,3 @@
+@ feature_folders/EZILUV/zeo++/EZILUV_pov.txt Unitcell_volume: 6976.51   Density: 0.93904   POAV_A^3: 2154.35 POAV_Volume_fraction: 0.3088 POAV_cm^3/g: 0.328846 PONAV_A^3: 791.834 PONAV_Volume_fraction: 0.1135 PONAV_cm^3/g: 0.120868
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/EZILUV/zeo++/EZILUV_pov.txt	0.93904	1.86	10000	0.0767	0.0239	0.3088	0.1135	0.2088	0.3689

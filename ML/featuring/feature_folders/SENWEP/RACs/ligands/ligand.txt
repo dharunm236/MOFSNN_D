@@ -1,0 +1,4 @@
+SENWEP, Anchors list: {59}, SBU connectlist: {4}
+SENWEP, Anchors list: {60}, SBU connectlist: {5}
+SENWEP, Anchors list: {0}, SBU connectlist: {0}
+SENWEP, Anchors list: {119}, SBU connectlist: {7}

@@ -1,0 +1,4 @@
+PURNAT, Anchors list: {64, 130, 70, 72, 170, 174, 112, 80, 178, 214, 346, 158}, SBU connectlist: {2} set to be linker
+PURNAT, Anchors list: {65, 131, 71, 73, 171, 175, 113, 81, 179, 215, 347, 159}, SBU connectlist: {3} set to be linker
+PURNAT, Anchors list: {193, 5, 137, 173, 271, 239, 177, 181, 279, 281, 221, 287}, SBU connectlist: {1} set to be linker
+PURNAT, Anchors list: {192, 4, 136, 172, 270, 238, 176, 180, 278, 280, 220, 286}, SBU connectlist: {0} set to be linker

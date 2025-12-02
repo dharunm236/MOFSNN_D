@@ -1,0 +1,40 @@
+TIFCAM, Anchors list: {867}, SBU connectlist: {49}
+TIFCAM, Anchors list: {866}, SBU connectlist: {48}
+TIFCAM, Anchors list: {643, 559}, SBU connectlist: {27, 69}
+TIFCAM, Anchors list: {642, 558}, SBU connectlist: {26, 68}
+TIFCAM, Anchors list: {643}, SBU connectlist: {69}
+TIFCAM, Anchors list: {642}, SBU connectlist: {68}
+TIFCAM, Anchors list: {885}, SBU connectlist: {59}
+TIFCAM, Anchors list: {884}, SBU connectlist: {58}
+TIFCAM, Anchors list: {871}, SBU connectlist: {51}
+TIFCAM, Anchors list: {870}, SBU connectlist: {50}
+TIFCAM, Anchors list: {632}, SBU connectlist: {64}
+TIFCAM, Anchors list: {633}, SBU connectlist: {65}
+TIFCAM, Anchors list: {515}, SBU connectlist: {1}
+TIFCAM, Anchors list: {514}, SBU connectlist: {0}
+TIFCAM, Anchors list: {453}, SBU connectlist: {99}
+TIFCAM, Anchors list: {452}, SBU connectlist: {98}
+TIFCAM, Anchors list: {437}, SBU connectlist: {93}
+TIFCAM, Anchors list: {436}, SBU connectlist: {92}
+TIFCAM, Anchors list: {483}, SBU connectlist: {114}
+TIFCAM, Anchors list: {482}, SBU connectlist: {113}
+TIFCAM, Anchors list: {286}, SBU connectlist: {14}
+TIFCAM, Anchors list: {287}, SBU connectlist: {15}
+TIFCAM, Anchors list: {467}, SBU connectlist: {107}
+TIFCAM, Anchors list: {466}, SBU connectlist: {106}
+TIFCAM, Anchors list: {405}, SBU connectlist: {79}
+TIFCAM, Anchors list: {404}, SBU connectlist: {78}
+TIFCAM, Anchors list: {277}, SBU connectlist: {11}
+TIFCAM, Anchors list: {276}, SBU connectlist: {10}
+TIFCAM, Anchors list: {361, 277}, SBU connectlist: {11, 53}
+TIFCAM, Anchors list: {360, 276}, SBU connectlist: {10, 52}
+TIFCAM, Anchors list: {49}, SBU connectlist: {29}
+TIFCAM, Anchors list: {48}, SBU connectlist: {28}
+TIFCAM, Anchors list: {35}, SBU connectlist: {21}
+TIFCAM, Anchors list: {34}, SBU connectlist: {20}
+TIFCAM, Anchors list: {53}, SBU connectlist: {31}
+TIFCAM, Anchors list: {52}, SBU connectlist: {30}
+TIFCAM, Anchors list: {119}, SBU connectlist: {61}
+TIFCAM, Anchors list: {118}, SBU connectlist: {60}
+TIFCAM, Anchors list: {801}, SBU connectlist: {19}
+TIFCAM, Anchors list: {800}, SBU connectlist: {18}

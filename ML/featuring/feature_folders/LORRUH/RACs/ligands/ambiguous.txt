@@ -1,0 +1,8 @@
+LORRUH, Anchors list: {365, 198}, SBU connectlist: {1} set to be linker
+LORRUH, Anchors list: {365, 198}, SBU connectlist: {1} set to be ligand
+LORRUH, Anchors list: {54, 85, 198}, SBU connectlist: {1} set to be linker
+LORRUH, Anchors list: {509, 365, 478}, SBU connectlist: {1} set to be linker
+LORRUH, Anchors list: {336, 480, 367}, SBU connectlist: {0} set to be linker
+LORRUH, Anchors list: {83, 196, 227}, SBU connectlist: {0} set to be ligand
+LORRUH, Anchors list: {480, 83}, SBU connectlist: {0} set to be linker
+LORRUH, Anchors list: {480, 83}, SBU connectlist: {0} set to be linker

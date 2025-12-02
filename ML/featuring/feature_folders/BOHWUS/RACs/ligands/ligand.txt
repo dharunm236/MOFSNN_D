@@ -1,0 +1,1 @@
+BOHWUS10, Anchors list: {220, 221, 222}, SBU connectlist: {3}

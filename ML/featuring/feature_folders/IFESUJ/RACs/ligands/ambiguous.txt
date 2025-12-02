@@ -1,0 +1,6 @@
+IFESUJ, Anchors list: {98, 99, 190, 191}, SBU connectlist: {0} set to be linker
+IFESUJ, Anchors list: {192, 97, 98, 191}, SBU connectlist: {0} set to be linker
+IFESUJ, Anchors list: {192, 97, 99, 190}, SBU connectlist: {0} set to be linker
+IFESUJ, Anchors list: {192, 97, 98, 191}, SBU connectlist: {0} set to be linker
+IFESUJ, Anchors list: {192, 97, 99, 190}, SBU connectlist: {0} set to be linker
+IFESUJ, Anchors list: {98, 99, 190, 191}, SBU connectlist: {0} set to be linker

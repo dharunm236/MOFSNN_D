@@ -65,33 +65,23 @@ def descriptor_generator(name, structure_path, wiggle_room, prob_radius):
         # The files that are generated from RAC_getter.py: lc_descriptors.csv, sbu_descriptors.csv, linker_descriptors.csv
 
     # Zeo++ should be installed
-    # Change the zeo++-0.3/network path as appropriate
-    # Remove > /dev/null 2>&1 to allow capturing stderr
-    cmd1 = f'/home/dharunkraja/miniconda3/envs/mofsnn/bin/network -ha -res {zeo_folder}/{name}_pd.txt {structure_path}' 
-    cmd2 = f'/home/dharunkraja/miniconda3/envs/mofsnn/bin/network -sa {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_sa.txt {structure_path}'
-    cmd3 = f'/home/dharunkraja/miniconda3/envs/mofsnn/bin/network -volpo {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_pov.txt {structure_path}'
+    # Change the zeo++ network executable path as appropriate
+    ZEO_NETWORK = '/home/dharunkraja/miniconda3/envs/mofsnn/bin/network'
+    cmd1 = f'{ZEO_NETWORK} -ha -res {zeo_folder}/{name}_pd.txt {structure_path} > /dev/null 2>&1' # > /dev/null 2>&1 mutes terminal printing
+    cmd2 = f'{ZEO_NETWORK} -sa {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_sa.txt {structure_path} > /dev/null 2>&1'
+    cmd3 = f'{ZEO_NETWORK} -volpo {prob_radius} {prob_radius} 10000 {zeo_folder}/{name}_pov.txt {structure_path} > /dev/null 2>&1'
     cmd4 = 'python RAC_getter.py %s %s %s %f' %(structure_path, name, RACs_folder, wiggle_room)
 
     # four parallelized Zeo++ and RAC commands
-    # Use stderr=subprocess.PIPE to capture errors
-    process1 = subprocess.Popen(cmd1, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
-    process2 = subprocess.Popen(cmd2, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
-    process3 = subprocess.Popen(cmd3, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
-    process4 = subprocess.Popen(cmd4, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    process1 = subprocess.Popen(cmd1, stdout=subprocess.PIPE, stderr=None, shell=True)
+    process2 = subprocess.Popen(cmd2, stdout=subprocess.PIPE, stderr=None, shell=True)
+    process3 = subprocess.Popen(cmd3, stdout=subprocess.PIPE, stderr=None, shell=True)
+    process4 = subprocess.Popen(cmd4, stdout=subprocess.PIPE, stderr=None, shell=True)
 
-    output1, err1 = process1.communicate()
-    output2, err2 = process2.communicate()
-    output3, err3 = process3.communicate()
-    output4, err4 = process4.communicate()
-
-    if process1.returncode != 0:
-        print(f"Error in Zeo++ (pd) for {name}: {err1.decode()}")
-    if process2.returncode != 0:
-        print(f"Error in Zeo++ (sa) for {name}: {err2.decode()}")
-    if process3.returncode != 0:
-        print(f"Error in Zeo++ (volpo) for {name}: {err3.decode()}")
-    if process4.returncode != 0:
-        print(f"Error in RAC_getter for {name}: {err4.decode()}")
+    output1 = process1.communicate()[0]
+    output2 = process2.communicate()[0]
+    output3 = process3.communicate()[0]
+    output4 = process4.communicate()[0]
 
     # Commands above write Zeo++ output to files. Now, code below extracts information from those files.
     # The Zeo++ calculations use a probe radius of 1.4 angstrom, and zeo++ is called by subprocess.
@@ -215,38 +205,28 @@ if __name__ == '__main__':
     Collecting MOF features together across all MOFs.
     '''
 
-    # This dictionary will contain the merged descriptors for every MOF that was featurized successfully.
-    # This is for quick construction of the final Pandas DataFrame.
-    # Keys will be the feature name, and values will be lists of features for each MOF.
-    final_df_content_dict = {}
-
-    merged_column_names = ['name', 'cif_file', 'Di', 'Df', 'Dif', 'rho', 'VSA', 'GSA', 'VPOV', 'GPOV', 'POAV_vol_frac', 'PONAV_vol_frac', 'GPOAV', 'GPONAV', 'POAV', 'PONAV', 'D_func-I-0-all', 'D_func-I-1-all', 'D_func-I-2-all', 'D_func-I-3-all', 'D_func-S-0-all', 'D_func-S-1-all', 'D_func-S-2-all', 'D_func-S-3-all', 'D_func-T-0-all', 'D_func-T-1-all', 'D_func-T-2-all', 'D_func-T-3-all', 'D_func-Z-0-all', 'D_func-Z-1-all', 'D_func-Z-2-all', 'D_func-Z-3-all', 'D_func-alpha-0-all', 'D_func-alpha-1-all', 'D_func-alpha-2-all', 'D_func-alpha-3-all', 'D_func-chi-0-all', 'D_func-chi-1-all', 'D_func-chi-2-all', 'D_func-chi-3-all', 'D_lc-I-0-all', 'D_lc-I-1-all', 'D_lc-I-2-all', 'D_lc-I-3-all', 'D_lc-S-0-all', 'D_lc-S-1-all', 'D_lc-S-2-all', 'D_lc-S-3-all', 'D_lc-T-0-all', 'D_lc-T-1-all', 'D_lc-T-2-all', 'D_lc-T-3-all', 'D_lc-Z-0-all', 'D_lc-Z-1-all', 'D_lc-Z-2-all', 'D_lc-Z-3-all', 'D_lc-alpha-0-all', 'D_lc-alpha-1-all', 'D_lc-alpha-2-all', 'D_lc-alpha-3-all', 'D_lc-chi-0-all', 'D_lc-chi-1-all', 'D_lc-chi-2-all', 'D_lc-chi-3-all', 'func-I-0-all', 'func-I-1-all', 'func-I-2-all', 'func-I-3-all', 'func-S-0-all', 'func-S-1-all', 'func-S-2-all', 'func-S-3-all', 'func-T-0-all', 'func-T-1-all', 'func-T-2-all', 'func-T-3-all', 'func-Z-0-all', 'func-Z-1-all', 'func-Z-2-all', 'func-Z-3-all', 'func-alpha-0-all', 'func-alpha-1-all', 'func-alpha-2-all', 'func-alpha-3-all', 'func-chi-0-all', 'func-chi-1-all', 'func-chi-2-all', 'func-chi-3-all', 'lc-I-0-all', 'lc-I-1-all', 'lc-I-2-all', 'lc-I-3-all', 'lc-S-0-all', 'lc-S-1-all', 'lc-S-2-all', 'lc-S-3-all', 'lc-T-0-all', 'lc-T-1-all', 'lc-T-2-all', 'lc-T-3-all', 'lc-Z-0-all', 'lc-Z-1-all', 'lc-Z-2-all', 'lc-Z-3-all', 'lc-alpha-0-all', 'lc-alpha-1-all', 'lc-alpha-2-all', 'lc-alpha-3-all', 'lc-chi-0-all', 'lc-chi-1-all', 'lc-chi-2-all', 'lc-chi-3-all', 'D_mc-I-0-all', 'D_mc-I-1-all', 'D_mc-I-2-all', 'D_mc-I-3-all', 'D_mc-S-0-all', 'D_mc-S-1-all', 'D_mc-S-2-all', 'D_mc-S-3-all', 'D_mc-T-0-all', 'D_mc-T-1-all', 'D_mc-T-2-all', 'D_mc-T-3-all', 'D_mc-Z-0-all', 'D_mc-Z-1-all', 'D_mc-Z-2-all', 'D_mc-Z-3-all', 'D_mc-chi-0-all', 'D_mc-chi-1-all', 'D_mc-chi-2-all', 'D_mc-chi-3-all', 'f-I-0-all', 'f-I-1-all', 'f-I-2-all', 'f-I-3-all', 'f-S-0-all', 'f-S-1-all', 'f-S-2-all', 'f-S-3-all', 'f-T-0-all', 'f-T-1-all', 'f-T-2-all', 'f-T-3-all', 'f-Z-0-all', 'f-Z-1-all', 'f-Z-2-all', 'f-Z-3-all', 'f-chi-0-all', 'f-chi-1-all', 'f-chi-2-all', 'f-chi-3-all', 'mc-I-0-all', 'mc-I-1-all', 'mc-I-2-all', 'mc-I-3-all', 'mc-S-0-all', 'mc-S-1-all', 'mc-S-2-all', 'mc-S-3-all', 'mc-T-0-all', 'mc-T-1-all', 'mc-T-2-all', 'mc-T-3-all', 'mc-Z-0-all', 'mc-Z-1-all', 'mc-Z-2-all', 'mc-Z-3-all', 'mc-chi-0-all', 'mc-chi-1-all', 'mc-chi-2-all', 'mc-chi-3-all', 'f-lig-I-0', 'f-lig-I-1', 'f-lig-I-2', 'f-lig-I-3', 'f-lig-S-0', 'f-lig-S-1', 'f-lig-S-2', 'f-lig-S-3', 'f-lig-T-0', 'f-lig-T-1', 'f-lig-T-2', 'f-lig-T-3', 'f-lig-Z-0', 'f-lig-Z-1', 'f-lig-Z-2', 'f-lig-Z-3', 'f-lig-chi-0', 'f-lig-chi-1', 'f-lig-chi-2', 'f-lig-chi-3']
-    for _i in merged_column_names:
-        final_df_content_dict[_i] = []
-
     # Combining all features together for all MOFs.
-
     MOF_names = [os.path.basename(i).replace('.cif', '') for i in cif_paths]
     unsuccessful_featurizations = []
+    all_dfs = []
+    
     for MOF_name in MOF_names: # Iterating through all MOFs.
         descriptors_folder = f'feature_folders/{MOF_name}/merged_descriptors'
 
         csv_path = f'{descriptors_folder}/{MOF_name}_descriptors.csv'
         if os.path.exists(csv_path): # RAC and Zeo++ feature generation was successful.
             df = pd.read_csv(csv_path)
-            
-            # Adding to the dictionary
-            for _i in merged_column_names: # Iterating through all columns
-                value = df.iloc[0][_i]
-                final_df_content_dict[_i].append(value)
-
+            all_dfs.append(df)
         else: # RAC and Zeo++ feature generation was *not* successful.
             unsuccessful_featurizations.append(MOF_name)
             continue
     
     final_csv_path = os.path.join(os.path.dirname(cif_dir), 'RAC_and_zeo_features.csv')
-    final_df = pd.DataFrame.from_dict(final_df_content_dict)
-    final_df = final_df.sort_values(by=['name']) # Sort names alphabetically.
-    final_df.to_csv(final_csv_path, index=False)
+    if all_dfs:
+        final_df = pd.concat(all_dfs, ignore_index=True)
+        final_df = final_df.sort_values(by=['name']) # Sort names alphabetically.
+        final_df.to_csv(final_csv_path, index=False)
+    else:
+        print("No successful featurizations to combine.")
 
     print(f'unsuccessful_featurizations is {unsuccessful_featurizations}')

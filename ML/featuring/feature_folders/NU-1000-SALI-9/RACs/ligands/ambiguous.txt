@@ -1,0 +1,12 @@
+NU-1000-SALI-9, Anchors list: {464}, SBU connectlist: {1} set to be linker
+NU-1000-SALI-9, Anchors list: {459}, SBU connectlist: {2} set to be ligand
+NU-1000-SALI-9, Anchors list: {460}, SBU connectlist: {2} set to be ligand
+NU-1000-SALI-9, Anchors list: {451}, SBU connectlist: {1} set to be linker
+NU-1000-SALI-9, Anchors list: {313}, SBU connectlist: {1} set to be linker
+NU-1000-SALI-9, Anchors list: {310}, SBU connectlist: {2} set to be ligand
+NU-1000-SALI-9, Anchors list: {301}, SBU connectlist: {1} set to be linker
+NU-1000-SALI-9, Anchors list: {308}, SBU connectlist: {2} set to be ligand
+NU-1000-SALI-9, Anchors list: {778}, SBU connectlist: {0} set to be ligand
+NU-1000-SALI-9, Anchors list: {775}, SBU connectlist: {0} set to be linker
+NU-1000-SALI-9, Anchors list: {774}, SBU connectlist: {0} set to be linker
+NU-1000-SALI-9, Anchors list: {772}, SBU connectlist: {0} set to be ligand

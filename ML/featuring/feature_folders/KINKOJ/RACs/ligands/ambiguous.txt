@@ -1,0 +1,8 @@
+KINKOJ, Anchors list: {258}, SBU connectlist: {1} set to be linker
+KINKOJ, Anchors list: {5}, SBU connectlist: {2} set to be linker
+KINKOJ, Anchors list: {121}, SBU connectlist: {0} set to be linker
+KINKOJ, Anchors list: {5}, SBU connectlist: {2} set to be linker
+KINKOJ, Anchors list: {258}, SBU connectlist: {1} set to be linker
+KINKOJ, Anchors list: {142}, SBU connectlist: {3} set to be linker
+KINKOJ, Anchors list: {142}, SBU connectlist: {3} set to be linker
+KINKOJ, Anchors list: {121}, SBU connectlist: {0} set to be linker

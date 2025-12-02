@@ -1,0 +1,8 @@
+XAPGAZ, Anchors list: {225, 289, 165, 167, 200, 235, 307, 311, 284}, SBU connectlist: {3} set to be linker
+XAPGAZ, Anchors list: {224, 288, 164, 166, 201, 234, 306, 310, 285}, SBU connectlist: {2} set to be ligand
+XAPGAZ, Anchors list: {193, 197, 269, 302, 337, 339, 215, 218, 279}, SBU connectlist: {2} set to be ligand
+XAPGAZ, Anchors list: {192, 196, 268, 303, 336, 338, 214, 278, 219}, SBU connectlist: {3} set to be linker
+XAPGAZ, Anchors list: {32, 417, 419, 452, 37, 487, 55, 59, 477}, SBU connectlist: {1} set to be linker
+XAPGAZ, Anchors list: {416, 33, 418, 36, 453, 486, 54, 58, 476}, SBU connectlist: {0} set to be linker
+XAPGAZ, Anchors list: {449, 17, 50, 467, 85, 470, 87, 27, 445}, SBU connectlist: {0} set to be linker
+XAPGAZ, Anchors list: {448, 16, 466, 51, 84, 86, 471, 26, 444}, SBU connectlist: {1} set to be linker

@@ -1,0 +1,12 @@
+BELYUO, Anchors list: {69}, SBU connectlist: {1}
+BELYUO, Anchors list: {122, 69}, SBU connectlist: {1, 2}
+BELYUO, Anchors list: {116}, SBU connectlist: {3}
+BELYUO, Anchors list: {15}, SBU connectlist: {5}
+BELYUO, Anchors list: {116, 68}, SBU connectlist: {0, 3}
+BELYUO, Anchors list: {68}, SBU connectlist: {0}
+BELYUO, Anchors list: {21}, SBU connectlist: {4}
+BELYUO, Anchors list: {68, 15}, SBU connectlist: {0, 5}
+BELYUO, Anchors list: {116, 15}, SBU connectlist: {3, 5}
+BELYUO, Anchors list: {21, 69}, SBU connectlist: {1, 4}
+BELYUO, Anchors list: {122, 21}, SBU connectlist: {2, 4}
+BELYUO, Anchors list: {122}, SBU connectlist: {2}

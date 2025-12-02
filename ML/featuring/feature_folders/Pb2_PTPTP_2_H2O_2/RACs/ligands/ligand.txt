@@ -1,0 +1,2 @@
+Pb2_PTPTP_2_H2O_22, Anchors list: {138}, SBU connectlist: {2}
+Pb2_PTPTP_2_H2O_21, Anchors list: {17}, SBU connectlist: {1}

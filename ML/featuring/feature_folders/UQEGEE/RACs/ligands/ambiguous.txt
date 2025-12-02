@@ -1,0 +1,40 @@
+UQEGEE, Anchors list: {928, 931, 940, 684, 941, 685, 656, 657, 401, 400, 408, 411}, SBU connectlist: {0} set to be ligand
+UQEGEE, Anchors list: {36, 39, 46, 1582, 47, 1583, 1554, 1555, 1299, 1298, 1308, 1311}, SBU connectlist: {3} set to be ligand
+UQEGEE, Anchors list: {932, 935, 942, 686, 943, 687, 658, 659, 403, 402, 412, 415}, SBU connectlist: {1} set to be ligand
+UQEGEE, Anchors list: {306, 675, 1039}, SBU connectlist: {1} set to be ligand
+UQEGEE, Anchors list: {673, 307, 1038}, SBU connectlist: {1} set to be ligand
+UQEGEE, Anchors list: {304, 1037, 671}, SBU connectlist: {0} set to be ligand
+UQEGEE, Anchors list: {305, 1036, 669}, SBU connectlist: {0} set to be ligand
+UQEGEE, Anchors list: {32, 35, 44, 1580, 45, 1581, 1552, 1296, 1297, 1553, 1304, 1307}, SBU connectlist: {2} set to be ligand
+UQEGEE, Anchors list: {1202, 1573, 143}, SBU connectlist: {3} set to be ligand
+UQEGEE, Anchors list: {1571, 1203, 142}, SBU connectlist: {3} set to be ligand
+UQEGEE, Anchors list: {1200, 1565, 141}, SBU connectlist: {2} set to be ligand
+UQEGEE, Anchors list: {1201, 1563, 140}, SBU connectlist: {2} set to be ligand
+UQEGEE, Anchors list: {1650, 591}, SBU connectlist: {9} set to be ligand
+UQEGEE, Anchors list: {1651, 590}, SBU connectlist: {9} set to be ligand
+UQEGEE, Anchors list: {1648, 589}, SBU connectlist: {8} set to be ligand
+UQEGEE, Anchors list: {1649, 588}, SBU connectlist: {8} set to be ligand
+UQEGEE, Anchors list: {1380, 1383, 1390, 1134, 1391, 1135, 1106, 851, 1107, 850, 860, 863}, SBU connectlist: {5} set to be ligand
+UQEGEE, Anchors list: {1376, 1379, 1388, 1132, 1389, 1133, 1104, 1105, 848, 849, 856, 859}, SBU connectlist: {4} set to be ligand
+UQEGEE, Anchors list: {1122, 755, 1486}, SBU connectlist: {5} set to be ligand
+UQEGEE, Anchors list: {1120, 754, 1487}, SBU connectlist: {5} set to be ligand
+UQEGEE, Anchors list: {753, 1484, 1118}, SBU connectlist: {4} set to be ligand
+UQEGEE, Anchors list: {752, 1116, 1485}, SBU connectlist: {4} set to be ligand
+UQEGEE, Anchors list: {1202, 143}, SBU connectlist: {3} set to be ligand
+UQEGEE, Anchors list: {1203, 142}, SBU connectlist: {3} set to be ligand
+UQEGEE, Anchors list: {1200, 141}, SBU connectlist: {2} set to be ligand
+UQEGEE, Anchors list: {1201, 140}, SBU connectlist: {2} set to be ligand
+UQEGEE, Anchors list: {484, 487, 494, 238, 239, 495, 210, 1746, 1747, 211, 1756, 1759}, SBU connectlist: {9} set to be linker
+UQEGEE, Anchors list: {480, 483, 492, 236, 237, 493, 1744, 1745, 209, 208, 1752, 1755}, SBU connectlist: {8} set to be linker
+UQEGEE, Anchors list: {1651, 228, 590}, SBU connectlist: {9} set to be linker
+UQEGEE, Anchors list: {226, 1650, 591}, SBU connectlist: {9} set to be linker
+UQEGEE, Anchors list: {1649, 220, 588}, SBU connectlist: {8} set to be linker
+UQEGEE, Anchors list: {1648, 218, 589}, SBU connectlist: {8} set to be linker
+UQEGEE, Anchors list: {307, 1038}, SBU connectlist: {1} set to be linker
+UQEGEE, Anchors list: {306, 1039}, SBU connectlist: {1} set to be linker
+UQEGEE, Anchors list: {305, 1036}, SBU connectlist: {0} set to be linker
+UQEGEE, Anchors list: {304, 1037}, SBU connectlist: {0} set to be linker
+UQEGEE, Anchors list: {754, 1487}, SBU connectlist: {5} set to be linker
+UQEGEE, Anchors list: {755, 1486}, SBU connectlist: {5} set to be linker
+UQEGEE, Anchors list: {752, 1485}, SBU connectlist: {4} set to be linker
+UQEGEE, Anchors list: {753, 1484}, SBU connectlist: {4} set to be linker

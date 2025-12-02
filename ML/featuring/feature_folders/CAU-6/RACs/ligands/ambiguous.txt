@@ -1,0 +1,6 @@
+CAU-6, Anchors list: {184, 185, 182, 183}, SBU connectlist: {0} set to be linker
+CAU-6, Anchors list: {78, 77, 182, 183}, SBU connectlist: {0} set to be linker
+CAU-6, Anchors list: {184, 185, 77, 78}, SBU connectlist: {0} set to be linker
+CAU-6, Anchors list: {152, 44, 45, 151}, SBU connectlist: {0} set to be linker
+CAU-6, Anchors list: {152, 42, 43, 151}, SBU connectlist: {0} set to be linker
+CAU-6, Anchors list: {42, 43, 44, 45}, SBU connectlist: {0} set to be linker

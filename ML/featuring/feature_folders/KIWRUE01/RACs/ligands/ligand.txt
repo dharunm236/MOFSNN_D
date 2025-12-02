@@ -1,0 +1,12 @@
+KIWRUE01, Anchors list: {128}, SBU connectlist: {0}
+KIWRUE01, Anchors list: {11}, SBU connectlist: {3}
+KIWRUE01, Anchors list: {58}, SBU connectlist: {2}
+KIWRUE01, Anchors list: {11}, SBU connectlist: {3}
+KIWRUE01, Anchors list: {58}, SBU connectlist: {2}
+KIWRUE01, Anchors list: {81}, SBU connectlist: {1}
+KIWRUE01, Anchors list: {81}, SBU connectlist: {1}
+KIWRUE01, Anchors list: {128}, SBU connectlist: {0}
+KIWRUE01, Anchors list: {81}, SBU connectlist: {1}
+KIWRUE01, Anchors list: {58}, SBU connectlist: {2}
+KIWRUE01, Anchors list: {11}, SBU connectlist: {3}
+KIWRUE01, Anchors list: {128}, SBU connectlist: {0}

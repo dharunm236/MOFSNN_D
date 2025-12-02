@@ -1,0 +1,23 @@
+PURNOH, Anchors list: {48, 93}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {93, 135}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {127, 95}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {123, 93}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {48, 53}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {65, 140}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {61, 135}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {24, 65}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {53, 127}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {48, 123}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {65, 95}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {65, 61}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {93, 61}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {53, 95}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {164, 140}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {24, 61}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {164, 127}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {24, 48}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {123, 164}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {140, 135}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {123, 127}, SBU connectlist: {0} set to be linker
+PURNOH, Anchors list: {140, 95}, SBU connectlist: {0} set to be linker
+Structure PURNOH has extremely short ligands, check the outputs

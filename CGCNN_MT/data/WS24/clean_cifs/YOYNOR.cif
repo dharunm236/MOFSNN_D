@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/YOYNOR'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/YOYNOR'
 _cell_length_a 13.91300
 _cell_length_b 16.77400
 _cell_length_c 16.77400
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -55,7 +55,7 @@ C       0.0896   0.8785    0.192     C
 C       0.0974   0.4069   0.1834     C
 C       0.0974   0.7765   0.5931     C
 C       0.0974   0.8166   0.2235     C
-Ni     0.10433   0.6667 0.33336667    Ni
+Ni     0.10433 0.66666667 0.33336667    Ni
 H       0.1154   0.4876   0.4237     H
 H       0.1154   0.5763   0.0639     H
 H       0.1154   0.9361   0.5124     H
@@ -177,7 +177,7 @@ C       0.5896   0.6865    0.808     C
 C       0.5974   0.1834   0.4069     C
 C       0.5974   0.2235   0.8166     C
 C       0.5974   0.5931   0.7765     C
-Ni     0.60433 0.33333333 0.66663333    Ni
+Ni     0.60433 0.33333333 0.66666667    Ni
 H       0.6154   0.0639   0.5763     H
 H       0.6154   0.4237   0.4876     H
 H       0.6154   0.5124   0.9361     H
@@ -226,7 +226,7 @@ H       0.8687   0.7272   0.8736     H
 H       0.8846   0.0639   0.4876     H
 H       0.8846   0.4237   0.9361     H
 H       0.8846   0.5124   0.5763     H
-Ni     0.89567   0.3333 0.66663333    Ni
+Ni     0.89567   0.3333 0.66666667    Ni
 C       0.9026   0.1834   0.7765     C
 C       0.9026   0.2235   0.4069     C
 C       0.9026   0.5931   0.8166     C

@@ -1,0 +1,4 @@
+LUVXAB, Anchors list: {23}, SBU connectlist: {7}
+LUVXAB, Anchors list: {77}, SBU connectlist: {5}
+LUVXAB, Anchors list: {126}, SBU connectlist: {6}
+LUVXAB, Anchors list: {180}, SBU connectlist: {4}

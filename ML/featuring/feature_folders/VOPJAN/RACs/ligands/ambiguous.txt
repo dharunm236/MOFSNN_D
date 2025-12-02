@@ -1,0 +1,5 @@
+VOPJAN, Anchors list: {48, 121}, SBU connectlist: {0} set to be linker
+VOPJAN, Anchors list: {48, 159}, SBU connectlist: {0} set to be linker
+VOPJAN, Anchors list: {121, 10}, SBU connectlist: {0} set to be linker
+VOPJAN, Anchors list: {10, 159}, SBU connectlist: {0} set to be linker
+VOPJAN, Anchors list: {48, 121}, SBU connectlist: {0} set to be linker

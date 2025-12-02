@@ -1,0 +1,8 @@
+CUKWOV, Anchors list: {40, 34, 342}, SBU connectlist: {9} set to be linker
+CUKWOV, Anchors list: {155, 150, 207}, SBU connectlist: {6} set to be linker
+CUKWOV, Anchors list: {136, 194, 227}, SBU connectlist: {2} set to be linker
+CUKWOV, Anchors list: {175, 236, 143}, SBU connectlist: {7} set to be ligand
+CUKWOV, Anchors list: {161, 221, 215}, SBU connectlist: {8} set to be linker
+CUKWOV, Anchors list: {336, 26, 331}, SBU connectlist: {5} set to be linker
+CUKWOV, Anchors list: {356, 324, 55}, SBU connectlist: {0} set to be linker
+CUKWOV, Anchors list: {317, 13, 46}, SBU connectlist: {1} set to be linker

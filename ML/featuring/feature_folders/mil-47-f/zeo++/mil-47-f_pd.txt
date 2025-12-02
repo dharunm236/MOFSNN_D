@@ -1,0 +1,1 @@
+feature_folders/mil-47-f/zeo++/mil-47-f_pd.txt    7.68368 7.20536  7.68368

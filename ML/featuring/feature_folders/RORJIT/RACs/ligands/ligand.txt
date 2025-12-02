@@ -1,0 +1,3 @@
+RORJIT, Anchors list: {125}, SBU connectlist: {3}
+RORJIT, Anchors list: {124}, SBU connectlist: {2}
+RORJIT, Anchors list: {2}, SBU connectlist: {1}

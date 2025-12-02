@@ -1,0 +1,2 @@
+COYCID, Anchors list: {135}, SBU connectlist: {2}
+COYCID, Anchors list: {84}, SBU connectlist: {0}

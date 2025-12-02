@@ -1,0 +1,12 @@
+SIFVOU, Anchors list: {362, 302}, SBU connectlist: {11, 13}
+SIFVOU, Anchors list: {89, 53}, SBU connectlist: {17, 15}
+SIFVOU, Anchors list: {186, 207}, SBU connectlist: {10, 4}
+SIFVOU, Anchors list: {218, 302}, SBU connectlist: {9, 13}
+SIFVOU, Anchors list: {207, 302, 263}, SBU connectlist: {2, 4, 13}
+SIFVOU, Anchors list: {162, 183}, SBU connectlist: {19, 7}
+SIFVOU, Anchors list: {67, 151}, SBU connectlist: {0, 16}
+SIFVOU, Anchors list: {107, 162, 67}, SBU connectlist: {0, 12, 7}
+SIFVOU, Anchors list: {140, 53}, SBU connectlist: {3, 15}
+SIFVOU, Anchors list: {242, 316}, SBU connectlist: {18, 14}
+SIFVOU, Anchors list: {316, 229}, SBU connectlist: {8, 18}
+SIFVOU, Anchors list: {67, 7}, SBU connectlist: {0, 1}

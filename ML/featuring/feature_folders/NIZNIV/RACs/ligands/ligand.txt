@@ -1,0 +1,4 @@
+NIZNIV23, Anchors list: {20, 93, 71}, SBU connectlist: {3}
+NIZNIV21, Anchors list: {355, 27, 44}, SBU connectlist: {5}
+NIZNIV13, Anchors list: {232, 167, 215}, SBU connectlist: {7}
+NIZNIV12, Anchors list: {331, 20, 348}, SBU connectlist: {3}

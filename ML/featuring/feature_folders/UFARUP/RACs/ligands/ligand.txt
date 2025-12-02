@@ -1,0 +1,8 @@
+UFARUP, Anchors list: {232}, SBU connectlist: {9}
+UFARUP, Anchors list: {229}, SBU connectlist: {8}
+UFARUP, Anchors list: {229}, SBU connectlist: {8}
+UFARUP, Anchors list: {232}, SBU connectlist: {9}
+UFARUP, Anchors list: {75}, SBU connectlist: {1}
+UFARUP, Anchors list: {78}, SBU connectlist: {3}
+UFARUP, Anchors list: {78}, SBU connectlist: {3}
+UFARUP, Anchors list: {75}, SBU connectlist: {1}

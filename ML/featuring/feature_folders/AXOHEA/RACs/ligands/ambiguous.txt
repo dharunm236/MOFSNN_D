@@ -1,0 +1,3 @@
+AXOHEA, Anchors list: {82}, SBU connectlist: {2} set to be linker
+AXOHEA, Anchors list: {25}, SBU connectlist: {1} set to be linker
+AXOHEA, Anchors list: {0}, SBU connectlist: {0} set to be linker

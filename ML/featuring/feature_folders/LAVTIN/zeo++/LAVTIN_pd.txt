@@ -1,0 +1,1 @@
+feature_folders/LAVTIN/zeo++/LAVTIN_pd.txt    6.87869 6.48693  6.87869

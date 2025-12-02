@@ -1,0 +1,4 @@
+SANHAT, Anchors list: {145}, SBU connectlist: {1}
+SANHAT, Anchors list: {146}, SBU connectlist: {2}
+SANHAT, Anchors list: {111}, SBU connectlist: {3}
+SANHAT, Anchors list: {112}, SBU connectlist: {0}

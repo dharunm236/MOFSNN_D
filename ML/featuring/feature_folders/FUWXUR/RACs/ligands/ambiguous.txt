@@ -1,0 +1,8 @@
+FUWXUR, Anchors list: {41, 35, 366}, SBU connectlist: {8} set to be linker
+FUWXUR, Anchors list: {161, 220, 166}, SBU connectlist: {6} set to be linker
+FUWXUR, Anchors list: {145, 206, 239}, SBU connectlist: {2} set to be linker
+FUWXUR, Anchors list: {248, 154, 187}, SBU connectlist: {4} set to be ligand
+FUWXUR, Anchors list: {234, 228, 173}, SBU connectlist: {9} set to be linker
+FUWXUR, Anchors list: {354, 27, 359}, SBU connectlist: {7} set to be linker
+FUWXUR, Anchors list: {347, 380, 55}, SBU connectlist: {0} set to be linker
+FUWXUR, Anchors list: {338, 13, 46}, SBU connectlist: {1} set to be linker

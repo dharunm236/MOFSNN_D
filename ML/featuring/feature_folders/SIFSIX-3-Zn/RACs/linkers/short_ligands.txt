@@ -1,0 +1,1 @@
+SIFSIX-3-Zn, (min_max_linker_length,max_min_linker_length): 2 , 3

@@ -1,0 +1,8 @@
+TIRLIQ, Anchors list: {98}, SBU connectlist: {1}
+TIRLIQ, Anchors list: {124}, SBU connectlist: {10}
+TIRLIQ, Anchors list: {167}, SBU connectlist: {2}
+TIRLIQ, Anchors list: {193}, SBU connectlist: {0}
+TIRLIQ, Anchors list: {270}, SBU connectlist: {5}
+TIRLIQ, Anchors list: {244}, SBU connectlist: {7}
+TIRLIQ, Anchors list: {21}, SBU connectlist: {11}
+TIRLIQ, Anchors list: {47}, SBU connectlist: {6}

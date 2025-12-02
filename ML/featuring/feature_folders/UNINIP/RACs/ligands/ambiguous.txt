@@ -1,0 +1,4 @@
+UNINIP, Anchors list: {128}, SBU connectlist: {0} set to be linker
+UNINIP, Anchors list: {151}, SBU connectlist: {3} set to be linker
+UNINIP, Anchors list: {32}, SBU connectlist: {1} set to be linker
+UNINIP, Anchors list: {55}, SBU connectlist: {2} set to be linker

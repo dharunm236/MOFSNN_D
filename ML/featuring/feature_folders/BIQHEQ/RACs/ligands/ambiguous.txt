@@ -1,0 +1,7 @@
+BIQHEQ, Anchors list: {39}, SBU connectlist: {3} set to be linker
+BIQHEQ, Anchors list: {24}, SBU connectlist: {6} set to be linker
+BIQHEQ, Anchors list: {18}, SBU connectlist: {7} set to be linker
+BIQHEQ, Anchors list: {3}, SBU connectlist: {2} set to be linker
+BIQHEQ, Anchors list: {21}, SBU connectlist: {9} set to be linker
+BIQHEQ, Anchors list: {0}, SBU connectlist: {0} set to be linker
+Structure BIQHEQ has extremely short ligands, check the outputs

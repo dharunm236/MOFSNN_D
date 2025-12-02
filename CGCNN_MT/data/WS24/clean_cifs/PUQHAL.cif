@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/PUQHAL'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/PUQHAL'
 _cell_length_a 12.41210
 _cell_length_b 13.60770
 _cell_length_c 19.06690
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -225,7 +225,7 @@ O       0.7879   0.4679  0.58528     O
 O       0.7879   0.9679  0.91472     O
 Ni     0.79093  0.18538  0.43733    Ni
 Ni     0.79093  0.68538  0.06267    Ni
-C       0.8028   0.2637   0.6666     C
+C       0.8028   0.2637 0.66666667     C
 C       0.8028   0.7637   0.8334     C
 O       0.8148   0.4679   0.9692     O
 O       0.8148   0.9679   0.5308     O

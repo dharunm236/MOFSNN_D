@@ -1,0 +1,1 @@
+feature_folders/Co-NIC/zeo++/Co-NIC_pd.txt    4.86897 2.49560  4.86897

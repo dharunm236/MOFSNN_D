@@ -1,0 +1,8 @@
+ULASAD, Anchors list: {3}, SBU connectlist: {3}
+ULASAD, Anchors list: {2}, SBU connectlist: {2}
+ULASAD, Anchors list: {105}, SBU connectlist: {7}
+ULASAD, Anchors list: {104}, SBU connectlist: {6}
+ULASAD, Anchors list: {105}, SBU connectlist: {7}
+ULASAD, Anchors list: {104}, SBU connectlist: {6}
+ULASAD, Anchors list: {3}, SBU connectlist: {3}
+ULASAD, Anchors list: {2}, SBU connectlist: {2}

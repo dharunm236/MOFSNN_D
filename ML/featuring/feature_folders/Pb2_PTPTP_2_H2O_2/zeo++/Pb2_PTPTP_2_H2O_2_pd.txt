@@ -1,0 +1,1 @@
+feature_folders/Pb2_PTPTP_2_H2O_2/zeo++/Pb2_PTPTP_2_H2O_2_pd.txt    2.43366 1.36735  2.43366

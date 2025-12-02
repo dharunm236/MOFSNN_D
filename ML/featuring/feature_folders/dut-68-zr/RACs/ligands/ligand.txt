@@ -1,0 +1,144 @@
+dut-68-zr, Anchors list: {3415}, SBU connectlist: {59}
+dut-68-zr, Anchors list: {3410}, SBU connectlist: {47}
+dut-68-zr, Anchors list: {3409}, SBU connectlist: {57}
+dut-68-zr, Anchors list: {3408}, SBU connectlist: {47}
+dut-68-zr, Anchors list: {3413}, SBU connectlist: {59}
+dut-68-zr, Anchors list: {3463}, SBU connectlist: {21}
+dut-68-zr, Anchors list: {3412}, SBU connectlist: {58}
+dut-68-zr, Anchors list: {3462}, SBU connectlist: {40}
+dut-68-zr, Anchors list: {3411}, SBU connectlist: {57}
+dut-68-zr, Anchors list: {3461}, SBU connectlist: {39}
+dut-68-zr, Anchors list: {3460}, SBU connectlist: {38}
+dut-68-zr, Anchors list: {3459}, SBU connectlist: {37}
+dut-68-zr, Anchors list: {3458}, SBU connectlist: {36}
+dut-68-zr, Anchors list: {3457}, SBU connectlist: {35}
+dut-68-zr, Anchors list: {3456}, SBU connectlist: {34}
+dut-68-zr, Anchors list: {3414}, SBU connectlist: {58}
+dut-68-zr347, Anchors list: {3163, 3463}, SBU connectlist: {21}
+dut-68-zr346, Anchors list: {3162, 3462}, SBU connectlist: {40}
+dut-68-zr345, Anchors list: {3161, 3461}, SBU connectlist: {39}
+dut-68-zr344, Anchors list: {3160, 3460}, SBU connectlist: {38}
+dut-68-zr343, Anchors list: {3459, 3159}, SBU connectlist: {37}
+dut-68-zr342, Anchors list: {3458, 3158}, SBU connectlist: {36}
+dut-68-zr341, Anchors list: {3457, 3157}, SBU connectlist: {35}
+dut-68-zr340, Anchors list: {3456, 3156}, SBU connectlist: {34}
+dut-68-zr331, Anchors list: {3413, 3415}, SBU connectlist: {59}
+dut-68-zr330, Anchors list: {3412, 3414}, SBU connectlist: {58}
+dut-68-zr329, Anchors list: {3409, 3411}, SBU connectlist: {57}
+dut-68-zr328, Anchors list: {3408, 3410}, SBU connectlist: {47}
+dut-68-zr, Anchors list: {3163}, SBU connectlist: {21}
+dut-68-zr, Anchors list: {3162}, SBU connectlist: {40}
+dut-68-zr, Anchors list: {3161}, SBU connectlist: {39}
+dut-68-zr, Anchors list: {3160}, SBU connectlist: {38}
+dut-68-zr, Anchors list: {3159}, SBU connectlist: {37}
+dut-68-zr, Anchors list: {3158}, SBU connectlist: {36}
+dut-68-zr, Anchors list: {3157}, SBU connectlist: {35}
+dut-68-zr, Anchors list: {3156}, SBU connectlist: {34}
+dut-68-zr, Anchors list: {4758}, SBU connectlist: {1}
+dut-68-zr, Anchors list: {4756}, SBU connectlist: {32}
+dut-68-zr, Anchors list: {4755}, SBU connectlist: {31}
+dut-68-zr, Anchors list: {4753}, SBU connectlist: {29}
+dut-68-zr, Anchors list: {4754}, SBU connectlist: {30}
+dut-68-zr, Anchors list: {4759}, SBU connectlist: {56}
+dut-68-zr, Anchors list: {4757}, SBU connectlist: {33}
+dut-68-zr, Anchors list: {4752}, SBU connectlist: {28}
+dut-68-zr270, Anchors list: {4505, 4507}, SBU connectlist: {16}
+dut-68-zr269, Anchors list: {4504, 4506}, SBU connectlist: {15}
+dut-68-zr268, Anchors list: {4501, 4503}, SBU connectlist: {5}
+dut-68-zr267, Anchors list: {4500, 4502}, SBU connectlist: {4}
+dut-68-zr254, Anchors list: {4459, 4759}, SBU connectlist: {56}
+dut-68-zr253, Anchors list: {4458, 4758}, SBU connectlist: {1}
+dut-68-zr252, Anchors list: {4457, 4757}, SBU connectlist: {33}
+dut-68-zr251, Anchors list: {4456, 4756}, SBU connectlist: {32}
+dut-68-zr250, Anchors list: {4755, 4455}, SBU connectlist: {31}
+dut-68-zr249, Anchors list: {4754, 4454}, SBU connectlist: {30}
+dut-68-zr248, Anchors list: {4753, 4453}, SBU connectlist: {29}
+dut-68-zr247, Anchors list: {4752, 4452}, SBU connectlist: {28}
+dut-68-zr, Anchors list: {4507}, SBU connectlist: {16}
+dut-68-zr, Anchors list: {4506}, SBU connectlist: {15}
+dut-68-zr, Anchors list: {4505}, SBU connectlist: {16}
+dut-68-zr, Anchors list: {4504}, SBU connectlist: {15}
+dut-68-zr, Anchors list: {4503}, SBU connectlist: {5}
+dut-68-zr, Anchors list: {4502}, SBU connectlist: {4}
+dut-68-zr, Anchors list: {4501}, SBU connectlist: {5}
+dut-68-zr, Anchors list: {4500}, SBU connectlist: {4}
+dut-68-zr, Anchors list: {4459}, SBU connectlist: {56}
+dut-68-zr, Anchors list: {4458}, SBU connectlist: {1}
+dut-68-zr, Anchors list: {4457}, SBU connectlist: {33}
+dut-68-zr, Anchors list: {4456}, SBU connectlist: {32}
+dut-68-zr, Anchors list: {4455}, SBU connectlist: {31}
+dut-68-zr, Anchors list: {4454}, SBU connectlist: {30}
+dut-68-zr, Anchors list: {4453}, SBU connectlist: {29}
+dut-68-zr, Anchors list: {4452}, SBU connectlist: {28}
+dut-68-zr, Anchors list: {2131}, SBU connectlist: {7}
+dut-68-zr, Anchors list: {2130}, SBU connectlist: {14}
+dut-68-zr, Anchors list: {2129}, SBU connectlist: {13}
+dut-68-zr, Anchors list: {2128}, SBU connectlist: {12}
+dut-68-zr, Anchors list: {2127}, SBU connectlist: {11}
+dut-68-zr, Anchors list: {2126}, SBU connectlist: {10}
+dut-68-zr, Anchors list: {2125}, SBU connectlist: {9}
+dut-68-zr, Anchors list: {2124}, SBU connectlist: {8}
+dut-68-zr171, Anchors list: {1877, 1879}, SBU connectlist: {52}
+dut-68-zr170, Anchors list: {1876, 1878}, SBU connectlist: {54}
+dut-68-zr169, Anchors list: {1873, 1875}, SBU connectlist: {55}
+dut-68-zr168, Anchors list: {1872, 1874}, SBU connectlist: {53}
+dut-68-zr, Anchors list: {1879}, SBU connectlist: {52}
+dut-68-zr, Anchors list: {1878}, SBU connectlist: {54}
+dut-68-zr, Anchors list: {1877}, SBU connectlist: {52}
+dut-68-zr, Anchors list: {1876}, SBU connectlist: {54}
+dut-68-zr, Anchors list: {1875}, SBU connectlist: {55}
+dut-68-zr, Anchors list: {1874}, SBU connectlist: {53}
+dut-68-zr, Anchors list: {1873}, SBU connectlist: {55}
+dut-68-zr, Anchors list: {1872}, SBU connectlist: {53}
+dut-68-zr, Anchors list: {1831}, SBU connectlist: {7}
+dut-68-zr, Anchors list: {1830}, SBU connectlist: {14}
+dut-68-zr, Anchors list: {1829}, SBU connectlist: {13}
+dut-68-zr, Anchors list: {1828}, SBU connectlist: {12}
+dut-68-zr, Anchors list: {1827}, SBU connectlist: {11}
+dut-68-zr, Anchors list: {1826}, SBU connectlist: {10}
+dut-68-zr, Anchors list: {1825}, SBU connectlist: {9}
+dut-68-zr, Anchors list: {1824}, SBU connectlist: {8}
+dut-68-zr111, Anchors list: {2131, 1831}, SBU connectlist: {7}
+dut-68-zr110, Anchors list: {2130, 1830}, SBU connectlist: {14}
+dut-68-zr109, Anchors list: {2129, 1829}, SBU connectlist: {13}
+dut-68-zr108, Anchors list: {2128, 1828}, SBU connectlist: {12}
+dut-68-zr107, Anchors list: {1827, 2127}, SBU connectlist: {11}
+dut-68-zr106, Anchors list: {1826, 2126}, SBU connectlist: {10}
+dut-68-zr105, Anchors list: {1825, 2125}, SBU connectlist: {9}
+dut-68-zr104, Anchors list: {1824, 2124}, SBU connectlist: {8}
+dut-68-zr, Anchors list: {835}, SBU connectlist: {23}
+dut-68-zr, Anchors list: {834}, SBU connectlist: {27}
+dut-68-zr, Anchors list: {833}, SBU connectlist: {22}
+dut-68-zr, Anchors list: {832}, SBU connectlist: {26}
+dut-68-zr, Anchors list: {831}, SBU connectlist: {18}
+dut-68-zr, Anchors list: {830}, SBU connectlist: {25}
+dut-68-zr, Anchors list: {829}, SBU connectlist: {17}
+dut-68-zr, Anchors list: {828}, SBU connectlist: {24}
+dut-68-zr, Anchors list: {787}, SBU connectlist: {44}
+dut-68-zr, Anchors list: {786}, SBU connectlist: {43}
+dut-68-zr, Anchors list: {785}, SBU connectlist: {44}
+dut-68-zr, Anchors list: {784}, SBU connectlist: {43}
+dut-68-zr, Anchors list: {783}, SBU connectlist: {42}
+dut-68-zr, Anchors list: {782}, SBU connectlist: {41}
+dut-68-zr, Anchors list: {781}, SBU connectlist: {42}
+dut-68-zr, Anchors list: {780}, SBU connectlist: {41}
+dut-68-zr59, Anchors list: {835, 535}, SBU connectlist: {23}
+dut-68-zr58, Anchors list: {834, 534}, SBU connectlist: {27}
+dut-68-zr57, Anchors list: {833, 533}, SBU connectlist: {22}
+dut-68-zr56, Anchors list: {832, 532}, SBU connectlist: {26}
+dut-68-zr55, Anchors list: {531, 831}, SBU connectlist: {18}
+dut-68-zr54, Anchors list: {530, 830}, SBU connectlist: {25}
+dut-68-zr53, Anchors list: {529, 829}, SBU connectlist: {17}
+dut-68-zr52, Anchors list: {528, 828}, SBU connectlist: {24}
+dut-68-zr43, Anchors list: {785, 787}, SBU connectlist: {44}
+dut-68-zr42, Anchors list: {784, 786}, SBU connectlist: {43}
+dut-68-zr41, Anchors list: {781, 783}, SBU connectlist: {42}
+dut-68-zr40, Anchors list: {780, 782}, SBU connectlist: {41}
+dut-68-zr, Anchors list: {535}, SBU connectlist: {23}
+dut-68-zr, Anchors list: {534}, SBU connectlist: {27}
+dut-68-zr, Anchors list: {533}, SBU connectlist: {22}
+dut-68-zr, Anchors list: {532}, SBU connectlist: {26}
+dut-68-zr, Anchors list: {531}, SBU connectlist: {18}
+dut-68-zr, Anchors list: {530}, SBU connectlist: {25}
+dut-68-zr, Anchors list: {529}, SBU connectlist: {17}
+dut-68-zr, Anchors list: {528}, SBU connectlist: {24}

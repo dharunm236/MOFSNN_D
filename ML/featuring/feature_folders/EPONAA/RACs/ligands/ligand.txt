@@ -1,0 +1,16 @@
+EPONAA, Anchors list: {38}, SBU connectlist: {3}
+EPONAA, Anchors list: {39}, SBU connectlist: {4}
+EPONAA, Anchors list: {0}, SBU connectlist: {0}
+EPONAA, Anchors list: {1}, SBU connectlist: {1}
+EPONAA, Anchors list: {1}, SBU connectlist: {1}
+EPONAA, Anchors list: {0}, SBU connectlist: {0}
+EPONAA, Anchors list: {38}, SBU connectlist: {3}
+EPONAA, Anchors list: {39}, SBU connectlist: {4}
+EPONAA, Anchors list: {39}, SBU connectlist: {4}
+EPONAA, Anchors list: {38}, SBU connectlist: {3}
+EPONAA, Anchors list: {39}, SBU connectlist: {4}
+EPONAA, Anchors list: {38}, SBU connectlist: {3}
+EPONAA, Anchors list: {1}, SBU connectlist: {1}
+EPONAA, Anchors list: {0}, SBU connectlist: {0}
+EPONAA, Anchors list: {1}, SBU connectlist: {1}
+EPONAA, Anchors list: {0}, SBU connectlist: {0}

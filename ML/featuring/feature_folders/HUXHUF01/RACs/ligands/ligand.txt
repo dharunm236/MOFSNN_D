@@ -1,0 +1,6 @@
+HUXHUF0111, Anchors list: {214}, SBU connectlist: {4}
+HUXHUF01, Anchors list: {145}, SBU connectlist: {3}
+HUXHUF019, Anchors list: {215}, SBU connectlist: {5}
+HUXHUF01, Anchors list: {145}, SBU connectlist: {3}
+HUXHUF01, Anchors list: {0}, SBU connectlist: {0}
+HUXHUF01, Anchors list: {0}, SBU connectlist: {0}

@@ -1,0 +1,8 @@
+ULASEH, Anchors list: {13}, SBU connectlist: {3}
+ULASEH, Anchors list: {12}, SBU connectlist: {2}
+ULASEH, Anchors list: {351}, SBU connectlist: {6}
+ULASEH, Anchors list: {350}, SBU connectlist: {5}
+ULASEH, Anchors list: {13}, SBU connectlist: {3}
+ULASEH, Anchors list: {12}, SBU connectlist: {2}
+ULASEH, Anchors list: {351}, SBU connectlist: {6}
+ULASEH, Anchors list: {350}, SBU connectlist: {5}

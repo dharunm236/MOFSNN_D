@@ -1,0 +1,8 @@
+SEFNEX, Anchors list: {74}, SBU connectlist: {1}
+SEFNEX, Anchors list: {101}, SBU connectlist: {2}
+SEFNEX, Anchors list: {162}, SBU connectlist: {0}
+SEFNEX, Anchors list: {74}, SBU connectlist: {1}
+SEFNEX, Anchors list: {101}, SBU connectlist: {2}
+SEFNEX, Anchors list: {13}, SBU connectlist: {3}
+SEFNEX, Anchors list: {162}, SBU connectlist: {0}
+SEFNEX, Anchors list: {13}, SBU connectlist: {3}

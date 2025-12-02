@@ -1,0 +1,4 @@
+OVIDON, Anchors list: {205, 223}, SBU connectlist: {0} set to be linker
+OVIDON, Anchors list: {120, 138}, SBU connectlist: {3} set to be linker
+OVIDON, Anchors list: {292, 310}, SBU connectlist: {2} set to be linker
+OVIDON, Anchors list: {33, 51}, SBU connectlist: {1} set to be linker

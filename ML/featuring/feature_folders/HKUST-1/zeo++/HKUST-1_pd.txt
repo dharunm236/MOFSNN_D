@@ -1,0 +1,1 @@
+feature_folders/HKUST-1/zeo++/HKUST-1_pd.txt    13.36196 6.64516  13.36196

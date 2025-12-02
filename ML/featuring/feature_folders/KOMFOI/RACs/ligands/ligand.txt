@@ -1,0 +1,4 @@
+KOMFOI, Anchors list: {0}, SBU connectlist: {0}
+KOMFOI, Anchors list: {0}, SBU connectlist: {0}
+KOMFOI, Anchors list: {42}, SBU connectlist: {1}
+KOMFOI, Anchors list: {42}, SBU connectlist: {1}

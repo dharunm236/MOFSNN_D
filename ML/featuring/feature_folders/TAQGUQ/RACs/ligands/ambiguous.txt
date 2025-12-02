@@ -1,0 +1,4 @@
+TAQGUQ, Anchors list: {87}, SBU connectlist: {1} set to be linker
+TAQGUQ, Anchors list: {92}, SBU connectlist: {0} set to be linker
+TAQGUQ, Anchors list: {92}, SBU connectlist: {0} set to be linker
+TAQGUQ, Anchors list: {87}, SBU connectlist: {1} set to be linker

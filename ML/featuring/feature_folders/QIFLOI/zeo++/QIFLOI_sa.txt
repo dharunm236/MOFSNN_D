@@ -1,0 +1,3 @@
+@ feature_folders/QIFLOI/zeo++/QIFLOI_sa.txt Unitcell_volume: 2350.88   Density: 1.38748   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 71.475 NASA_m^2/cm^3: 304.035 NASA_m^2/g: 219.128
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 19 Pocket_surface_area_A^2: 22.2042  3.05813  0.0159261  0.0159261  0  2.84584  0.0159261  18.6331  0  0.0318522  0.0477783  0  2.8153  3.24809  0.0109359  18.4523  0.0477783  0.0318522  0  

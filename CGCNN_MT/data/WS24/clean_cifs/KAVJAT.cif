@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/KAVJAT'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/KAVJAT'
 _cell_length_a 23.40715
 _cell_length_b 23.40690
 _cell_length_c 23.40690
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -19,8 +19,10 @@ _atom_site_fract_x
 _atom_site_fract_y
 _atom_site_fract_z
 _atom_site_type_symbol
+Pr         0.0      0.0   0.3304    Pr
 Pr         0.0      0.0      0.5    Pr
 Pr         0.0      0.0   0.6696    Pr
+Pr         0.0      0.5      0.0    Pr
 C       0.0048    0.373    0.915     C
 O       0.0073   0.8875     0.44     O
 C       0.0104   0.3107   0.8813     C
@@ -365,5 +367,3 @@ C        0.984   0.8735   0.2317     C
 C       0.9896   0.6893   0.1187     C
 O       0.9927   0.1125     0.56     O
 C       0.9952    0.627    0.085     C
-Pr         1.0      0.5      1.0    Pr
-Pr         1.0      1.0   0.3304    Pr

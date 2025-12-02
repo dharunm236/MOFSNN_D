@@ -1,0 +1,1 @@
+feature_folders/LAZPOT/zeo++/LAZPOT_pd.txt    3.21244 2.64436  3.16504

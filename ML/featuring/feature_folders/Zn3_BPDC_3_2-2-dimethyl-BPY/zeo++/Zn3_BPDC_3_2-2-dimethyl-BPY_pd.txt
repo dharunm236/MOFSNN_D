@@ -1,0 +1,1 @@
+feature_folders/Zn3_BPDC_3_2-2-dimethyl-BPY/zeo++/Zn3_BPDC_3_2-2-dimethyl-BPY_pd.txt    6.15956 4.49614  6.09948

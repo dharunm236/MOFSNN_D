@@ -1,0 +1,2 @@
+XICXAK, Anchors list: {25}, SBU connectlist: {1}
+XICXAK, Anchors list: {206}, SBU connectlist: {2}

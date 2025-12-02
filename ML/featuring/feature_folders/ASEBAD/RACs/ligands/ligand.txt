@@ -1,0 +1,2 @@
+ASEBAD3, Anchors list: {61}, SBU connectlist: {1}
+ASEBAD2, Anchors list: {60}, SBU connectlist: {0}

@@ -1,0 +1,2 @@
+HUKZIW02, Anchors list: {19, 14}, SBU connectlist: {2, 4}
+HUKZIW02, Anchors list: {56, 51}, SBU connectlist: {1, 3}

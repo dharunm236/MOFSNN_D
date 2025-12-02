@@ -1,0 +1,3 @@
+@ feature_folders/Zn2L4/zeo++/Zn2L4_sa.txt Unitcell_volume: 983.856   Density: 1.54929   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 14.9233 NASA_m^2/cm^3: 151.682 NASA_m^2/g: 97.9038
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 7.73007  7.19323  

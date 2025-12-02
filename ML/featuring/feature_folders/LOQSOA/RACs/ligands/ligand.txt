@@ -1,0 +1,14 @@
+LOQSOA29, Anchors list: {575}, SBU connectlist: {7}
+LOQSOA27, Anchors list: {136}, SBU connectlist: {1}
+LOQSOA26, Anchors list: {136}, SBU connectlist: {1}
+LOQSOA25, Anchors list: {574}, SBU connectlist: {6}
+LOQSOA24, Anchors list: {527}, SBU connectlist: {2}
+LOQSOA22, Anchors list: {135}, SBU connectlist: {0}
+LOQSOA19, Anchors list: {575}, SBU connectlist: {7}
+LOQSOA15, Anchors list: {135}, SBU connectlist: {0}
+LOQSOA13, Anchors list: {527}, SBU connectlist: {2}
+LOQSOA12, Anchors list: {574}, SBU connectlist: {6}
+LOQSOA11, Anchors list: {574}, SBU connectlist: {6}
+LOQSOA8, Anchors list: {88}, SBU connectlist: {4}
+LOQSOA5, Anchors list: {135}, SBU connectlist: {0}
+LOQSOA4, Anchors list: {88}, SBU connectlist: {4}

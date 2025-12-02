@@ -1,0 +1,28 @@
+IHOTAC, Anchors list: {124, 469, 366}, SBU connectlist: {3} set to be ligand
+IHOTAC, Anchors list: {10, 123, 365}, SBU connectlist: {0} set to be linker
+IHOTAC, Anchors list: {126, 364, 470}, SBU connectlist: {1} set to be ligand
+IHOTAC, Anchors list: {9, 363, 125}, SBU connectlist: {2} set to be linker
+IHOTAC, Anchors list: {226, 243}, SBU connectlist: {0} set to be ligand
+IHOTAC, Anchors list: {2, 123, 365}, SBU connectlist: {0} set to be linker
+IHOTAC, Anchors list: {363, 3, 125}, SBU connectlist: {2} set to be linker
+IHOTAC, Anchors list: {364, 477, 126}, SBU connectlist: {1} set to be ligand
+IHOTAC, Anchors list: {366, 124, 478}, SBU connectlist: {3} set to be linker
+IHOTAC, Anchors list: {254, 271}, SBU connectlist: {3} set to be ligand
+IHOTAC, Anchors list: {272, 253}, SBU connectlist: {1} set to be ligand
+IHOTAC, Anchors list: {225, 244}, SBU connectlist: {2} set to be linker
+IHOTAC, Anchors list: {272, 253, 477, 470}, SBU connectlist: {1} set to be linker
+IHOTAC, Anchors list: {9, 3}, SBU connectlist: {2} set to be linker
+IHOTAC, Anchors list: {225, 363, 125}, SBU connectlist: {2} set to be linker
+IHOTAC, Anchors list: {124, 366, 271}, SBU connectlist: {3} set to be linker
+IHOTAC, Anchors list: {225, 3, 244, 9}, SBU connectlist: {2} set to be linker
+IHOTAC, Anchors list: {10, 2, 226, 243}, SBU connectlist: {0} set to be linker
+IHOTAC, Anchors list: {477, 470}, SBU connectlist: {1} set to be ligand
+IHOTAC, Anchors list: {469, 478}, SBU connectlist: {3} set to be ligand
+IHOTAC, Anchors list: {366, 124, 254}, SBU connectlist: {3} set to be linker
+IHOTAC, Anchors list: {363, 244, 125}, SBU connectlist: {2} set to be linker
+IHOTAC, Anchors list: {364, 253, 126}, SBU connectlist: {1} set to be linker
+IHOTAC, Anchors list: {123, 243, 365}, SBU connectlist: {0} set to be linker
+IHOTAC, Anchors list: {254, 469, 478, 271}, SBU connectlist: {3} set to be linker
+IHOTAC, Anchors list: {2, 10}, SBU connectlist: {0} set to be linker
+IHOTAC, Anchors list: {226, 123, 365}, SBU connectlist: {0} set to be linker
+IHOTAC, Anchors list: {272, 364, 126}, SBU connectlist: {1} set to be linker

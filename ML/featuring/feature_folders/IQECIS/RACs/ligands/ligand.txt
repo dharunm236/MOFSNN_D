@@ -1,0 +1,2 @@
+IQECIS10, Anchors list: {185, 260, 231}, SBU connectlist: {0}
+IQECIS6, Anchors list: {32, 3, 78}, SBU connectlist: {2}

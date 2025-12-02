@@ -1,0 +1,3 @@
+@ feature_folders/WUPVAG/zeo++/WUPVAG_pov.txt Unitcell_volume: 62997.8   Density: 0.713808   POAV_A^3: 37332.5 POAV_Volume_fraction: 0.5926 POAV_cm^3/g: 0.830195 PONAV_A^3: 447.284 PONAV_Volume_fraction: 0.0071 PONAV_cm^3/g: 0.00994665
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/WUPVAG/zeo++/WUPVAG_pov.txt	0.713808	1.86	10000	0.4064	0.0012	0.5926	0.0071	0.1509	0.2494

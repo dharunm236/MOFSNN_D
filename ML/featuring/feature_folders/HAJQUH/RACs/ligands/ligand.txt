@@ -1,0 +1,4 @@
+HAJQUH, Anchors list: {189}, SBU connectlist: {3}
+HAJQUH, Anchors list: {466}, SBU connectlist: {0}
+HAJQUH, Anchors list: {517}, SBU connectlist: {2}
+HAJQUH, Anchors list: {138}, SBU connectlist: {1}

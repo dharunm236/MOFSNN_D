@@ -1,0 +1,4 @@
+SEFNOH, Anchors list: {32}, SBU connectlist: {0}
+SEFNOH, Anchors list: {155}, SBU connectlist: {1}
+SEFNOH, Anchors list: {126}, SBU connectlist: {2}
+SEFNOH, Anchors list: {61}, SBU connectlist: {3}

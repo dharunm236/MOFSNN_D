@@ -1,0 +1,6 @@
+MIXYOJ, Anchors list: {214}, SBU connectlist: {5}
+MIXYOJ, Anchors list: {212}, SBU connectlist: {2}
+MIXYOJ, Anchors list: {109}, SBU connectlist: {4}
+MIXYOJ, Anchors list: {108}, SBU connectlist: {3}
+MIXYOJ, Anchors list: {323}, SBU connectlist: {1}
+MIXYOJ, Anchors list: {322}, SBU connectlist: {0}

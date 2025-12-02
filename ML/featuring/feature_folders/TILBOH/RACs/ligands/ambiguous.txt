@@ -1,0 +1,2 @@
+TILBOH, Anchors list: {244}, SBU connectlist: {0} set to be ligand
+TILBOH, Anchors list: {58}, SBU connectlist: {0} set to be ligand

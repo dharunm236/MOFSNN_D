@@ -1,0 +1,3 @@
+@ feature_folders/HESVOR/zeo++/HESVOR_sa.txt Unitcell_volume: 987.026   Density: 1.54432   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 16.9311 NASA_m^2/cm^3: 171.537 NASA_m^2/g: 111.076
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 2 Pocket_surface_area_A^2: 8.51282  8.41833  

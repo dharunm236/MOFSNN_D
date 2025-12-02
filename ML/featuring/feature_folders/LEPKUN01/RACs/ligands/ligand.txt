@@ -1,0 +1,4 @@
+LEPKUN01, Anchors list: {81, 103}, SBU connectlist: {4, 6}
+LEPKUN01, Anchors list: {33, 52}, SBU connectlist: {8, 1}
+LEPKUN01, Anchors list: {57, 35}, SBU connectlist: {2, 7}
+LEPKUN01, Anchors list: {105, 86}, SBU connectlist: {9, 5}

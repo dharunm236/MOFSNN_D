@@ -1,0 +1,1 @@
+feature_folders/SIFSIX-2-Cu-i/zeo++/SIFSIX-2-Cu-i_pd.txt    3.84503 3.62906  3.84188

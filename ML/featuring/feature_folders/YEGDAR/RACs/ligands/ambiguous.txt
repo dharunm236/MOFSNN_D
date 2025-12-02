@@ -1,0 +1,4 @@
+YEGDAR, Anchors list: {9}, SBU connectlist: {3} set to be linker
+YEGDAR, Anchors list: {8}, SBU connectlist: {2} set to be linker
+YEGDAR, Anchors list: {260}, SBU connectlist: {1} set to be linker
+YEGDAR, Anchors list: {259}, SBU connectlist: {0} set to be linker

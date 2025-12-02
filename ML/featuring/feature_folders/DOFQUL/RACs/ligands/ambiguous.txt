@@ -1,0 +1,4 @@
+DOFQUL, Anchors list: {76}, SBU connectlist: {0} set to be linker
+DOFQUL, Anchors list: {69}, SBU connectlist: {1} set to be linker
+DOFQUL, Anchors list: {76}, SBU connectlist: {0} set to be linker
+DOFQUL, Anchors list: {69}, SBU connectlist: {1} set to be linker

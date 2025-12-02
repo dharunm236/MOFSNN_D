@@ -1,0 +1,6 @@
+UiO-66-NO2, Anchors list: {88, 89, 42, 41}, SBU connectlist: {0} set to be linker
+UiO-66-NO2, Anchors list: {88, 90, 40, 42}, SBU connectlist: {0} set to be linker
+UiO-66-NO2, Anchors list: {40, 89, 90, 41}, SBU connectlist: {0} set to be linker
+UiO-66-NO2, Anchors list: {88, 90, 40, 42}, SBU connectlist: {0} set to be linker
+UiO-66-NO2, Anchors list: {88, 89, 42, 41}, SBU connectlist: {0} set to be linker
+UiO-66-NO2, Anchors list: {40, 89, 90, 41}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,3 @@
+@ feature_folders/YEGTEK/zeo++/YEGTEK_sa.txt Unitcell_volume: 3530.9   Density: 1.57194   ASA_A^2: 0 ASA_m^2/cm^3: 0 ASA_m^2/g: 0 NASA_A^2: 180.764 NASA_m^2/cm^3: 511.948 NASA_m^2/g: 325.679
+Number_of_channels: 0 Channel_surface_area_A^2: 
+Number_of_pockets: 4 Pocket_surface_area_A^2: 45.3189  46.2142  46.0177  43.2131  

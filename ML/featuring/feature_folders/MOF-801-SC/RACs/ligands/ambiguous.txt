@@ -1,0 +1,6 @@
+MOF-801-SC, Anchors list: {56, 18, 20, 54}, SBU connectlist: {0} set to be linker
+MOF-801-SC, Anchors list: {19, 20, 54, 55}, SBU connectlist: {0} set to be linker
+MOF-801-SC, Anchors list: {56, 18, 19, 55}, SBU connectlist: {0} set to be linker
+MOF-801-SC, Anchors list: {19, 20, 54, 55}, SBU connectlist: {0} set to be linker
+MOF-801-SC, Anchors list: {56, 18, 20, 54}, SBU connectlist: {0} set to be linker
+MOF-801-SC, Anchors list: {56, 18, 19, 55}, SBU connectlist: {0} set to be linker

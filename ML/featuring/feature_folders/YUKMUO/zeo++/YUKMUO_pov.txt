@@ -1,0 +1,3 @@
+@ feature_folders/YUKMUO/zeo++/YUKMUO_pov.txt Unitcell_volume: 26867.4   Density: 0.494223   POAV_A^3: 19032.9 POAV_Volume_fraction: 0.7084 POAV_cm^3/g: 1.43336 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/YUKMUO/zeo++/YUKMUO_pov.txt	0.494223	1.86	10000	0.3869	0	0.7084	0	0.0908	0.2008

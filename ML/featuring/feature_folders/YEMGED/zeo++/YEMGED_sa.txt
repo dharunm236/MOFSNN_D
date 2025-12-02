@@ -1,0 +1,3 @@
+@ feature_folders/YEMGED/zeo++/YEMGED_sa.txt Unitcell_volume: 14967   Density: 1.45851   ASA_A^2: 2025.16 ASA_m^2/cm^3: 1353.09 ASA_m^2/g: 927.715 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 1017.7  1007.46  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

@@ -1,0 +1,4 @@
+OWUHIZ, Anchors list: {75}, SBU connectlist: {1} set to be linker
+OWUHIZ, Anchors list: {42}, SBU connectlist: {0} set to be linker
+OWUHIZ, Anchors list: {42}, SBU connectlist: {0} set to be linker
+OWUHIZ, Anchors list: {75}, SBU connectlist: {1} set to be linker

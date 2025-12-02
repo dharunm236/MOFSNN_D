@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/RARYIT'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/RARYIT'
 _cell_length_a 12.25000
 _cell_length_b 14.49800
 _cell_length_c 28.56700
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -122,7 +122,7 @@ H       0.3137   0.2621   0.8976     H
 H       0.3147   0.1569   0.2607     H
 H       0.3147   0.3431   0.7607     H
 N       0.3192   0.2281   0.1667     N
-N       0.3192   0.2719   0.6667     N
+N       0.3192   0.2719 0.66666667     N
 H       0.3241   0.0221   0.1218     H
 H       0.3241   0.4779   0.6218     H
 C       0.3252   0.2491   0.8661     C
@@ -291,7 +291,7 @@ H       0.8137   0.7379   0.1024     H
 H       0.8137   0.7621   0.6024     H
 H       0.8147   0.6569   0.2393     H
 H       0.8147   0.8431   0.7393     H
-N       0.8192   0.7281   0.3333     N
+N       0.8192   0.7281 0.33333333     N
 N       0.8192   0.7719   0.8333     N
 H       0.8241   0.5221   0.3782     H
 H       0.8241   0.9779   0.8782     H

@@ -1,0 +1,3 @@
+@ feature_folders/ZOZHON/zeo++/ZOZHON_pov.txt Unitcell_volume: 23563.4   Density: 1.04457   POAV_A^3: 3588.7 POAV_Volume_fraction: 0.1523 POAV_cm^3/g: 0.145802 PONAV_A^3: 4887.04 PONAV_Volume_fraction: 0.2074 PONAV_cm^3/g: 0.198552
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ZOZHON/zeo++/ZOZHON_pov.txt	1.04457	1.86	10000	0.0295	0.0496	0.1523	0.2074	0.255	0.3853

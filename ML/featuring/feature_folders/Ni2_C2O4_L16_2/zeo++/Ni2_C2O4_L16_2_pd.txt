@@ -1,0 +1,1 @@
+feature_folders/Ni2_C2O4_L16_2/zeo++/Ni2_C2O4_L16_2_pd.txt    7.03393 6.03270  7.01555

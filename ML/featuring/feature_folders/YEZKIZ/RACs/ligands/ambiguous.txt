@@ -1,0 +1,6 @@
+YEZKIZ, Anchors list: {77}, SBU connectlist: {0} set to be ligand
+YEZKIZ, Anchors list: {77}, SBU connectlist: {0} set to be ligand
+YEZKIZ, Anchors list: {146}, SBU connectlist: {0} set to be ligand
+YEZKIZ, Anchors list: {8}, SBU connectlist: {0} set to be ligand
+YEZKIZ, Anchors list: {8}, SBU connectlist: {0} set to be ligand
+YEZKIZ, Anchors list: {146}, SBU connectlist: {0} set to be ligand

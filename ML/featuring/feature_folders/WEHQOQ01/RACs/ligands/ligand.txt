@@ -1,0 +1,4 @@
+WEHQOQ01, Anchors list: {89, 60}, SBU connectlist: {0, 3}
+WEHQOQ01, Anchors list: {81}, SBU connectlist: {1}
+WEHQOQ01, Anchors list: {81, 52}, SBU connectlist: {1, 2}
+WEHQOQ01, Anchors list: {60}, SBU connectlist: {3}

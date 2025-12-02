@@ -1,0 +1,3 @@
+@ feature_folders/SCUTC-19/zeo++/SCUTC-19_pov.txt Unitcell_volume: 1612.71   Density: 1.32467   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 163.367 PONAV_Volume_fraction: 0.1013 PONAV_cm^3/g: 0.0764722
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/SCUTC-19/zeo++/SCUTC-19_pov.txt	1.32467	1.86	10000	0	0.003	0	0.1013	0.3635	0.5352

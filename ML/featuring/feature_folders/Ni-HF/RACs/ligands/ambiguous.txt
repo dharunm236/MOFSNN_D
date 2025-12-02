@@ -1,0 +1,4 @@
+Ni-HF, Anchors list: {144}, SBU connectlist: {3} set to be linker
+Ni-HF, Anchors list: {117}, SBU connectlist: {2} set to be linker
+Ni-HF, Anchors list: {57}, SBU connectlist: {0} set to be linker
+Ni-HF, Anchors list: {30}, SBU connectlist: {1} set to be linker

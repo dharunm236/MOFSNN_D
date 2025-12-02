@@ -1,0 +1,1 @@
+feature_folders/VAGMAT/zeo++/VAGMAT_pd.txt    14.92091 13.26277  14.92091

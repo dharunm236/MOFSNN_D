@@ -1,0 +1,8 @@
+NIZNUH, Anchors list: {136, 121, 4}, SBU connectlist: {1} set to be linker
+NIZNUH, Anchors list: {120, 137, 5}, SBU connectlist: {0} set to be linker
+NIZNUH, Anchors list: {1, 4, 47}, SBU connectlist: {1} set to be linker
+NIZNUH, Anchors list: {0, 5, 46}, SBU connectlist: {0} set to be linker
+NIZNUH, Anchors list: {0, 137, 178}, SBU connectlist: {0} set to be linker
+NIZNUH, Anchors list: {136, 1, 179}, SBU connectlist: {1} set to be linker
+NIZNUH, Anchors list: {178, 46, 63}, SBU connectlist: {0} set to be linker
+NIZNUH, Anchors list: {179, 62, 47}, SBU connectlist: {1} set to be linker

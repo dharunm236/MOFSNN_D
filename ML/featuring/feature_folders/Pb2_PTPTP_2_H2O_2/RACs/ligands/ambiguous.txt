@@ -1,0 +1,4 @@
+Pb2_PTPTP_2_H2O_2, Anchors list: {139}, SBU connectlist: {3} set to be linker
+Pb2_PTPTP_2_H2O_2, Anchors list: {138}, SBU connectlist: {2} set to be ligand
+Pb2_PTPTP_2_H2O_2, Anchors list: {17}, SBU connectlist: {1} set to be ligand
+Pb2_PTPTP_2_H2O_2, Anchors list: {16}, SBU connectlist: {0} set to be linker

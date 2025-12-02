@@ -1,0 +1,2 @@
+VOPVIH, Anchors list: {33, 37, 49}, SBU connectlist: {1} set to be linker
+VOPVIH, Anchors list: {32, 16, 28}, SBU connectlist: {0} set to be linker

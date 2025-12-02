@@ -1,0 +1,4 @@
+IQECIS, Anchors list: {449, 524, 495}, SBU connectlist: {1} set to be linker
+IQECIS, Anchors list: {296, 267, 342}, SBU connectlist: {3} set to be linker
+IQECIS, Anchors list: {185, 260, 231}, SBU connectlist: {0} set to be ligand
+IQECIS, Anchors list: {32, 3, 78}, SBU connectlist: {2} set to be ligand

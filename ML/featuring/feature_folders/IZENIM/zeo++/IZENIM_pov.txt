@@ -1,0 +1,3 @@
+@ feature_folders/IZENIM/zeo++/IZENIM_pov.txt Unitcell_volume: 11319.4   Density: 1.21543   POAV_A^3: 3295.08 POAV_Volume_fraction: 0.2911 POAV_cm^3/g: 0.239504 PONAV_A^3: 1817.89 PONAV_Volume_fraction: 0.1606 PONAV_cm^3/g: 0.132134
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/IZENIM/zeo++/IZENIM_pov.txt	1.21543	1.86	10000	0.074	0.0515	0.2911	0.1606	0.2025	0.3458

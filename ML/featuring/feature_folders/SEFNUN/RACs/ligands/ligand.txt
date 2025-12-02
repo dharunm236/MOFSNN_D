@@ -1,0 +1,4 @@
+SEFNUN, Anchors list: {0, 184}, SBU connectlist: {0, 4}
+SEFNUN, Anchors list: {84, 101}, SBU connectlist: {3, 6}
+SEFNUN, Anchors list: {117, 101}, SBU connectlist: {3, 7}
+SEFNUN, Anchors list: {0, 17}, SBU connectlist: {0, 5}

@@ -1,0 +1,4 @@
+ATEJOA, Anchors list: {19}, SBU connectlist: {1} set to be ligand
+ATEJOA, Anchors list: {120}, SBU connectlist: {0} set to be ligand
+ATEJOA, Anchors list: {120}, SBU connectlist: {0} set to be ligand
+ATEJOA, Anchors list: {19}, SBU connectlist: {1} set to be ligand

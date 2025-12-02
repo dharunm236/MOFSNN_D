@@ -1,0 +1,3 @@
+@ feature_folders/GORLIK/zeo++/GORLIK_sa.txt Unitcell_volume: 4695.14   Density: 1.14482   ASA_A^2: 473.016 ASA_m^2/cm^3: 1007.46 ASA_m^2/g: 880.013 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 473.016  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

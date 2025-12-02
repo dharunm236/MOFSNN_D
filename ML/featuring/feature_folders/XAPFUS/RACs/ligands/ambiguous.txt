@@ -1,0 +1,32 @@
+XAPFUS, Anchors list: {676, 583, 682, 588, 687, 591, 827, 830, 671}, SBU connectlist: {0} set to be ligand
+XAPFUS, Anchors list: {677, 582, 683, 589, 686, 590, 826, 670, 831}, SBU connectlist: {7} set to be linker
+XAPFUS, Anchors list: {288, 280, 195, 200, 41, 44, 184, 283, 189}, SBU connectlist: {2} set to be ligand
+XAPFUS, Anchors list: {719}, SBU connectlist: {4} set to be ligand
+XAPFUS, Anchors list: {718}, SBU connectlist: {3} set to be ligand
+XAPFUS, Anchors list: {153}, SBU connectlist: {6} set to be ligand
+XAPFUS, Anchors list: {152}, SBU connectlist: {5} set to be ligand
+XAPFUS, Anchors list: {627}, SBU connectlist: {9} set to be ligand
+XAPFUS, Anchors list: {626}, SBU connectlist: {8} set to be ligand
+XAPFUS, Anchors list: {626}, SBU connectlist: {8} set to be ligand
+XAPFUS, Anchors list: {627}, SBU connectlist: {9} set to be ligand
+XAPFUS, Anchors list: {289, 194, 281, 40, 201, 45, 185, 282, 188}, SBU connectlist: {1} set to be linker
+XAPFUS, Anchors list: {245}, SBU connectlist: {11} set to be ligand
+XAPFUS, Anchors list: {244}, SBU connectlist: {10} set to be ligand
+XAPFUS, Anchors list: {764}, SBU connectlist: {7} set to be linker
+XAPFUS, Anchors list: {765}, SBU connectlist: {0} set to be linker
+XAPFUS, Anchors list: {762}, SBU connectlist: {0} set to be linker
+XAPFUS, Anchors list: {763}, SBU connectlist: {7} set to be linker
+XAPFUS, Anchors list: {108}, SBU connectlist: {1} set to be linker
+XAPFUS, Anchors list: {109}, SBU connectlist: {2} set to be linker
+XAPFUS, Anchors list: {106}, SBU connectlist: {2} set to be linker
+XAPFUS, Anchors list: {107}, SBU connectlist: {1} set to be linker
+XAPFUS, Anchors list: {245}, SBU connectlist: {11} set to be ligand
+XAPFUS, Anchors list: {244}, SBU connectlist: {10} set to be ligand
+XAPFUS, Anchors list: {245}, SBU connectlist: {11} set to be ligand
+XAPFUS, Anchors list: {244}, SBU connectlist: {10} set to be ligand
+XAPFUS, Anchors list: {718}, SBU connectlist: {3} set to be ligand
+XAPFUS, Anchors list: {719}, SBU connectlist: {4} set to be ligand
+XAPFUS, Anchors list: {627}, SBU connectlist: {9} set to be ligand
+XAPFUS, Anchors list: {626}, SBU connectlist: {8} set to be ligand
+XAPFUS, Anchors list: {152}, SBU connectlist: {5} set to be ligand
+XAPFUS, Anchors list: {153}, SBU connectlist: {6} set to be ligand

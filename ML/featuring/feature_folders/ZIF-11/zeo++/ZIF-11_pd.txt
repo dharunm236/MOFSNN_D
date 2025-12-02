@@ -1,0 +1,1 @@
+feature_folders/ZIF-11/zeo++/ZIF-11_pd.txt    14.69863 3.70753  14.54053

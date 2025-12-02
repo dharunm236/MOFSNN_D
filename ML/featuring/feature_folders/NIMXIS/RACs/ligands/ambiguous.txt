@@ -1,0 +1,5 @@
+NIMXIS, Anchors list: {64, 0, 69, 95}, SBU connectlist: {0} set to be linker
+NIMXIS, Anchors list: {0, 33, 2, 28}, SBU connectlist: {0} set to be linker
+NIMXIS, Anchors list: {0, 64, 69, 95}, SBU connectlist: {0} set to be linker
+NIMXIS, Anchors list: {64, 33, 2, 95}, SBU connectlist: {0} set to be linker
+NIMXIS, Anchors list: {0, 33, 2, 28}, SBU connectlist: {0} set to be linker

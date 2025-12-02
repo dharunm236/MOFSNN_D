@@ -1,0 +1,6 @@
+UiO-67, Anchors list: {65, 162, 163, 164, 165, 66, 68, 67, 11, 12, 15, 16, 17, 182, 183, 62, 63}, SBU connectlist: {0} set to be linker
+UiO-67, Anchors list: {65, 162, 163, 164, 165, 67, 66, 68, 11, 12, 15, 16, 17, 182, 183, 62, 63}, SBU connectlist: {0} set to be linker
+UiO-67, Anchors list: {160, 161, 64, 163, 65, 165, 69, 70, 67, 12, 13, 14, 16, 183, 184, 185, 62}, SBU connectlist: {0} set to be linker
+UiO-67, Anchors list: {160, 161, 162, 64, 164, 69, 70, 66, 68, 11, 13, 14, 15, 17, 182, 184, 185, 63}, SBU connectlist: {0} set to be linker
+UiO-67, Anchors list: {160, 161, 65, 163, 67, 165, 64, 69, 70, 12, 13, 14, 16, 183, 184, 185, 62}, SBU connectlist: {0} set to be linker
+UiO-67, Anchors list: {160, 161, 162, 66, 164, 68, 64, 69, 70, 11, 13, 14, 15, 17, 182, 184, 185, 63}, SBU connectlist: {0} set to be linker

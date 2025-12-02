@@ -1,0 +1,2 @@
+BUNKUS11, Anchors list: {30, 31}, SBU connectlist: {1}
+BUNKUS5, Anchors list: {636, 637}, SBU connectlist: {1}

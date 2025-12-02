@@ -1,0 +1,1 @@
+feature_folders/QOSYAZ/zeo++/QOSYAZ_pd.txt    4.85190 1.74272  4.84740

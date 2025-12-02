@@ -1,0 +1,3 @@
+@ feature_folders/PUWDEQ/zeo++/PUWDEQ_pov.txt Unitcell_volume: 1692.13   Density: 0.758869   POAV_A^3: 995.482 POAV_Volume_fraction: 0.5883 POAV_cm^3/g: 0.775233 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/PUWDEQ/zeo++/PUWDEQ_pov.txt	0.758869	1.86	10000	0.187	0	0.5883	0	0.0983	0.3134

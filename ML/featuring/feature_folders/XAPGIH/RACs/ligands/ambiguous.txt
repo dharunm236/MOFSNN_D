@@ -1,0 +1,16 @@
+XAPGIH, Anchors list: {704, 513, 641, 4, 550, 774, 681, 822, 55, 635, 637}, SBU connectlist: {0} set to be linker
+XAPGIH, Anchors list: {379}, SBU connectlist: {7} set to be ligand
+XAPGIH, Anchors list: {444}, SBU connectlist: {8} set to be ligand
+XAPGIH, Anchors list: {194}, SBU connectlist: {4} set to be ligand
+XAPGIH, Anchors list: {379}, SBU connectlist: {7} set to be ligand
+XAPGIH, Anchors list: {385, 226, 259, 295, 169, 205, 269, 180, 469, 470, 415}, SBU connectlist: {2} set to be ligand
+XAPGIH, Anchors list: {768, 1, 142, 49, 273, 819, 310, 119, 182, 186, 188}, SBU connectlist: {0} set to be linker
+XAPGIH, Anchors list: {444}, SBU connectlist: {8} set to be ligand
+XAPGIH, Anchors list: {629}, SBU connectlist: {9} set to be ligand
+XAPGIH, Anchors list: {444}, SBU connectlist: {8} set to be ligand
+XAPGIH, Anchors list: {379}, SBU connectlist: {7} set to be ligand
+XAPGIH, Anchors list: {353, 354, 643, 554, 618, 654, 528, 564, 597, 438, 408}, SBU connectlist: {2} set to be linker
+XAPGIH, Anchors list: {194}, SBU connectlist: {4} set to be ligand
+XAPGIH, Anchors list: {629}, SBU connectlist: {9} set to be ligand
+XAPGIH, Anchors list: {629}, SBU connectlist: {9} set to be ligand
+XAPGIH, Anchors list: {194}, SBU connectlist: {4} set to be ligand

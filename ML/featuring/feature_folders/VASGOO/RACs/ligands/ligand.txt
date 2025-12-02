@@ -1,0 +1,12 @@
+VASGOO, Anchors list: {1, 77}, SBU connectlist: {1, 7}
+VASGOO, Anchors list: {239, 199}, SBU connectlist: {9, 5}
+VASGOO, Anchors list: {198, 238}, SBU connectlist: {11, 4}
+VASGOO, Anchors list: {198, 159}, SBU connectlist: {8, 4}
+VASGOO, Anchors list: {158, 199}, SBU connectlist: {10, 5}
+VASGOO, Anchors list: {0, 76}, SBU connectlist: {0, 6}
+VASGOO, Anchors list: {321, 239}, SBU connectlist: {9, 3}
+VASGOO, Anchors list: {320, 238}, SBU connectlist: {2, 11}
+VASGOO, Anchors list: {77, 159}, SBU connectlist: {8, 7}
+VASGOO, Anchors list: {76, 158}, SBU connectlist: {10, 6}
+VASGOO, Anchors list: {0, 321}, SBU connectlist: {0, 3}
+VASGOO, Anchors list: {320, 1}, SBU connectlist: {1, 2}

@@ -1,5 +1,5 @@
 data_I
-_chemical_name_common  '/home/zhangsd/repos/MofS-CGCNN/ML/data/WS24/clean_cifs/WEFXIQ'
+_chemical_name_common  '/home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/data/WS24/clean_cifs/WEFXIQ'
 _cell_length_a  7.45940
 _cell_length_b 15.58870
 _cell_length_c 17.15150
@@ -11,7 +11,7 @@ _space_group_name_H-M_alt      'P 1'
 
 loop_
 _space_group_symop_operation_xyz
-  'x, y, z' 
+  'x, y, z'
 
 loop_
 _atom_site_label
@@ -42,7 +42,7 @@ C      0.15242  0.76625  0.93154     C
 C      0.17893  0.70282  0.35863     C
 C      0.17893  0.79718  0.85863     C
 H      0.18266  0.11737  0.83336     H
-H      0.18266  0.38263  0.33336     H
+H      0.18266  0.38263 0.33333333     H
 H      0.19435  0.71284  0.95155     H
 H      0.19435  0.78716  0.45155     H
 C      0.21528  0.67634  0.76823     C
@@ -115,7 +115,7 @@ C      0.78472  0.17634  0.73177     C
 C      0.78472  0.32366  0.23177     C
 H      0.80565  0.21284  0.54845     H
 H      0.80565  0.28716  0.04845     H
-H      0.81734  0.61737  0.66664     H
+H      0.81734  0.61737 0.66666667     H
 H      0.81734  0.88263  0.16664     H
 C      0.82107  0.20282  0.14137     C
 C      0.82107  0.29718  0.64137     C

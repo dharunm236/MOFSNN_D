@@ -1,0 +1,18 @@
+FIVZAM, Anchors list: {256, 243, 238}, SBU connectlist: {25, 2, 23}
+FIVZAM, Anchors list: {257, 244, 238}, SBU connectlist: {27, 3, 23}
+FIVZAM, Anchors list: {192, 210, 231}, SBU connectlist: {0, 11, 20}
+FIVZAM, Anchors list: {232, 193, 210}, SBU connectlist: {1, 11, 21}
+FIVZAM, Anchors list: {101}, SBU connectlist: {19}
+FIVZAM, Anchors list: {238}, SBU connectlist: {23}
+FIVZAM, Anchors list: {210}, SBU connectlist: {11}
+FIVZAM, Anchors list: {288}, SBU connectlist: {16}
+FIVZAM, Anchors list: {73}, SBU connectlist: {6}
+FIVZAM, Anchors list: {80, 101, 119}, SBU connectlist: {10, 19, 29}
+FIVZAM, Anchors list: {101, 118, 79}, SBU connectlist: {9, 19, 28}
+FIVZAM, Anchors list: {73, 67, 54}, SBU connectlist: {26, 4, 6}
+FIVZAM, Anchors list: {73, 68, 55}, SBU connectlist: {5, 6, 14}
+FIVZAM, Anchors list: {23}, SBU connectlist: {15}
+FIVZAM, Anchors list: {288, 266, 278}, SBU connectlist: {8, 16, 13}
+FIVZAM, Anchors list: {288, 265, 277}, SBU connectlist: {16, 12, 7}
+FIVZAM, Anchors list: {34, 46, 23}, SBU connectlist: {24, 18, 15}
+FIVZAM, Anchors list: {33, 45, 23}, SBU connectlist: {17, 22, 15}

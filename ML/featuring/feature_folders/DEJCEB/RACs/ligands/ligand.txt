@@ -1,0 +1,8 @@
+DEJCEB, Anchors list: {270}, SBU connectlist: {8}
+DEJCEB, Anchors list: {271}, SBU connectlist: {9}
+DEJCEB, Anchors list: {72}, SBU connectlist: {6}
+DEJCEB, Anchors list: {73}, SBU connectlist: {7}
+DEJCEB, Anchors list: {244}, SBU connectlist: {14}
+DEJCEB, Anchors list: {245}, SBU connectlist: {15}
+DEJCEB, Anchors list: {98}, SBU connectlist: {2}
+DEJCEB, Anchors list: {99}, SBU connectlist: {3}

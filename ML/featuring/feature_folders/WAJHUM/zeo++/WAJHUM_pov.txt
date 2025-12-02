@@ -1,0 +1,3 @@
+@ feature_folders/WAJHUM/zeo++/WAJHUM_pov.txt Unitcell_volume: 3006.52   Density: 1.23474   POAV_A^3: 1245.6 POAV_Volume_fraction: 0.4143 POAV_cm^3/g: 0.335536 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/WAJHUM/zeo++/WAJHUM_pov.txt	1.23474	1.86	10000	0.1136	0	0.4143	0	0.1474	0.4383

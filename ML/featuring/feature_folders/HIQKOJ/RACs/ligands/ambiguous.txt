@@ -1,0 +1,10 @@
+HIQKOJ, Anchors list: {60, 119}, SBU connectlist: {1} set to be linker
+HIQKOJ, Anchors list: {8, 7}, SBU connectlist: {0} set to be linker
+HIQKOJ, Anchors list: {119, 103}, SBU connectlist: {1} set to be linker
+HIQKOJ, Anchors list: {44, 103}, SBU connectlist: {1} set to be linker
+HIQKOJ, Anchors list: {8, 155, 156, 7}, SBU connectlist: {0} set to be linker
+HIQKOJ, Anchors list: {155, 7}, SBU connectlist: {0} set to be linker
+HIQKOJ, Anchors list: {8, 156}, SBU connectlist: {0} set to be linker
+HIQKOJ, Anchors list: {44, 60}, SBU connectlist: {1} set to be linker
+HIQKOJ, Anchors list: {155, 156}, SBU connectlist: {0} set to be linker
+HIQKOJ, Anchors list: {60, 103, 44, 119}, SBU connectlist: {1} set to be linker

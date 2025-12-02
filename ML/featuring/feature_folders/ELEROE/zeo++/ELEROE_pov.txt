@@ -1,0 +1,3 @@
+@ feature_folders/ELEROE/zeo++/ELEROE_pov.txt Unitcell_volume: 28130   Density: 1.00519   POAV_A^3: 9012.84 POAV_Volume_fraction: 0.3204 POAV_cm^3/g: 0.318747 PONAV_A^3: 2149.13 PONAV_Volume_fraction: 0.0764 PONAV_cm^3/g: 0.0760058
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/ELEROE/zeo++/ELEROE_pov.txt	1.00519	1.86	10000	0.1127	0.0154	0.3204	0.0764	0.2551	0.3481

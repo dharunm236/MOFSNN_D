@@ -1,0 +1,2 @@
+DAFJOM, Anchors list: {49, 50, 95}, SBU connectlist: {1} set to be linker
+DAFJOM, Anchors list: {104, 149, 150}, SBU connectlist: {0} set to be linker

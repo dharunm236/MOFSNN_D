@@ -1,0 +1,3 @@
+@ feature_folders/ZASJAG/zeo++/ZASJAG_sa.txt Unitcell_volume: 1395.7   Density: 1.20593   ASA_A^2: 158.059 ASA_m^2/cm^3: 1132.47 ASA_m^2/g: 939.089 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 158.059  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

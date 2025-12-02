@@ -1,0 +1,3 @@
+@ feature_folders/MOF-505/zeo++/MOF-505_pov.txt Unitcell_volume: 7311.21   Density: 0.992014   POAV_A^3: 0 POAV_Volume_fraction: 0 POAV_cm^3/g: 0 PONAV_A^3: 3246.91 PONAV_Volume_fraction: 0.4441 PONAV_cm^3/g: 0.447675
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/MOF-505/zeo++/MOF-505_pov.txt	0.992014	1.86	10000	0	0.1244	0	0.4441	0.2076	0.3483

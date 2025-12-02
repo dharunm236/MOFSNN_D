@@ -1,0 +1,12 @@
+TIFCIU, Anchors list: {275}, SBU connectlist: {7}
+TIFCIU, Anchors list: {424}, SBU connectlist: {36}
+TIFCIU, Anchors list: {402}, SBU connectlist: {4}
+TIFCIU, Anchors list: {253}, SBU connectlist: {38}
+TIFCIU, Anchors list: {160}, SBU connectlist: {14}
+TIFCIU, Anchors list: {291}, SBU connectlist: {28}
+TIFCIU, Anchors list: {198}, SBU connectlist: {24}
+TIFCIU, Anchors list: {49}, SBU connectlist: {18}
+TIFCIU, Anchors list: {176}, SBU connectlist: {33}
+TIFCIU, Anchors list: {27}, SBU connectlist: {9}
+TIFCIU, Anchors list: {386}, SBU connectlist: {2}
+TIFCIU, Anchors list: {65}, SBU connectlist: {17}

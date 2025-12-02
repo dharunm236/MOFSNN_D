@@ -1,0 +1,6 @@
+UiO-BPY, Anchors list: {65, 66, 67, 68, 11, 12, 172, 173, 15, 16, 17, 152, 153, 154, 155, 62, 63}, SBU connectlist: {0} set to be linker
+UiO-BPY, Anchors list: {64, 65, 67, 69, 70, 12, 13, 14, 174, 16, 175, 173, 150, 151, 153, 155, 62}, SBU connectlist: {0} set to be linker
+UiO-BPY, Anchors list: {65, 66, 67, 68, 11, 12, 173, 172, 15, 16, 17, 152, 153, 154, 155, 62, 63}, SBU connectlist: {0} set to be linker
+UiO-BPY, Anchors list: {64, 66, 68, 69, 70, 11, 172, 13, 14, 15, 174, 17, 175, 150, 151, 152, 154, 63}, SBU connectlist: {0} set to be linker
+UiO-BPY, Anchors list: {64, 65, 67, 69, 70, 12, 13, 14, 173, 16, 174, 175, 150, 151, 153, 155, 62}, SBU connectlist: {0} set to be linker
+UiO-BPY, Anchors list: {64, 66, 68, 69, 70, 11, 172, 13, 14, 15, 174, 17, 175, 150, 151, 152, 154, 63}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,4 @@
+ROSCAD, Anchors list: {151}, SBU connectlist: {3} set to be linker
+ROSCAD, Anchors list: {150}, SBU connectlist: {2} set to be linker
+ROSCAD, Anchors list: {41}, SBU connectlist: {1} set to be linker
+ROSCAD, Anchors list: {40}, SBU connectlist: {0} set to be linker

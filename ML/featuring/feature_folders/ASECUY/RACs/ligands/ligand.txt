@@ -1,0 +1,6 @@
+ASECUY17, Anchors list: {231}, SBU connectlist: {5}
+ASECUY16, Anchors list: {230}, SBU connectlist: {4}
+ASECUY15, Anchors list: {231}, SBU connectlist: {5}
+ASECUY14, Anchors list: {230}, SBU connectlist: {4}
+ASECUY12, Anchors list: {1}, SBU connectlist: {1}
+ASECUY11, Anchors list: {0}, SBU connectlist: {0}

@@ -1,0 +1,22 @@
+XAPFUS35, Anchors list: {676, 583, 682, 588, 687, 591, 827, 830, 671}, SBU connectlist: {0}
+XAPFUS33, Anchors list: {288, 280, 195, 200, 41, 44, 184, 283, 189}, SBU connectlist: {2}
+XAPFUS32, Anchors list: {719}, SBU connectlist: {4}
+XAPFUS31, Anchors list: {718}, SBU connectlist: {3}
+XAPFUS30, Anchors list: {153}, SBU connectlist: {6}
+XAPFUS29, Anchors list: {152}, SBU connectlist: {5}
+XAPFUS28, Anchors list: {627}, SBU connectlist: {9}
+XAPFUS27, Anchors list: {626}, SBU connectlist: {8}
+XAPFUS22, Anchors list: {626}, SBU connectlist: {8}
+XAPFUS21, Anchors list: {627}, SBU connectlist: {9}
+XAPFUS19, Anchors list: {245}, SBU connectlist: {11}
+XAPFUS18, Anchors list: {244}, SBU connectlist: {10}
+XAPFUS9, Anchors list: {245}, SBU connectlist: {11}
+XAPFUS8, Anchors list: {244}, SBU connectlist: {10}
+XAPFUS7, Anchors list: {245}, SBU connectlist: {11}
+XAPFUS6, Anchors list: {244}, SBU connectlist: {10}
+XAPFUS5, Anchors list: {718}, SBU connectlist: {3}
+XAPFUS4, Anchors list: {719}, SBU connectlist: {4}
+XAPFUS3, Anchors list: {627}, SBU connectlist: {9}
+XAPFUS2, Anchors list: {626}, SBU connectlist: {8}
+XAPFUS1, Anchors list: {152}, SBU connectlist: {5}
+XAPFUS0, Anchors list: {153}, SBU connectlist: {6}

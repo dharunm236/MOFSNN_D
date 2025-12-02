@@ -1,0 +1,3 @@
+@ feature_folders/HUWHUE/zeo++/HUWHUE_sa.txt Unitcell_volume: 4573.72   Density: 1.08219   ASA_A^2: 641.055 ASA_m^2/cm^3: 1401.6 ASA_m^2/g: 1295.16 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 641.055  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

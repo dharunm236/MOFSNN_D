@@ -1,0 +1,16 @@
+HUFKOK, Anchors list: {879}, SBU connectlist: {13}
+HUFKOK, Anchors list: {1216}, SBU connectlist: {2}
+HUFKOK, Anchors list: {887}, SBU connectlist: {17}
+HUFKOK, Anchors list: {1228}, SBU connectlist: {5}
+HUFKOK, Anchors list: {1208}, SBU connectlist: {18}
+HUFKOK, Anchors list: {867}, SBU connectlist: {11}
+HUFKOK, Anchors list: {880}, SBU connectlist: {14}
+HUFKOK, Anchors list: {1215}, SBU connectlist: {23}
+HUFKOK, Anchors list: {510}, SBU connectlist: {22}
+HUFKOK, Anchors list: {530}, SBU connectlist: {6}
+HUFKOK, Anchors list: {518}, SBU connectlist: {4}
+HUFKOK, Anchors list: {517}, SBU connectlist: {3}
+HUFKOK, Anchors list: {169}, SBU connectlist: {12}
+HUFKOK, Anchors list: {182}, SBU connectlist: {16}
+HUFKOK, Anchors list: {189}, SBU connectlist: {21}
+HUFKOK, Anchors list: {181}, SBU connectlist: {15}

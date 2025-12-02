@@ -1,0 +1,1 @@
+feature_folders/Cu-MBTC/zeo++/Cu-MBTC_pd.txt    10.62536 5.84673  10.49808

@@ -1,0 +1,1 @@
+feature_folders/Zn-DMOF_NO2_2/zeo++/Zn-DMOF_NO2_2_pd.txt    7.86345 6.47719  7.86183

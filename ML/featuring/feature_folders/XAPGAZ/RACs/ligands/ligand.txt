@@ -1,0 +1,2 @@
+XAPGAZ10, Anchors list: {224, 288, 164, 166, 201, 234, 306, 310, 285}, SBU connectlist: {2}
+XAPGAZ9, Anchors list: {193, 197, 269, 302, 337, 339, 215, 218, 279}, SBU connectlist: {2}

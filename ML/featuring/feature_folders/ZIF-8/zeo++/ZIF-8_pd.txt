@@ -1,0 +1,1 @@
+feature_folders/ZIF-8/zeo++/ZIF-8_pd.txt    11.39287 3.38101  11.39287

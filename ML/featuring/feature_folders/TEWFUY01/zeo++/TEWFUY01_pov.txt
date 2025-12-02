@@ -1,0 +1,3 @@
+@ feature_folders/TEWFUY01/zeo++/TEWFUY01_pov.txt Unitcell_volume: 3455.62   Density: 1.20333   POAV_A^3: 655.877 POAV_Volume_fraction: 0.1898 POAV_cm^3/g: 0.157729 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: feature_folders/TEWFUY01/zeo++/TEWFUY01_pov.txt	1.20333	1.86	10000	0.0126	0	0.1898	0	0.2985	0.5117

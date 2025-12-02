@@ -1,0 +1,6 @@
+UiO-66-Br, Anchors list: {20, 19, 84, 85}, SBU connectlist: {0} set to be linker
+UiO-66-Br, Anchors list: {18, 19, 85, 86}, SBU connectlist: {0} set to be linker
+UiO-66-Br, Anchors list: {18, 20, 86, 84}, SBU connectlist: {0} set to be linker
+UiO-66-Br, Anchors list: {19, 20, 85, 84}, SBU connectlist: {0} set to be linker
+UiO-66-Br, Anchors list: {18, 20, 86, 84}, SBU connectlist: {0} set to be linker
+UiO-66-Br, Anchors list: {18, 19, 85, 86}, SBU connectlist: {0} set to be linker

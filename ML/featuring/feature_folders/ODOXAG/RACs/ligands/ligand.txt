@@ -1,0 +1,4 @@
+ODOXAG, Anchors list: {103}, SBU connectlist: {2}
+ODOXAG, Anchors list: {102}, SBU connectlist: {0}
+ODOXAG, Anchors list: {129}, SBU connectlist: {3}
+ODOXAG, Anchors list: {128}, SBU connectlist: {1}

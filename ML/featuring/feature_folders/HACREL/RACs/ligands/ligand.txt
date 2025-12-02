@@ -1,0 +1,3 @@
+HACREL, Anchors list: {474}, SBU connectlist: {9}
+HACREL, Anchors list: {252}, SBU connectlist: {15}
+HACREL, Anchors list: {30}, SBU connectlist: {16}

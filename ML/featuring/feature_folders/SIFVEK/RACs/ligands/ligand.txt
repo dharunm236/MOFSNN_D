@@ -1,0 +1,8 @@
+SIFVEK, Anchors list: {406}, SBU connectlist: {3}
+SIFVEK, Anchors list: {377, 261}, SBU connectlist: {0, 11}
+SIFVEK, Anchors list: {261}, SBU connectlist: {0}
+SIFVEK, Anchors list: {73}, SBU connectlist: {1}
+SIFVEK, Anchors list: {594, 43}, SBU connectlist: {2, 6}
+SIFVEK, Anchors list: {290, 406}, SBU connectlist: {3, 4}
+SIFVEK, Anchors list: {594}, SBU connectlist: {2}
+SIFVEK, Anchors list: {624, 73}, SBU connectlist: {1, 9}

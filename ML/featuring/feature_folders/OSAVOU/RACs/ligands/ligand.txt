@@ -1,0 +1,4 @@
+OSAVOU, Anchors list: {85, 175}, SBU connectlist: {1, 3}
+OSAVOU, Anchors list: {4, 94}, SBU connectlist: {0, 2}
+OSAVOU, Anchors list: {85, 175}, SBU connectlist: {1, 3}
+OSAVOU, Anchors list: {4, 94}, SBU connectlist: {0, 2}

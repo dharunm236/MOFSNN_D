@@ -1,0 +1,4 @@
+TOVGAO6, Anchors list: {307, 399}, SBU connectlist: {4}
+TOVGAO5, Anchors list: {304, 399}, SBU connectlist: {4}
+TOVGAO4, Anchors list: {399, 303}, SBU connectlist: {4}
+TOVGAO3, Anchors list: {300, 399}, SBU connectlist: {4}

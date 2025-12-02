@@ -1,0 +1,1 @@
+feature_folders/MOF-805/zeo++/MOF-805_pd.txt    10.53018 4.93197  10.26337

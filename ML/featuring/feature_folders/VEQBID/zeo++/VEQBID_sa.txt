@@ -1,0 +1,3 @@
+@ feature_folders/VEQBID/zeo++/VEQBID_sa.txt Unitcell_volume: 3871.53   Density: 1.46143   ASA_A^2: 428.427 ASA_m^2/cm^3: 1106.61 ASA_m^2/g: 757.21 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 2 Channel_surface_area_A^2: 215.288  213.139  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

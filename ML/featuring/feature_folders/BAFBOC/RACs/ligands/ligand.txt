@@ -1,0 +1,2 @@
+BAFBOC, Anchors list: {180}, SBU connectlist: {1}
+BAFBOC, Anchors list: {71}, SBU connectlist: {0}
