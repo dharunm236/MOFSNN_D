@@ -22,7 +22,9 @@ from pytorch_lightning.accelerators import find_usable_cuda_devices
 from pytorch_lightning.profilers import AdvancedProfiler
 from pytorch_lightning.utilities.model_summary import ModelSummary
 from pytorch_lightning.tuner import Tuner
-from optuna.integration import PyTorchLightningPruningCallback
+# Note: PyTorchLightningPruningCallback is now handled via a wrapper in main.py
+# to resolve compatibility between optuna_integration (lightning.pytorch) and
+# pytorch_lightning (older standalone package)
 import shutil
 from pathlib import Path
 from main import main
@@ -35,7 +37,7 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     # # Basic Training Control
     parser.add_argument('--batch_size', type=int)
-    # parser.add_argument('--num_workers', default=2, type=int)
+    parser.add_argument('--num_workers', type=int)  # <--- added to accept CLI arg
     # parser.add_argument('--random_seed', default=42, type=int)
     # parser.add_argument("--accelerator", default="gpu", type=str)
     # parser.add_argument("--devices", default=1, type=int)
@@ -181,7 +183,7 @@ if __name__ == '__main__':
         study = optuna.create_study(direction='maximize', study_name=study_name, 
                                     pruner=pruner, storage=storage_name, load_if_exists=True)
         
-        study.optimize(objective, n_trials=50, catch=(torch.cuda.OutOfMemoryError,), gc_after_trial=True)  # Adjust the number of trials as needed
+        study.optimize(objective, n_trials=20, catch=(torch.cuda.OutOfMemoryError,), gc_after_trial=True)  # Adjust the number of trials as needed
 
         # Print the best hyperparameters found
         print("Number of finished trials: {}".format(len(study.trials)))

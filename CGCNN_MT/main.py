@@ -16,20 +16,49 @@ import pytorch_lightning.callbacks as plc
 from pytorch_lightning.loggers import TensorBoardLogger
 
 from CGCNN_MT.module.module import MInterface
-from CGCNN_MT.datamodule.data_interface import DInterface
+from CGCNN_MT.datamodule.data_interface import DInterface, Normalizer
+
+# Fix for PyTorch 2.6+ weights_only=True default in torch.load
+# Allow our custom Normalizer class to be loaded from checkpoints
+torch.serialization.add_safe_globals([Normalizer])
 from CGCNN_MT.utils import load_model_path_by_args, load_callbacks
 from CGCNN_MT.utils import MODEL_NAME_TO_DATASET_CLS, MODEL_NAME_TO_MODULE_CLS
 from pytorch_lightning.accelerators import find_usable_cuda_devices
 from pytorch_lightning.profilers import AdvancedProfiler
 from pytorch_lightning.utilities.model_summary import ModelSummary
 from pytorch_lightning.tuner import Tuner
-from optuna.integration import PyTorchLightningPruningCallback
+try:
+    from optuna_integration import PyTorchLightningPruningCallback as _OptunaPruningCallback
+except ImportError:
+    from optuna.integration import PyTorchLightningPruningCallback as _OptunaPruningCallback
 import shutil
 from pathlib import Path
 import optuna
 from config import *
 from types import SimpleNamespace
 # os.environ['CUDA_LAUNCH_BLOCKING'] = '1'
+
+
+# Wrapper to ensure compatibility between optuna_integration (uses lightning.pytorch)
+# and pytorch_lightning (the older standalone package)
+class PyTorchLightningPruningCallback(plc.Callback):
+    """Wrapper around Optuna's pruning callback for pytorch_lightning compatibility."""
+    
+    def __init__(self, trial, monitor):
+        super().__init__()
+        self._trial = trial
+        self._monitor = monitor
+        self._optuna_callback = _OptunaPruningCallback(trial, monitor=monitor)
+    
+    def on_validation_end(self, trainer, pl_module):
+        # Delegate to the original optuna callback's logic
+        epoch = trainer.current_epoch
+        current_score = trainer.callback_metrics.get(self._monitor)
+        if current_score is None:
+            return
+        self._trial.report(current_score.item(), step=epoch)
+        if self._trial.should_prune():
+            raise optuna.TrialPruned(f"Trial was pruned at epoch {epoch}.")
 
 
 def main(args, trial: optuna.trial.Trial = None) -> float:
@@ -89,7 +118,9 @@ def main(args, trial: optuna.trial.Trial = None) -> float:
         callbacks = load_callbacks(args.patience, args.min_delta, monitor=args.monitor, 
                                mode=args.mode, lr_scheduler=args.lr_scheduler)
     if trial is not None:
-        callbacks.append(PyTorchLightningPruningCallback(trial, monitor=args.monitor))
+        # Create pruning callback and ensure it has proper parent for Lightning compatibility
+        pruning_callback = PyTorchLightningPruningCallback(trial, monitor=args.monitor)
+        callbacks.append(pruning_callback)
     logger = tb_logger
     profiler = profiler
     summary = ModelSummary(model, max_depth=-1)
