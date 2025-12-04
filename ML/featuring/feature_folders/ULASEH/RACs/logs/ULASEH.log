@@ -1,0 +1,21 @@
+atom 0 with type of Co found to have 8 coordinates with atom types of O,H,N
+atom 1 with type of Co found to have 8 coordinates with atom types of N,H,O
+atom 12 with type of Cr found to have 6 coordinates with atom types of C
+atom 13 with type of Cr found to have 6 coordinates with atom types of C
+atom 16 with type of Co found to have 6 coordinates with atom types of O,N
+atom 17 with type of Co found to have 6 coordinates with atom types of O,N
+atom 346 with type of Co found to have 6 coordinates with atom types of O,N
+atom 347 with type of Co found to have 6 coordinates with atom types of O,N
+atom 350 with type of Cr found to have 6 coordinates with atom types of C
+atom 351 with type of Cr found to have 6 coordinates with atom types of C
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+ULASEH, (min_max_linker_length,max_min_linker_length): 1 , 9
+Structure has extremely short ligands
+Structure has extremely short ligands

@@ -17,10 +17,16 @@ from pytorch_lightning.loggers import TensorBoardLogger
 
 from CGCNN_MT.module.module import MInterface
 from CGCNN_MT.datamodule.data_interface import DInterface, Normalizer
+from CGCNN_MT.datamodule.dataset import LoadGraphData, LoadExtraFeatureData, LoadGraphDataWithAtomicNumber
 
 # Fix for PyTorch 2.6+ weights_only=True default in torch.load
-# Allow our custom Normalizer class to be loaded from checkpoints
-torch.serialization.add_safe_globals([Normalizer])
+# Allow our custom classes to be loaded from checkpoints
+torch.serialization.add_safe_globals([
+    Normalizer,
+    LoadGraphData,
+    LoadExtraFeatureData,
+    LoadGraphDataWithAtomicNumber,
+])
 from CGCNN_MT.utils import load_model_path_by_args, load_callbacks
 from CGCNN_MT.utils import MODEL_NAME_TO_DATASET_CLS, MODEL_NAME_TO_MODULE_CLS
 from pytorch_lightning.accelerators import find_usable_cuda_devices

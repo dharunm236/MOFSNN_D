@@ -1,0 +1,18 @@
+TAQGOK found to be an interpenetrated structure
+atom 1 with type of Co found to have 6 coordinates with atom types of N,O
+atom 2 with type of Co found to have 6 coordinates with atom types of N,O
+atom 166 with type of Cr found to have 2 coordinates with atom types of O
+atom 167 with type of Cr found to have 2 coordinates with atom types of O
+atom 10 with type of Cr found to have 2 coordinates with atom types of O
+atom 11 with type of Cr found to have 2 coordinates with atom types of O
+atom 304 with type of Cr found to have 2 coordinates with atom types of O
+atom 305 with type of Cr found to have 2 coordinates with atom types of O
+atom 148 with type of Cr found to have 2 coordinates with atom types of O
+atom 149 with type of Cr found to have 2 coordinates with atom types of O
+atom 156 with type of Co found to have 6 coordinates with atom types of N,O
+atom 159 with type of Co found to have 6 coordinates with atom types of N,O
+TAQGOK, (min_max_linker_length,max_min_linker_length): 11 , 11
+
+Structure has LONG ligand
+
+MOF SBU is a 1D rod

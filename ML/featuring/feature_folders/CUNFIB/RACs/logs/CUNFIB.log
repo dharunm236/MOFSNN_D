@@ -1,0 +1,18 @@
+CUNFIB found to be an interpenetrated structure
+atom 96 with type of Cu found to have 3 coordinates with atom types of I
+atom 128 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 2 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 201 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 91 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 107 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 13 with type of Cu found to have 3 coordinates with atom types of I
+atom 206 with type of Cu found to have 3 coordinates with atom types of I
+atom 112 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 18 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 217 with type of Cu found to have 3 coordinates with atom types of I,N
+atom 123 with type of Cu found to have 3 coordinates with atom types of I
+CUNFIB, (min_max_linker_length,max_min_linker_length): 20 , 20
+
+Structure has LONG ligand
+
+MOF SBU is a 1D rod

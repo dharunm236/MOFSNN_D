@@ -1,0 +1,21 @@
+atom 64 with type of Cd found to have 5 coordinates with atom types of O
+atom 65 with type of Cd found to have 5 coordinates with atom types of O
+atom 128 with type of Cd found to have 6 coordinates with atom types of O,N
+atom 129 with type of Cd found to have 6 coordinates with atom types of O,N
+atom 36 with type of Cd found to have 5 coordinates with atom types of O
+atom 37 with type of Cd found to have 5 coordinates with atom types of O
+atom 102 with type of Cd found to have 6 coordinates with atom types of O,N
+atom 103 with type of Cd found to have 6 coordinates with atom types of O,N
+atom 166 with type of Cd found to have 5 coordinates with atom types of O
+atom 167 with type of Cd found to have 5 coordinates with atom types of O
+atom 194 with type of Cd found to have 5 coordinates with atom types of O
+atom 195 with type of Cd found to have 5 coordinates with atom types of O
+found ligand
+found ligand
+found ligand
+found ligand
+ODOXAG, (min_max_linker_length,max_min_linker_length): 6 , 2
+
+Structure has LONG ligand
+
+MOF SBU is a 1D rod

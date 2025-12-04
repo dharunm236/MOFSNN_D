@@ -9,7 +9,7 @@
 */optuna*.db
 *perf_logs.txt
 *events.out.tfevents.*
-logs
+
 test.ipynb
 raw_data/
 inference/*

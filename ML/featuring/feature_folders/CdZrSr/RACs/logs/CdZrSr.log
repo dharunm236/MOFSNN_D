@@ -1,0 +1,13 @@
+atom 0 with type of Cd found to have 4 coordinates with atom types of O
+atom 32 with type of Sr found to have 4 coordinates with atom types of O
+atom 7 with type of Sr found to have 4 coordinates with atom types of O
+atom 8 with type of Sr found to have 4 coordinates with atom types of O
+atom 9 with type of Sr found to have 4 coordinates with atom types of O
+atom 15 with type of Zr found to have 8 coordinates with atom types of O
+atom 26 with type of Cd found to have 4 coordinates with atom types of O
+atom 27 with type of Cd found to have 4 coordinates with atom types of O
+atom 28 with type of Cd found to have 4 coordinates with atom types of O
+CdZrSr, (min_max_linker_length,max_min_linker_length): 3 , 2
+
+Structure has SHORT ligand
+

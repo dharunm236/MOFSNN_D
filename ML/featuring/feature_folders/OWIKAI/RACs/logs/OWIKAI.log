@@ -1,0 +1,13 @@
+atom 0 with type of Nb found to have 6 coordinates with atom types of F,O
+atom 2 with type of Ni found to have 6 coordinates with atom types of N,O
+atom 4 with type of Nb found to have 6 coordinates with atom types of F,O
+atom 6 with type of Ni found to have 6 coordinates with atom types of N,O
+atom 88 with type of Nb found to have 6 coordinates with atom types of F,O
+atom 90 with type of Ni found to have 6 coordinates with atom types of N,O
+atom 92 with type of Nb found to have 6 coordinates with atom types of F,O
+atom 94 with type of Ni found to have 6 coordinates with atom types of N,O
+OWIKAI, (min_max_linker_length,max_min_linker_length): 3 , 3
+
+Structure has LONG ligand
+
+MOF SBU is a 1D rod

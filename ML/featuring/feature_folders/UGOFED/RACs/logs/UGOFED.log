@@ -1,0 +1,17 @@
+atom 0 with type of Cs found to have 6 coordinates with atom types of O
+atom 1 with type of Fe found to have 6 coordinates with atom types of O
+atom 2 with type of Fe found to have 4 coordinates with atom types of N
+atom 3 with type of Fe found to have 4 coordinates with atom types of N
+atom 4 with type of Fe found to have 6 coordinates with atom types of O
+atom 5 with type of Cs found to have 6 coordinates with atom types of O
+atom 174 with type of Fe found to have 4 coordinates with atom types of N
+atom 175 with type of Fe found to have 4 coordinates with atom types of N
+atom 176 with type of Fe found to have 6 coordinates with atom types of O
+atom 177 with type of Cs found to have 6 coordinates with atom types of O
+atom 178 with type of Cs found to have 6 coordinates with atom types of O
+atom 179 with type of Fe found to have 6 coordinates with atom types of O
+UGOFED, (min_max_linker_length,max_min_linker_length): 20 , 2
+
+Structure has LONG ligand
+
+MOF SBU is a 1D rod

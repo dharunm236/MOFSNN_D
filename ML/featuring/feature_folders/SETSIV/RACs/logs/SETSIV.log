@@ -1,0 +1,10 @@
+atom 0 with type of Zn found to have 4 coordinates with atom types of N,O
+atom 80 with type of Cr found to have 5 coordinates with atom types of O
+atom 81 with type of Cr found to have 5 coordinates with atom types of O
+atom 10 with type of Zn found to have 4 coordinates with atom types of N,O
+atom 29 with type of Zn found to have 4 coordinates with atom types of N,O
+atom 79 with type of Cr found to have 5 coordinates with atom types of O
+SETSIV, (min_max_linker_length,max_min_linker_length): 5 , 6
+
+Structure has LONG ligand
+

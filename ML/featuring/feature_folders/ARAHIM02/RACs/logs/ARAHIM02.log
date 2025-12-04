@@ -1,0 +1,13 @@
+atom 0 with type of Nb found to have 6 coordinates with atom types of O,F
+atom 2 with type of Ni found to have 6 coordinates with atom types of O,N
+atom 4 with type of Nb found to have 6 coordinates with atom types of O,F
+atom 6 with type of Ni found to have 6 coordinates with atom types of O,N
+atom 56 with type of Nb found to have 6 coordinates with atom types of O,F
+atom 58 with type of Ni found to have 6 coordinates with atom types of O,N
+atom 60 with type of Nb found to have 6 coordinates with atom types of O,F
+atom 62 with type of Ni found to have 6 coordinates with atom types of O,N
+ARAHIM02, (min_max_linker_length,max_min_linker_length): 3 , 3
+
+Structure has LONG ligand
+
+MOF SBU is a 1D rod
