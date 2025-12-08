@@ -16,12 +16,21 @@ from CGCNN_MT.module.cgcnn_raw import CrystalGraphConvNet as CGCNNRaw
 from CGCNN_MT.module.cgcnn_uni_atom import CrystalGraphConvNet as CGCNNUniAtom
 from CGCNN_MT.module.fcnn import FCNN
 from CGCNN_MT.datamodule.dataset import LoadGraphData, LoadGraphDataWithAtomicNumber, LoadExtraFeatureData
+from CGCNN_MT.datamodule.data_interface import Normalizer
 import pytorch_lightning.callbacks as plc
 import yaml
 import torch
 from pytorch_lightning import Trainer
 from pytorch_lightning.accelerators import find_usable_cuda_devices
 from CGCNN_MT.module.module import MInterface
+
+# Allow custom dataset classes to be unpickled when loading checkpoints (PyTorch 2.6+ weights_only=True default)
+torch.serialization.add_safe_globals([
+    Normalizer,
+    LoadGraphData,
+    LoadGraphDataWithAtomicNumber,
+    LoadExtraFeatureData,
+])
 
 
 MODEL_NAME_TO_DATASET_CLS = {
@@ -78,7 +87,27 @@ def load_model_from_dir(model_dir):
                       accelerator=hparams["accelerator"],
                       devices=find_usable_cuda_devices(1),
                       )
-    model_file = [file for file in (model_dir / 'checkpoints').glob('*.ckpt') if 'last' not in file.name][0]
+    ckpt_dir = model_dir / 'checkpoints'
+    if ckpt_dir.exists():
+        all_ckpts = sorted(ckpt_dir.glob('*.ckpt'))
+    else:
+        # Allow checkpoints stored directly under model_dir (exported bundle)
+        all_ckpts = sorted(model_dir.glob('*.ckpt'))
+
+    best_ckpts = [f for f in all_ckpts if 'best' in f.name]
+
+    # Prefer best checkpoints; fall back to last.ckpt; otherwise raise a clear error
+    if best_ckpts:
+        model_file = best_ckpts[0]
+    else:
+        candidates = [f for f in all_ckpts if f.name == 'last.ckpt']
+        if candidates:
+            model_file = candidates[0]
+        else:
+            raise FileNotFoundError(
+                f"No checkpoint found in {model_dir}. Expected 'best-*.ckpt' or 'last.ckpt'."
+            )
+
     model = MInterface.load_from_checkpoint(model_file, **hparams)
     return model, trainer
 
