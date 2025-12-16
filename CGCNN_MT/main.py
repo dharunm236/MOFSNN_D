@@ -194,7 +194,7 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     # # Basic Training Control
     parser.add_argument('--batch_size', type=int)
-    # parser.add_argument('--num_workers', default=2, type=int)
+    parser.add_argument('--num_workers', default=2, type=int)
     # parser.add_argument('--random_seed', default=42, type=int)
     # parser.add_argument("--accelerator", default="gpu", type=str)
     # parser.add_argument("--devices", default=1, type=int)

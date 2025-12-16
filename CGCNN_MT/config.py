@@ -298,7 +298,7 @@ def tsd2_ssd_ws24_water_water4():
 
 @ex.named_config
 def tsd_ssd_ws24():
-    data_dir = './data'  # Data directory
+    data_dir = 'CGCNN_MT/data'  # Data directory
     batch_size = 16
     lr = 5e-3
     tasks = ['TSD', 'SSD', 'WS24_water', 'WS24_water4', 'WS24_acid', 'WS24_base', 'WS24_boiling']
