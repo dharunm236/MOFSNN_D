@@ -262,6 +262,7 @@ if __name__ == '__main__':
 
     # # Extra Hyperparameters
     parser.add_argument('--task_cfg', default="tsd", type=str)
+    parser.add_argument('--verify', action='store_true', help="Run in verification mode (100 epochs, 20 patience) to test performance trends.")
     
     args = parser.parse_args()
     conf = cfg()
@@ -270,6 +271,12 @@ if __name__ == '__main__':
     conf.update(model_conf)
     conf.update(task_conf)
     conf.update({k: v for k, v in vars(args).items() if v is not None})
+
+    if args.verify:
+        print("!"*50)
+        print("RUNNING IN VERIFICATION MODE (Trend Detection)")
+        print("!"*50)
+        conf.update(verification_mode())
 
     args = SimpleNamespace(**conf)
 

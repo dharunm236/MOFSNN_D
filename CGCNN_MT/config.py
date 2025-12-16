@@ -342,6 +342,12 @@ def ssd_ws24():
     loss_aggregation = 'fixed_weight_sum'  # Loss aggregation type: sum, trainable_weight_sum, sample_weight_sum, fixed_weight_sum
     task_weights = None
 
+def verification_mode():
+    return {
+        "max_epochs": 100,
+        "patience": 20,
+    }
+
 # @ex.named_config
 # def tsd_ssd_ws24():
 #     data_dir = './data'  # Data directory
