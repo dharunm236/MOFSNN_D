@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-10-10.0.26200-SP0",
+  "python":  "CPython 3.9.23",
+  "startedAt":  "2025-12-15T08:13:02.519992Z",
+  "program":  "C:\\Dharun\\SEM7\\Final_Year\\MOFSNN_D\\log_old_run.py",
+  "codePath":  "log_old_run.py",
+  "codePathLocal":  "log_old_run.py",
+  "git":  {
+    "remote":  "git@github.com:dharunm236/MOFSNN_D.git",
+    "commit":  "1396cc7ca7253f077d56bd3ba07bc715a99d243a"
+  },
+  "email":  "dharunm236@gmail.com",
+  "root":  "C:\\Dharun\\SEM7\\Final_Year\\MOFSNN_D",
+  "host":  "Dharun",
+  "executable":  "C:\\Users\\Dharun  M\\miniconda3\\envs\\mofsnn\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510856785920",
+      "used":  "464840155136"
+    }
+  },
+  "memory":  {
+    "total":  "12612919296"
+  },
+  "writerId":  "d3dy2c595wr2qecxypzgbzqaabld84oz"
+}
