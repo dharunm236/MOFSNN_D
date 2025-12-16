@@ -13,7 +13,7 @@ import pytorch_lightning as pl
 from argparse import ArgumentParser
 from pytorch_lightning import Trainer
 import pytorch_lightning.callbacks as plc
-from pytorch_lightning.loggers import TensorBoardLogger
+from pytorch_lightning.loggers import TensorBoardLogger, WandbLogger
 
 from CGCNN_MT.module.module import MInterface
 from CGCNN_MT.datamodule.data_interface import DInterface, Normalizer
@@ -115,6 +115,16 @@ def main(args, trial: optuna.trial.Trial = None) -> float:
                                version=None,)
     # csv_logger = CSVLogger(save_dir=os.getcwd(), name=args.log_dir, 
     #                        version=None,)
+    
+    # WandB Logger for experiment tracking
+    wandb_logger = WandbLogger(
+        project="MOFSNN_D",
+        name=name,
+        save_dir=os.path.join(os.getcwd(), args.log_dir),
+        log_model=False,  # Set to True if you want to log model checkpoints to wandb
+        config=vars(args),  # Log all hyperparameters
+    )
+    
     profiler = AdvancedProfiler(filename="perf_logs")
     
     if hasattr(args, "final_train") and args.final_train:
@@ -127,7 +137,7 @@ def main(args, trial: optuna.trial.Trial = None) -> float:
         # Create pruning callback and ensure it has proper parent for Lightning compatibility
         pruning_callback = PyTorchLightningPruningCallback(trial, monitor=args.monitor)
         callbacks.append(pruning_callback)
-    logger = tb_logger
+    logger = [tb_logger, wandb_logger]  # Use both TensorBoard and WandB loggers
     profiler = profiler
     summary = ModelSummary(model, max_depth=-1)
     print(summary)
