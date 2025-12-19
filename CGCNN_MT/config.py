@@ -94,6 +94,11 @@ def cfg():
     dwa_temp = 2.0  # DWA temperature parameter
     dwa_alpha = 0.8  # DWA alpha parameter
 
+    # PCGrad Configuration (Projected Conflicting Gradients)
+    pcgrad_enabled = False  # Enable PCGrad for multi-task gradient surgery (default: OFF for baseline)
+    pcgrad_on_shared_only = True  # Apply PCGrad only on shared trunk parameters (recommended)
+    pcgrad_head_names = ["fc_outs", "task_attentions"]  # Parameter names identifying task heads
+
 
 
 @ex.named_config

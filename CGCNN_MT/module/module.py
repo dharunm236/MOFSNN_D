@@ -31,6 +31,9 @@ from transformers import (
     
 )
 
+# PCGrad imports
+from CGCNN_MT.pcgrad import PCGrad, get_shared_params
+
 warnings.filterwarnings("ignore", category=UserWarning, module="pymatgen.io.cif")
 
 class MInterface(pl.LightningModule):
@@ -79,6 +82,17 @@ class MInterface(pl.LightningModule):
             print(f"load model : {self.hparams.ckpt_path}")
 
         self.configure_criterion()
+        
+        # PCGrad configuration
+        self._pcgrad_enabled = getattr(self.hparams, 'pcgrad_enabled', False)
+        self._pcgrad_on_shared_only = getattr(self.hparams, 'pcgrad_on_shared_only', True)
+        self._pcgrad_head_names = getattr(self.hparams, 'pcgrad_head_names', ["fc_outs", "task_attentions"])
+        self._pcgrad_generator = None  # Will be initialized on first use with random_seed
+        self._pcgrad_helper = None  # Will be initialized when shared params are known
+        
+        if self._pcgrad_enabled:
+            print(f"[PCGrad] Enabled. on_shared_only={self._pcgrad_on_shared_only}")
+
 
     def collections_init(self, split='val'):
 
@@ -137,11 +151,173 @@ class MInterface(pl.LightningModule):
 
     def forward(self, input):
         return self.model(**input)
+    
+    @property
+    def automatic_optimization(self) -> bool:
+        """
+        Disable automatic optimization when PCGrad is enabled to allow
+        manual gradient manipulation while keeping baseline unchanged when OFF.
+        """
+        return not self._pcgrad_enabled
+
+    def _init_pcgrad_helper(self):
+        """Initialize PCGrad helper with shared parameters (lazy initialization)."""
+        if self._pcgrad_helper is None:
+            shared_params, shared_names = get_shared_params(self.model, self._pcgrad_head_names)
+            
+            # Initialize generator with the random seed for reproducibility
+            seed = getattr(self.hparams, 'random_seed', 42)
+            self._pcgrad_generator = torch.Generator()
+            self._pcgrad_generator.manual_seed(seed)
+            
+            self._pcgrad_helper = PCGrad(shared_params, generator=self._pcgrad_generator)
+            self._shared_param_names = shared_names
+            print(f"[PCGrad] Initialized with {len(shared_params)} shared parameters")
 
     def training_step(self, batch, batch_idx):
         self.model.train()
-        loss = self._step(batch, batch_idx, split='train')
-        return loss
+        
+        if not self._pcgrad_enabled:
+            # Baseline path: unchanged behavior
+            loss = self._step(batch, batch_idx, split='train')
+            return loss
+        else:
+            # PCGrad path: manual optimization with gradient surgery
+            return self._training_step_pcgrad(batch, batch_idx)
+    
+    def _training_step_pcgrad(self, batch, batch_idx):
+        """
+        Training step with PCGrad gradient surgery.
+        
+        This method:
+        1. Computes per-task weighted losses
+        2. Gets per-task gradients on shared parameters
+        3. Applies PCGrad projection to resolve conflicts
+        4. Runs normal backward for full loss (keeps head grads intact)
+        5. Overwrites shared param grads with PCGrad-combined grads
+        6. Performs optimizer step
+        """
+        # Initialize PCGrad helper if needed
+        self._init_pcgrad_helper()
+        
+        # Get optimizer and scheduler
+        opt = self.optimizers()
+        
+        # Forward pass
+        outputs, last_layer_feas = self.model(**batch)
+        task_ids = batch['task_id']
+        targets = batch['targets']
+        
+        # Compute per-task weighted losses and collect gradients
+        per_task_weighted_losses = []
+        per_task_grads = []
+        valid_task_indices = []
+        total_loss = torch.tensor(0.0, device=self.device, requires_grad=True)
+        
+        for task_id, task in enumerate(self.hparams.tasks):
+            mask = (task_ids == task_id)
+            if mask.sum() == 0:
+                continue
+            
+            valid_task_indices.append(task_id)
+            target_i = targets[mask]
+            output_i = outputs[task_id][mask]
+            
+            # Normalize target for loss computation
+            if "classification" in self.hparams.task_types[task_id]:
+                target_i_normed = target_i.squeeze(-1).long()
+            else:
+                target_i_normed = self.normalize(target_i, task_id)
+            
+            # Compute raw loss
+            loss_i = self.criterions[task]["loss"](output_i, target_i_normed)
+            
+            # Log individual task loss
+            self.log(f'{task}/train_loss', loss_i, 
+                     prog_bar=True, on_step=True, on_epoch=True, 
+                     sync_dist=True, batch_size=self.hparams.batch_size)
+            
+            # Compute weighted loss (Option A: use weighted losses for PCGrad)
+            if self.hparams.loss_aggregation == "trainable_weight_sum" and len(self.hparams.task_types) > 1:
+                precision = torch.exp(-self.model.log_vars[task_id])
+                weighted_loss_i = precision * loss_i + torch.log(torch.exp(self.model.log_vars[task_id]) + 1)
+                self.log(f'{task}/train_loss_weight', self.model.log_vars[task_id], 
+                         prog_bar=False, on_step=True, on_epoch=True, 
+                         sync_dist=True, batch_size=self.hparams.batch_size)
+            elif self.hparams.loss_aggregation == "sample_weight_sum" and len(self.hparams.task_types) > 1:
+                weighted_loss_i = loss_i * (mask.sum() / mask.shape[0])
+            elif self.hparams.loss_aggregation in ["fixed_weight_sum", "dwa"]:
+                weighted_loss_i = loss_i * self.task_weights[task_id]
+                self.log(f'{task}/train_loss_weight', self.task_weights[task_id], 
+                         prog_bar=False, on_step=True, on_epoch=True, 
+                         sync_dist=True, batch_size=self.hparams.batch_size)
+            else:
+                weighted_loss_i = loss_i
+            
+            per_task_weighted_losses.append(weighted_loss_i)
+            total_loss = total_loss + weighted_loss_i
+            
+            # Compute gradients on shared parameters for this task
+            if self._pcgrad_on_shared_only:
+                task_grads = self._pcgrad_helper.compute_task_grads(
+                    weighted_loss_i, retain_graph=True, create_graph=False
+                )
+                per_task_grads.append(task_grads)
+        
+        # Log total loss
+        self.log('train_loss', total_loss, prog_bar=True, on_step=True, on_epoch=True, 
+                 sync_dist=True, batch_size=self.hparams.batch_size)
+        
+        # Apply PCGrad if we have multiple tasks with gradients
+        if len(per_task_grads) > 1 and self._pcgrad_on_shared_only:
+            # Combine gradients using PCGrad
+            combined_grads, pcgrad_stats = self._pcgrad_helper.combine_grads(per_task_grads)
+            
+            # Log PCGrad statistics
+            self.log('pcgrad/conflict_rate', pcgrad_stats['conflict_rate'], 
+                     prog_bar=False, on_step=True, on_epoch=True, sync_dist=True)
+            self.log('pcgrad/mean_cosine_sim', pcgrad_stats['mean_cosine_sim'], 
+                     prog_bar=False, on_step=True, on_epoch=True, sync_dist=True)
+            
+            # Log per-task gradient norms
+            if 'grad_norms' in pcgrad_stats:
+                for i, (task_idx, norm) in enumerate(zip(valid_task_indices, pcgrad_stats['grad_norms'])):
+                    task = self.hparams.tasks[task_idx]
+                    self.log(f'pcgrad/{task}_grad_norm', norm, 
+                             prog_bar=False, on_step=False, on_epoch=True, sync_dist=True)
+            
+            # Zero gradients before backward
+            opt.zero_grad()
+            
+            # Run normal backward for full loss (this sets head grads correctly)
+            self.manual_backward(total_loss)
+            
+            # Overwrite shared parameter gradients with PCGrad-combined gradients
+            self._pcgrad_helper.set_grads(combined_grads)
+        else:
+            # Single task or PCGrad disabled on shared: normal backward
+            opt.zero_grad()
+            self.manual_backward(total_loss)
+        
+        # Gradient clipping if configured
+        if hasattr(self.hparams, 'gradient_clip_val') and self.hparams.gradient_clip_val is not None:
+            self.clip_gradients(opt, gradient_clip_val=self.hparams.gradient_clip_val)
+        
+        # Optimizer step
+        opt.step()
+        
+        # Scheduler step (if using step-based scheduler)
+        sch = self.lr_schedulers()
+        if sch is not None:
+            if isinstance(sch, dict):
+                sch = sch['scheduler']
+            # Only step for schedulers that operate on step (not epoch)
+            if hasattr(self, 'scheduler') and isinstance(self.scheduler, dict):
+                if self.scheduler.get('interval', 'epoch') == 'step':
+                    sch.step()
+        
+        return total_loss
+
     
     def validation_step(self, batch, batch_idx):
         self.model.eval()

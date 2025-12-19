@@ -270,6 +270,12 @@ if __name__ == '__main__':
     parser.add_argument('--max_graph_len', type=int)
     parser.add_argument('--reconstruct', action='store_true')
 
+    # PCGrad (Projected Conflicting Gradients) - multi-task gradient surgery
+    parser.add_argument('--pcgrad_enabled', action='store_true', 
+                        help="Enable PCGrad for multi-task gradient surgery (default: OFF)")
+    parser.add_argument('--pcgrad_on_shared_only', type=bool, default=True,
+                        help="Apply PCGrad only on shared trunk parameters (default: True)")
+
     # # Extra Hyperparameters
     parser.add_argument('--task_cfg', default="tsd", type=str)
     parser.add_argument('--verify', action='store_true', help="Run in verification mode (100 epochs, 20 patience) to test performance trends.")
@@ -291,4 +297,3 @@ if __name__ == '__main__':
     args = SimpleNamespace(**conf)
 
     main(args)
-
