@@ -1,0 +1,810 @@
+    | Name                            | Type                | Params | In sizes                               | Out sizes
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0   | model                           | CrystalGraphConvNet | 2.2 M  | ?                                      | [[[32, 1], [32, 2], [32, 2], [32, 4], [32, 2], [32, 2], [32, 2]], [[32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128]]]
+1   | model.embedding_atom            | Linear              | 23.8 K | [576, 92]                              | [576, 256]
+2   | model.embedding_atom_norm       | LayerNorm           | 512    | [576, 256]                             | [576, 256]
+3   | model.convs                     | ModuleList          | 1.7 M  | ?                                      | ?
+4   | model.convs.0                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+5   | model.convs.0.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+6   | model.convs.0.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+7   | model.convs.0.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+8   | model.convs.0.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+9   | model.convs.0.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+10  | model.convs.0.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+11  | model.convs.1                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+12  | model.convs.1.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+13  | model.convs.1.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+14  | model.convs.1.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+15  | model.convs.1.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+16  | model.convs.1.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+17  | model.convs.1.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+18  | model.convs.2                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+19  | model.convs.2.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+20  | model.convs.2.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+21  | model.convs.2.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+22  | model.convs.2.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+23  | model.convs.2.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+24  | model.convs.2.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+25  | model.convs.3                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+26  | model.convs.3.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+27  | model.convs.3.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+28  | model.convs.3.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+29  | model.convs.3.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+30  | model.convs.3.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+31  | model.convs.3.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+32  | model.convs.4                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+33  | model.convs.4.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+34  | model.convs.4.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+35  | model.convs.4.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+36  | model.convs.4.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+37  | model.convs.4.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+38  | model.convs.4.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+39  | model.convs.5                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+40  | model.convs.5.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+41  | model.convs.5.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+42  | model.convs.5.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+43  | model.convs.5.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+44  | model.convs.5.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+45  | model.convs.5.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+46  | model.embedding_extra           | Linear              | 112    | [32, 6]                                | [32, 16]
+47  | model.embedding_extra_norm      | BatchNorm1d         | 32     | [32, 16]                               | [32, 16]
+48  | model.embedding_extra_softplus  | Softplus            | 0      | [32, 16]                               | [32, 16]
+49  | model.conv_to_fc                | Linear              | 34.9 K | [32, 272]                              | [32, 128]
+50  | model.conv_to_fc_norm           | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+51  | model.conv_to_fc_softplus       | Softplus            | 0      | [32, 128]                              | [32, 128]
+52  | model.dropout                   | Dropout             | 0      | [32, 128]                              | [32, 128]
+53  | model.fcs                       | ModuleList          | 49.5 K | ?                                      | ?
+54  | model.fcs.0                     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+55  | model.fcs.1                     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+56  | model.fcs.2                     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+57  | model.norms                     | ModuleList          | 768    | ?                                      | ?
+58  | model.norms.0                   | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+59  | model.norms.1                   | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+60  | model.norms.2                   | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+61  | model.softpluses                | ModuleList          | 0      | ?                                      | ?
+62  | model.softpluses.0              | Softplus            | 0      | [32, 128]                              | [32, 128]
+63  | model.softpluses.1              | Softplus            | 0      | [32, 128]                              | [32, 128]
+64  | model.softpluses.2              | Softplus            | 0      | [32, 128]                              | [32, 128]
+65  | model.fc_outs                   | ModuleList          | 1.9 K  | ?                                      | ?
+66  | model.fc_outs.0                 | OutputLayer         | 129    | [32, 128]                              | [32, 1]
+67  | model.fc_outs.0.fc              | Linear              | 129    | [32, 128]                              | [32, 1]
+68  | model.fc_outs.1                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+69  | model.fc_outs.1.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+70  | model.fc_outs.1.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+71  | model.fc_outs.1.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+72  | model.fc_outs.2                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+73  | model.fc_outs.2.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+74  | model.fc_outs.2.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+75  | model.fc_outs.2.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+76  | model.fc_outs.3                 | OutputLayer         | 516    | [32, 128]                              | [32, 4]
+77  | model.fc_outs.3.fc              | Sequential          | 516    | [32, 128]                              | [32, 4]
+78  | model.fc_outs.3.fc.0            | Linear              | 516    | [32, 128]                              | [32, 4]
+79  | model.fc_outs.3.fc.1            | LogSoftmax          | 0      | [32, 4]                                | [32, 4]
+80  | model.fc_outs.4                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+81  | model.fc_outs.4.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+82  | model.fc_outs.4.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+83  | model.fc_outs.4.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+84  | model.fc_outs.5                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+85  | model.fc_outs.5.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+86  | model.fc_outs.5.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+87  | model.fc_outs.5.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+88  | model.fc_outs.6                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+89  | model.fc_outs.6.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+90  | model.fc_outs.6.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+91  | model.fc_outs.6.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+92  | model.task_norms                | ModuleList          | 1.8 K  | ?                                      | ?
+93  | model.task_norms.0              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+94  | model.task_norms.1              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+95  | model.task_norms.2              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+96  | model.task_norms.3              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+97  | model.task_norms.4              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+98  | model.task_norms.5              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+99  | model.task_norms.6              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+100 | model.task_attentions           | ModuleList          | 346 K  | ?                                      | ?
+101 | model.task_attentions.0         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+102 | model.task_attentions.0.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+103 | model.task_attentions.0.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+104 | model.task_attentions.0.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+105 | model.task_attentions.0.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+106 | model.task_attentions.1         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+107 | model.task_attentions.1.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+108 | model.task_attentions.1.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+109 | model.task_attentions.1.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+110 | model.task_attentions.1.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+111 | model.task_attentions.2         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+112 | model.task_attentions.2.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+113 | model.task_attentions.2.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+114 | model.task_attentions.2.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+115 | model.task_attentions.2.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+116 | model.task_attentions.3         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+117 | model.task_attentions.3.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+118 | model.task_attentions.3.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+119 | model.task_attentions.3.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+120 | model.task_attentions.3.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+121 | model.task_attentions.4         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+122 | model.task_attentions.4.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+123 | model.task_attentions.4.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+124 | model.task_attentions.4.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+125 | model.task_attentions.4.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+126 | model.task_attentions.5         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+127 | model.task_attentions.5.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+128 | model.task_attentions.5.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+129 | model.task_attentions.5.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+130 | model.task_attentions.5.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+131 | model.task_attentions.6         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+132 | model.task_attentions.6.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+133 | model.task_attentions.6.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+134 | model.task_attentions.6.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+135 | model.task_attentions.6.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.2 M     Trainable params
+0         Non-trainable params
+2.2 M     Total params
+8.686     Total estimated model params size (MB)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+log_dir: /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+==================================================
+normal_decay
+['embedding_atom.weight', 'convs.0.fc_full.weight', 'convs.1.fc_full.weight', 'convs.2.fc_full.weight', 'convs.3.fc_full.weight', 'convs.4.fc_full.weight', 'convs.5.fc_full.weight', 'embedding_extra.weight', 'conv_to_fc.weight', 'fcs.0.weight', 'fcs.1.weight', 'fcs.2.weight']
+==================================================
+normal_no_decay
+['embedding_atom.bias', 'embedding_atom_norm.weight', 'embedding_atom_norm.bias', 'convs.0.fc_full.bias', 'convs.0.bn1.weight', 'convs.0.bn1.bias', 'convs.0.bn2.weight', 'convs.0.bn2.bias', 'convs.1.fc_full.bias', 'convs.1.bn1.weight', 'convs.1.bn1.bias', 'convs.1.bn2.weight', 'convs.1.bn2.bias', 'convs.2.fc_full.bias', 'convs.2.bn1.weight', 'convs.2.bn1.bias', 'convs.2.bn2.weight', 'convs.2.bn2.bias', 'convs.3.fc_full.bias', 'convs.3.bn1.weight', 'convs.3.bn1.bias', 'convs.3.bn2.weight', 'convs.3.bn2.bias', 'convs.4.fc_full.bias', 'convs.4.bn1.weight', 'convs.4.bn1.bias', 'convs.4.bn2.weight', 'convs.4.bn2.bias', 'convs.5.fc_full.bias', 'convs.5.bn1.weight', 'convs.5.bn1.bias', 'convs.5.bn2.weight', 'convs.5.bn2.bias', 'embedding_extra.bias', 'embedding_extra_norm.weight', 'embedding_extra_norm.bias', 'conv_to_fc.bias', 'conv_to_fc_norm.weight', 'conv_to_fc_norm.bias', 'fcs.0.bias', 'fcs.1.bias', 'fcs.2.bias', 'norms.0.weight', 'norms.0.bias', 'norms.1.weight', 'norms.1.bias', 'norms.2.weight', 'norms.2.bias', 'task_norms.0.weight', 'task_norms.0.bias', 'task_norms.1.weight', 'task_norms.1.bias', 'task_norms.2.weight', 'task_norms.2.bias', 'task_norms.3.weight', 'task_norms.3.bias', 'task_norms.4.weight', 'task_norms.4.bias', 'task_norms.5.weight', 'task_norms.5.bias', 'task_norms.6.weight', 'task_norms.6.bias']
+==================================================
+head_decay
+['fc_outs.0.fc.weight', 'fc_outs.1.fc.0.weight', 'fc_outs.2.fc.0.weight', 'fc_outs.3.fc.0.weight', 'fc_outs.4.fc.0.weight', 'fc_outs.5.fc.0.weight', 'fc_outs.6.fc.0.weight', 'task_attentions.0.query.weight', 'task_attentions.0.key.weight', 'task_attentions.0.value.weight', 'task_attentions.1.query.weight', 'task_attentions.1.key.weight', 'task_attentions.1.value.weight', 'task_attentions.2.query.weight', 'task_attentions.2.key.weight', 'task_attentions.2.value.weight', 'task_attentions.3.query.weight', 'task_attentions.3.key.weight', 'task_attentions.3.value.weight', 'task_attentions.4.query.weight', 'task_attentions.4.key.weight', 'task_attentions.4.value.weight', 'task_attentions.5.query.weight', 'task_attentions.5.key.weight', 'task_attentions.5.value.weight', 'task_attentions.6.query.weight', 'task_attentions.6.key.weight', 'task_attentions.6.value.weight']
+==================================================
+head_no_decay
+['fc_outs.0.fc.bias', 'fc_outs.1.fc.0.bias', 'fc_outs.2.fc.0.bias', 'fc_outs.3.fc.0.bias', 'fc_outs.4.fc.0.bias', 'fc_outs.5.fc.0.bias', 'fc_outs.6.fc.0.bias', 'task_attentions.0.query.bias', 'task_attentions.0.key.bias', 'task_attentions.0.value.bias', 'task_attentions.1.query.bias', 'task_attentions.1.key.bias', 'task_attentions.1.value.bias', 'task_attentions.2.query.bias', 'task_attentions.2.key.bias', 'task_attentions.2.value.bias', 'task_attentions.3.query.bias', 'task_attentions.3.key.bias', 'task_attentions.3.value.bias', 'task_attentions.4.query.bias', 'task_attentions.4.key.bias', 'task_attentions.4.value.bias', 'task_attentions.5.query.bias', 'task_attentions.5.key.bias', 'task_attentions.5.value.bias', 'task_attentions.6.query.bias', 'task_attentions.6.key.bias', 'task_attentions.6.value.bias']
+==================================================
+log_vars
+[]
+Loading `train_dataloader` to estimate number of stepping batches.
+Using random sampler for training data.
+max_epochs: 100 | max_steps: 13400 | warmup_steps : 2 lr_mult : 10.0 | weight_decay : 1e-05 | decay_power : 1
+
+  | Name  | Type                | Params | In sizes | Out sizes
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 | model | CrystalGraphConvNet | 2.2 M  | ?        | [[[32, 1], [32, 2], [32, 2], [32, 4], [32, 2], [32, 2], [32, 2]], [[32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128]]]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.2 M     Trainable params
+0         Non-trainable params
+2.2 M     Total params
+8.686     Total estimated model params size (MB)
+Using no sampler for validation data.
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(0): metric=0.3845 > best_metric=0.0000, log val results..
+Epoch 0, global step 134: 'val_Metric' reached 0.38447 (best 0.38447), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=00-val_Metric=0.384.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 1, global step 268: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(2): metric=0.3914 > best_metric=0.3845, log val results..
+Epoch 2, global step 402: 'val_Metric' reached 0.39145 (best 0.39145), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=02-val_Metric=0.391.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 3, global step 536: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(4): metric=0.4409 > best_metric=0.3914, log val results..
+Epoch 4, global step 670: 'val_Metric' reached 0.44094 (best 0.44094), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=04-val_Metric=0.441.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 5, global step 804: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(6): metric=0.4496 > best_metric=0.4409, log val results..
+Epoch 6, global step 938: 'val_Metric' reached 0.44957 (best 0.44957), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=06-val_Metric=0.450.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(7): metric=0.4657 > best_metric=0.4496, log val results..
+Epoch 7, global step 1072: 'val_Metric' reached 0.46574 (best 0.46574), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=07-val_Metric=0.466.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 8, global step 1206: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 9, global step 1340: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 10, global step 1474: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(11): metric=0.4920 > best_metric=0.4657, log val results..
+Epoch 11, global step 1608: 'val_Metric' reached 0.49197 (best 0.49197), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=11-val_Metric=0.492.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 12, global step 1742: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 13, global step 1876: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(14): metric=0.4954 > best_metric=0.4920, log val results..
+Epoch 14, global step 2010: 'val_Metric' reached 0.49540 (best 0.49540), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=14-val_Metric=0.495.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 15, global step 2144: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(16): metric=0.5020 > best_metric=0.4954, log val results..
+Epoch 16, global step 2278: 'val_Metric' reached 0.50205 (best 0.50205), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=16-val_Metric=0.502.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(17): metric=0.5288 > best_metric=0.5020, log val results..
+Epoch 17, global step 2412: 'val_Metric' reached 0.52884 (best 0.52884), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=17-val_Metric=0.529.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 18, global step 2546: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 19, global step 2680: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 20, global step 2814: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 21, global step 2948: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 22, global step 3082: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 23, global step 3216: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 24, global step 3350: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 25, global step 3484: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(26): metric=0.5300 > best_metric=0.5288, log val results..
+Epoch 26, global step 3618: 'val_Metric' reached 0.53003 (best 0.53003), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=26-val_Metric=0.530.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 27, global step 3752: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 28, global step 3886: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 29, global step 4020: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 30, global step 4154: 'val_Metric' reached 0.53053 (best 0.53053), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=30-val_Metric=0.531.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 31, global step 4288: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 32, global step 4422: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 33, global step 4556: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 34, global step 4690: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(35): metric=0.5412 > best_metric=0.5300, log val results..
+Epoch 35, global step 4824: 'val_Metric' reached 0.54117 (best 0.54117), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=35-val_Metric=0.541.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 36, global step 4958: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 37, global step 5092: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 38, global step 5226: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 39, global step 5360: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(40): metric=0.5573 > best_metric=0.5412, log val results..
+Epoch 40, global step 5494: 'val_Metric' reached 0.55731 (best 0.55731), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=40-val_Metric=0.557.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 41, global step 5628: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 42, global step 5762: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 43, global step 5896: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 44, global step 6030: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 45, global step 6164: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 46, global step 6298: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 47, global step 6432: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 48, global step 6566: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 49, global step 6700: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 50, global step 6834: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 51, global step 6968: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 52, global step 7102: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 53, global step 7236: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 54, global step 7370: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(55): metric=0.5645 > best_metric=0.5573, log val results..
+Epoch 55, global step 7504: 'val_Metric' reached 0.56449 (best 0.56449), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=55-val_Metric=0.564.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(56): metric=0.5911 > best_metric=0.5645, log val results..
+Epoch 56, global step 7638: 'val_Metric' reached 0.59106 (best 0.59106), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=56-val_Metric=0.591.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 57, global step 7772: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 58, global step 7906: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 59, global step 8040: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 60, global step 8174: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 61, global step 8308: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 62, global step 8442: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 63, global step 8576: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 64, global step 8710: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 65, global step 8844: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 66, global step 8978: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 67, global step 9112: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 68, global step 9246: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 69, global step 9380: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 70, global step 9514: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 71, global step 9648: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 72, global step 9782: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 73, global step 9916: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 74, global step 10050: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 75, global step 10184: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 76, global step 10318: 'val_Metric' was not in top 1
+Best model path: /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=56-val_Metric=0.591.ckpt
+##################################################best
+Restoring states from the checkpoint path at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=56-val_Metric=0.591.ckpt
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+Loaded model weights from the checkpoint at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=56-val_Metric=0.591.ckpt
+Using no sampler for validation data.
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃[1m [0m[1m           Validate metric            [0m[1m [0m┃[1m [0m[1m             DataLoader 0             [0m[1m [0m┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│[36m [0m[36m       SSD/val_MulticlassAUROC        [0m[36m [0m│[35m [0m[35m          0.7643650770187378          [0m[35m [0m│
+│[36m [0m[36m      SSD/val_MulticlassAccuracy      [0m[36m [0m│[35m [0m[35m          0.710565447807312           [0m[35m [0m│
+│[36m [0m[36m      SSD/val_MulticlassF1Score       [0m[36m [0m│[35m [0m[35m          0.710565447807312           [0m[35m [0m│
+│[36m [0m[36m  SSD/val_MulticlassMatthewsCorrCoef  [0m[36m [0m│[35m [0m[35m         0.37904083728790283          [0m[35m [0m│
+│[36m [0m[36m          SSD/val_loss_epoch          [0m[36m [0m│[35m [0m[35m          0.7901216149330139          [0m[35m [0m│
+│[36m [0m[36m      SSD/val_loss_weight_epoch       [0m[36m [0m│[35m [0m[35m          1.6994599103927612          [0m[35m [0m│
+│[36m [0m[36m      TSD/val_MeanAbsoluteError       [0m[36m [0m│[35m [0m[35m          50.88615036010742           [0m[35m [0m│
+│[36m [0m[36m TSD/val_MeanAbsolutePercentageError  [0m[36m [0m│[35m [0m[35m         0.14566300809383392          [0m[35m [0m│
+│[36m [0m[36m       TSD/val_MeanSquaredError       [0m[36m [0m│[35m [0m[35m            4219.572265625            [0m[35m [0m│
+│[36m [0m[36m           TSD/val_R2Score            [0m[36m [0m│[35m [0m[35m         0.38915616273880005          [0m[35m [0m│
+│[36m [0m[36m          TSD/val_loss_epoch          [0m[36m [0m│[35m [0m[35m          0.5314212441444397          [0m[35m [0m│
+│[36m [0m[36m      TSD/val_loss_weight_epoch       [0m[36m [0m│[35m [0m[35m          2.5557637214660645          [0m[35m [0m│
+│[36m [0m[36m    WS24_acid/val_MulticlassAUROC     [0m[36m [0m│[35m [0m[35m          0.4214285612106323          [0m[35m [0m│
+│[36m [0m[36m   WS24_acid/val_MulticlassAccuracy   [0m[36m [0m│[35m [0m[35m          0.6666666269302368          [0m[35m [0m│
+│[36m [0m[36m   WS24_acid/val_MulticlassF1Score    [0m[36m [0m│[35m [0m[35m          0.6666666269302368          [0m[35m [0m│
+│[36m [0m[36mWS24_acid/val_MulticlassMatthewsCorrC…[0m[36m [0m│[35m [0m[35m          0.3286878764629364          [0m[35m [0m│
+│[36m [0m[36m       WS24_acid/val_loss_epoch       [0m[36m [0m│[35m [0m[35m          2.157965660095215           [0m[35m [0m│
+│[36m [0m[36m   WS24_acid/val_loss_weight_epoch    [0m[36m [0m│[35m [0m[35m         0.18408076465129852          [0m[35m [0m│
+│[36m [0m[36m    WS24_base/val_MulticlassAUROC     [0m[36m [0m│[35m [0m[35m                0.125                 [0m[35m [0m│
+│[36m [0m[36m   WS24_base/val_MulticlassAccuracy   [0m[36m [0m│[35m [0m[35m                 0.5                  [0m[35m [0m│
+│[36m [0m[36m   WS24_base/val_MulticlassF1Score    [0m[36m [0m│[35m [0m[35m                 0.5                  [0m[35m [0m│
+│[36m [0m[36mWS24_base/val_MulticlassMatthewsCorrC…[0m[36m [0m│[35m [0m[35m         -0.15811388194561005         [0m[35m [0m│
+│[36m [0m[36m       WS24_base/val_loss_epoch       [0m[36m [0m│[35m [0m[35m          2.3945467472076416          [0m[35m [0m│
+│[36m [0m[36m   WS24_base/val_loss_weight_epoch    [0m[36m [0m│[35m [0m[35m         0.13148626685142517          [0m[35m [0m│
+│[36m [0m[36m   WS24_boiling/val_MulticlassAUROC   [0m[36m [0m│[35m [0m[35m          0.3072916567325592          [0m[35m [0m│
+│[36m [0m[36m WS24_boiling/val_MulticlassAccuracy  [0m[36m [0m│[35m [0m[35m          0.675000011920929           [0m[35m [0m│
+│[36m [0m[36m  WS24_boiling/val_MulticlassF1Score  [0m[36m [0m│[35m [0m[35m          0.675000011920929           [0m[35m [0m│
+│[36m [0m[36mWS24_boiling/val_MulticlassMatthewsCo…[0m[36m [0m│[35m [0m[35m         0.37200847268104553          [0m[35m [0m│
+│[36m [0m[36m     WS24_boiling/val_loss_epoch      [0m[36m [0m│[35m [0m[35m          0.7960854768753052          [0m[35m [0m│
+│[36m [0m[36m  WS24_boiling/val_loss_weight_epoch  [0m[36m [0m│[35m [0m[35m         0.13477341830730438          [0m[35m [0m│
+│[36m [0m[36m    WS24_water/val_MulticlassAUROC    [0m[36m [0m│[35m [0m[35m          0.7108317613601685          [0m[35m [0m│
+│[36m [0m[36m  WS24_water/val_MulticlassAccuracy   [0m[36m [0m│[35m [0m[35m          0.759958803653717           [0m[35m [0m│
+│[36m [0m[36m   WS24_water/val_MulticlassF1Score   [0m[36m [0m│[35m [0m[35m          0.759958803653717           [0m[35m [0m│
+│[36m [0m[36mWS24_water/val_MulticlassMatthewsCorr…[0m[36m [0m│[35m [0m[35m          0.5007141828536987          [0m[35m [0m│
+│[36m [0m[36m      WS24_water/val_loss_epoch       [0m[36m [0m│[35m [0m[35m          0.8715728521347046          [0m[35m [0m│
+│[36m [0m[36m   WS24_water/val_loss_weight_epoch   [0m[36m [0m│[35m [0m[35m          1.1472176313400269          [0m[35m [0m│
+│[36m [0m[36m   WS24_water4/val_MulticlassAUROC    [0m[36m [0m│[35m [0m[35m          0.7629621028900146          [0m[35m [0m│
+│[36m [0m[36m  WS24_water4/val_MulticlassAccuracy  [0m[36m [0m│[35m [0m[35m          0.642622172832489           [0m[35m [0m│
+│[36m [0m[36m  WS24_water4/val_MulticlassF1Score   [0m[36m [0m│[35m [0m[35m          0.642622172832489           [0m[35m [0m│
+│[36m [0m[36mWS24_water4/val_MulticlassMatthewsCor…[0m[36m [0m│[35m [0m[35m         0.45457133650779724          [0m[35m [0m│
+│[36m [0m[36m      WS24_water4/val_loss_epoch      [0m[36m [0m│[35m [0m[35m           1.52387273311615           [0m[35m [0m│
+│[36m [0m[36m  WS24_water4/val_loss_weight_epoch   [0m[36m [0m│[35m [0m[35m          1.1472176313400269          [0m[35m [0m│
+│[36m [0m[36m        val_MergedMetric_epoch        [0m[36m [0m│[35m [0m[35m          0.595678448677063           [0m[35m [0m│
+│[36m [0m[36m              val_Metric              [0m[36m [0m│[35m [0m[35m          0.5910571530543067          [0m[35m [0m│
+│[36m [0m[36m            val_loss_epoch            [0m[36m [0m│[35m [0m[35m          1.3978207111358643          [0m[35m [0m│
+└────────────────────────────────────────┴────────────────────────────────────────┘
+TSD/val_loss : tensor(0.5314)
+TSD/val_loss_epoch : tensor(0.5314)
+TSD/val_loss_weight : tensor(2.5558)
+TSD/val_loss_weight_epoch : tensor(2.5558)
+TSD/val_R2Score : tensor(0.3892)
+TSD/val_MeanAbsoluteError : tensor(50.8862)
+TSD/val_MeanAbsolutePercentageError : tensor(0.1457)
+TSD/val_MeanSquaredError : tensor(4219.5723)
+val_loss : tensor(1.3978)
+val_loss_epoch : tensor(1.3978)
+val_MergedMetric : tensor(0.5957)
+val_MergedMetric_epoch : tensor(0.5957)
+SSD/val_loss : tensor(0.7901)
+SSD/val_loss_epoch : tensor(0.7901)
+SSD/val_loss_weight : tensor(1.6995)
+SSD/val_loss_weight_epoch : tensor(1.6995)
+SSD/val_MulticlassAccuracy : tensor(0.7106)
+SSD/val_MulticlassMatthewsCorrCoef : tensor(0.3790)
+SSD/val_MulticlassF1Score : tensor(0.7106)
+SSD/val_MulticlassAUROC : tensor(0.7644)
+WS24_water/val_loss : tensor(0.8716)
+WS24_water/val_loss_epoch : tensor(0.8716)
+WS24_water/val_loss_weight : tensor(1.1472)
+WS24_water/val_loss_weight_epoch : tensor(1.1472)
+WS24_water/val_MulticlassAccuracy : tensor(0.7600)
+WS24_water/val_MulticlassMatthewsCorrCoef : tensor(0.5007)
+WS24_water/val_MulticlassF1Score : tensor(0.7600)
+WS24_water/val_MulticlassAUROC : tensor(0.7108)
+WS24_water4/val_loss : tensor(1.5239)
+WS24_water4/val_loss_epoch : tensor(1.5239)
+WS24_water4/val_loss_weight : tensor(1.1472)
+WS24_water4/val_loss_weight_epoch : tensor(1.1472)
+WS24_water4/val_MulticlassAccuracy : tensor(0.6426)
+WS24_water4/val_MulticlassMatthewsCorrCoef : tensor(0.4546)
+WS24_water4/val_MulticlassF1Score : tensor(0.6426)
+WS24_water4/val_MulticlassAUROC : tensor(0.7630)
+WS24_acid/val_loss : tensor(2.1580)
+WS24_acid/val_loss_epoch : tensor(2.1580)
+WS24_acid/val_loss_weight : tensor(0.1841)
+WS24_acid/val_loss_weight_epoch : tensor(0.1841)
+WS24_acid/val_MulticlassAccuracy : tensor(0.6667)
+WS24_acid/val_MulticlassMatthewsCorrCoef : tensor(0.3287)
+WS24_acid/val_MulticlassF1Score : tensor(0.6667)
+WS24_acid/val_MulticlassAUROC : tensor(0.4214)
+WS24_base/val_loss : tensor(2.3945)
+WS24_base/val_loss_epoch : tensor(2.3945)
+WS24_base/val_loss_weight : tensor(0.1315)
+WS24_base/val_loss_weight_epoch : tensor(0.1315)
+WS24_base/val_MulticlassAccuracy : tensor(0.5000)
+WS24_base/val_MulticlassMatthewsCorrCoef : tensor(-0.1581)
+WS24_base/val_MulticlassF1Score : tensor(0.5000)
+WS24_base/val_MulticlassAUROC : tensor(0.1250)
+WS24_boiling/val_loss : tensor(0.7961)
+WS24_boiling/val_loss_epoch : tensor(0.7961)
+WS24_boiling/val_loss_weight : tensor(0.1348)
+WS24_boiling/val_loss_weight_epoch : tensor(0.1348)
+WS24_boiling/val_MulticlassAccuracy : tensor(0.6750)
+WS24_boiling/val_MulticlassMatthewsCorrCoef : tensor(0.3720)
+WS24_boiling/val_MulticlassF1Score : tensor(0.6750)
+WS24_boiling/val_MulticlassAUROC : tensor(0.3073)
+val_Metric : tensor(0.5911, dtype=torch.float64)
+Restoring states from the checkpoint path at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=56-val_Metric=0.591.ckpt
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+Loaded model weights from the checkpoint at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_1/checkpoints/best-epoch=56-val_Metric=0.591.ckpt
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃[1m [0m[1m             Test metric              [0m[1m [0m┃[1m [0m[1m             DataLoader 0             [0m[1m [0m┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│[36m [0m[36m       SSD/test_MulticlassAUROC       [0m[36m [0m│[35m [0m[35m          0.7778804302215576          [0m[35m [0m│
+│[36m [0m[36m     SSD/test_MulticlassAccuracy      [0m[36m [0m│[35m [0m[35m          0.7357954382896423          [0m[35m [0m│
+│[36m [0m[36m      SSD/test_MulticlassF1Score      [0m[36m [0m│[35m [0m[35m          0.7357954382896423          [0m[35m [0m│
+│[36m [0m[36m SSD/test_MulticlassMatthewsCorrCoef  [0m[36m [0m│[35m [0m[35m         0.42341509461402893          [0m[35m [0m│
+│[36m [0m[36m         SSD/test_loss_epoch          [0m[36m [0m│[35m [0m[35m          0.7381826043128967          [0m[35m [0m│
+│[36m [0m[36m      SSD/test_loss_weight_epoch      [0m[36m [0m│[35m [0m[35m          1.6994597911834717          [0m[35m [0m│
+│[36m [0m[36m      TSD/test_MeanAbsoluteError      [0m[36m [0m│[35m [0m[35m          49.98115921020508           [0m[35m [0m│
+│[36m [0m[36m TSD/test_MeanAbsolutePercentageError [0m[36m [0m│[35m [0m[35m         0.15243647992610931          [0m[35m [0m│
+│[36m [0m[36m      TSD/test_MeanSquaredError       [0m[36m [0m│[35m [0m[35m           4368.57861328125           [0m[35m [0m│
+│[36m [0m[36m           TSD/test_R2Score           [0m[36m [0m│[35m [0m[35m          0.3414197862148285          [0m[35m [0m│
+│[36m [0m[36m         TSD/test_loss_epoch          [0m[36m [0m│[35m [0m[35m          0.5501874685287476          [0m[35m [0m│
+│[36m [0m[36m      TSD/test_loss_weight_epoch      [0m[36m [0m│[35m [0m[35m          2.5557637214660645          [0m[35m [0m│
+│[36m [0m[36m    WS24_acid/test_MulticlassAUROC    [0m[36m [0m│[35m [0m[35m          0.4629629850387573          [0m[35m [0m│
+│[36m [0m[36m  WS24_acid/test_MulticlassAccuracy   [0m[36m [0m│[35m [0m[35m          0.9333333373069763          [0m[35m [0m│
+│[36m [0m[36m   WS24_acid/test_MulticlassF1Score   [0m[36m [0m│[35m [0m[35m          0.9333333373069763          [0m[35m [0m│
+│[36m [0m[36mWS24_acid/test_MulticlassMatthewsCorr…[0m[36m [0m│[35m [0m[35m          0.8682426810264587          [0m[35m [0m│
+│[36m [0m[36m      WS24_acid/test_loss_epoch       [0m[36m [0m│[35m [0m[35m         0.30106163024902344          [0m[35m [0m│
+│[36m [0m[36m   WS24_acid/test_loss_weight_epoch   [0m[36m [0m│[35m [0m[35m         0.18408076465129852          [0m[35m [0m│
+│[36m [0m[36m    WS24_base/test_MulticlassAUROC    [0m[36m [0m│[35m [0m[35m          0.4624999761581421          [0m[35m [0m│
+│[36m [0m[36m  WS24_base/test_MulticlassAccuracy   [0m[36m [0m│[35m [0m[35m          0.9090908765792847          [0m[35m [0m│
+│[36m [0m[36m   WS24_base/test_MulticlassF1Score   [0m[36m [0m│[35m [0m[35m          0.9090908765792847          [0m[35m [0m│
+│[36m [0m[36mWS24_base/test_MulticlassMatthewsCorr…[0m[36m [0m│[35m [0m[35m          0.824999988079071           [0m[35m [0m│
+│[36m [0m[36m      WS24_base/test_loss_epoch       [0m[36m [0m│[35m [0m[35m          0.3105906546115875          [0m[35m [0m│
+│[36m [0m[36m   WS24_base/test_loss_weight_epoch   [0m[36m [0m│[35m [0m[35m         0.13148626685142517          [0m[35m [0m│
+│[36m [0m[36m  WS24_boiling/test_MulticlassAUROC   [0m[36m [0m│[35m [0m[35m          0.3205128312110901          [0m[35m [0m│
+│[36m [0m[36m WS24_boiling/test_MulticlassAccuracy [0m[36m [0m│[35m [0m[35m                 0.75                 [0m[35m [0m│
+│[36m [0m[36m WS24_boiling/test_MulticlassF1Score  [0m[36m [0m│[35m [0m[35m                 0.75                 [0m[35m [0m│
+│[36m [0m[36mWS24_boiling/test_MulticlassMatthewsC…[0m[36m [0m│[35m [0m[35m          0.5504356026649475          [0m[35m [0m│
+│[36m [0m[36m     WS24_boiling/test_loss_epoch     [0m[36m [0m│[35m [0m[35m          0.7931381464004517          [0m[35m [0m│
+│[36m [0m[36m WS24_boiling/test_loss_weight_epoch  [0m[36m [0m│[35m [0m[35m         0.13477341830730438          [0m[35m [0m│
+│[36m [0m[36m   WS24_water/test_MulticlassAUROC    [0m[36m [0m│[35m [0m[35m          0.8422077894210815          [0m[35m [0m│
+│[36m [0m[36m  WS24_water/test_MulticlassAccuracy  [0m[36m [0m│[35m [0m[35m          0.7805299758911133          [0m[35m [0m│
+│[36m [0m[36m  WS24_water/test_MulticlassF1Score   [0m[36m [0m│[35m [0m[35m          0.7805299758911133          [0m[35m [0m│
+│[36m [0m[36mWS24_water/test_MulticlassMatthewsCor…[0m[36m [0m│[35m [0m[35m          0.5378783941268921          [0m[35m [0m│
+│[36m [0m[36m      WS24_water/test_loss_epoch      [0m[36m [0m│[35m [0m[35m          0.8294152617454529          [0m[35m [0m│
+│[36m [0m[36m  WS24_water/test_loss_weight_epoch   [0m[36m [0m│[35m [0m[35m          1.1472176313400269          [0m[35m [0m│
+│[36m [0m[36m   WS24_water4/test_MulticlassAUROC   [0m[36m [0m│[35m [0m[35m          0.7645859122276306          [0m[35m [0m│
+│[36m [0m[36m WS24_water4/test_MulticlassAccuracy  [0m[36m [0m│[35m [0m[35m          0.6483516693115234          [0m[35m [0m│
+│[36m [0m[36m  WS24_water4/test_MulticlassF1Score  [0m[36m [0m│[35m [0m[35m          0.6483516693115234          [0m[35m [0m│
+│[36m [0m[36mWS24_water4/test_MulticlassMatthewsCo…[0m[36m [0m│[35m [0m[35m         0.43466636538505554          [0m[35m [0m│
+│[36m [0m[36m     WS24_water4/test_loss_epoch      [0m[36m [0m│[35m [0m[35m          1.5217666625976562          [0m[35m [0m│
+│[36m [0m[36m  WS24_water4/test_loss_weight_epoch  [0m[36m [0m│[35m [0m[35m          1.1472176313400269          [0m[35m [0m│
+│[36m [0m[36m             test_Metric              [0m[36m [0m│[35m [0m[35m          0.5682981066483354          [0m[35m [0m│
+│[36m [0m[36m           test_loss_epoch            [0m[36m [0m│[35m [0m[35m          1.331552267074585           [0m[35m [0m│
+└────────────────────────────────────────┴────────────────────────────────────────┘
+TSD/test_loss : tensor(0.5502)
+TSD/test_loss_epoch : tensor(0.5502)
+TSD/test_loss_weight : tensor(2.5558)
+TSD/test_loss_weight_epoch : tensor(2.5558)
+TSD/test_R2Score : tensor(0.3414)
+TSD/test_MeanAbsoluteError : tensor(49.9812)
+TSD/test_MeanAbsolutePercentageError : tensor(0.1524)
+TSD/test_MeanSquaredError : tensor(4368.5786)
+test_loss : tensor(1.3316)
+test_loss_epoch : tensor(1.3316)
+SSD/test_loss : tensor(0.7382)
+SSD/test_loss_epoch : tensor(0.7382)
+SSD/test_loss_weight : tensor(1.6995)
+SSD/test_loss_weight_epoch : tensor(1.6995)
+SSD/test_MulticlassAccuracy : tensor(0.7358)
+SSD/test_MulticlassMatthewsCorrCoef : tensor(0.4234)
+SSD/test_MulticlassF1Score : tensor(0.7358)
+SSD/test_MulticlassAUROC : tensor(0.7779)
+WS24_water/test_loss : tensor(0.8294)
+WS24_water/test_loss_epoch : tensor(0.8294)
+WS24_water/test_loss_weight : tensor(1.1472)
+WS24_water/test_loss_weight_epoch : tensor(1.1472)
+WS24_water/test_MulticlassAccuracy : tensor(0.7805)
+WS24_water/test_MulticlassMatthewsCorrCoef : tensor(0.5379)
+WS24_water/test_MulticlassF1Score : tensor(0.7805)
+WS24_water/test_MulticlassAUROC : tensor(0.8422)
+WS24_water4/test_loss : tensor(1.5218)
+WS24_water4/test_loss_epoch : tensor(1.5218)
+WS24_water4/test_loss_weight : tensor(1.1472)
+WS24_water4/test_loss_weight_epoch : tensor(1.1472)
+WS24_water4/test_MulticlassAccuracy : tensor(0.6484)
+WS24_water4/test_MulticlassMatthewsCorrCoef : tensor(0.4347)
+WS24_water4/test_MulticlassF1Score : tensor(0.6484)
+WS24_water4/test_MulticlassAUROC : tensor(0.7646)
+WS24_acid/test_loss : tensor(0.3011)
+WS24_acid/test_loss_epoch : tensor(0.3011)
+WS24_acid/test_loss_weight : tensor(0.1841)
+WS24_acid/test_loss_weight_epoch : tensor(0.1841)
+WS24_acid/test_MulticlassAccuracy : tensor(0.9333)
+WS24_acid/test_MulticlassMatthewsCorrCoef : tensor(0.8682)
+WS24_acid/test_MulticlassF1Score : tensor(0.9333)
+WS24_acid/test_MulticlassAUROC : tensor(0.4630)
+WS24_base/test_loss : tensor(0.3106)
+WS24_base/test_loss_epoch : tensor(0.3106)
+WS24_base/test_loss_weight : tensor(0.1315)
+WS24_base/test_loss_weight_epoch : tensor(0.1315)
+WS24_base/test_MulticlassAccuracy : tensor(0.9091)
+WS24_base/test_MulticlassMatthewsCorrCoef : tensor(0.8250)
+WS24_base/test_MulticlassF1Score : tensor(0.9091)
+WS24_base/test_MulticlassAUROC : tensor(0.4625)
+WS24_boiling/test_loss : tensor(0.7931)
+WS24_boiling/test_loss_epoch : tensor(0.7931)
+WS24_boiling/test_loss_weight : tensor(0.1348)
+WS24_boiling/test_loss_weight_epoch : tensor(0.1348)
+WS24_boiling/test_MulticlassAccuracy : tensor(0.7500)
+WS24_boiling/test_MulticlassMatthewsCorrCoef : tensor(0.5504)
+WS24_boiling/test_MulticlassF1Score : tensor(0.7500)
+WS24_boiling/test_MulticlassAUROC : tensor(0.3205)
+test_Metric : tensor(0.5683, dtype=torch.float64)
