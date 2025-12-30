@@ -1,0 +1,384 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            dxr85b7at4duj21oipqdun8ugch6z362:
+                args:
+                    - --verify
+                    - --progress_bar
+                    - --task_cfg
+                    - tsd_ssd_ws24
+                    - --model_cfg
+                    - att_cgcnn
+                    - --num_workers
+                    - "14"
+                    - --batch_size
+                    - "32"
+                    - --max_graph_len
+                    - "200"
+                    - --atom_fea_len
+                    - "256"
+                    - --extra_fea_len
+                    - "16"
+                    - --h_fea_len
+                    - "128"
+                    - --n_conv
+                    - "6"
+                    - --n_h
+                    - "4"
+                    - --dropout_prob
+                    - "0.5"
+                    - --use_cell_params
+                    - --use_extra_fea
+                    - --atom_layer_norm
+                    - --dl_sampler
+                    - same_ratio_prior
+                    - --task_att_type
+                    - self
+                    - --lr
+                    - "0.001"
+                    - --lr_mult
+                    - "10"
+                    - --group_lr
+                    - --optim_config
+                    - fine
+                    - --task_norm
+                    - --log_dir
+                    - logs
+                    - --gradient_clip_val
+                    - "1.0"
+                codePath: CGCNN_MT/main.py
+                codePathLocal: CGCNN_MT/main.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "154993672192"
+                        used: "52536590336"
+                email: dharunm236@gmail.com
+                executable: /home/dharunkraja/miniconda3/envs/mofsnn/bin/python
+                git:
+                    commit: 4f038bd7723987eed179fc7ad6abfb20c53205d5
+                    remote: https://github.com/dharunm236/MOFSNN_D.git
+                gpu: NVIDIA L4
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 7424
+                      memoryTotal: "24152899584"
+                      name: NVIDIA L4
+                      uuid: GPU-cef39c27-c243-3773-ebac-4a92633d9158
+                host: surrogate-mof.asia-southeast1-a.c.mofproject2025.internal
+                memory:
+                    total: "67418112000"
+                os: Linux-6.17.0-1005-gcp-x86_64-with-glibc2.42
+                program: /home/dharunkraja/Desktop/D/MOFSNN_D/CGCNN_MT/main.py
+                python: CPython 3.9.25
+                root: /home/dharunkraja/Desktop/D/MOFSNN_D/logs
+                startedAt: "2025-12-22T08:47:23.216185Z"
+                writerId: dxr85b7at4duj21oipqdun8ugch6z362
+        m:
+            - "1": trainer/global_step
+              "6":
+                - 3
+              "7": []
+            - "2": '*'
+              "5": 1
+              "6":
+                - 1
+              "7": []
+        python_version: 3.9.25
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 9
+                - 11
+                - 35
+                - 41
+                - 49
+                - 52
+                - 53
+                - 103
+                - 106
+            "2":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 9
+                - 11
+                - 35
+                - 41
+                - 49
+                - 52
+                - 53
+                - 103
+                - 106
+            "3":
+                - 7
+                - 13
+                - 16
+                - 66
+            "4": 3.9.25
+            "5": 0.23.1
+            "6": 4.30.0
+            "12": 0.23.1
+            "13": linux-x86_64
+accelerator:
+    value: gpu
+atom_fea_len:
+    value: 256
+atom_layer_norm:
+    value: true
+att_S:
+    value: 64
+att_pooling:
+    value: false
+augment:
+    value: false
+auto_lr_bs_find:
+    value: false
+batch_size:
+    value: 32
+ckpt_path:
+    value: null
+data_dir:
+    value: CGCNN_MT/data
+dataset_cls:
+    value: LoadGraphData
+decay_power:
+    value: 1
+devices:
+    value: 1
+dl_sampler:
+    value: same_ratio_prior
+dmin:
+    value: 0
+dropout_prob:
+    value: 0.5
+dwa_alpha:
+    value: 0.8
+dwa_temp:
+    value: 2
+eval_freq:
+    value: 10
+extra_fea_len:
+    value: 16
+focal_alpha:
+    value: 0.25
+focal_gamma:
+    value: 2
+gradient_clip_val:
+    value: 1
+group_lr:
+    value: true
+h_fea_len:
+    value: 128
+limit_train_batches:
+    value: null
+limit_val_batches:
+    value: null
+load_best:
+    value: false
+load_dir:
+    value: null
+load_v_num:
+    value: null
+load_ver:
+    value: null
+log_dir:
+    value: logs
+loss_aggregation:
+    value: dwa
+lr:
+    value: 0.001
+lr_decay_min_lr:
+    value: 1e-06
+lr_decay_rate:
+    value: 0.8
+lr_decay_steps:
+    value: 20
+lr_milestones:
+    value:
+        - 10
+        - 20
+        - 30
+        - 50
+lr_mult:
+    value: 10
+lr_scheduler:
+    value: reduce_on_plateau
+max_epochs:
+    value: 100
+max_graph_len:
+    value: 200
+max_num_nbr:
+    value: 10
+max_sample_size:
+    value:
+        train: 2004
+        val: 501
+max_steps:
+    value: -1
+min_delta:
+    value: 0.001
+mode:
+    value: max
+model:
+    value: |-
+        CrystalGraphConvNet(
+          (embedding_atom): Linear(in_features=92, out_features=256, bias=True)
+          (embedding_atom_norm): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+          (convs): ModuleList(
+            (0-5): 6 x ConvLayer(
+              (fc_full): Linear(in_features=553, out_features=512, bias=True)
+              (sigmoid): Sigmoid()
+              (softplus1): Softplus(beta=1.0, threshold=20.0)
+              (bn1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (bn2): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (softplus2): Softplus(beta=1.0, threshold=20.0)
+            )
+          )
+          (embedding_extra): Linear(in_features=196, out_features=16, bias=True)
+          (embedding_extra_norm): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (embedding_extra_softplus): Softplus(beta=1.0, threshold=20.0)
+          (conv_to_fc): Linear(in_features=272, out_features=128, bias=True)
+          (conv_to_fc_norm): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv_to_fc_softplus): Softplus(beta=1.0, threshold=20.0)
+          (dropout): Dropout(p=0.5, inplace=False)
+          (fcs): ModuleList(
+            (0-2): 3 x Linear(in_features=128, out_features=128, bias=True)
+          )
+          (norms): ModuleList(
+            (0-2): 3 x BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+          (softpluses): ModuleList(
+            (0-2): 3 x Softplus(beta=1.0, threshold=20.0)
+          )
+          (fc_outs): ModuleList(
+            (0): OutputLayer(
+              (fc): Linear(in_features=128, out_features=1, bias=True)
+            )
+            (1-2): 2 x OutputLayer(
+              (fc): Sequential(
+                (0): Linear(in_features=128, out_features=2, bias=True)
+                (1): LogSoftmax(dim=1)
+              )
+            )
+            (3): OutputLayer(
+              (fc): Sequential(
+                (0): Linear(in_features=128, out_features=4, bias=True)
+                (1): LogSoftmax(dim=1)
+              )
+            )
+            (4-6): 3 x OutputLayer(
+              (fc): Sequential(
+                (0): Linear(in_features=128, out_features=2, bias=True)
+                (1): LogSoftmax(dim=1)
+              )
+            )
+          )
+          (task_norms): ModuleList(
+            (0-6): 7 x LayerNorm((128,), eps=1e-05, elementwise_affine=True)
+          )
+          (task_attentions): ModuleList(
+            (0-6): 7 x SelfAttention(
+              (query): Linear(in_features=128, out_features=128, bias=True)
+              (key): Linear(in_features=128, out_features=128, bias=True)
+              (value): Linear(in_features=128, out_features=128, bias=True)
+              (softmax): Softmax(dim=-1)
+            )
+          )
+        )
+model_cfg:
+    value: att_cgcnn
+model_name:
+    value: att_cgcnn
+momentum:
+    value: 0.9
+monitor:
+    value: val_Metric
+n_conv:
+    value: 6
+n_h:
+    value: 4
+nbr_fea_len:
+    value: 41
+normalizers:
+    value:
+        - <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x773310f93eb0>
+        - <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x773310f93b20>
+        - <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x773310f93cd0>
+        - <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x773310f93c40>
+        - <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x773310f93b80>
+        - <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x773310f93d60>
+        - <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x773310f93d30>
+num_workers:
+    value: 14
+optim:
+    value: adam
+optim_config:
+    value: fine
+orig_atom_fea_len:
+    value: 92
+orig_extra_fea_len:
+    value: 196
+patience:
+    value: 20
+progress_bar:
+    value: false
+radius:
+    value: 8
+random_seed:
+    value: 42
+reconstruct:
+    value: false
+step:
+    value: 0.2
+task_att_type:
+    value: self
+task_cfg:
+    value: tsd_ssd_ws24
+task_norm:
+    value: true
+task_types:
+    value:
+        - regression
+        - classification
+        - classification
+        - classification_4
+        - classification
+        - classification
+        - classification
+task_weights:
+    value:
+        - 0.36510918055881664
+        - 0.242779995304062
+        - 0.16388823667527588
+        - 0.16388823667527588
+        - 0.026297252876262032
+        - 0.018783752054472882
+        - 0.019253345855834703
+tasks:
+    value:
+        - TSD
+        - SSD
+        - WS24_water
+        - WS24_water4
+        - WS24_acid
+        - WS24_base
+        - WS24_boiling
+use_cell_params:
+    value: true
+use_extra_fea:
+    value: true
+verify:
+    value: true
+warmup_steps:
+    value: 2
+weight_decay:
+    value: 1e-05

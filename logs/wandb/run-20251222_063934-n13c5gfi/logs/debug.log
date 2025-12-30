@@ -1,0 +1,87 @@
+2025-12-22 06:39:34,330 INFO    MainThread:41378 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2025-12-22 06:39:34,330 INFO    MainThread:41378 [wandb_setup.py:_flush():80] Configure stats pid to 41378
+2025-12-22 06:39:34,330 INFO    MainThread:41378 [wandb_setup.py:_flush():80] Loading settings from /home/dharunkraja/.config/wandb/settings
+2025-12-22 06:39:34,330 INFO    MainThread:41378 [wandb_setup.py:_flush():80] Loading settings from /home/dharunkraja/Desktop/D/MOFSNN_D/wandb/settings
+2025-12-22 06:39:34,331 INFO    MainThread:41378 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-22 06:39:34,331 INFO    MainThread:41378 [wandb_init.py:setup_run_log_directory():714] Logging user logs to /home/dharunkraja/Desktop/D/MOFSNN_D/logs/wandb/run-20251222_063934-n13c5gfi/logs/debug.log
+2025-12-22 06:39:34,331 INFO    MainThread:41378 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to /home/dharunkraja/Desktop/D/MOFSNN_D/logs/wandb/run-20251222_063934-n13c5gfi/logs/debug-internal.log
+2025-12-22 06:39:34,331 INFO    MainThread:41378 [wandb_init.py:init():841] calling init triggers
+2025-12-22 06:39:34,332 INFO    MainThread:41378 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'batch_size': 32, 'num_workers': 14, 'random_seed': 42, 'accelerator': 'gpu', 'devices': 1, 'max_epochs': 100, 'limit_train_batches': None, 'limit_val_batches': None, 'auto_lr_bs_find': False, 'progress_bar': False, 'focal_alpha': 0.25, 'focal_gamma': 2, 'optim': 'adam', 'lr': 0.001, 'weight_decay': 1e-05, 'momentum': 0.9, 'optim_config': 'fine', 'group_lr': True, 'lr_mult': 10.0, 'lr_scheduler': 'reduce_on_plateau', 'lr_decay_steps': 20, 'lr_milestones': [10, 20, 30, 50], 'lr_decay_rate': 0.8, 'lr_decay_min_lr': 1e-06, 'max_steps': -1, 'decay_power': 1, 'warmup_steps': 2, 'load_best': False, 'load_dir': None, 'load_ver': None, 'load_v_num': None, 'log_dir': 'logs', 'patience': 20, 'min_delta': 0.001, 'monitor': 'val_Metric', 'mode': 'max', 'eval_freq': 10, 'max_num_nbr': 10, 'radius': 8, 'dmin': 0, 'step': 0.2, 'use_cell_params': True, 'use_extra_fea': True, 'task_weights': [0.36510918055881664, 0.242779995304062, 0.16388823667527588, 0.16388823667527588, 0.026297252876262032, 0.018783752054472882, 0.019253345855834703], 'augment': False, 'max_sample_size': {'train': 2004, 'val': 501}, 'model_name': 'att_cgcnn', 'atom_fea_len': 256, 'extra_fea_len': 16, 'h_fea_len': 128, 'n_conv': 6, 'n_h': 4, 'att_S': 64, 'dropout_prob': 0.5, 'att_pooling': False, 'task_norm': True, 'dwa_temp': 2.0, 'dwa_alpha': 0.8, 'atom_layer_norm': True, 'task_att_type': 'self', 'data_dir': 'CGCNN_MT/data', 'tasks': ['TSD', 'SSD', 'WS24_water', 'WS24_water4', 'WS24_acid', 'WS24_base', 'WS24_boiling'], 'task_types': ['regression', 'classification', 'classification', 'classification_4', 'classification', 'classification', 'classification'], 'dl_sampler': 'random', 'loss_aggregation': 'dwa', 'model_cfg': 'att_cgcnn', 'max_graph_len': 200, 'reconstruct': False, 'task_cfg': 'tsd_ssd_ws24', 'verify': True, 'gradient_clip_val': 1.0, 'dataset_cls': <class 'CGCNN_MT.datamodule.dataset.LoadGraphData'>, 'orig_extra_fea_len': 196, 'orig_atom_fea_len': 92, 'nbr_fea_len': 41, 'model': CrystalGraphConvNet(
+  (embedding_atom): Linear(in_features=92, out_features=256, bias=True)
+  (embedding_atom_norm): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+  (convs): ModuleList(
+    (0-5): 6 x ConvLayer(
+      (fc_full): Linear(in_features=553, out_features=512, bias=True)
+      (sigmoid): Sigmoid()
+      (softplus1): Softplus(beta=1.0, threshold=20.0)
+      (bn1): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (bn2): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (softplus2): Softplus(beta=1.0, threshold=20.0)
+    )
+  )
+  (embedding_extra): Linear(in_features=196, out_features=16, bias=True)
+  (embedding_extra_norm): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (embedding_extra_softplus): Softplus(beta=1.0, threshold=20.0)
+  (conv_to_fc): Linear(in_features=272, out_features=128, bias=True)
+  (conv_to_fc_norm): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv_to_fc_softplus): Softplus(beta=1.0, threshold=20.0)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (fcs): ModuleList(
+    (0-2): 3 x Linear(in_features=128, out_features=128, bias=True)
+  )
+  (norms): ModuleList(
+    (0-2): 3 x BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  )
+  (softpluses): ModuleList(
+    (0-2): 3 x Softplus(beta=1.0, threshold=20.0)
+  )
+  (fc_outs): ModuleList(
+    (0): OutputLayer(
+      (fc): Linear(in_features=128, out_features=1, bias=True)
+    )
+    (1-2): 2 x OutputLayer(
+      (fc): Sequential(
+        (0): Linear(in_features=128, out_features=2, bias=True)
+        (1): LogSoftmax(dim=1)
+      )
+    )
+    (3): OutputLayer(
+      (fc): Sequential(
+        (0): Linear(in_features=128, out_features=4, bias=True)
+        (1): LogSoftmax(dim=1)
+      )
+    )
+    (4-6): 3 x OutputLayer(
+      (fc): Sequential(
+        (0): Linear(in_features=128, out_features=2, bias=True)
+        (1): LogSoftmax(dim=1)
+      )
+    )
+  )
+  (task_norms): ModuleList(
+    (0-6): 7 x LayerNorm((128,), eps=1e-05, elementwise_affine=True)
+  )
+  (task_attentions): ModuleList(
+    (0-6): 7 x SelfAttention(
+      (query): Linear(in_features=128, out_features=128, bias=True)
+      (key): Linear(in_features=128, out_features=128, bias=True)
+      (value): Linear(in_features=128, out_features=128, bias=True)
+      (softmax): Softmax(dim=-1)
+    )
+  )
+), 'normalizers': [<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a7a18160>, <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a7a181c0>, <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a7a18190>, <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a7a182b0>, <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a7a181f0>, <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a7a18220>, <CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a7a18250>], 'ckpt_path': None, '_wandb': {}}
+2025-12-22 06:39:34,332 INFO    MainThread:41378 [wandb_init.py:init():889] starting backend
+2025-12-22 06:39:34,619 INFO    MainThread:41378 [wandb_init.py:init():892] sending inform_init request
+2025-12-22 06:39:34,624 INFO    MainThread:41378 [wandb_init.py:init():900] backend started and connected
+2025-12-22 06:39:34,632 INFO    MainThread:41378 [wandb_init.py:init():970] updated telemetry
+2025-12-22 06:39:34,682 INFO    MainThread:41378 [wandb_init.py:init():994] communicating run to backend with 90.0 second timeout
+2025-12-22 06:39:35,889 INFO    MainThread:41378 [wandb_init.py:init():1041] starting run threads in backend
+2025-12-22 06:39:36,108 INFO    MainThread:41378 [wandb_run.py:_console_start():2521] atexit reg
+2025-12-22 06:39:36,108 INFO    MainThread:41378 [wandb_run.py:_redirect():2369] redirect: wrap_raw
+2025-12-22 06:39:36,109 INFO    MainThread:41378 [wandb_run.py:_redirect():2438] Wrapping output streams.
+2025-12-22 06:39:36,109 INFO    MainThread:41378 [wandb_run.py:_redirect():2461] Redirects installed.
+2025-12-22 06:39:36,114 INFO    MainThread:41378 [wandb_init.py:init():1081] run started, returning control to user process
+2025-12-22 06:39:36,978 INFO    MainThread:41378 [wandb_run.py:_config_callback():1396] config_cb None None {'normalizers': ['<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a16c6b20>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a16c6f70>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a166ef10>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a166e640>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a166e670>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a166ec70>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f8a166e730>'], 'batch_size': 32, 'num_workers': 14, 'random_seed': 42, 'accelerator': 'gpu', 'devices': 1, 'max_epochs': 100, 'limit_train_batches': None, 'limit_val_batches': None, 'auto_lr_bs_find': False, 'progress_bar': False, 'focal_alpha': 0.25, 'focal_gamma': 2, 'optim': 'adam', 'lr': 0.001, 'weight_decay': 1e-05, 'momentum': 0.9, 'optim_config': 'fine', 'group_lr': True, 'lr_mult': 10.0, 'lr_scheduler': 'reduce_on_plateau', 'lr_decay_steps': 20, 'lr_milestones': [10, 20, 30, 50], 'lr_decay_rate': 0.8, 'lr_decay_min_lr': 1e-06, 'max_steps': -1, 'decay_power': 1, 'warmup_steps': 2, 'load_best': False, 'load_dir': None, 'load_ver': None, 'load_v_num': None, 'log_dir': 'logs', 'patience': 20, 'min_delta': 0.001, 'monitor': 'val_Metric', 'mode': 'max', 'eval_freq': 10, 'max_num_nbr': 10, 'radius': 8, 'dmin': 0, 'step': 0.2, 'use_cell_params': True, 'use_extra_fea': True, 'task_weights': [0.36510918055881664, 0.242779995304062, 0.16388823667527588, 0.16388823667527588, 0.026297252876262032, 0.018783752054472882, 0.019253345855834703], 'augment': False, 'max_sample_size': {'train': 2004, 'val': 501}, 'model_name': 'att_cgcnn', 'atom_fea_len': 256, 'extra_fea_len': 16, 'h_fea_len': 128, 'n_conv': 6, 'n_h': 4, 'att_S': 64, 'dropout_prob': 0.5, 'att_pooling': False, 'task_norm': True, 'dwa_temp': 2.0, 'dwa_alpha': 0.8, 'atom_layer_norm': True, 'task_att_type': 'self', 'data_dir': 'CGCNN_MT/data', 'tasks': ['TSD', 'SSD', 'WS24_water', 'WS24_water4', 'WS24_acid', 'WS24_base', 'WS24_boiling'], 'task_types': ['regression', 'classification', 'classification', 'classification_4', 'classification', 'classification', 'classification'], 'dl_sampler': 'random', 'loss_aggregation': 'dwa', 'model_cfg': 'att_cgcnn', 'max_graph_len': 200, 'reconstruct': False, 'task_cfg': 'tsd_ssd_ws24', 'verify': True, 'gradient_clip_val': 1.0, 'dataset_cls': 'LoadGraphData', 'orig_extra_fea_len': 196, 'orig_atom_fea_len': 92, 'nbr_fea_len': 41, 'ckpt_path': None}
+2025-12-22 07:45:04,331 INFO    MainThread:41378 [wandb_run.py:_config_callback():1396] config_cb None None {'normalizers': ['<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7f269c100>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f88394efa0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7f9939cd0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f88394efd0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7f9939700>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7f9939fd0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7f98739a0>'], 'batch_size': 32, 'num_workers': 14, 'random_seed': 42, 'accelerator': 'gpu', 'devices': 1, 'max_epochs': 100, 'limit_train_batches': None, 'limit_val_batches': None, 'auto_lr_bs_find': False, 'progress_bar': False, 'focal_alpha': 0.25, 'focal_gamma': 2, 'optim': 'adam', 'lr': 0.001, 'weight_decay': 1e-05, 'momentum': 0.9, 'optim_config': 'fine', 'group_lr': True, 'lr_mult': 10.0, 'lr_scheduler': 'reduce_on_plateau', 'lr_decay_steps': 20, 'lr_milestones': [10, 20, 30, 50], 'lr_decay_rate': 0.8, 'lr_decay_min_lr': 1e-06, 'max_steps': -1, 'decay_power': 1, 'warmup_steps': 2, 'load_best': False, 'load_dir': None, 'load_ver': None, 'load_v_num': None, 'log_dir': 'logs', 'patience': 20, 'min_delta': 0.001, 'monitor': 'val_Metric', 'mode': 'max', 'eval_freq': 10, 'max_num_nbr': 10, 'radius': 8, 'dmin': 0, 'step': 0.2, 'use_cell_params': True, 'use_extra_fea': True, 'task_weights': [0.36510918055881664, 0.242779995304062, 0.16388823667527588, 0.16388823667527588, 0.026297252876262032, 0.018783752054472882, 0.019253345855834703], 'augment': False, 'max_sample_size': {'train': 2004, 'val': 501}, 'model_name': 'att_cgcnn', 'atom_fea_len': 256, 'extra_fea_len': 16, 'h_fea_len': 128, 'n_conv': 6, 'n_h': 4, 'att_S': 64, 'dropout_prob': 0.5, 'att_pooling': False, 'task_norm': True, 'dwa_temp': 2.0, 'dwa_alpha': 0.8, 'atom_layer_norm': True, 'task_att_type': 'self', 'data_dir': 'CGCNN_MT/data', 'tasks': ['TSD', 'SSD', 'WS24_water', 'WS24_water4', 'WS24_acid', 'WS24_base', 'WS24_boiling'], 'task_types': ['regression', 'classification', 'classification', 'classification_4', 'classification', 'classification', 'classification'], 'dl_sampler': 'random', 'loss_aggregation': 'dwa', 'model_cfg': 'att_cgcnn', 'max_graph_len': 200, 'reconstruct': False, 'task_cfg': 'tsd_ssd_ws24', 'verify': True, 'gradient_clip_val': 1.0, 'dataset_cls': 'LoadGraphData', 'orig_extra_fea_len': 196, 'orig_atom_fea_len': 92, 'nbr_fea_len': 41, 'ckpt_path': None}
+2025-12-22 07:45:11,321 INFO    MainThread:41378 [wandb_run.py:_config_callback():1396] config_cb None None {'normalizers': ['<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7a772a8e0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7a772a4f0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7a772a580>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7a67deb20>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7a67dedc0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7a67defa0>', '<CGCNN_MT.datamodule.data_interface.Normalizer object at 0x72f7a67ded60>'], 'batch_size': 32, 'num_workers': 14, 'random_seed': 42, 'accelerator': 'gpu', 'devices': 1, 'max_epochs': 100, 'limit_train_batches': None, 'limit_val_batches': None, 'auto_lr_bs_find': False, 'progress_bar': False, 'focal_alpha': 0.25, 'focal_gamma': 2, 'optim': 'adam', 'lr': 0.001, 'weight_decay': 1e-05, 'momentum': 0.9, 'optim_config': 'fine', 'group_lr': True, 'lr_mult': 10.0, 'lr_scheduler': 'reduce_on_plateau', 'lr_decay_steps': 20, 'lr_milestones': [10, 20, 30, 50], 'lr_decay_rate': 0.8, 'lr_decay_min_lr': 1e-06, 'max_steps': -1, 'decay_power': 1, 'warmup_steps': 2, 'load_best': False, 'load_dir': None, 'load_ver': None, 'load_v_num': None, 'log_dir': 'logs', 'patience': 20, 'min_delta': 0.001, 'monitor': 'val_Metric', 'mode': 'max', 'eval_freq': 10, 'max_num_nbr': 10, 'radius': 8, 'dmin': 0, 'step': 0.2, 'use_cell_params': True, 'use_extra_fea': True, 'task_weights': [0.36510918055881664, 0.242779995304062, 0.16388823667527588, 0.16388823667527588, 0.026297252876262032, 0.018783752054472882, 0.019253345855834703], 'augment': False, 'max_sample_size': {'train': 2004, 'val': 501}, 'model_name': 'att_cgcnn', 'atom_fea_len': 256, 'extra_fea_len': 16, 'h_fea_len': 128, 'n_conv': 6, 'n_h': 4, 'att_S': 64, 'dropout_prob': 0.5, 'att_pooling': False, 'task_norm': True, 'dwa_temp': 2.0, 'dwa_alpha': 0.8, 'atom_layer_norm': True, 'task_att_type': 'self', 'data_dir': 'CGCNN_MT/data', 'tasks': ['TSD', 'SSD', 'WS24_water', 'WS24_water4', 'WS24_acid', 'WS24_base', 'WS24_boiling'], 'task_types': ['regression', 'classification', 'classification', 'classification_4', 'classification', 'classification', 'classification'], 'dl_sampler': 'random', 'loss_aggregation': 'dwa', 'model_cfg': 'att_cgcnn', 'max_graph_len': 200, 'reconstruct': False, 'task_cfg': 'tsd_ssd_ws24', 'verify': True, 'gradient_clip_val': 1.0, 'dataset_cls': 'LoadGraphData', 'orig_extra_fea_len': 196, 'orig_atom_fea_len': 92, 'nbr_fea_len': 41, 'ckpt_path': None}

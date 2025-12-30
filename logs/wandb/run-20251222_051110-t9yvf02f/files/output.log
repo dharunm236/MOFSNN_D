@@ -1,0 +1,239 @@
+    | Name                            | Type                | Params | In sizes                               | Out sizes
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0   | model                           | CrystalGraphConvNet | 2.2 M  | ?                                      | [[[32, 1], [32, 2], [32, 2], [32, 4], [32, 2], [32, 2], [32, 2]], [[32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128]]]
+1   | model.embedding_atom            | Linear              | 23.8 K | [576, 92]                              | [576, 256]
+2   | model.embedding_atom_norm       | LayerNorm           | 512    | [576, 256]                             | [576, 256]
+3   | model.convs                     | ModuleList          | 1.7 M  | ?                                      | ?
+4   | model.convs.0                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+5   | model.convs.0.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+6   | model.convs.0.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+7   | model.convs.0.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+8   | model.convs.0.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+9   | model.convs.0.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+10  | model.convs.0.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+11  | model.convs.1                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+12  | model.convs.1.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+13  | model.convs.1.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+14  | model.convs.1.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+15  | model.convs.1.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+16  | model.convs.1.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+17  | model.convs.1.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+18  | model.convs.2                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+19  | model.convs.2.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+20  | model.convs.2.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+21  | model.convs.2.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+22  | model.convs.2.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+23  | model.convs.2.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+24  | model.convs.2.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+25  | model.convs.3                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+26  | model.convs.3.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+27  | model.convs.3.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+28  | model.convs.3.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+29  | model.convs.3.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+30  | model.convs.3.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+31  | model.convs.3.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+32  | model.convs.4                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+33  | model.convs.4.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+34  | model.convs.4.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+35  | model.convs.4.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+36  | model.convs.4.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+37  | model.convs.4.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+38  | model.convs.4.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+39  | model.convs.5                   | ConvLayer           | 285 K  | [[576, 256], [576, 10, 41], [576, 10]] | [576, 256]
+40  | model.convs.5.fc_full           | Linear              | 283 K  | [576, 10, 553]                         | [576, 10, 512]
+41  | model.convs.5.sigmoid           | Sigmoid             | 0      | [576, 10, 256]                         | [576, 10, 256]
+42  | model.convs.5.softplus1         | Softplus            | 0      | [576, 10, 256]                         | [576, 10, 256]
+43  | model.convs.5.bn1               | BatchNorm1d         | 1.0 K  | [5760, 512]                            | [5760, 512]
+44  | model.convs.5.bn2               | BatchNorm1d         | 512    | [576, 256]                             | [576, 256]
+45  | model.convs.5.softplus2         | Softplus            | 0      | [576, 256]                             | [576, 256]
+46  | model.embedding_extra           | Linear              | 3.2 K  | [32, 196]                              | [32, 16]
+47  | model.embedding_extra_norm      | BatchNorm1d         | 32     | [32, 16]                               | [32, 16]
+48  | model.embedding_extra_softplus  | Softplus            | 0      | [32, 16]                               | [32, 16]
+49  | model.conv_to_fc                | Linear              | 34.9 K | [32, 272]                              | [32, 128]
+50  | model.conv_to_fc_norm           | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+51  | model.conv_to_fc_softplus       | Softplus            | 0      | [32, 128]                              | [32, 128]
+52  | model.dropout                   | Dropout             | 0      | [32, 128]                              | [32, 128]
+53  | model.fcs                       | ModuleList          | 49.5 K | ?                                      | ?
+54  | model.fcs.0                     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+55  | model.fcs.1                     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+56  | model.fcs.2                     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+57  | model.norms                     | ModuleList          | 768    | ?                                      | ?
+58  | model.norms.0                   | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+59  | model.norms.1                   | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+60  | model.norms.2                   | BatchNorm1d         | 256    | [32, 128]                              | [32, 128]
+61  | model.softpluses                | ModuleList          | 0      | ?                                      | ?
+62  | model.softpluses.0              | Softplus            | 0      | [32, 128]                              | [32, 128]
+63  | model.softpluses.1              | Softplus            | 0      | [32, 128]                              | [32, 128]
+64  | model.softpluses.2              | Softplus            | 0      | [32, 128]                              | [32, 128]
+65  | model.fc_outs                   | ModuleList          | 1.9 K  | ?                                      | ?
+66  | model.fc_outs.0                 | OutputLayer         | 129    | [32, 128]                              | [32, 1]
+67  | model.fc_outs.0.fc              | Linear              | 129    | [32, 128]                              | [32, 1]
+68  | model.fc_outs.1                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+69  | model.fc_outs.1.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+70  | model.fc_outs.1.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+71  | model.fc_outs.1.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+72  | model.fc_outs.2                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+73  | model.fc_outs.2.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+74  | model.fc_outs.2.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+75  | model.fc_outs.2.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+76  | model.fc_outs.3                 | OutputLayer         | 516    | [32, 128]                              | [32, 4]
+77  | model.fc_outs.3.fc              | Sequential          | 516    | [32, 128]                              | [32, 4]
+78  | model.fc_outs.3.fc.0            | Linear              | 516    | [32, 128]                              | [32, 4]
+79  | model.fc_outs.3.fc.1            | LogSoftmax          | 0      | [32, 4]                                | [32, 4]
+80  | model.fc_outs.4                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+81  | model.fc_outs.4.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+82  | model.fc_outs.4.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+83  | model.fc_outs.4.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+84  | model.fc_outs.5                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+85  | model.fc_outs.5.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+86  | model.fc_outs.5.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+87  | model.fc_outs.5.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+88  | model.fc_outs.6                 | OutputLayer         | 258    | [32, 128]                              | [32, 2]
+89  | model.fc_outs.6.fc              | Sequential          | 258    | [32, 128]                              | [32, 2]
+90  | model.fc_outs.6.fc.0            | Linear              | 258    | [32, 128]                              | [32, 2]
+91  | model.fc_outs.6.fc.1            | LogSoftmax          | 0      | [32, 2]                                | [32, 2]
+92  | model.task_norms                | ModuleList          | 1.8 K  | ?                                      | ?
+93  | model.task_norms.0              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+94  | model.task_norms.1              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+95  | model.task_norms.2              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+96  | model.task_norms.3              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+97  | model.task_norms.4              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+98  | model.task_norms.5              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+99  | model.task_norms.6              | LayerNorm           | 256    | [32, 128]                              | [32, 128]
+100 | model.task_attentions           | ModuleList          | 346 K  | ?                                      | ?
+101 | model.task_attentions.0         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+102 | model.task_attentions.0.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+103 | model.task_attentions.0.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+104 | model.task_attentions.0.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+105 | model.task_attentions.0.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+106 | model.task_attentions.1         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+107 | model.task_attentions.1.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+108 | model.task_attentions.1.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+109 | model.task_attentions.1.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+110 | model.task_attentions.1.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+111 | model.task_attentions.2         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+112 | model.task_attentions.2.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+113 | model.task_attentions.2.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+114 | model.task_attentions.2.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+115 | model.task_attentions.2.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+116 | model.task_attentions.3         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+117 | model.task_attentions.3.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+118 | model.task_attentions.3.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+119 | model.task_attentions.3.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+120 | model.task_attentions.3.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+121 | model.task_attentions.4         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+122 | model.task_attentions.4.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+123 | model.task_attentions.4.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+124 | model.task_attentions.4.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+125 | model.task_attentions.4.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+126 | model.task_attentions.5         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+127 | model.task_attentions.5.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+128 | model.task_attentions.5.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+129 | model.task_attentions.5.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+130 | model.task_attentions.5.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+131 | model.task_attentions.6         | SelfAttention       | 49.5 K | [32, 128]                              | [32, 128]
+132 | model.task_attentions.6.query   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+133 | model.task_attentions.6.key     | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+134 | model.task_attentions.6.value   | Linear              | 16.5 K | [32, 128]                              | [32, 128]
+135 | model.task_attentions.6.softmax | Softmax             | 0      | [32, 1, 1]                             | [32, 1, 1]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.2 M     Trainable params
+0         Non-trainable params
+2.2 M     Total params
+8.698     Total estimated model params size (MB)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+log_dir: /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+==================================================
+normal_decay
+['embedding_atom.weight', 'convs.0.fc_full.weight', 'convs.1.fc_full.weight', 'convs.2.fc_full.weight', 'convs.3.fc_full.weight', 'convs.4.fc_full.weight', 'convs.5.fc_full.weight', 'embedding_extra.weight', 'conv_to_fc.weight', 'fcs.0.weight', 'fcs.1.weight', 'fcs.2.weight']
+==================================================
+normal_no_decay
+['embedding_atom.bias', 'embedding_atom_norm.weight', 'embedding_atom_norm.bias', 'convs.0.fc_full.bias', 'convs.0.bn1.weight', 'convs.0.bn1.bias', 'convs.0.bn2.weight', 'convs.0.bn2.bias', 'convs.1.fc_full.bias', 'convs.1.bn1.weight', 'convs.1.bn1.bias', 'convs.1.bn2.weight', 'convs.1.bn2.bias', 'convs.2.fc_full.bias', 'convs.2.bn1.weight', 'convs.2.bn1.bias', 'convs.2.bn2.weight', 'convs.2.bn2.bias', 'convs.3.fc_full.bias', 'convs.3.bn1.weight', 'convs.3.bn1.bias', 'convs.3.bn2.weight', 'convs.3.bn2.bias', 'convs.4.fc_full.bias', 'convs.4.bn1.weight', 'convs.4.bn1.bias', 'convs.4.bn2.weight', 'convs.4.bn2.bias', 'convs.5.fc_full.bias', 'convs.5.bn1.weight', 'convs.5.bn1.bias', 'convs.5.bn2.weight', 'convs.5.bn2.bias', 'embedding_extra.bias', 'embedding_extra_norm.weight', 'embedding_extra_norm.bias', 'conv_to_fc.bias', 'conv_to_fc_norm.weight', 'conv_to_fc_norm.bias', 'fcs.0.bias', 'fcs.1.bias', 'fcs.2.bias', 'norms.0.weight', 'norms.0.bias', 'norms.1.weight', 'norms.1.bias', 'norms.2.weight', 'norms.2.bias', 'task_norms.0.weight', 'task_norms.0.bias', 'task_norms.1.weight', 'task_norms.1.bias', 'task_norms.2.weight', 'task_norms.2.bias', 'task_norms.3.weight', 'task_norms.3.bias', 'task_norms.4.weight', 'task_norms.4.bias', 'task_norms.5.weight', 'task_norms.5.bias', 'task_norms.6.weight', 'task_norms.6.bias']
+==================================================
+head_decay
+['fc_outs.0.fc.weight', 'fc_outs.1.fc.0.weight', 'fc_outs.2.fc.0.weight', 'fc_outs.3.fc.0.weight', 'fc_outs.4.fc.0.weight', 'fc_outs.5.fc.0.weight', 'fc_outs.6.fc.0.weight', 'task_attentions.0.query.weight', 'task_attentions.0.key.weight', 'task_attentions.0.value.weight', 'task_attentions.1.query.weight', 'task_attentions.1.key.weight', 'task_attentions.1.value.weight', 'task_attentions.2.query.weight', 'task_attentions.2.key.weight', 'task_attentions.2.value.weight', 'task_attentions.3.query.weight', 'task_attentions.3.key.weight', 'task_attentions.3.value.weight', 'task_attentions.4.query.weight', 'task_attentions.4.key.weight', 'task_attentions.4.value.weight', 'task_attentions.5.query.weight', 'task_attentions.5.key.weight', 'task_attentions.5.value.weight', 'task_attentions.6.query.weight', 'task_attentions.6.key.weight', 'task_attentions.6.value.weight']
+==================================================
+head_no_decay
+['fc_outs.0.fc.bias', 'fc_outs.1.fc.0.bias', 'fc_outs.2.fc.0.bias', 'fc_outs.3.fc.0.bias', 'fc_outs.4.fc.0.bias', 'fc_outs.5.fc.0.bias', 'fc_outs.6.fc.0.bias', 'task_attentions.0.query.bias', 'task_attentions.0.key.bias', 'task_attentions.0.value.bias', 'task_attentions.1.query.bias', 'task_attentions.1.key.bias', 'task_attentions.1.value.bias', 'task_attentions.2.query.bias', 'task_attentions.2.key.bias', 'task_attentions.2.value.bias', 'task_attentions.3.query.bias', 'task_attentions.3.key.bias', 'task_attentions.3.value.bias', 'task_attentions.4.query.bias', 'task_attentions.4.key.bias', 'task_attentions.4.value.bias', 'task_attentions.5.query.bias', 'task_attentions.5.key.bias', 'task_attentions.5.value.bias', 'task_attentions.6.query.bias', 'task_attentions.6.key.bias', 'task_attentions.6.value.bias']
+==================================================
+log_vars
+['log_vars']
+Loading `train_dataloader` to estimate number of stepping batches.
+Using random sampler for training data.
+max_epochs: 100 | max_steps: 13400 | warmup_steps : 2 lr_mult : 10.0 | weight_decay : 1e-05 | decay_power : 1
+
+  | Name  | Type                | Params | In sizes | Out sizes
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 | model | CrystalGraphConvNet | 2.2 M  | ?        | [[[32, 1], [32, 2], [32, 2], [32, 4], [32, 2], [32, 2], [32, 2]], [[32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128], [32, 128]]]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.2 M     Trainable params
+0         Non-trainable params
+2.2 M     Total params
+8.698     Total estimated model params size (MB)
+Using no sampler for validation data.
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(0): metric=0.3644 > best_metric=0.0000, log val results..
+Epoch 0, global step 134: 'val_Metric' reached 0.36435 (best 0.36435), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=00-val_Metric=0.364.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(1): metric=0.3752 > best_metric=0.3644, log val results..
+Epoch 1, global step 268: 'val_Metric' reached 0.37517 (best 0.37517), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=01-val_Metric=0.375.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(2): metric=0.3828 > best_metric=0.3752, log val results..
+Epoch 2, global step 402: 'val_Metric' reached 0.38276 (best 0.38276), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=02-val_Metric=0.383.ckpt' as top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+Epoch 3, global step 536: 'val_Metric' was not in top 1
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No negative samples in targets, false positive value should be meaningless. Returning zero tensor in false positive score
+  warnings.warn(*args, **kwargs)
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: No positive samples in targets, true positive value should be meaningless. Returning zero tensor in true positive score
+  warnings.warn(*args, **kwargs)
+current_epoch(4): metric=0.4071 > best_metric=0.3828, log val results..
+Epoch 4, global step 670: 'val_Metric' reached 0.40706 (best 0.40706), saving model to '/home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=04-val_Metric=0.407.ckpt' as top 1
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/threading.py", line 980, in _bootstrap_inner
+    self.run()
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/threading.py", line 917, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torch/utils/data/_utils/pin_memory.py", line 61, in _pin_memory_loop
+    do_one_step()
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torch/utils/data/_utils/pin_memory.py", line 37, in do_one_step
+    r = in_queue.get(timeout=MP_STATUS_CHECK_INTERVAL)
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/multiprocessing/queues.py", line 122, in get
+    return _ForkingPickler.loads(res)
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/torch/multiprocessing/reductions.py", line 541, in rebuild_storage_fd
+    fd = df.detach()
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/multiprocessing/resource_sharer.py", line 57, in detach
+    with _resource_sharer.get_connection(self._id) as conn:
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/multiprocessing/resource_sharer.py", line 86, in get_connection
+    c = Client(address, authkey=process.current_process().authkey)
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/multiprocessing/connection.py", line 502, in Client
+    c = SocketClient(address)
+  File "/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/multiprocessing/connection.py", line 630, in SocketClient
+    s.connect(address)
+FileNotFoundError: [Errno 2] No such file or directory
+/home/dharunkraja/miniconda3/envs/mofsnn/lib/python3.9/site-packages/pytorch_lightning/trainer/call.py:53: Detected KeyboardInterrupt, attempting graceful shutdown...
+Best model path: /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=04-val_Metric=0.407.ckpt
+##################################################best
+Restoring states from the checkpoint path at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=04-val_Metric=0.407.ckpt
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+Loaded model weights from the checkpoint at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=04-val_Metric=0.407.ckpt
+Using no sampler for validation data.
+Restoring states from the checkpoint path at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=04-val_Metric=0.407.ckpt
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+Loaded model weights from the checkpoint at /home/dharunkraja/Desktop/D/MOFSNN_D/logs/TSD_SSD_WS24_water_WS24_water4_WS24_acid_WS24_base_WS24_boiling_seed42_att_cgcnn/version_3/checkpoints/best-epoch=04-val_Metric=0.407.ckpt

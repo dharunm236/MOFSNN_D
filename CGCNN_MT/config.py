@@ -344,8 +344,8 @@ def ssd_ws24():
 
 def verification_mode():
     return {
-        "max_epochs": 100,
-        "patience": 20,
+        "max_epochs": 500,
+        "patience": 1000,
     }
 
 # @ex.named_config
