@@ -201,6 +201,16 @@ def inference(cif_list, model_dir,  saved_dir, uncertainty_trees_file=None, **kw
     # set up dataset
     infer_dataset = InferenceDataset(cif_list, saved_dir=saved_dir, clean=clean, **model.hparams)
     infer_dataset.setup()
+    
+    # Check if any valid data was processed
+    if len(infer_dataset) == 0:
+        raise ValueError(
+            f"No valid CIF files could be processed. All {len(cif_list)} CIF file(s) failed during data preparation. "
+            "Please check the CIF file format and structure. Common issues include: "
+            "1) Invalid CIF syntax, 2) Atoms too close together (overlap), "
+            "3) Insufficient neighbors within the cutoff radius."
+        )
+    
     infer_loader = DataLoader(infer_dataset, 
                               batch_size=min(len(infer_dataset), model.hparams.get("batch_size", 8)), 
                             #   batch_size = 2,

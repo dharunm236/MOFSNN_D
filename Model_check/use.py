@@ -6,7 +6,7 @@ from CGCNN_MT.inference import inference
 
 # List of CIF files to predict
 cif_list = [
-    "ACAKUM_clean.cif",
+    "sample_7.cif",
 ]
 
 model_dir = "./model"

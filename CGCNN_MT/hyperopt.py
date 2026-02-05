@@ -31,6 +31,7 @@ from main import main
 import optuna
 from config import *
 from types import SimpleNamespace
+import wandb
 
 
 if __name__ == '__main__':
@@ -157,31 +158,19 @@ if __name__ == '__main__':
         args.n_conv = trial.suggest_int('n_conv', 1, 10)
         args.n_h = trial.suggest_int('n_h', 1, 10)
         args.lr_mult = trial.suggest_int('lr_mult', 1, 20, step=1)
-        # args.patience = trial.suggest_int('patience', 10, 100, step=10)
         if args.use_extra_fea or args.use_cell_params:
             args.extra_fea_len = trial.suggest_int('extra_fea_len', 4, 65, step=4)
         args.dropout_prob = trial.suggest_float('dropout', 0.0, 0.801, step=0.05)
         
-        # lr = trial.suggest_float('lr', 1e-6, 1e-3, log=True)
-        # batch_size = trial.suggest_int('batch_size', 8, 16, step=8)
-        
-        # args.atom_layer_norm = trial.suggest_categorical('atom_layer_norm', [True, False])
-        # args.dynamic_loss_weight = trial.suggest_categorical('loss_aggregation', ['sum', 'fixed_weight_sum', 'trainable_weight_sum'])
-
-        # if args.model_name in ["cgcnn", "att_cgcnn"]:
-        #     args.use_extra_fea = trial.suggest_categorical('use_extra_fea', [True, False])
-        #     args.use_cell_params = trial.suggest_categorical('use_cell_params', [True, False])
-
-        # if args.model_name in ["att_cgcnn", "att_fcnn"]:
-            # args.task_att_type = trial.suggest_categorical('task_att_type', ['self', 'external'])
-            # args.att_S = trial.suggest_int('att_S', 16, 300)
-        
         # Train and evaluate the model with the current hyperparameters
-       
-        best_metric = main(args, trial)  # Retrieve the best validation loss from the Trainer's checkpoint callback
-
-
-        # Return the best validation loss as the objective value
+        try:
+            best_metric = main(args, trial)
+        except Exception as e:
+            # Ensure WandB run is finished even if training fails
+            if wandb.run is not None:
+                wandb.finish(exit_code=1)
+            raise e
+        
         return best_metric
 
     def bayesian_optimization(study_name, optuna_name):
@@ -190,7 +179,11 @@ if __name__ == '__main__':
         study = optuna.create_study(direction='maximize', study_name=study_name, 
                                     pruner=pruner, storage=storage_name, load_if_exists=True)
         
-        study.optimize(objective, n_trials=20, catch=(torch.cuda.OutOfMemoryError,), gc_after_trial=True)  # Adjust the number of trials as needed
+        # Log study info
+        print(f"Starting optimization study: {study_name}")
+        print(f"All trials will be logged to WandB project 'MOFSNN_D' with group '{args.task_cfg}_{args.model_name}'")
+        
+        study.optimize(objective, n_trials=50, catch=(torch.cuda.OutOfMemoryError,), gc_after_trial=True)
 
         # Print the best hyperparameters found
         print("Number of finished trials: {}".format(len(study.trials)))
@@ -201,5 +194,20 @@ if __name__ == '__main__':
         print("  Params: ")
         for key, value in trial.params.items():
             print("    {}: {}".format(key, value))
+        
+        # Optionally log the final best results to a summary WandB run
+        wandb.init(
+            project="MOFSNN_D",
+            name=f"{study_name}_summary",
+            job_type="hyperopt_summary",
+            config={"study_name": study_name, "n_trials": len(study.trials)}
+        )
+        wandb.log({
+            "best_value": trial.value,
+            "best_params": trial.params,
+            "n_finished_trials": len(study.trials)
+        })
+        wandb.finish()
+        
     study_name = f'{args.task_cfg}_{args.model_name}_{args.loss_aggregation}'
     bayesian_optimization(study_name, args.optuna_name)

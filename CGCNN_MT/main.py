@@ -42,6 +42,7 @@ from pathlib import Path
 import optuna
 from config import *
 from types import SimpleNamespace
+import wandb
 # os.environ['CUDA_LAUNCH_BLOCKING'] = '1'
 
 
@@ -85,9 +86,6 @@ def main(args, trial: optuna.trial.Trial = None) -> float:
     if "atom_fea" in sample_dict:
         args.orig_atom_fea_len = sample_dict["atom_fea"].shape[-1]
         args.nbr_fea_len = sample_dict["nbr_fea"].shape[-1]
-        # print("orig_atom_fea_len: ", args.orig_atom_fea_len)
-        # print("nbr_fea_len: ", args.nbr_fea_len)
-        # print("orig_extra_fea_len: ", args.orig_extra_fea_len)
 
     print("#"*50 + "args")
     for k, v in vars(args).items():
@@ -111,10 +109,19 @@ def main(args, trial: optuna.trial.Trial = None) -> float:
     
     # # If you want to change the logger's saving folder
     name = f'{"_".join(args.tasks)}_seed{args.random_seed}_{args.model_name}'
+    
+    # Add trial number to name if running hyperopt
+    if trial is not None:
+        name = f'{name}_trial{trial.number}'
+    
     tb_logger = TensorBoardLogger(save_dir=os.path.join(os.getcwd(), args.log_dir), name=name, 
                                version=None,)
-    # csv_logger = CSVLogger(save_dir=os.getcwd(), name=args.log_dir, 
-    #                        version=None,)
+    
+    # Prepare WandB config with trial params if available
+    wandb_config = vars(args).copy()
+    if trial is not None:
+        wandb_config['trial_number'] = trial.number
+        wandb_config['trial_params'] = trial.params
     
     # WandB Logger for experiment tracking
     wandb_logger = WandbLogger(
@@ -122,7 +129,10 @@ def main(args, trial: optuna.trial.Trial = None) -> float:
         name=name,
         save_dir=os.path.join(os.getcwd(), args.log_dir),
         log_model=False,  # Set to True if you want to log model checkpoints to wandb
-        config=vars(args),  # Log all hyperparameters
+        config=wandb_config,  # Log all hyperparameters including trial info
+        reinit=True,  # Allow reinitializing for multiple trials
+        group=f'{"_".join(args.tasks)}_{args.model_name}' if trial is not None else None,  # Group trials together
+        job_type='hyperopt_trial' if trial is not None else 'training',
     )
     
     profiler = AdvancedProfiler(filename="perf_logs")
@@ -186,6 +196,10 @@ def main(args, trial: optuna.trial.Trial = None) -> float:
     trainer.test(datamodule=datamodule, ckpt_path="best")
     for k, v in trainer.callback_metrics.items():
         print(k, ":", v)
+
+    # Finish WandB run to ensure proper logging between trials
+    if wandb.run is not None:
+        wandb.finish()
 
     return best_metric
 
