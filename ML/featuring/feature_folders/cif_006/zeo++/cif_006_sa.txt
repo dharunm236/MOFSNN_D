@@ -1,0 +1,3 @@
+@ feature_folders/cif_006/zeo++/cif_006_sa.txt Unitcell_volume: 2106.4   Density: 0.662753   ASA_A^2: 499.557 ASA_m^2/cm^3: 2371.61 ASA_m^2/g: 3578.42 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 499.557  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 

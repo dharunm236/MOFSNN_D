@@ -70,6 +70,8 @@ class InferenceDataset(Dataset):
         """
         Args:
             cif_list (list or str): list of cif file paths or a single cif file path.
+            extra_fea_df (pd.DataFrame, optional): precomputed extra features indexed by MOF name.
+                Columns should start from 'Di' onwards (same order as training CSV).
         """
         if isinstance(cif_list, (str, Path)):
             self.cif_list = [Path(cif_list)]
@@ -83,10 +85,12 @@ class InferenceDataset(Dataset):
         self.step = kwargs.get("step", 0.2)
         self.use_cell_params = kwargs.get("use_cell_params", False)
         self.use_extra_fea = kwargs.get("use_extra_fea", False)
+        self.orig_extra_fea_len = kwargs.get("orig_extra_fea_len", 0)
         self.task_id = kwargs.get("task_id", 0)
         self.max_sample_size = kwargs.get("max_sample_size", None)
         self.saved_dir = kwargs.get("saved_dir", Path(os.getcwd())/"inference")
         self.clean = kwargs.get("clean", True)
+        self.extra_fea_df = kwargs.get("extra_fea_df", None)
 
         self.cif_ids = [cif.stem for cif in self.cif_list]
         self.g_data ={}
@@ -129,7 +133,15 @@ class InferenceDataset(Dataset):
         assert nbr_fea_idx.shape[0] / atom_num.shape[0] == 10.0, f"nbr_fea_idx.shape[0] / atom_num.shape[0]!= 10.0 for file: {self.g_data[cif_id]}"
 
 
-        extra_fea = torch.FloatTensor([])
+        # Build extra features: same logic as training dataset
+        # 1) If extra_fea_df is provided and use_extra_fea, load the 190 descriptor features
+        # 2) Append cell_params if use_cell_params
+        if self.use_extra_fea and self.extra_fea_df is not None and cif_id in self.extra_fea_df.index:
+            row = self.extra_fea_df.loc[cif_id]
+            extra_fea_vals = row.loc["Di":].values.astype(float)
+            extra_fea = torch.FloatTensor(extra_fea_vals)
+        else:
+            extra_fea = torch.FloatTensor([])
 
         atom_fea = np.vstack([self.ari.get_atom_fea(i) for i in atom_num])
         atom_fea = torch.Tensor(atom_fea)
@@ -142,6 +154,11 @@ class InferenceDataset(Dataset):
         if self.use_cell_params:
             cell_params = torch.FloatTensor(cell_params)
             extra_fea = torch.cat([extra_fea, cell_params], dim=-1)
+
+        # Pad if extra_fea is still smaller than expected (safety fallback)
+        if self.orig_extra_fea_len > 0 and extra_fea.shape[-1] < self.orig_extra_fea_len:
+            pad_size = self.orig_extra_fea_len - extra_fea.shape[-1]
+            extra_fea = torch.cat([torch.zeros(pad_size), extra_fea], dim=-1)
 
         ret_dict = {
             "atom_fea": atom_fea,
@@ -181,11 +198,13 @@ class InferenceDataset(Dataset):
         dict_batch["task_id"] = torch.IntTensor(dict_batch["task_id"])
         return dict_batch
 
-def inference(cif_list, model_dir,  saved_dir, uncertainty_trees_file=None, **kwargs):
+def inference(cif_list, model_dir,  saved_dir, uncertainty_trees_file=None, extra_fea_df=None, **kwargs):
     """
     Args:    
         cif_list (list or str): list of cif file paths or a single cif file path.
         model (MInterface): trained model.
+        extra_fea_df (pd.DataFrame, optional): precomputed extra features (RAC + Zeo++) 
+            indexed by MOF name. Columns should start from 'Di' onwards.
     """
 
     # set up model
@@ -199,7 +218,8 @@ def inference(cif_list, model_dir,  saved_dir, uncertainty_trees_file=None, **kw
         uncertainty_trees = None
 
     # set up dataset
-    infer_dataset = InferenceDataset(cif_list, saved_dir=saved_dir, clean=clean, **model.hparams)
+    infer_dataset = InferenceDataset(cif_list, saved_dir=saved_dir, clean=clean, 
+                                     extra_fea_df=extra_fea_df, **model.hparams)
     infer_dataset.setup()
     
     # Check if any valid data was processed

@@ -1,0 +1,1 @@
+feature_folders/cif_008/zeo++/cif_008_pd.txt    19.85636 10.56675  19.76387

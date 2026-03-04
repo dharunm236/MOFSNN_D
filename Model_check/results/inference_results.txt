@@ -1,0 +1,321 @@
+======================================================================
+  MOF Stability Neural Network — Inference Results
+  Date: 2026-03-04 08:19:38
+  Model: /home/dharunkraja/Desktop/D/MOFSNN_D/Model_check/model
+  CIF directory: /home/dharunkraja/Desktop/D/MOFSNN_D/Model_check/cifs
+  Number of MOFs: 9
+======================================================================
+
+----------------------------------------------------------------------
+  MOF: ABEXIQ_clean
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 404.10 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9655, Stable=0.0345
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0000, Stable=1.0000
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 2 (class 2)
+    Probabilities   : Class 0=0.0000, Class 1=0.0000, Class 2=0.9944, Class 3=0.0056
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.1072, Stable=0.8928
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0516, Stable=0.9484
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9972, Stable=0.0028
+
+
+----------------------------------------------------------------------
+  MOF: BUNKUS
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 432.07 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.1060, Stable=0.8940
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0003, Stable=0.9997
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 3 (class 3)
+    Probabilities   : Class 0=0.0112, Class 1=0.0006, Class 2=0.2391, Class 3=0.7492
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.4271, Stable=0.5729
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0176, Stable=0.9824
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0001, Stable=0.9999
+
+
+----------------------------------------------------------------------
+  MOF: cif_003
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 278.42 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.6187, Stable=0.3813
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0006, Stable=0.9994
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 2 (class 2)
+    Probabilities   : Class 0=0.0000, Class 1=0.0003, Class 2=0.9996, Class 3=0.0001
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9972, Stable=0.0028
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9917, Stable=0.0083
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.5040, Stable=0.4960
+
+
+----------------------------------------------------------------------
+  MOF: cif_004
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 362.41 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.6009, Stable=0.3991
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9908, Stable=0.0092
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 1 (class 1)
+    Probabilities   : Class 0=0.2319, Class 1=0.6545, Class 2=0.1010, Class 3=0.0126
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9853, Stable=0.0147
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9909, Stable=0.0091
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9888, Stable=0.0112
+
+
+----------------------------------------------------------------------
+  MOF: cif_005
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 324.95 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0849, Stable=0.9151
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0084, Stable=0.9916
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 2 (class 2)
+    Probabilities   : Class 0=0.0003, Class 1=0.0069, Class 2=0.9857, Class 3=0.0071
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9954, Stable=0.0046
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9821, Stable=0.0179
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.1294, Stable=0.8706
+
+
+----------------------------------------------------------------------
+  MOF: cif_006
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 307.43 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0157, Stable=0.9843
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0156, Stable=0.9844
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 2 (class 2)
+    Probabilities   : Class 0=0.0000, Class 1=0.0068, Class 2=0.9932, Class 3=0.0001
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9844, Stable=0.0156
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.5216, Stable=0.4784
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.7560, Stable=0.2440
+
+
+----------------------------------------------------------------------
+  MOF: cif_007
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 327.69 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0012, Stable=0.9988
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9892, Stable=0.0108
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 0 (class 0)
+    Probabilities   : Class 0=0.6105, Class 1=0.2217, Class 2=0.1533, Class 3=0.0145
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9568, Stable=0.0432
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.8714, Stable=0.1286
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9745, Stable=0.0255
+
+
+----------------------------------------------------------------------
+  MOF: cif_008
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 306.72 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.1509, Stable=0.8491
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9319, Stable=0.0681
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 2 (class 2)
+    Probabilities   : Class 0=0.0016, Class 1=0.3482, Class 2=0.6500, Class 3=0.0002
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9976, Stable=0.0024
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9965, Stable=0.0035
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9996, Stable=0.0004
+
+
+----------------------------------------------------------------------
+  MOF: cif_009
+----------------------------------------------------------------------
+
+  Thermal Stability Decomposition Temperature (TSD):
+    Predicted value : 335.12 °C
+
+  Solvent Stability (binary) (SSD):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.1363, Stable=0.8637
+
+  Water Stability (24h) (WS24_water):
+    Prediction      : Stable (class 1)
+    Probabilities   : Unstable=0.0170, Stable=0.9830
+
+  Water Stability (4-class) (WS24_water4):
+    Prediction      : Class 2 (class 2)
+    Probabilities   : Class 0=0.0000, Class 1=0.0103, Class 2=0.9894, Class 3=0.0002
+
+  Acid Stability (24h) (WS24_acid):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.9948, Stable=0.0052
+
+  Base Stability (24h) (WS24_base):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.7322, Stable=0.2678
+
+  Boiling Water Stability (24h) (WS24_boiling):
+    Prediction      : Unstable (class 0)
+    Probabilities   : Unstable=0.8236, Stable=0.1764
+
+
+======================================================================
+  Summary Table
+======================================================================
+
+MOF                TSD(°C)    SSD  Water  Water4   Acid   Base  Boiling
+----------------------------------------------------------------------
+ABEXIQ_clean        404.10      0      1       2      1      1        0
+BUNKUS              432.07      1      1       3      1      1        1
+cif_003             278.42      0      1       2      0      0        0
+cif_004             362.41      0      0       1      0      0        0
+cif_005             324.95      1      1       2      0      0        1
+cif_006             307.43      1      1       2      0      0        0
+cif_007             327.69      1      0       0      0      0        0
+cif_008             306.72      1      0       2      0      0        0
+cif_009             335.12      1      1       2      0      0        0
+----------------------------------------------------------------------
+
+Legend:
+  TSD     = Thermal decomposition temperature (°C)
+  SSD     = Solvent stability: 0=Unstable, 1=Stable
+  Water   = Water stability (24h): 0=Unstable, 1=Stable
+  Water4  = Water stability (4-class): 0-3
+  Acid    = Acid stability (24h): 0=Unstable, 1=Stable
+  Base    = Base stability (24h): 0=Unstable, 1=Stable
+  Boiling = Boiling water stability (24h): 0=Unstable, 1=Stable

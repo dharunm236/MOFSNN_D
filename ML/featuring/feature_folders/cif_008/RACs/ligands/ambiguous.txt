@@ -1,0 +1,2 @@
+cif_008, Anchors list: {235, 236, 237, 238}, SBU connectlist: {1} set to be linker
+cif_008, Anchors list: {232, 233, 234}, SBU connectlist: {0} set to be linker

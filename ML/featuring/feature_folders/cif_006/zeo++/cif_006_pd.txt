@@ -1,0 +1,1 @@
+feature_folders/cif_006/zeo++/cif_006_pd.txt    7.81724 6.43955  7.81724
